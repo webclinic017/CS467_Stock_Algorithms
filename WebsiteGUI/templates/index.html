@@ -5,12 +5,21 @@
     <title>Algorithmic Trading</title>
 </head>
 <body>
-This is the homepage for algorithmic trading.
-<br>
-{{ trainingText }}
-<br>
-{{ dataText }}
-<br>
-{{ deploymentText }}
+    This is the homepage for algorithmic trading.
+    <br>
+    {{ training_text }}
+    <br>
+    {{ data_text }}
+    <br>
+    {{ deployment_text }}
+    <br>
+    <br>
+
+    <textarea readonly id="t_status" style="width:300px;height:150px;
+    line-height:1em;overflow:auto; color:red;padding:1px;"></textarea>
+
+    <br>
+    <button onclick="server.status_update()">Update</button>
+
 </body>
 </html>
