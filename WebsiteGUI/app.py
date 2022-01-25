@@ -66,12 +66,12 @@ class Jyserverapp:
             f.close()
 
 
-@app.route('/')
-def index():  # put application's code here
+@app.route('/training')
+def training():  # put application's code here
     data_text = CreateTTData.createttdata()
     training_text = Training.training()
     deployment_text = Deployment.deployment()
-    return Jyserverapp.render(render_template("index.html",
+    return Jyserverapp.render(render_template("training.html",
                                               data_text=data_text,
                                               training_text=training_text,
                                               deployment_text=deployment_text))
