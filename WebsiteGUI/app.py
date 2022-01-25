@@ -66,12 +66,34 @@ class Jyserverapp:
             f.close()
 
 
+@app.route('/dataset')
+def dataset():  # put application's code here
+    data_text = CreateTTData.createttdata()
+    training_text = Training.training()
+    deployment_text = Deployment.deployment()
+    return Jyserverapp.render(render_template("dataset.html.html",
+                                              data_text=data_text,
+                                              training_text=training_text,
+                                              deployment_text=deployment_text))
+
+
 @app.route('/training')
 def training():  # put application's code here
     data_text = CreateTTData.createttdata()
     training_text = Training.training()
     deployment_text = Deployment.deployment()
     return Jyserverapp.render(render_template("training.html",
+                                              data_text=data_text,
+                                              training_text=training_text,
+                                              deployment_text=deployment_text))
+
+
+@app.route('/backtest')
+def backtest():  # put application's code here
+    data_text = CreateTTData.createttdata()
+    training_text = Training.training()
+    deployment_text = Deployment.deployment()
+    return Jyserverapp.render(render_template("backtest.html",
                                               data_text=data_text,
                                               training_text=training_text,
                                               deployment_text=deployment_text))
