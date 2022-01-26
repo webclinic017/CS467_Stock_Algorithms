@@ -4,39 +4,40 @@
     <meta charset="UTF-8">
     <title>Algorithmic Trading</title>
 </head>
-<body onload="server.status_update('t_status')">
-This is the homepage for algorithmic trading.
-<br>
-{{ training_text }}
-<br>
-{{ data_text }}
-<br>
-{{ deployment_text }}
-<br>
-<br>
+<body onload="server.training_status_box_update('t_status',
+                        't_ds_select', 'm_name_input','train_button')">
+
 <table>
     <tr>
-        <th>Training Your Classification Network</th>
+        <th><h2>Training Your Classification Network</h2></th>
     </tr>
     <tr>
         <td>
             <p>Select Training Dataset</p>
-                <select name="t_dataset" id="t_dataset">
-                    <option value="Data set 1">Data set 1</option>
-                    <option value="Data set 2">Data set 2</option>
-                    <option value="Data set 3">Data set 3</option>
-                    <option value="Data set 4">Data set 4</option>
-                </select>
+            <select name="t_ds_select" id="t_ds_select">
+              <option value="{{datasets[0]}}" selected>{{datasets[0]}}</option>
+              {% for data in datasets[1:] %}
+                <option value="{{data}}">{{data}}</option>
+              {% endfor %}
+            </select>
         </td>
         <td>
-            <button onclick="server.status_update('t_status')">Train</button>
+            <button id="train_button"
+                    onclick="
+                        server.store_user_choices('t_status',
+                        't_ds_select', 'm_name_input','train_button'),
+                        server.disable_training_user_input(
+                        't_ds_select', 'm_name_input','train_button'),
+                        clearTrainingStatusBox()" disabled>Train</button>
         </td>
     </tr>
     <tr>
         <td>
             <p>Create Model Name</p>
-            <input type="text" id="m_name" style="width:230px;height:20px;
-                line-height:1em; color:black;padding:1px;resize:none;">
+            <input type="text" id="m_name_input"
+                   onkeyup="enableTrainButton(this)"
+                   style="width:230px;height:20px;line-height:1em;
+                   color:black;padding:1px;resize:none;">
         </td>
         <td><textarea readonly id="t_status" style="width:190px;height:150px;
                 line-height:1em; color:dimgrey;padding:1px;resize:none;">
@@ -47,12 +48,43 @@ This is the homepage for algorithmic trading.
         <td>
         </td>
         <td>
-            <button onclick="server.status_update('t_status')">Cancel</button>
+            <button id="c_button" onclick="server.status_update('t_status'))"
+                    disabled>Cancel Training</button>
             <input type="checkbox" id="cancel_interlock"
-                   name="cancel_interlock" value="cancel_ok">
+                   name="cancel_interlock" value="cancel_ok"
+                   onclick="enableCancelButton(this)">
+            Enable Cancel?
         </td>
     </tr>
 </table>
 <br>
 </body>
+
+<script>
+    // source: https://www.encodedna.com/javascript/
+    // disable-or-enable-submit-button-using-javascript.htm
+    function enableTrainButton(m_name_input){
+        let t_button = document.getElementById('train_button');
+        if (m_name_input.value != '') {
+            t_button.disabled = false;
+        }
+        else {
+            t_button.disabled = true;
+        }
+    }
+
+    function enableCancelButton(cancel_interlock) {
+        let c_button = document.getElementById('c_button');
+        if (cancel_interlock.checked) {
+            c_button.disabled = false;
+        } else {
+            c_button.disabled = true;
+        }
+    }
+
+    function clearTrainingStatusBox(){
+        document.getElementById('t_status').innerHTML = ""
+    }
+
+</script>
 </html>

@@ -163,13 +163,20 @@ class Jyserverapp:
 
 @app.route('/dataset')
 def dataset():  # put application's code here
-    data_text = CreateTTData.createttdata()
-    training_text = Training.training()
-    deployment_text = Deployment.deployment()
-    return Jyserverapp.render(render_template("dataset.html",
-                                              data_text=data_text,
-                                              training_text=training_text,
-                                              deployment_text=deployment_text))
+    # data_text = CreateTTData.createttdata()
+    # training_text = Training.training()
+    # deployment_text = Deployment.deployment()
+
+    # Get the list of availible datasets
+    dataset_filepath = "../Dataset-Creation/datasets_list.txt"
+    dataset_list = open(dataset_filepath, 'r')
+    lines = dataset_list.readlines()
+    dataset_list.close()
+    datasets = []
+    for i in range(len(lines)):
+        datasets.append(lines[i])
+    return Jyserverapp.render(render_template("training.html",
+                                              datasets=datasets))
 
 
 @app.route('/training')
