@@ -23,12 +23,10 @@ class Jyserverapp:
         self.status = ""
         self.onPageReload = ""
         self.status_len = 0
-        self.filepath = ""
         self.loop = True
         self.training_status = False
-        self.dSelection = ""    # Storage variable for user dataset selection
-        self.mNameInput = ""    # Storage variable for user Name for model
-
+        self.training_dataset = ""  # Dataset User Selected to train on
+        self.model_name = ""  # Storage variable for user Name for model
 
     # Updates text boxes with status and re-enables user input when 'Done' seen
     def training_status_box_update(self, status_box, t_ds_select,
@@ -37,15 +35,14 @@ class Jyserverapp:
         self.status = ""
         self.status_len = 0
         self.loop = True
-        self.filepath = "../Model-Training/training_status.txt"
-
+        training_status_filepath = "../Model-Training/training_status.txt"
 
         # Check to see if training is already in progress and populate the
         # status box (in-case the user refreshed the browser) and disable
         # user input, if not clear the status box
         if self.training_status:
-            print("IN IF STATMENT")
-            f = open(self.filepath, "r")
+            print("IN IF STATEMENT")
+            f = open(training_status_filepath, "r")
             lines = f.readlines()
             for i in range(len(lines)):
                 self.onPageReload += lines[i]
@@ -57,22 +54,22 @@ class Jyserverapp:
             # Disable user input on the training page, if a refreshed happend
             # during training
             self.disable_training_user_input(t_ds_select,
-                                            m_name_input, train_button)
+                                             m_name_input, train_button)
 
             # Repopulate Dataset Selection on page reload
             self.js.document.getElementById(t_ds_select).value \
-                = self.dSelection
+                = self.training_dataset
 
             # Repopulate user defined Model Name on page reload
             self.js.document.getElementById(m_name_input).value \
-                = self.mNameInput
+                = self.model_name
         else:
             return None
 
         # This loop checks a given file for updates and puts contents to a
         # specific status text box on the webpage
         while self.loop:
-            f = open(self.filepath, "r")
+            f = open(training_status_filepath, "r")
             lines = f.readlines()
             f.close()
             # If it's new information then append it to the status
@@ -86,17 +83,17 @@ class Jyserverapp:
                     # Stop looping if Done is sent and reset everything
                     if lines[i] == 'Training Complete':
                         self.status += '\n.......End..........'
-
+                        print("MATCH FOUND ________________")
                         # This deactivates the training complete line by
                         # adding a new line, and also adds a
                         # separator to the training status file to separate
                         # training sessions
-                        print('MATCH FOUND }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}')
-                        open(self.filepath, "w").close()
+                        open(training_status_filepath, "w").close()
                         self.loop = False
                         self.training_status = False
                         self.enable_training_user_input(t_ds_select,
-                                   m_name_input, train_button)
+                                                        m_name_input,
+                                                        train_button)
 
                 # Update the specified status through DOM manipulation
                 self.js.document.getElementById(status_box).innerHTML \
@@ -106,26 +103,47 @@ class Jyserverapp:
                 self.js.document.getElementById(status_box).scrollTop = \
                     self.js.document.getElementById(status_box).scrollHeight
 
-    # These are functions for the training page
+    # ---- These methods are for the training page ----
+
+    # Store User's choices for training in a text file
+    def store_user_choices(self, status_box, t_ds_select,
+                           m_name_input, train_button):
+
+        # Grab the data from the webpage
+        if self.js.document.getElementById(t_ds_select).value != 0:
+            self.training_dataset = str(self.js.document
+                                        .getElementById(t_ds_select).value)
+            self.model_name = str(self.js.document
+                                  .getElementById(m_name_input).value)
+
+        # Set path to the training config file
+        training_config_filepath = "../Model-Training/training_config.txt"
+
+        # Label each choice
+        model_name = "Model Name: " + self.model_name
+        training_dataset = "Training Dataset: " + self.training_dataset
+
+        # Put user choices into a list
+        lines_to_write = [model_name, training_dataset]
+
+        # Erase the file
+        open(training_config_filepath, 'w').close()
+
+        # Write the list of variables to
+        f = open(training_config_filepath, 'a')
+        for i in range(len(lines_to_write)):
+            f.write(lines_to_write[i] + "\n")
+        f.close()
+
+        # After user input has been stored called the update method
+        self.training_status_box_update(status_box, t_ds_select,
+                                        m_name_input, train_button)
 
     # Training Setters
     # Disables training user input and stores inputted user choices
     def disable_training_user_input(self, t_ds_select, m_name_input,
                                     train_button):
         self.training_status = True
-
-        # Store Choices THESE CHOICES NEED TO BE WRITTEN TO A FILE BECAUSE
-        # WHEN TRAIN IS CLICKED OR THE SCREEN REFRESHED ALL VARIABLES IN THE
-        # CLASS ARE REINITIALIZED 
-        if self.mNameInput == "" and self.dSelection == "":
-            self.mNameInput = self.js.document.\
-                getElementById(m_name_input).value
-            self.dSelection = self.js.document.\
-                getElementById(t_ds_select).value
-
-        print("mNameInput------------->",self.mNameInput)
-        print("dSelection------------->",self.dSelection)
-
         self.js.document.getElementById(t_ds_select).disabled = True
         self.js.document.getElementById(m_name_input).disabled = True
         self.js.document.getElementById(train_button).disabled = True

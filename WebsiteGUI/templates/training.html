@@ -23,9 +23,10 @@
         </td>
         <td>
             <button id="train_button"
-                    onclick="server.disable_training_user_input(
+                    onclick="
+                        server.store_user_choices('t_status',
                         't_ds_select', 'm_name_input','train_button'),
-                        server.training_status_box_update('t_status',
+                        server.disable_training_user_input(
                         't_ds_select', 'm_name_input','train_button'),
                         clearTrainingStatusBox()" disabled>Train</button>
         </td>
