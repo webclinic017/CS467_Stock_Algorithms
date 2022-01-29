@@ -1,3 +1,3 @@
-Model Name: Model 2
-Training Dataset: DataSet1-3MD-1MSL.csv
+Model Name: Model 1
+Training Dataset: DataSet1-2MD-3WSL.csv
 
