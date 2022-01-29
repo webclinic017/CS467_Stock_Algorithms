@@ -229,12 +229,12 @@ class Jyserverapp:
 
             # The checkbox for the mcclellan summation index option
             if self.dataset_checkbox_mcclellan_summation_index:
-                self.js.document.\
-                    getElementById(checkbox_mcclellan_summation_index).checked\
+                self.js.document. \
+                    getElementById(checkbox_mcclellan_summation_index).checked \
                     = True
             else:
-                self.js.document.\
-                    getElementById(checkbox_mcclellan_summation_index).checked\
+                self.js.document. \
+                    getElementById(checkbox_mcclellan_summation_index).checked \
                     = False
 
             # The checkbox for the lag time option
@@ -343,7 +343,7 @@ class Jyserverapp:
             self.dataset_checkbox_junk_bond_demand = False
 
         # Mcclellan Summation Index option
-        if self.js.document.getElementById(checkbox_mcclellan_summation_index)\
+        if self.js.document.getElementById(checkbox_mcclellan_summation_index) \
                 .value == "True":
             self.dataset_checkbox_mcclellan_summation_index = True
         else:
@@ -353,8 +353,9 @@ class Jyserverapp:
         if self.js.document.getElementById(checkbox_lag_time) \
                 .value == "True":
             self.dataset_checkbox_lag_time = True
-            self.dataset_lag_time_select = str(self.js.document\
-                .getElementById(lag_time_select).value)
+            self.dataset_lag_time_select = str(self.js.document \
+                                               .getElementById(
+                lag_time_select).value)
         else:
             self.dataset_checkbox_lag_time = False
 
@@ -480,8 +481,25 @@ def training():
     datasets = []
     for i in range(len(lines)):
         datasets.append(lines[i])
+
+    # Create list of possible neurons per layer
+    neurons_per_layer_values = ['5', '10', '20', '50']
+
+    # Create list of possible number of layers
+    number_of_layers_values = ['5', '10', '20', '50']
+
+    # Create list of possible output estimation span
+    output_estimation_span_values = ['1', '10', '30', '60', '90', '120', '150', '180',
+                              '210', '240', '270', '300', '330', '360']
+
     return Jyserverapp.render(render_template("training.html",
-                                              datasets=datasets))
+                                              datasets=datasets,
+                                              neurons_per_layer_values
+                                              =neurons_per_layer_values,
+                                              number_of_layers_values
+                                              =number_of_layers_values,
+                                              output_estimation_span_values
+                                              =output_estimation_span_values))
 
 
 @app.route('/backtest')
