@@ -1,1 +1,6 @@
-Dataset Name: 
+Dataset Name: My model 12
+Etf Selected: CURE - Direxion Daily Healthcare Bull 3x Shares
+Putt/Call: False
+Junk Bond Demand: False
+Mcclellan Summation Index: False
+Lag Time: 90
