@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Algorithmic Trading</title>
 </head>
-<body onload="server.training_status_box_update('t_status',
+<body onload="server.dataset_status_box_update('t_status',
                         't_ds_select', 'm_name_input','train_button')">
 
 <table>
@@ -24,16 +24,13 @@
     </tr>
     <tr>
         <td>
-            <p>Select Which 3x ETF/ETN You Are Interested In</p>
+            <p>Select which 3x ETF/ETN you are interested in:</p>
             <select name="d_ETF_select" id="d_ETF_select">
               <option value="{{etfs[0]}}" selected>{{etfs[0]}}</option>
               {% for etf in etfs[1:] %}
                 <option value="{{etf}}">{{etf}}</option>
               {% endfor %}
             </select>
-
-
-
         </td>
         <td>
             <button id="generate_dataset_button"
@@ -45,7 +42,6 @@
                         clearTrainingStatusBox()" disabled>Generate Dataset
             </button>
         </td>
-
     </tr>
     <tr>
         <td>
@@ -55,12 +51,34 @@
                 at least one input selection checkbox is checked and the user
                 has specified a name for the new dataset. -->
             <p id="input_interlock" value="False">
-                What Inputs Would You Like To Use To Create Your Dataset?</p>
+                What inputs would you like to use to create your dataset?</p>
             <input type="checkbox" id="checkbox_putt_call"
                 name="checkbox_putt_call" value="False"
                 onclick="setInputInterlock(this)">
             <span>- Putt/Call Ratios</span>
-
+            <br>
+            <input type="checkbox" id="checkbox_junk_bond_demand"
+                name="checkbox_junk_bond_demand" value="False"
+                onclick="setInputInterlock(this)">
+            <span>- Junk Bond Demand</span>
+            <br>
+            <input type="checkbox" id="checkbox_mcclellan_summation_index"
+                name="checkbox_mcclellan_summation_index" value="False"
+                onclick="setInputInterlock(this)">
+            <span>- McClellan Summation Index</span>
+            <br>
+            <input type="checkbox" id="checkbox_lag_time"
+                name="checkbox_lag_time" value="False"
+                onclick="setLagTimeInterlock(this), setInputInterlock(this)">
+            <span>- Lag Time of </span>
+            <select name="lag_time_select" id="lag_time_select" disabled>
+              <option value="{{lag_time_values[0]}}" selected>
+                                {{lag_time_values[0]}}</option>
+              {% for lag_time_value in lag_time_values[1:] %}
+                <option value="{{lag_time_value}}">{{lag_time_value}}</option>
+              {% endfor %}
+            </select>
+            <span> Days</span>
         </td>
         <td><textarea readonly id="t_status" style="width:190px;height:150px;
                 line-height:1em; color:dimgrey;padding:1px;resize:none;">
@@ -71,7 +89,7 @@
         <td>
         </td>
         <td>
-            <button id="c_button" onclick="server.status_update('t_status'))"
+            <button id="c_button" onclick="server.status_update('t_status')"
                     disabled>Cancel</button>
             <input type="checkbox" id="cancel_interlock"
                    name="cancel_interlock" value="cancel_ok"
@@ -82,6 +100,9 @@
 </table>
 <br>
 </body>
+
+
+<!------------------- JAVA SCRIPT FUNCTIONS BELOW----------------------------->
 
 <script>
 
@@ -94,11 +115,13 @@
                                                                     false;
         }
         else {
-              document.getElementById('generate_dataset_button').disabled =
-                                                                    true;
+            document.getElementById('generate_dataset_button').disabled =
+                                                                true;
         }
     }
 
+    // Enable or disable the cancel button based on the interlock checkbox
+    // next to the button.
     function enableCancelButton(cancel_interlock) {
         let c_button = document.getElementById('c_button');
         if (cancel_interlock.checked) {
@@ -112,8 +135,6 @@
     function clearTrainingStatusBox(){
         document.getElementById('t_status').innerHTML = ""
     }
-
-
     // Functions to deal with check box selections
     // When a user selects a check box that represents a feature they would
     // like to include in their dataset when it is generated, change that
@@ -121,26 +142,8 @@
     // to save it to the config file for this particular dataset creation
     // session.
     function setInputInterlock(input_option_checkbox){
-        // Get all the checkboxes status by looping through a list
-        // this also checks for any checkmarks that have already been checked
-        // if one is found 'any_checked' is set to true.  This will be used
-        // further down when determining what the status of the
-        // 'input_interlock' value should be.  This interlock is one of the two
-        // interlocks that must be satisfied in order for the
-        // 'Generate Dataset' button to be enabled.
-        // (the other is 'Dataset Name')
-        let any_checked = false
-        const check_box_id_array = ["checkbox_putt_call"]
-
-        for (let i = 0; i < check_box_id_array.length; i++) {
-            if (document.getElementById(check_box_id_array[i]).value === true) {
-                any_checked = true
-            } else{
-                any_checked = false
-            }
-
         if (input_option_checkbox.checked){
-            input_option_checkbox.value = true;
+            input_option_checkbox.value = "True";
             document.getElementById('input_interlock').value = 'True'
 
             // This function call will attempt to enable the 'Generate Dataset'
@@ -148,15 +151,45 @@
             // at least select one input and a Dataset name.
             GenerateButtonInterlock()
         } else{
-                input_option_checkbox.value = false;
-                console.log(input_option_checkbox.value)
-                if (any_checked === false) {
-                    document.getElementById('input_interlock').value = 'False'
-                    GenerateButtonInterlock()
+            // Set this checkbox to false if it was unchecked by the user
+           input_option_checkbox.value = "False";
+
+        // Get all the checkboxes status by looping through a list.
+        // this also checks for any checkmarks that have already been checked
+        // if one is found 'any_checked' is set to true.  This will be used
+        // further down when determining what the status of the
+        // 'input_interlock' value should be.  This interlock is one of the two
+        // interlocks that must be satisfied in order for the
+        // 'Generate Dataset' button to be enabled.
+        // (the other is 'Dataset Name')
+            let any_checked = false
+            const check_box_id_array = ["checkbox_putt_call",
+                                        "checkbox_junk_bond_demand",
+                                        "checkbox_mcclellan_summation_index",
+                                        "checkbox_lag_time"]
+
+            for (let i = 0; i < check_box_id_array.length; i++) {
+                if (document.getElementById(check_box_id_array[i]).value
+                                                                === "True") {
+                    any_checked = true
                 }
+            }
+            if (any_checked === false) {
+                document.getElementById('input_interlock').value = 'False'
+                GenerateButtonInterlock()
             }
         }
     }
 
+    // This little function enables/disables the lag time selector when the Lag Time
+    // check mark is checked by the user.
+    function setLagTimeInterlock(checkbox_lag_time){
+        if (checkbox_lag_time.checked){
+            document.getElementById('lag_time_select').disabled = false
+        }else{
+            document.getElementById('lag_time_select').disabled = true
+
+        }
+    }
 </script>
 </html>

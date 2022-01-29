@@ -292,8 +292,13 @@ def dataset():
     etfs = []
     for i in range(len(lines)):
         etfs.append(lines[i])
+
+    # Generate list of lag time values
+    lag_time_values = [10, 30, 60, 90]
+
     return Jyserverapp.render(render_template("dataset.html",
-                                              etfs=etfs))
+                                              etfs=etfs,
+                                              lag_time_values=lag_time_values))
 
 
 @app.route('/training')
