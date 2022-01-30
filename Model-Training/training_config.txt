@@ -1,3 +1,5 @@
-Model Name: asdfsa
+Model Name: Model 1
 Training Dataset: DataSet1-2MD-1WSL.csv
-
+Neurons Per Layer: 50
+Number of Layers: 50
+Estimation Span: 90

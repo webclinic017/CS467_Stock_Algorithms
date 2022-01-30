@@ -5,7 +5,9 @@
     <title>Algorithmic Trading</title>
 </head>
 <body onload="server.training_status_box_update('t_status',
-                        't_ds_select', 'm_name_input','train_button')">
+                    't_ds_select', 'm_name_input','train_button',
+                    'neurons_per_layer_select','number_of_layers_select',
+                    'output_estimation_span_select')">
 
 <table>
     <tr>
@@ -22,7 +24,6 @@
                    style="width:230px;height:20px;line-height:1em;
                    color:black;padding:1px;resize:none;">
         </td>
-
     </tr>
     <tr>
         <td>
@@ -33,10 +34,8 @@
                 <option value="{{data}}">{{data}}</option>
               {% endfor %}
             </select>
-
         </td>
         <td>
-
         </td>
     </tr>
     <tr>
@@ -105,9 +104,13 @@
             <button id="train_button"
                     onclick="
                     server.store_user_training_choices('t_status',
-                    't_ds_select', 'm_name_input','train_button'),
-                    server.disable_training_user_input(
-                    't_ds_select', 'm_name_input','train_button'),
+                    't_ds_select', 'm_name_input','train_button',
+                    'neurons_per_layer_select','number_of_layers_select',
+                    'output_estimation_span_select'),
+                    server.disable_training_user_input('t_status',
+                    't_ds_select', 'm_name_input','train_button',
+                    'neurons_per_layer_select','number_of_layers_select',
+                    'output_estimation_span_select'),
                     clearTrainingStatusBox()" disabled>Train</button>
             <br>
             <br>

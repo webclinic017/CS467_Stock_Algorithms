@@ -13,7 +13,7 @@
                                     'checkbox_mcclellan_summation_index',
                                     'checkbox_lag_time',
                                     'lag_time_select',
-                                    'gen_dataset_button')">
+                                    'gen_dataset_button')" forceReload()>
 
 <table>
     <tr>
@@ -212,6 +212,10 @@
         }else{
             document.getElementById('lag_time_select').disabled = true
         }
+    }
+
+    function forceReload(){
+        window.location.reload( true )
     }
 </script>
 </html>

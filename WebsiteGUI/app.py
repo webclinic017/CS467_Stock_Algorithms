@@ -24,6 +24,9 @@ class Jyserverapp:
         self.training_box_status = ""
         self.training_dataset = ""  # Dataset User Selected to train on
         self.model_name = ""  # Storage variable for user Name for model
+        self.training_neurons_per_layer_select = ""
+        self.training_number_of_layers_select = ""
+        self.training_output_estimation_span_select = ""
         self.training_status_len = 0
         self.on_training_page_reload = ""
         self.training_loop = True
@@ -45,8 +48,12 @@ class Jyserverapp:
 
     # -------- The methods below are for the Training page ---------
     # Updates text boxes with status and re-enables user input when 'Done' seen
-    def training_status_box_update(self, status_box, t_ds_select,
-                                   m_name_input, train_button):
+    def training_status_box_update(self, t_status,
+                                   t_ds_select, m_name_input,
+                                   train_button,
+                                   neurons_per_layer_select,
+                                   number_of_layers_select,
+                                   output_estimation_span_select):
 
         self.on_training_page_reload = ""
         self.training_box_status = ""
@@ -63,18 +70,31 @@ class Jyserverapp:
             for i in range(len(lines)):
                 self.on_training_page_reload += lines[i]
             # Re-Update the specified status through DOM manipulation
-            self.js.document.getElementById(status_box).innerHTML \
+            self.js.document.getElementById(t_status).innerHTML \
                 = self.on_training_page_reload
             f.close()
 
-            # Disable user input on the training page, if a refreshed happend
+            # Disable user input on the training page, if a refreshed happened
             # during training
-            self.disable_training_user_input(t_ds_select,
-                                             m_name_input, train_button)
+            self.disable_training_user_input(
+                t_ds_select, m_name_input,
+                train_button,
+                neurons_per_layer_select,
+                number_of_layers_select,
+                output_estimation_span_select)
 
-            # Repopulate Dataset Selection on page reload
+            # Repopulate Dataset Selection on page reload and options
             self.js.document.getElementById(t_ds_select).value \
                 = self.training_dataset
+
+            self.js.document.getElementById(neurons_per_layer_select).value \
+                = self.training_neurons_per_layer_select
+
+            self.js.document.getElementById(number_of_layers_select).value \
+                = self.training_number_of_layers_select
+
+            self.js.document.getElementById(output_estimation_span_select)\
+                .value = self.training_output_estimation_span_select
 
             # Repopulate user defined Model Name on page reload
             self.js.document.getElementById(m_name_input).value \
@@ -107,37 +127,61 @@ class Jyserverapp:
                         open(training_status_filepath, "w").close()
                         self.training_loop = False
                         self.training_status = False
-                        self.enable_training_user_input(t_ds_select,
-                                                        m_name_input,
-                                                        train_button)
+                        self.enable_training_user_input(
+                                    t_ds_select,
+                                    m_name_input,
+                                    train_button,
+                                    neurons_per_layer_select,
+                                    number_of_layers_select,
+                                    output_estimation_span_select)
 
                 # Update the specified status through DOM manipulation
-                self.js.document.getElementById(status_box).innerHTML \
+                self.js.document.getElementById(t_status).innerHTML \
                     = self.training_box_status
 
                 # Make status scroll box scroll to bottom as it is updated
-                self.js.document.getElementById(status_box).scrollTop = \
-                    self.js.document.getElementById(status_box).scrollHeight
+                self.js.document.getElementById(t_status).scrollTop = \
+                    self.js.document.getElementById(t_status).scrollHeight
 
     # Store User's choices for training in a text file
-    def store_user_training_choices(self, status_box, t_ds_select,
-                                    m_name_input, train_button):
+    def store_user_training_choices(self, t_status,
+                                    t_ds_select, m_name_input, train_button,
+                                    neurons_per_layer_select,
+                                    number_of_layers_select,
+                                    output_estimation_span_select):
+
         # Grab the data from the webpage
         if self.js.document.getElementById(t_ds_select).value != 0:
             self.training_dataset = str(self.js.document
                                         .getElementById(t_ds_select).value)
             self.model_name = str(self.js.document
                                   .getElementById(m_name_input).value)
+            self.training_neurons_per_layer_select = str(self.js.document
+                                                         .getElementById(
+                neurons_per_layer_select).value)
+            self.training_number_of_layers_select = str(self.js.document
+                                                        .getElementById(
+                number_of_layers_select).value)
+            self.training_output_estimation_span_select = str(self.js.document
+                                                              .getElementById(
+                output_estimation_span_select).value)
 
         # Set path to the training config file
         training_config_filepath = "../Model-Training/training_config.txt"
 
         # Label each choice
         model_name = "Model Name: " + self.model_name
-        training_dataset = "Training Dataset: " + self.training_dataset
+        training_dataset = "Training Dataset: " + self.training_dataset[:-1]
+        neurons_per_layer = "Neurons Per Layer: " + \
+                            self.training_neurons_per_layer_select
+        number_of_layers = "Number of Layers: " + \
+                           self.training_number_of_layers_select
+        output_estimation_span = "Estimation Span: " + \
+                                 self.training_output_estimation_span_select
 
         # Put user choices into a list
-        lines_to_write = [model_name, training_dataset]
+        lines_to_write = [model_name, training_dataset, neurons_per_layer,
+                          number_of_layers, output_estimation_span]
 
         # Erase the file
         open(training_config_filepath, 'w').close()
@@ -150,24 +194,49 @@ class Jyserverapp:
 
         # After user input has been stored called the update method
         self.training_status = True
-        self.training_status_box_update(status_box, t_ds_select,
-                                        m_name_input, train_button)
+        self.training_status_box_update(t_status,
+                                        t_ds_select, m_name_input,
+                                        train_button,
+                                        neurons_per_layer_select,
+                                        number_of_layers_select,
+                                        output_estimation_span_select)
 
     # Training Setters
     # Disables training user input and stores inputted user choices
-    def disable_training_user_input(self, t_ds_select, m_name_input,
-                                    train_button):
+    def disable_training_user_input(self,
+                                    t_ds_select, m_name_input,
+                                    train_button,
+                                    neurons_per_layer_select,
+                                    number_of_layers_select,
+                                    output_estimation_span_select):
+
         self.js.document.getElementById(t_ds_select).disabled = True
         self.js.document.getElementById(m_name_input).disabled = True
         self.js.document.getElementById(train_button).disabled = True
+        self.js.document.getElementById(neurons_per_layer_select).disabled = \
+            True
+        self.js.document.getElementById(number_of_layers_select).disabled = \
+            True
+        self.js.document.getElementById(output_estimation_span_select) \
+            .disabled = True
 
     # Enables training user input
-    def enable_training_user_input(self, t_ds_select, m_name_input,
-                                   train_button):
-        self.training_status = False
+    def enable_training_user_input(self,
+                                   t_ds_select, m_name_input,
+                                   train_button,
+                                   neurons_per_layer_select,
+                                   number_of_layers_select,
+                                   output_estimation_span_select):
+
         self.js.document.getElementById(t_ds_select).disabled = False
         self.js.document.getElementById(m_name_input).disabled = False
         self.js.document.getElementById(train_button).disabled = False
+        self.js.document.getElementById(neurons_per_layer_select).disabled = \
+            False
+        self.js.document.getElementById(number_of_layers_select).disabled = \
+            False
+        self.js.document.getElementById(output_estimation_span_select) \
+            .disabled = False
 
     # -------- The methods below are for the Dataset Generation page ---------
     # Updates text boxes with status and re-enables user input when 'Done' seen
@@ -211,7 +280,6 @@ class Jyserverapp:
                 = self.dataset_d_etf_select
 
             # The checkbox for the putt/call option
-
             if self.dataset_checkbox_putt_call:
                 self.js.document.getElementById(checkbox_putt_call).checked \
                     = True
@@ -489,8 +557,9 @@ def training():
     number_of_layers_values = ['5', '10', '20', '50']
 
     # Create list of possible output estimation span
-    output_estimation_span_values = ['1', '10', '30', '60', '90', '120', '150', '180',
-                              '210', '240', '270', '300', '330', '360']
+    output_estimation_span_values = ['1', '10', '30', '60', '90', '120', '150',
+                                     '180', '210', '240', '270', '300', '330',
+                                     '360']
 
     return Jyserverapp.render(render_template("training.html",
                                               datasets=datasets,
