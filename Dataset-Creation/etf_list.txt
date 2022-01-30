@@ -1,0 +1,51 @@
+CURE - Direxion Daily Healthcare Bull 3x Shares
+DFEN - Direxion Daily Aerospace & Defense Bull 3X Shares
+DPST - Direxion Daily Regional Banks Bull 3X Shares
+DRN - Direxion Daily Real Estate Bull 3x Shares
+DRV - Direxion Daily MSCI Real Estate Bear 3X Shares
+DUSL - Direxion Daily Industrials Bull 3X Shares
+EDC - Direxion Daily MSCI Emerging Markets Bull 3x Shares
+EDZ - Direxion Daily MSCI Emerging Markets Bear 3X Shares
+EURL - Direxion Daily FTSE Europe Bull 3x Shares
+FAS - Direxion Daily Financial Bull 3X Shares
+FAZ - Direxion Daily Financial Bear 3X Shares
+FNGD - MicroSectors FANG+™ Index -3X Inverse Leveraged ETN
+FNGU - 	MicroSectors FANG+™ Index 3X Leveraged ETN
+KORU - Direxion MSCI Daily South Korea Bull 3X Shares
+LABD - Direxion Daily S&P Biotech Bear 3x Shares
+LABU - Direxion Daily S&P Biotech Bull 3x Shares
+MEXX - Direxion Daily MSCI Mexico Bull 3X Shares
+MIDU - Direxion Daily Mid Cap Bull 3X Shares
+NAIL - Direxion Daily Homebuilders & Supplies Bull 3X Shares
+OILD - MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN
+OILU - MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN
+PILL - Direxion Daily Pharmaceutical & Medical Bull 3X Shares
+RETL - Direxion Daily Retail Bull 3X Shares
+SBND - Columbia Short Duration Bond ETF
+SDOW - ProShares UltraPro Short Dow30
+SMDD - ProShares UltraPro Short MidCap400
+SOXL - Direxion Daily Semiconductor Bull 3x Shares
+SOXS - 	Direxion Daily Semiconductor Bear 3x Shares
+SPXL - Direxion Daily S&P 500 Bull 3X Shares
+SPXS - Direxion Daily S&P 500 Bear 3X Shares
+SPXU - ProShares UltraPro Short S&P500
+SQQQ - ProShares UltraPro Short QQQ
+SRTY - ProShares UltraPro Short Russell2000
+TECL - Direxion Daily Technology Bull 3X Shares
+TECS - Direxion Daily Technology Bear 3X Shares
+TMF - Direxion Daily 20+ Year Treasury Bull 3X Shares
+TMV - Direxion Daily 20+ Year Treasury Bear 3x Shares
+TNA - Direxion Daily Small Cap Bull 3X Shares
+TPOR - Direxion Daily Transportation Bull 3X Shares
+TQQQ - ProShares UltraPro QQQ
+TTT - ProShares UltraPro Short 20+ Year Treasury
+TYD - Direxion Daily 7-10 Year Treasury Bull 3x Shares
+TYO - Direxion Daily 7-10 Year Treasury Bear 3x Shares
+TZA - Direxion Daily Small Cap Bear 3X Shares
+UDOW - ProShares UltraPro Dow30
+UMDD - 	ProShares UltraPro MidCap400
+UPRO - ProShares UltraPro S&P500
+URTY - ProShares UltraPro Russell2000
+UTSL - Direxion Daily Utilities Bull 3X Shares
+YANG - Direxion Daily FTSE China Bear 3X Shares
+YINN - Direxion Daily FTSE China Bull 3X Shares

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Algorithmic Trading</title>
+</head>
+<body onload="server.dataset_status_box_update(
+                                    'd_status',
+                                    'd_name_input',
+                                    'd_etf_select',
+                                    'checkbox_putt_call',
+                                    'checkbox_junk_bond_demand',
+                                    'checkbox_mcclellan_summation_index',
+                                    'checkbox_lag_time',
+                                    'lag_time_select',
+                                    'gen_dataset_button')" forceReload()>
+
+<table>
+    <tr>
+        <th><h2 style="text-decoration: underline;">
+            Dataset Generation</h2></th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <p>Create Dataset Name</p>
+                <input type="text" id="d_name_input"
+                       onkeyup="GenerateButtonInterlock()"
+                       style="width:230px;height:20px;line-height:1em;
+                       color:black;padding:1px;resize:none;">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Select which 3x ETF/ETN you are interested in:</p>
+            <select name="d_etf_select" id="d_etf_select">
+              <option value="{{etfs[0]}}" selected>{{etfs[0]}}</option>
+              {% for etf in etfs[1:] %}
+                <option value="{{etf}}">{{etf}}</option>
+              {% endfor %}
+            </select>
+        </td>
+        <td>
+            <button id="gen_dataset_button"
+                    onclick="
+                server.store_user_dataset_choices(
+                                        'd_status',
+                                        'd_name_input',
+                                        'd_etf_select',
+                                        'checkbox_putt_call',
+                                        'checkbox_junk_bond_demand',
+                                        'checkbox_mcclellan_summation_index',
+                                        'checkbox_lag_time',
+                                        'lag_time_select',
+                                        'gen_dataset_button'),
+                server.disable_dataset_user_input(
+                                        'd_name_input',
+                                        'd_etf_select',
+                                         'checkbox_putt_call',
+                                        'checkbox_junk_bond_demand',
+                                        'checkbox_mcclellan_summation_index',
+                                        'checkbox_lag_time',
+                                        'lag_time_select',
+                                        'gen_dataset_button')
+                clearDatasetStatusBox()" disabled>Generate Dataset
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <!--The title of this section will be used as an interlock variable
+                to ensure at least one input is selected for dataset generation
+                ...the 'Generate Dataset' button will only be enabled when
+                at least one input selection checkbox is checked and the user
+                has specified a name for the new dataset. -->
+            <p id="input_interlock" value="False">
+                What inputs would you like to use to create your dataset?</p>
+            <input type="checkbox" id="checkbox_putt_call"
+                name="checkbox_putt_call" value="False"
+                onclick="setInputInterlock(this)">
+            <span>- Putt/Call Ratios</span>
+            <br>
+            <input type="checkbox" id="checkbox_junk_bond_demand"
+                name="checkbox_junk_bond_demand" value="False"
+                onclick="setInputInterlock(this)">
+            <span>- Junk Bond Demand</span>
+            <br>
+            <input type="checkbox" id="checkbox_mcclellan_summation_index"
+                name="checkbox_mcclellan_summation_index" value="False"
+                onclick="setInputInterlock(this)">
+            <span>- McClellan Summation Index</span>
+            <br>
+            <input type="checkbox" id="checkbox_lag_time"
+                name="checkbox_lag_time" value="False"
+                onclick="setLagTimeInterlock(this), setInputInterlock(this)">
+            <span>- Lag Time of </span>
+            <select name="lag_time_select" id="lag_time_select" disabled>
+              <option value="{{lag_time_values[0]}}" selected>
+                                {{lag_time_values[0]}}</option>
+              {% for lag_time_value in lag_time_values[1:] %}
+                <option value="{{lag_time_value}}">{{lag_time_value}}</option>
+              {% endfor %}
+            </select>
+            <span> Days</span>
+        </td>
+        <td><textarea readonly id="d_status" style="width:190px;height:150px;
+                line-height:1em; color:dimgrey;padding:1px;resize:none;">
+            </textarea>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <button id="c_button" onclick="server.status_update('d_status')"
+                    disabled>Cancel</button>
+            <input type="checkbox" id="cancel_interlock"
+                   name="cancel_interlock" value="cancel_ok"
+                   onclick="enableCancelButton(this)">
+            <span>Enable Cancel?</span>
+        </td>
+    </tr>
+</table>
+<br>
+</body>
+
+
+<!------------------- JAVA SCRIPT FUNCTIONS BELOW----------------------------->
+
+<script>
+
+    // source: https://www.encodedna.com/javascript/
+    // disable-or-enable-submit-button-using-javascript.htm
+    function GenerateButtonInterlock(){
+        if (document.getElementById('d_name_input').value !== '' &&
+            document.getElementById('input_interlock').value === 'True') {
+            document.getElementById('gen_dataset_button').disabled =
+                                                                    false;
+        }
+        else {
+            document.getElementById('gen_dataset_button').disabled =
+                                                                true;
+        }
+    }
+
+    // Enable or disable the cancel button based on the interlock checkbox
+    // next to the button.
+    function enableCancelButton(cancel_interlock) {
+        let c_button = document.getElementById('c_button');
+        if (cancel_interlock.checked) {
+            c_button.disabled = false;
+        } else {
+            c_button.disabled = true;
+        }
+    }
+
+
+    function clearDatasetStatusBox(){
+        document.getElementById('d_status').innerHTML = ""
+    }
+    // Functions to deal with check box selections
+    // When a user selects a check box that represents a feature they would
+    // like to include in their dataset when it is generated, change that
+    // checkbox's value to True to let the python function in app.py to know
+    // to save it to the config file for this particular dataset creation
+    // session.
+    function setInputInterlock(input_option_checkbox){
+        if (input_option_checkbox.checked){
+            input_option_checkbox.value = "True";
+            document.getElementById('input_interlock').value = 'True'
+
+            // This function call will attempt to enable the 'Generate Dataset'
+            // button, in order for that button to be enabled... the user must
+            // at least select one input and a Dataset name.
+            GenerateButtonInterlock()
+        } else{
+            // Set this checkbox to false if it was unchecked by the user
+           input_option_checkbox.value = "False";
+
+        // Get all the checkboxes status by looping through a list.
+        // this also checks for any checkmarks that have already been checked
+        // if one is found 'any_checked' is set to true.  This will be used
+        // further down when determining what the status of the
+        // 'input_interlock' value should be.  This interlock is one of the two
+        // interlocks that must be satisfied in order for the
+        // 'Generate Dataset' button to be enabled.
+        // (the other is 'Dataset Name')
+            let any_checked = false
+            const check_box_id_array = ["checkbox_putt_call",
+                                        "checkbox_junk_bond_demand",
+                                        "checkbox_mcclellan_summation_index",
+                                        "checkbox_lag_time"]
+
+            for (let i = 0; i < check_box_id_array.length; i++) {
+                if (document.getElementById(check_box_id_array[i]).value
+                                                                === "True") {
+                    any_checked = true
+                }
+            }
+            if (any_checked === false) {
+                document.getElementById('input_interlock').value = 'False'
+                GenerateButtonInterlock()
+            }
+        }
+    }
+
+    // This little function enables/disables the lag time selector when the Lag Time
+    // check mark is checked by the user.
+    function setLagTimeInterlock(checkbox_lag_time){
+        if (checkbox_lag_time.checked){
+            document.getElementById('lag_time_select').disabled = false
+        }else{
+            document.getElementById('lag_time_select').disabled = true
+        }
+    }
+
+    function forceReload(){
+        window.location.reload( true )
+    }
+</script>
+</html>

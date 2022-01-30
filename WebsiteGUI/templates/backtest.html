@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Algorithmic Trading</title>
+</head>
+<body onload="server.status_update('t_status')">
+This is the homepage for algorithmic trading.
+<br>
+{{ training_text }}
+<br>
+{{ data_text }}
+<br>
+{{ deployment_text }}
+<br>
+<br>
+<table>
+    <tr>
+        <th>Training Your Classification Network</th>
+    </tr>
+    <tr>
+        <td>
+            <p>Select Training Dataset</p>
+                <select name="t_dataset" id="t_dataset">
+                    <option value="Data set 1">Data set 1</option>
+                    <option value="Data set 2">Data set 2</option>
+                    <option value="Data set 3">Data set 3</option>
+                    <option value="Data set 4">Data set 4</option>
+                </select>
+        </td>
+        <td>
+            <button onclick="server.status_update('t_status')">Train</button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Create Model Name</p>
+            <input type="text" id="m_name" style="width:230px;height:20px;
+                line-height:1em; color:black;padding:1px;resize:none;">
+        </td>
+        <td><textarea readonly id="t_status" style="width:190px;height:150px;
+                line-height:1em; color:dimgrey;padding:1px;resize:none;">
+            </textarea>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <button onclick="server.status_update('t_status')">Cancel</button>
+            <input type="checkbox" id="cancel_interlock"
+                   name="cancel_interlock" value="cancel_ok">
+        </td>
+    </tr>
+</table>
+<br>
+</body>
+</html>

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Algorithmic Trading</title>
+</head>
+<body onload="server.training_status_box_update('t_status',
+                    't_ds_select', 'm_name_input','train_button',
+                    'neurons_per_layer_select','number_of_layers_select',
+                    'output_estimation_span_select')">
+
+<table>
+    <tr>
+        <th><h2 style="text-decoration: underline;">
+            Training Your Classification Network</h2></th>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <p>Create Model Name</p>
+            <input type="text" id="m_name_input"
+                   onkeyup="enableTrainButton(this)"
+                   style="width:230px;height:20px;line-height:1em;
+                   color:black;padding:1px;resize:none;">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Select the training dataset you would like to use:</p>
+            <select style="width:450px" name="t_ds_select" id="t_ds_select">
+              <option value="{{datasets[0]}}" selected>{{datasets[0]}}</option>
+              {% for data in datasets[1:] %}
+                <option value="{{data}}">{{data}}</option>
+              {% endfor %}
+            </select>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <br>
+            <span>
+                How many neurons per layer you would like your model to have?
+            </span>
+            <br>
+            <br>
+            <select style="width:50px"  name="neurons_per_layer_select"
+                    id="neurons_per_layer_select" >
+              <option value="{{neurons_per_layer_values[0]}}" selected>
+                                {{neurons_per_layer_values[0]}}
+              </option>
+              {% for neurons_per_layer_value in neurons_per_layer_values[1:] %}
+                <option value="{{neurons_per_layer_value}}">
+                    {{neurons_per_layer_value}}
+                </option>
+              {% endfor %}
+            </select>
+            <span> Neurons</span>
+            <br>
+            <br>
+            <br>
+            <span>
+                How many layers of neurons would you like your model to have?
+            </span>
+            <br>
+            <br>
+            <select style="width:50px"  name="number_of_layers_select"
+                    id="number_of_layers_select">
+              <option value="{{number_of_layers_values[0]}}" selected>
+                                {{number_of_layers_values[0]}}
+              </option>
+              {% for number_of_layers_value in number_of_layers_values[1:] %}
+                <option value="{{number_of_layers_value}}">
+                    {{number_of_layers_value}}
+                </option>
+              {% endfor %}
+            </select>
+            <span> Layers</span>
+             <br>
+            <br>
+            <br>
+            <span>
+                How far into the future would like your model to predict?
+            </span>
+            <br>
+            <br>
+            <select style="width:50px"  name="output_estimation_span_select"
+                    id="output_estimation_span_select">
+              <option value="{{output_estimation_span_values[0]}}" selected>
+                                {{output_estimation_span_values[0]}}
+              </option>
+              {% for output_estimation_span_value in
+                                           output_estimation_span_values[1:] %}
+                <option value="{{output_estimation_span_value}}">
+                    {{output_estimation_span_value}}
+                </option>
+              {% endfor %}
+            </select>
+            <span> Days</span>
+        </td>
+        <td>
+            <button id="train_button"
+                    onclick="
+                    server.store_user_training_choices('t_status',
+                    't_ds_select', 'm_name_input','train_button',
+                    'neurons_per_layer_select','number_of_layers_select',
+                    'output_estimation_span_select'),
+                    server.disable_training_user_input('t_status',
+                    't_ds_select', 'm_name_input','train_button',
+                    'neurons_per_layer_select','number_of_layers_select',
+                    'output_estimation_span_select'),
+                    clearTrainingStatusBox()" disabled>Train</button>
+            <br>
+            <br>
+            <textarea readonly id="t_status" style="width:190px;height:150px;
+                line-height:1em; color:dimgrey;padding:1px;resize:none;">
+            </textarea>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <button id="c_button" onclick="server.status_update('t_status')"
+                    disabled>Cancel Training</button>
+            <input type="checkbox" id="cancel_interlock"
+                   name="cancel_interlock" value="cancel_ok"
+                   onclick="enableCancelButton(this)">
+            Enable Cancel?
+        </td>
+    </tr>
+</table>
+<br>
+</body>
+
+<script>
+    // source: https://www.encodedna.com/javascript/
+    // disable-or-enable-submit-button-using-javascript.htm
+    function enableTrainButton(m_name_input){
+        let t_button = document.getElementById('train_button');
+        if (m_name_input.value != '') {
+            t_button.disabled = false;
+        }
+        else {
+            t_button.disabled = true;
+        }
+    }
+
+    function enableCancelButton(cancel_interlock) {
+        let c_button = document.getElementById('c_button');
+        if (cancel_interlock.checked) {
+            c_button.disabled = false;
+        } else {
+            c_button.disabled = true;
+        }
+    }
+
+    function clearTrainingStatusBox(){
+        document.getElementById('t_status').innerHTML = ""
+    }
+
+</script>
+</html>
