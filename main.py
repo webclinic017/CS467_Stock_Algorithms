@@ -16,7 +16,12 @@ import matplotlib.pyplot as plt
 
 import tensorflow as tf
 from tensorflow import keras
-# from tensorflow.keras import layers
+from tensorflow.keras import layers
+import seaborn as sns
+
+# List CPU's Available
+print("Num CPUs Available: ", len(tf.config.list_physical_devices('CPU')))
+print(tf.__version__)
 
 # Get CSV for Volatility and Momentum Calculations
 
@@ -26,16 +31,14 @@ ETF_3x = pd.read_csv(ETFpath + ETFfile)
 
 # print("Here's the 3x ETF")
 # print(ETF_3x)
-# print("")
-# print("")
-# print("")
-# print("")
 
 # Calculating Historic Volatility from Raw 3x ETF Data
 
 # Theory Yang-Zhang (OHLC)
 # Sum of overnight volatility and weighted average of Rogers-Satchell volatility
-# NOTE: In the Paper: MEASURING HISTORICAL VOLATILITY, temp_overnight_vol and temp_openclose_vol if implemented exactly would be 0 every time - it subtracts one value from its equal. Implementations of this aglorithm do not do that, so I did not either.
+# NOTE: In the Paper: MEASURING HISTORICAL VOLATILITY, temp_overnight_vol and temp_openclose_vol if
+# implemented exactly would be 0 every time - it subtracts one value from its equal. Implementations of this
+# aglorithm do not do that, so I did not either.
 
 
 N = 2  # number of days in sample to consider leading up to current day, lowest it should be is 2
@@ -69,11 +72,6 @@ ETF_3x['Volatility'] = yang_zhang_vol_list
 
 # print("Here's the 3x ETF with Volatility")
 # print(ETF_3x)
-# print("")
-# print("")
-# print("")
-# print("")
-
 
 # Calculating Momentum from Raw 3x ETF Data
 
@@ -100,13 +98,8 @@ ETF_3x['Momentum'] = momentum_list
 
 # print("Here's the 3x ETF with Volatility and Momentum")
 # print(ETF_3x)
-# print("")
-# print("")
-# print("")
-# print("")
 
 # Sentimental Factors
-
 
 # Calculating Put/Call Ratios
 
@@ -122,12 +115,6 @@ PutCall_rawdata = pd.read_csv(PutCallpath + PutCallfile)
 
 # print("Here's the Put/Call Ratio")
 # print(PutCall_rawdata)
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
 
 ETF_3x['Put/Call Ratio'] = np.nan
 
@@ -138,11 +125,6 @@ for days in range(len(ETF_3x)):
 
 # print("Here's the 3x ETF with Volatility and Momentum and Put/Call Ratio")
 # print(ETF_3x)
-# print("")
-# print("")
-# print("")
-# print("")
-
 
 # Calculating Junk Bond Demand (Volume)
 
@@ -195,12 +177,6 @@ JunkBond_interpreted_data = pd.DataFrame(listpair, columns=['Date', 'Volume'])
 
 # print("Here's the Junk Bond Volume List, Interpreted")
 # print(JunkBond_interpreted_data)
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
 
 ETF_3x['Junk Bond Demand'] = np.nan
 
@@ -212,10 +188,6 @@ for days in range(len(ETF_3x)):
 
 # print("Here's the 3x ETF with Volatility and Momentum and Put/Call Ratio and Junk Bond Demand")
 # print(ETF_3x)
-# print("")
-# print("")
-# print("")
-# print("")
 
 # Calculating McClellan Summation Index on S&P 500 and DOW
 
@@ -243,12 +215,6 @@ MIndex_rawdata = pd.concat(frames,axis=1,keys=headers)
 
 # print("McClellan-Summation-Index Raw Data")
 # print(MIndex_rawdata)
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
 
 DOWadvance = []
 SPXadvance = []
@@ -268,8 +234,10 @@ listpair_mc = []
 for index in range(len(MIndex_rawdata)):
 
     # Calculate Advances and Declines for each day
-    DOWadvance.append((MIndex_rawdata['Close1'][index] - MIndex_rawdata['Open1'][index]) / (MIndex_rawdata['Close1'][index] + MIndex_rawdata['Open1'][index]))
-    SPXadvance.append((MIndex_rawdata['Close2'][index] - MIndex_rawdata['Open2'][index]) / (MIndex_rawdata['Close2'][index] + MIndex_rawdata['Open2'][index]))
+    DOWadvance.append((MIndex_rawdata['Close1'][index] - MIndex_rawdata['Open1'][index]) /
+                      (MIndex_rawdata['Close1'][index] + MIndex_rawdata['Open1'][index]))
+    SPXadvance.append((MIndex_rawdata['Close2'][index] - MIndex_rawdata['Open2'][index]) /
+                      (MIndex_rawdata['Close2'][index] + MIndex_rawdata['Open2'][index]))
 
     # Calculate simple and exponential moving averages (SMA and EMA)
 
@@ -315,13 +283,6 @@ McCLellan_interpreted_data = pd.DataFrame(listpair_mc, columns = ['Date DOW', 'M
 
 # print("McClellan-Summation-Index Interpreted Data")
 # print(McCLellan_interpreted_data)
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
-# print("")
-
 
 # Append to ETF Info
 
@@ -330,13 +291,42 @@ McCLellan_interpreted_data = pd.DataFrame(listpair_mc, columns = ['Date DOW', 'M
 
 # for days in range(len(ETF_3x)):
 #      etf_datetime = datetime.datetime.strptime(ETF_3x['Date'][days], "%Y-%m-%d")
-#      mc_index = McCLellan_interpreted_data[McCLellan_interpreted_data['Date DOW'] == etf_datetime.strftime('%Y-%m-%d')].index.values
+#      mc_index = McCLellan_interpreted_data[McCLellan_interpreted_data['Date DOW'] ==
+#      etf_datetime.strftime('%Y-%m-%d')].index.values
 #      ETF_3x['Dow McClellan Summation Index'][days] = McCLellan_interpreted_data['MC DOW'][mc_index]
 
 # for days in range(len(ETF_3x)):
 #      etf_datetime = datetime.datetime.strptime(ETF_3x['Date'][days], "%Y-%m-%d")
-#      mc_index = McCLellan_interpreted_data[McCLellan_interpreted_data['Date SPX'] == etf_datetime.strftime('%#m/%#d/%Y')].index.values
+#      mc_index = McCLellan_interpreted_data[McCLellan_interpreted_data['Date SPX'] ==
+#      etf_datetime.strftime('%#m/%#d/%Y')].index.values
 #      ETF_3x['S&P McClellan Summation Index'][days] = McCLellan_interpreted_data['MC SPX'][mc_index]
+
+# Add in Quantity Traded Data
+
+Quantpath = 'Algorithm_Backtests_All_3xETFs/datasets/' # Should be updated to eventual folder name
+Quantfile = 'TQQQ-2010-03-01.csv'
+
+# Three options to fit - Price, Quantity, Value - right now going to fit to just Quantity
+# (since that's what we care about - Quantity we'll manipulate based on price)
+
+# Note, for now, columns are off by one, so "Price" here equates to column
+
+Quant_rawdata = pd.read_csv(Quantpath + Quantfile)
+Quant_dates = Quant_rawdata.index
+
+ETF_3x['Quantity Moved'] = np.nan
+
+for days in range(len(ETF_3x)):
+    flag = 0
+    temp = 0
+    for dates in Quant_dates:
+        if ETF_3x['Date'][days] in dates:
+            temp += float(Quant_rawdata['Price'][dates])
+
+    if temp == 0:
+        temp = np.nan
+    ETF_3x['Quantity Moved'][days] = temp
+
 
 # Add Volatility Time Lag Variables
 
@@ -365,87 +355,101 @@ for days in range(len(ETF_3x)):
 
 ETF_3x = ETF_3x.drop(columns=['Date'])
 
+
 # Just removes all Nan values
 
 ETF_3x = ETF_3x.dropna()
 ETF_3x = ETF_3x.reset_index(drop=True)
 
 # print("Here's the whole 3x ETF")
-print(ETF_3x)
-# print("")
-# print("")
-# print("")
-# print("")
+# print(ETF_3x)
 
 # ETF_3x.to_csv('out.csv')
 
 # Separating Training Data from Test Data
 
-split_ETF = np.array_split(ETF_3x, 2)
-Train_X = split_ETF[0].values
-Test_X = split_ETF[1].values
+Train_X = ETF_3x.sample(frac=0.85, random_state=0)
+Test_X = ETF_3x.drop(Train_X.index)
 
-# Temporarily creating dummy training and test Y values
-mu, sigma = 3000, 67.0
-Train_Y = np.random.normal(mu, sigma, len(Train_X))
-Test_Y = np.random.normal(mu, sigma, len(Test_X))
+sns.pairplot(Train_X[['Volatility', 'Momentum', 'Put/Call Ratio', 'Junk Bond Demand']], diag_kind='kde')
+print(Train_X.describe().transpose())
 
-print(Train_X.shape)
-print(Train_Y.shape)
-print(Test_X.shape)
-print(Test_Y.shape)
+train_features = Train_X.copy()
+test_features = Test_X.copy()
 
-# Creating Neural Network for Volatility Prediction
+# mu, sigma = 3000, 67.0
+# Train_Y = np.random.normal(mu, sigma, len(Train_X))
+# Test_Y = np.random.normal(mu, sigma, len(Test_X))
 
-# Adapted from Tensorflow Keras Tutorial Here: https://www.tensorflow.org/guide/keras/sequential_model
+train_labels = train_features.pop('Quantity Moved')
+test_labels = test_features.pop('Quantity Moved')
 
-Train_X = np.array(Train_X)
-Train_Y = np.array(Train_Y)
-tensor_Train_X = tf.convert_to_tensor(Train_X)
-tensor_Train_Y = tf.convert_to_tensor(Train_Y)
-Test_X = np.array(Test_X)
-Test_Y = np.array(Test_Y)
-tensor_Test_X = tf.convert_to_tensor(Test_X)
-tensor_Test_Y = tf.convert_to_tensor(Test_Y)
-print("INPUT SHAPE IS: " + str(tensor_Train_X.shape))
-print(tensor_Train_X)
-print(tensor_Train_Y)
+print(Train_X.describe().transpose()[['mean', 'std']])
+
+train_features=np.asarray(train_features).astype(float)
+test_features=np.asarray(test_features).astype(float)
+
+train_labels=np.asarray(train_labels).astype(float)
+test_labels=np.asarray(test_labels).astype(float)
 
 normalizer = tf.keras.layers.Normalization(axis=-1)
-normalizer.adapt(Train_X)
+normalizer.adapt(np.array(train_features))
+print(normalizer.mean.numpy())
+
+first = np.array(train_features[:1])
+
+with np.printoptions(precision=2, suppress=True):
+  print('First example:', first)
+  print()
+  print('Normalized:', normalizer(first).numpy())
+
+test_model = keras.Sequential([
+  normalizer,
+  # layers.LSTM(4),
+  layers.Dense(100, activation='relu'),
+  layers.Dense(100, activation='relu'),
+  layers.Dense(100, activation='relu'),
+  layers.Dense(100, activation='relu'),
+  layers.Dense(1)
+])
 
 
-initial_model = keras.Sequential(
-    [
-        normalizer,
-        keras.layers.Dense(10, activation="relu", name="layer1"),
-        keras.layers.Dense(10, activation="relu", name="layer2"),
-        keras.layers.Dense(1, name="layer5")
-    ]
-)
+test_model.compile(loss='mean_absolute_error',
+            optimizer=tf.keras.optimizers.Adam(learning_rate=0.01))
+test_model.summary()
 
-initial_model.compile(optimizer='adam',
-                loss='mean_absolute_error', metrics=['mean_absolute_error'])
+history = test_model.fit(
+    train_features,
+    train_labels,
+    validation_split=0.15,
+    verbose=0, epochs=1800)
 
+print(history.history)
 
+guess = test_model.predict(test_features)
 
-history = initial_model.fit(tensor_Train_X, tensor_Train_Y, epochs=32, batch_size=1) # Set to 1 for schotastic gradient descent
+plt.subplot(1,2,1)
+plt.plot(history.history['loss'], label='loss')
+plt.plot(history.history['val_loss'], label='val_loss')
+# plt.plot(history.history['accuracy'], label='training accuracy')
+# plt.plot(history.history['val_loss'], label='val_loss')
+plt.xlabel('Epoch')
+plt.ylabel('Error [Guess]')
+plt.legend()
+plt.grid(True)
 
-prediction = initial_model.predict(tensor_Test_X)
+plt.subplot(1,2,2)
+x = tf.linspace(0.0, len(test_labels)-1, len(test_labels))
+plt.plot(x, test_labels, label='How Much Actually Traded')
+plt.plot(x, guess, label='Guessed at How Much to Trade')
+plt.legend()
 
-
-plt.plot(tensor_Test_Y)
-plt.plot(prediction)
-plt.legend(['Test Y', 'Predicted Y'])
 plt.show()
 
+test_results = {}
+test_results['test_model'] = test_model.evaluate(test_features, test_labels, verbose=0)
 
-# Testing NN's on Testing Data
 
-
-
-# Plotting Outputs
-# will be on subplots based on nested loops once code functions
 
 # Next Step is to Change X vector time duration (default is 1 month) and Y value duration (default is 1 month)
 # requires a nested For Loop to run these NN's

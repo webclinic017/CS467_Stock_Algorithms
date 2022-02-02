@@ -1,0 +1,42 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2021-10-01T15:00:00Z,SBND,19.895276808,476,Market,Filled,9470.151760608,Warning: No quote information available at 10/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T15:00:00Z,SBND,19.8564421836,-151,Market,Filled,-2998.3227697236,Warning: No quote information available at 10/04/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T20:00:00Z,SBND,19.905234404,150,Market On Open,Filled,2985.7851606, 
+2021-10-07T15:00:00Z,SBND,19.855446424,-475,Market,Filled,-9431.3370514,Warning: No quote information available at 10/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-13T14:00:00Z,SBND,19.845488828,325,Market,Filled,6449.7838691,Warning: No quote information available at 10/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-13T20:00:00Z,SBND,19.835531232,-325,Market On Open,Filled,-6446.5476504, 
+2021-10-14T18:00:00Z,SBND,19.835531232,325,Market,Filled,6446.5476504,Warning: No quote information available at 10/14/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-10-14T20:00:00Z,SBND,19.835531232,150,Market On Open,Filled,2975.3296848, 
+2021-10-19T20:00:00Z,SBND,19.810637242,-475,Market On Open,Filled,-9410.05268995, 
+2021-10-25T20:00:00Z,SBND,19.795700848,325,Market On Open,Filled,6433.6027756, 
+2021-10-28T14:00:00Z,SBND,19.795700848,150,Market,Filled,2969.3551272,Warning: No quote information available at 10/26/2021 16:00:00 America/New_York, order filled using TradeBar data 
+2021-10-29T15:00:00Z,SBND,19.79072205,-475,Market,Filled,-9400.59297375,Warning: No quote information available at 10/29/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-29T18:00:00Z,SBND,19.805658444,475,Market,Filled,9407.6877609,Warning: No quote information available at 10/29/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-01T18:00:00Z,SBND,19.792778816,-475,Market,Filled,-9401.5699376,Warning: No quote information available at 11/01/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-02T14:00:00Z,SBND,19.82550074872,474,Market,Filled,9397.2873548933,Warning: No quote information available at 11/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-10T21:00:00Z,SBND,19.802755015,-474,Market On Open,Filled,-9386.50587711, 
+2021-11-16T16:00:00Z,SBND,19.802755015,324,Market,Filled,6416.09262486,Warning: No quote information available at 11/16/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-16T21:00:00Z,SBND,19.782802617,-324,Market On Open,Filled,-6409.628047908, 
+2021-11-18T19:00:00Z,SBND,19.81243192803,473,Market,Filled,9371.2803019582,Warning: No quote information available at 11/18/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T19:00:00Z,SBND,19.762850219,-473,Market,Filled,-9347.828153587,Warning: No quote information available at 11/22/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-29T15:00:00Z,SBND,19.722945423,324,Market,Filled,6390.234317052,Warning: No quote information available at 11/26/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-11-29T19:00:00Z,SBND,19.702993025,-324,Market,Filled,-6383.7697401,Warning: No quote information available at 11/29/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-30T19:00:00Z,SBND,19.742897821,473,Market,Filled,9338.390669333,Warning: No quote information available at 11/30/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T16:00:00Z,SBND,19.706477894,-473,Market,Filled,-9321.164043862,Warning: No quote information available at 12/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T17:00:00Z,SBND,19.746430206,472,Market,Filled,9320.315057232,Warning: No quote information available at 12/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-14T21:00:00Z,SBND,19.756418284,-472,Market On Open,Filled,-9325.029430048, 
+2021-12-16T19:00:00Z,SBND,19.8253360222,470,Market,Filled,9317.907930434,Warning: No quote information available at 12/16/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-21T17:00:00Z,SBND,19.77639444,-322,Market,Filled,-6367.99900968,Warning: No quote information available at 12/21/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-22T15:00:00Z,SBND,19.79667023834,321,Market,Filled,6354.7311465071,Warning: No quote information available at 12/21/2021 16:00:00 America/New_York, order filled using TradeBar data 
+2021-12-23T16:00:00Z,SBND,19.77639444,-469,Market,Filled,-9275.12899236,Warning: No quote information available at 12/23/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-23T21:00:00Z,SBND,19.82633483,468,Market On Open,Filled,9278.72470044, 
+2021-12-30T15:00:00Z,SBND,19.82,-321,Market,Filled,-6362.22,Warning: No quote information available at 12/29/2021 16:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T15:00:00Z,SBND,19.815,-147,Market,Filled,-2912.805,Warning: No quote information available at 12/31/2021 16:00:00 America/New_York, order filled using TradeBar data 
+2022-01-12T15:00:00Z,SBND,19.69,322,Market,Filled,6340.18,Warning: No quote information available at 01/11/2022 16:00:00 America/New_York, order filled using TradeBar data 
+2022-01-12T16:00:00Z,SBND,19.72,148,Market,Filled,2918.56,Warning: No quote information available at 01/12/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-13T15:00:00Z,SBND,19.66,-470,Market,Filled,-9240.2,Warning: No quote information available at 01/13/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-19T17:00:00Z,SBND,19.6299,322,Market,Filled,6320.8278,Warning: No quote information available at 01/19/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-19T21:00:00Z,SBND,19.61,-322,Market On Open,Filled,-6314.42, 
+2022-01-20T15:00:00Z,SBND,19.61,322,Market,Filled,6314.42,Warning: No quote information available at 01/19/2022 16:00:00 America/New_York, order filled using TradeBar data 
+2022-01-21T19:00:00Z,SBND,19.64,149,Market,Filled,2926.36,Warning: No quote information available at 01/21/2022 14:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T21:00:00Z,SBND,19.53,-471,Market On Open,Filled,-9198.63, 

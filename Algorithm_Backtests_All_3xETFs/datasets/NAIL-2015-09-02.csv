@@ -1,0 +1,732 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2015-09-02T20:00:00Z,NAIL,31.867881081,96,Market On Open,Filled,3059.316583776, 
+2015-09-03T14:00:00Z,NAIL,32.496787769,197,Market,Filled,6401.867190493,Warning: No quote information available at 09/03/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-08T14:00:00Z,NAIL,29.804281011,-293,Market,Filled,-8732.654336223,Warning: No quote information available at 09/08/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-08T20:00:00Z,NAIL,34.3933345,278,Market On Open,Filled,9561.346991, 
+2015-09-18T20:00:00Z,NAIL,32.378867765,-278,Market On Open,Filled,-9001.32523867, 
+2015-09-21T14:00:00Z,NAIL,32.938987784,171,Market,Filled,5632.566911064,Warning: No quote information available at 09/21/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-21T20:00:00Z,NAIL,30.924521049,-171,Market On Open,Filled,-5288.093099379, 
+2015-09-25T19:00:00Z,NAIL,30.570761037,258,Market,Filled,7887.256347546,Warning: No quote information available at 09/25/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-09-28T15:00:00Z,NAIL,27.5146676,-258,Market,Filled,-7098.7842408,Warning: No quote information available at 09/28/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-10-01T14:00:00Z,NAIL,25.726214206,190,Market,Filled,4887.98069914,Warning: No quote information available at 10/01/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-02T20:00:00Z,NAIL,28.752827642,83,Market On Open,Filled,2386.484694286, 
+2015-10-14T15:00:00Z,NAIL,28.20253429,-273,Market,Filled,-7699.29186117,Warning: No quote information available at 10/14/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-10-16T16:00:00Z,NAIL,29.391560997,176,Market,Filled,5172.914735472,Warning: No quote information available at 10/16/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-10-16T20:00:00Z,NAIL,29.450520999,-176,Market On Open,Filled,-5183.291695824, 
+2015-10-19T14:00:00Z,NAIL,29.293294327,176,Market,Filled,5155.619801552,Warning: No quote information available at 10/16/2015 16:00:00 America/New_York, order filled using TradeBar data 
+2015-10-19T16:00:00Z,NAIL,29.863241013,80,Market,Filled,2389.05928104,Warning: No quote information available at 10/19/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-10-19T20:00:00Z,NAIL,31.612387739,-81,Market On Open,Filled,-2560.603406859, 
+2015-10-20T14:00:00Z,NAIL,29.421040998,81,Market,Filled,2383.104320838,Warning: No quote information available at 10/19/2015 16:00:00 America/New_York, order filled using TradeBar data 
+2015-10-22T14:00:00Z,NAIL,29.519307668,-174,Market,Filled,-5136.359534232,Warning: No quote information available at 10/22/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-22T20:00:00Z,NAIL,29.794454344,174,Market On Open,Filled,5184.235055856, 
+2015-10-23T14:00:00Z,NAIL,29.833761012,-174,Market,Filled,-5191.074416088,Warning: No quote information available at 10/23/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-26T14:00:00Z,NAIL,30.904867715,172,Market,Filled,5315.63724698,Warning: No quote information available at 10/26/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-26T15:00:00Z,NAIL,29.892721014,-254,Market,Filled,-7592.751137556,Warning: No quote information available at 10/26/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-10-28T20:00:00Z,NAIL,28.281147626,177,Market On Open,Filled,5005.763129802, 
+2015-10-29T14:00:00Z,NAIL,28.281147626,-177,Market,Filled,-5005.763129802,Warning: No quote information available at 10/29/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-30T14:00:00Z,NAIL,28.79213431,180,Market,Filled,5182.5841758,Warning: No quote information available at 10/30/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-11-02T20:00:00Z,NAIL,29.303120994,82,Market,Filled,2402.855921508,Warning: No quote information available at 11/02/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-11-06T15:00:00Z,NAIL,29.18520099,-180,Market,Filled,-5253.3361782,Warning: No quote information available at 11/04/2015 16:00:00 America/New_York, order filled using TradeBar data 
+2015-11-09T16:00:00Z,NAIL,27.21986759,-82,Market,Filled,-2232.02914238,Warning: No quote information available at 11/09/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-11-11T15:00:00Z,NAIL,29.853414346,251,Market,Filled,7493.207000846,Warning: No quote information available at 11/11/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-11-13T21:00:00Z,NAIL,29.725667675,-251,Market On Open,Filled,-7461.142586425, 
+2015-11-17T16:00:00Z,NAIL,29.725667675,251,Market,Filled,7461.142586425,Warning: No quote information available at 11/17/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-12-03T15:00:00Z,NAIL,32.437827767,-172,Market,Filled,-5579.306375924,Warning: No quote information available at 12/02/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-03T16:00:00Z,NAIL,31.74013441,-79,Market,Filled,-2507.47061839,Warning: No quote information available at 12/03/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-12-04T16:00:00Z,NAIL,31.966147751,172,Market,Filled,5498.177413172,Warning: No quote information available at 12/04/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-12-08T15:00:00Z,NAIL,31.966147751,80,Market,Filled,2557.29182008,Warning: No quote information available at 12/04/2015 16:00:00 America/New_York, order filled using TradeBar data 
+2015-12-09T15:00:00Z,NAIL,28.212360957,-252,Market,Filled,-7109.514961164,Warning: No quote information available at 12/09/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-16T15:00:00Z,NAIL,27.90773428,175,Market,Filled,4883.853499,Warning: No quote information available at 12/15/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-16T20:00:00Z,NAIL,28.79213431,79,Market,Filled,2274.57861049,Warning: No quote information available at 12/16/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-12-18T21:00:00Z,NAIL,30.501974368,-254,Market On Open,Filled,-7747.501489472, 
+2015-12-24T15:00:00Z,NAIL,28.674214306,269,Market,Filled,7713.363648314,Warning: No quote information available at 12/24/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-30T15:00:00Z,NAIL,27.976520949,-184,Market,Filled,-5147.679854616,Warning: No quote information available at 12/28/2015 16:00:00 America/New_York, order filled using TradeBar data 
+2015-12-30T19:00:00Z,NAIL,28.408894297,181,Market,Filled,5142.009867757,Warning: No quote information available at 12/30/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2016-01-04T15:00:00Z,NAIL,26.512347566,-266,Market,Filled,-7052.284452556,Warning: No quote information available at 01/04/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-12T15:00:00Z,NAIL,19.899000675,244,Market,Filled,4855.3561647,Warning: No quote information available at 01/12/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-12T19:00:00Z,NAIL,19.329053989,-244,Market,Filled,-4716.289173316,Warning: No quote information available at 01/12/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-01-13T15:00:00Z,NAIL,20.53773403,339,Market,Filled,6962.29183617,Warning: No quote information available at 01/13/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-13T20:00:00Z,NAIL,18.926160642,-107,Market,Filled,-2025.099188694,Warning: No quote information available at 01/13/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-01-15T15:00:00Z,NAIL,16.813427237,-232,Market,Filled,-3900.715118984,Warning: No quote information available at 01/15/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-21T19:00:00Z,NAIL,17.570080596,232,Market,Filled,4076.258698272,Warning: No quote information available at 01/21/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-01-22T15:00:00Z,NAIL,18.631360632,101,Market,Filled,1881.767423832,Warning: No quote information available at 01/22/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-26T15:00:00Z,NAIL,17.245800585,-228,Market,Filled,-3932.04253338,Warning: No quote information available at 01/25/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-01-27T15:00:00Z,NAIL,18.366040623,215,Market,Filled,3948.698733945,Warning: No quote information available at 01/27/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-02-04T15:00:00Z,NAIL,16.862560572,-320,Market,Filled,-5396.01938304,Warning: No quote information available at 02/04/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-02-12T15:00:00Z,NAIL,14.946360507,362,Market,Filled,5410.582503534,Warning: No quote information available at 02/12/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-08T15:00:00Z,NAIL,21.333694057,-250,Market,Filled,-5333.42351425,Warning: No quote information available at 03/04/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-03-10T15:00:00Z,NAIL,21.255080721,-112,Market,Filled,-2380.569040752,Warning: No quote information available at 03/09/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-03-11T21:00:00Z,NAIL,22.11000075,339,Market On Open,Filled,7495.29025425, 
+2016-03-17T14:00:00Z,NAIL,22.051040748,-231,Market,Filled,-5093.790412788,Warning: No quote information available at 03/16/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-03-17T15:00:00Z,NAIL,23.112320784,224,Market,Filled,5177.159855616,Warning: No quote information available at 03/17/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-03-23T14:00:00Z,NAIL,24.07533415,-228,Market,Filled,-5489.1761862,Warning: No quote information available at 03/23/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-24T14:00:00Z,NAIL,23.692094137,-104,Market,Filled,-2463.977790248,Warning: No quote information available at 03/23/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-03-28T18:00:00Z,NAIL,23.947587479,227,Market,Filled,5436.102357733,Warning: No quote information available at 03/28/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-03-29T14:00:00Z,NAIL,23.947587479,105,Market,Filled,2514.496685295,Warning: No quote information available at 03/28/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-04-05T19:00:00Z,NAIL,24.95973418,-228,Market,Filled,-5690.81939304,Warning: No quote information available at 04/05/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-04-06T14:00:00Z,NAIL,24.95973418,-104,Market,Filled,-2595.81235472,Warning: No quote information available at 04/05/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-04-06T18:00:00Z,NAIL,26.188067555,315,Market,Filled,8249.241279825,Warning: No quote information available at 04/06/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-04-20T14:00:00Z,NAIL,27.485187599,-216,Market,Filled,-5936.800521384,Warning: No quote information available at 04/19/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-04-20T19:00:00Z,NAIL,28.634907638,207,Market,Filled,5927.425881066,Warning: No quote information available at 04/20/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-04-21T19:00:00Z,NAIL,27.465534265,-210,Market,Filled,-5767.76219565,Warning: No quote information available at 04/21/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-04-22T14:00:00Z,NAIL,27.465534265,-96,Market,Filled,-2636.69128944,Warning: No quote information available at 04/21/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-04-26T16:00:00Z,NAIL,27.386920929,210,Market,Filled,5751.25339509,Warning: No quote information available at 04/26/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-04-28T14:00:00Z,NAIL,27.386920929,97,Market,Filled,2656.531330113,Warning: No quote information available at 04/26/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-04-28T20:00:00Z,NAIL,23.87880081,-307,Market On Open,Filled,-7330.79184867, 
+2016-05-05T14:00:00Z,NAIL,23.68226747,213,Market,Filled,5044.32297111,Warning: No quote information available at 05/04/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-05-05T19:00:00Z,NAIL,23.023880781,-213,Market,Filled,-4904.086606353,Warning: No quote information available at 05/05/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-05-06T14:00:00Z,NAIL,23.662614136,306,Market,Filled,7240.759925616,Warning: No quote information available at 05/06/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-13T14:00:00Z,NAIL,22.434280761,-306,Market,Filled,-6864.889912866,Warning: No quote information available at 05/13/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-16T16:00:00Z,NAIL,23.603654134,292,Market,Filled,6892.267007128,Warning: No quote information available at 05/16/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-05-19T20:00:00Z,NAIL,22.79786744,-292,Market On Open,Filled,-6656.97729248, 
+2016-05-23T20:00:00Z,NAIL,25.853960877,280,Market On Open,Filled,7239.10904556, 
+2016-05-31T14:00:00Z,NAIL,26.099627552,-199,Market,Filled,-5193.825882848,Warning: No quote information available at 05/27/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-05-31T15:00:00Z,NAIL,26.82680091,172,Market,Filled,4614.20975652,Warning: No quote information available at 05/31/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-06-02T15:00:00Z,NAIL,26.119280886,-253,Market,Filled,-6608.178064158,Warning: No quote information available at 06/02/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-06-06T20:00:00Z,NAIL,27.406574263,248,Market On Open,Filled,6796.830417224, 
+2016-06-10T16:00:00Z,NAIL,26.767840908,-248,Market,Filled,-6638.424545184,Warning: No quote information available at 06/10/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-06-16T14:00:00Z,NAIL,25.116960852,176,Market,Filled,4420.585109952,Warning: No quote information available at 06/15/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-06-16T15:00:00Z,NAIL,24.291520824,-176,Market,Filled,-4275.307665024,Warning: No quote information available at 06/16/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-06-16T20:00:00Z,NAIL,25.274187524,171,Market On Open,Filled,4321.886066604, 
+2016-06-20T14:00:00Z,NAIL,25.274187524,79,Market,Filled,1996.660814396,Warning: No quote information available at 06/17/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-06-24T14:00:00Z,NAIL,23.908280811,-250,Market,Filled,-5977.07020275,Warning: No quote information available at 06/24/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-06-29T14:00:00Z,NAIL,23.574174133,174,Market,Filled,4101.906299142,Warning: No quote information available at 06/28/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-06-29T16:00:00Z,NAIL,24.5666675,76,Market,Filled,1867.06673,Warning: No quote information available at 06/29/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-07-13T19:00:00Z,NAIL,30.944174383,-172,Market,Filled,-5322.397993876,Warning: No quote information available at 07/13/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-07-15T15:00:00Z,NAIL,30.777121044,-78,Market,Filled,-2400.615441432,Warning: No quote information available at 07/15/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-07-18T15:00:00Z,NAIL,31.24880106,167,Market,Filled,5218.54977702,Warning: No quote information available at 07/18/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-07-19T20:00:00Z,NAIL,31.749961077,77,Market On Open,Filled,2444.747002929, 
+2016-07-21T19:00:00Z,NAIL,31.022787719,-167,Market,Filled,-5180.805549073,Warning: No quote information available at 07/21/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-07-22T15:00:00Z,NAIL,31.848227747,162,Market,Filled,5159.412895014,Warning: No quote information available at 07/22/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-07-29T14:00:00Z,NAIL,32.32973443,-164,Market,Filled,-5302.07644652,Warning: No quote information available at 07/28/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-07-29T19:00:00Z,NAIL,30.875387714,-75,Market,Filled,-2315.65407855,Warning: No quote information available at 07/29/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-08-05T14:00:00Z,NAIL,29.116414321,179,Market,Filled,5211.838163459,Warning: No quote information available at 08/04/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-08-05T15:00:00Z,NAIL,30.236654359,79,Market,Filled,2388.695694361,Warning: No quote information available at 08/05/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-08-11T14:00:00Z,NAIL,29.725667675,-177,Market,Filled,-5261.443178475,Warning: No quote information available at 08/10/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-08-12T14:00:00Z,NAIL,28.39906763,-81,Market,Filled,-2300.32447803,Warning: No quote information available at 08/12/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-12T20:00:00Z,NAIL,30.059774353,174,Market On Open,Filled,5230.400737422, 
+2016-08-15T14:00:00Z,NAIL,30.059774353,78,Market,Filled,2344.662399534,Warning: No quote information available at 08/15/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-17T18:00:00Z,NAIL,28.408894297,-252,Market,Filled,-7159.041362844,Warning: No quote information available at 08/17/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-08-18T19:00:00Z,NAIL,29.538961002,166,Market,Filled,4903.467526332,Warning: No quote information available at 08/18/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-08-19T14:00:00Z,NAIL,30.138387689,75,Market,Filled,2260.379076675,Warning: No quote information available at 08/19/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-25T14:00:00Z,NAIL,29.588094337,-165,Market,Filled,-4882.035565605,Warning: No quote information available at 08/25/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-25T15:00:00Z,NAIL,30.737814376,159,Market,Filled,4887.312485784,Warning: No quote information available at 08/25/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-08-26T20:00:00Z,NAIL,29.57826767,-235,Market On Open,Filled,-6950.89290245, 
+2016-08-30T17:00:00Z,NAIL,30.285787694,157,Market,Filled,4754.868667958,Warning: No quote information available at 08/30/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-08-30T18:00:00Z,NAIL,30.521627702,72,Market,Filled,2197.557194544,Warning: No quote information available at 08/30/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-08-31T16:00:00Z,NAIL,29.755147676,-72,Market,Filled,-2142.370632672,Warning: No quote information available at 08/31/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-09-07T14:00:00Z,NAIL,29.794454344,-157,Market,Filled,-4677.729332008,Warning: No quote information available at 09/06/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-09-07T17:00:00Z,NAIL,30.344747696,225,Market,Filled,6827.5682316,Warning: No quote information available at 09/07/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-09-09T14:00:00Z,NAIL,27.917560947,-225,Market,Filled,-6281.451213075,Warning: No quote information available at 09/09/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-14T14:00:00Z,NAIL,27.544147601,157,Market,Filled,4324.431173357,Warning: No quote information available at 09/13/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-09-16T14:00:00Z,NAIL,27.544147601,72,Market,Filled,1983.178627272,Warning: No quote information available at 09/13/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-09-16T17:00:00Z,NAIL,25.048174183,-229,Market,Filled,-5736.031887907,Warning: No quote information available at 09/16/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-09-19T15:00:00Z,NAIL,26.797320909,147,Market,Filled,3939.206173623,Warning: No quote information available at 09/19/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-09-19T17:00:00Z,NAIL,26.482867565,-147,Market,Filled,-3892.981532055,Warning: No quote information available at 09/19/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-09-22T14:00:00Z,NAIL,25.932574213,221,Market,Filled,5731.098901073,Warning: No quote information available at 09/22/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-26T14:00:00Z,NAIL,24.871294177,-221,Market,Filled,-5496.556013117,Warning: No quote information available at 09/26/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-27T14:00:00Z,NAIL,25.5493342,68,Market,Filled,1737.3547256,Warning: No quote information available at 09/27/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-27T17:00:00Z,NAIL,25.893267545,145,Market,Filled,3754.523794025,Warning: No quote information available at 09/27/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-09-28T17:00:00Z,NAIL,25.441240863,-146,Market,Filled,-3714.421165998,Warning: No quote information available at 09/28/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-09-28T20:00:00Z,NAIL,25.64760087,144,Market On Open,Filled,3693.25452528, 
+2016-10-03T14:00:00Z,NAIL,25.35280086,-211,Market,Filled,-5349.44098146,Warning: No quote information available at 10/03/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-05T17:00:00Z,NAIL,26.030840883,207,Market,Filled,5388.384062781,Warning: No quote information available at 10/05/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-10-07T20:00:00Z,NAIL,24.86146751,-207,Market On Open,Filled,-5146.32377457, 
+2016-10-19T19:00:00Z,NAIL,24.242387489,213,Market,Filled,5163.628535157,Warning: No quote information available at 10/19/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-10-21T14:00:00Z,NAIL,22.89613411,-213,Market,Filled,-4876.87656543,Warning: No quote information available at 10/21/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-31T14:00:00Z,NAIL,21.12733405,158,Market,Filled,3338.1187799,Warning: No quote information available at 10/28/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-11-02T20:00:00Z,NAIL,18.6706673,-158,Market On Open,Filled,-2949.9654334, 
+2016-11-04T15:00:00Z,NAIL,20.429640693,221,Market,Filled,4514.950593153,Warning: No quote information available at 11/04/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-11-09T16:00:00Z,NAIL,19.761427337,-152,Market,Filled,-3003.736955224,Warning: No quote information available at 11/09/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-11-09T17:00:00Z,NAIL,21.117507383,142,Market,Filled,2998.686048386,Warning: No quote information available at 11/09/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-11-23T15:00:00Z,NAIL,24.576494167,-145,Market,Filled,-3563.591654215,Warning: No quote information available at 11/23/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-23T16:00:00Z,NAIL,25.559160867,138,Market,Filled,3527.164199646,Warning: No quote information available at 11/23/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-11-30T16:00:00Z,NAIL,25.225054189,-204,Market,Filled,-5145.911054556,Warning: No quote information available at 11/30/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-12-05T15:00:00Z,NAIL,24.773027507,142,Market,Filled,3517.769905994,Warning: No quote information available at 12/05/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-06T15:00:00Z,NAIL,24.871294177,65,Market,Filled,1616.634121505,Warning: No quote information available at 12/06/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-14T16:00:00Z,NAIL,27.180560922,-207,Market,Filled,-5626.376110854,Warning: No quote information available at 12/14/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-12-19T15:00:00Z,NAIL,27.5146676,204,Market,Filled,5612.9921904,Warning: No quote information available at 12/19/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-19T20:00:00Z,NAIL,26.807147576,-65,Market,Filled,-1742.46459244,Warning: No quote information available at 12/19/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-12-21T15:00:00Z,NAIL,27.12160092,64,Market,Filled,1735.78245888,Warning: No quote information available at 12/21/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-22T15:00:00Z,NAIL,26.610614236,-139,Market,Filled,-3698.875378804,Warning: No quote information available at 12/22/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-23T15:00:00Z,NAIL,26.43373423,-64,Market,Filled,-1691.75899072,Warning: No quote information available at 12/22/2016 16:00:00 America/New_York, order filled using TradeBar data 
+2016-12-27T21:00:00Z,NAIL,26.04066755,202,Market On Open,Filled,5260.2148451, 
+2016-12-28T17:00:00Z,NAIL,26.04066755,-60,Market,Filled,-1562.440053,Warning: No quote information available at 12/28/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-12-29T15:00:00Z,NAIL,25.824480876,-142,Market,Filled,-3667.076284392,Warning: No quote information available at 12/29/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-29T21:00:00Z,NAIL,25.008867515,139,Market On Open,Filled,3476.232584585, 
+2016-12-30T15:00:00Z,NAIL,25.008867515,-139,Market,Filled,-3476.232584585,Warning: No quote information available at 12/30/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-04T21:00:00Z,NAIL,27.642414271,195,Market On Open,Filled,5390.270782845, 
+2017-01-09T15:00:00Z,NAIL,25.578814201,-134,Market,Filled,-3427.561102934,Warning: No quote information available at 01/06/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-01-09T19:00:00Z,NAIL,25.342974193,-61,Market,Filled,-1545.921425773,Warning: No quote information available at 01/09/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-01-10T21:00:00Z,NAIL,24.851640843,130,Market On Open,Filled,3230.71330959, 
+2017-01-12T15:00:00Z,NAIL,26.089800885,66,Market,Filled,1721.92685841,Warning: No quote information available at 01/11/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-01-19T19:00:00Z,NAIL,25.519854199,-196,Market,Filled,-5001.891423004,Warning: No quote information available at 01/19/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-01-24T15:00:00Z,NAIL,26.944720914,186,Market,Filled,5011.718090004,Warning: No quote information available at 01/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-30T15:00:00Z,NAIL,28.526814301,-186,Market,Filled,-5305.987459986,Warning: No quote information available at 01/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-01T15:00:00Z,NAIL,29.165547656,124,Market,Filled,3616.527909344,Warning: No quote information available at 02/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-01T16:00:00Z,NAIL,28.811787644,-124,Market,Filled,-3572.661667856,Warning: No quote information available at 02/01/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-02T16:00:00Z,NAIL,28.959187649,124,Market,Filled,3590.939268476,Warning: No quote information available at 02/02/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-03T15:00:00Z,NAIL,29.480001,56,Market,Filled,1650.880056,Warning: No quote information available at 02/03/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-03T20:00:00Z,NAIL,28.674214306,-57,Market,Filled,-1634.430215442,Warning: No quote information available at 02/03/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-02-06T16:00:00Z,NAIL,29.204854324,56,Market,Filled,1635.471842144,Warning: No quote information available at 02/06/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-07T18:00:00Z,NAIL,28.438374298,-179,Market,Filled,-5090.468999342,Warning: No quote information available at 02/07/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-02-09T17:00:00Z,NAIL,29.037800985,175,Market,Filled,5081.615172375,Warning: No quote information available at 02/09/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-02-14T21:00:00Z,NAIL,30.452841033,-120,Market On Open,Filled,-3654.34092396, 
+2017-02-15T21:00:00Z,NAIL,32.182334425,117,Market On Open,Filled,3765.333127725, 
+2017-03-07T15:00:00Z,NAIL,35.17946786,-119,Market,Filled,-4186.35667534,Warning: No quote information available at 03/07/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-08T15:00:00Z,NAIL,36.407801235,111,Market,Filled,4041.265937085,Warning: No quote information available at 03/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-14T15:00:00Z,NAIL,36.06386789,-164,Market,Filled,-5914.47433396,Warning: No quote information available at 03/14/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-14T16:00:00Z,NAIL,36.958094587,50,Market,Filled,1847.90472935,Warning: No quote information available at 03/14/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-03-15T15:00:00Z,NAIL,37.665614611,108,Market,Filled,4067.886377988,Warning: No quote information available at 03/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-21T14:00:00Z,NAIL,38.854641318,-109,Market,Filled,-4235.155903662,Warning: No quote information available at 03/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-21T15:00:00Z,NAIL,37.410121269,-49,Market,Filled,-1833.095942181,Warning: No quote information available at 03/21/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-23T16:00:00Z,NAIL,37.704921279,109,Market,Filled,4109.836419411,Warning: No quote information available at 03/23/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-03-23T20:00:00Z,NAIL,37.754054614,-109,Market On Open,Filled,-4115.191952926, 
+2017-03-24T14:00:00Z,NAIL,37.852321284,160,Market,Filled,6056.37140544,Warning: No quote information available at 03/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-24T19:00:00Z,NAIL,36.977747921,-51,Market,Filled,-1885.865143971,Warning: No quote information available at 03/24/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-03-27T14:00:00Z,NAIL,36.103174558,-109,Market,Filled,-3935.246026822,Warning: No quote information available at 03/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-27T20:00:00Z,NAIL,37.223414596,107,Market On Open,Filled,3982.905361772, 
+2017-03-28T14:00:00Z,NAIL,37.174281261,50,Market,Filled,1858.71406305,Warning: No quote information available at 03/27/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-04-03T16:00:00Z,NAIL,37.518214606,-108,Market,Filled,-4051.967177448,Warning: No quote information available at 04/03/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-04-04T15:00:00Z,NAIL,37.203761262,-49,Market,Filled,-1822.984301838,Warning: No quote information available at 04/04/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-05T15:00:00Z,NAIL,38.235561297,153,Market,Filled,5850.040878441,Warning: No quote information available at 04/05/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-05T20:00:00Z,NAIL,37.105494592,-153,Market On Open,Filled,-5677.140672576, 
+2017-04-06T15:00:00Z,NAIL,37.302027932,104,Market,Filled,3879.410904928,Warning: No quote information available at 04/06/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-07T14:00:00Z,NAIL,38.009547956,47,Market,Filled,1786.448753932,Warning: No quote information available at 04/07/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-07T16:00:00Z,NAIL,37.223414596,-48,Market,Filled,-1786.723900608,Warning: No quote information available at 04/07/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-04-10T14:00:00Z,NAIL,37.83266795,48,Market,Filled,1815.9680616,Warning: No quote information available at 04/10/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-20T15:00:00Z,NAIL,38.274867965,-151,Market,Filled,-5779.505062715,Warning: No quote information available at 04/20/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-20T16:00:00Z,NAIL,39.169094662,46,Market,Filled,1801.778354452,Warning: No quote information available at 04/20/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-04-20T17:00:00Z,NAIL,39.670254679,100,Market,Filled,3967.0254679,Warning: No quote information available at 04/20/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-04-21T15:00:00Z,NAIL,38.540187974,-146,Market,Filled,-5626.867444204,Warning: No quote information available at 04/21/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-24T14:00:00Z,NAIL,39.630948011,142,Market,Filled,5627.594617562,Warning: No quote information available at 04/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-25T14:00:00Z,NAIL,38.707241313,-45,Market,Filled,-1741.825859085,Warning: No quote information available at 04/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-25T15:00:00Z,NAIL,37.901454619,-97,Market,Filled,-3676.441098043,Warning: No quote information available at 04/25/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-25T20:00:00Z,NAIL,39.522854674,138,Market On Open,Filled,5454.153945012, 
+2017-05-01T16:00:00Z,NAIL,39.021694657,-95,Market,Filled,-3707.060992415,Warning: No quote information available at 05/01/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-05-02T14:00:00Z,NAIL,38.707241313,-43,Market,Filled,-1664.411376459,Warning: No quote information available at 05/02/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-05T14:00:00Z,NAIL,38.825161317,94,Market,Filled,3649.565163798,Warning: No quote information available at 05/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-05T20:00:00Z,NAIL,39.237881331,43,Market On Open,Filled,1687.228897233, 
+2017-05-17T15:00:00Z,NAIL,39.375454669,-137,Market,Filled,-5394.437289653,Warning: No quote information available at 05/17/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-19T15:00:00Z,NAIL,40.987028057,131,Market,Filled,5369.300675467,Warning: No quote information available at 05/19/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-24T14:00:00Z,NAIL,39.650601345,-131,Market,Filled,-5194.228776195,Warning: No quote information available at 05/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-24T20:00:00Z,NAIL,41.655241413,40,Market On Open,Filled,1666.20965652, 
+2017-05-25T14:00:00Z,NAIL,41.615934745,85,Market,Filled,3537.354453325,Warning: No quote information available at 05/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-25T16:00:00Z,NAIL,40.525174708,-86,Market,Filled,-3485.165024888,Warning: No quote information available at 05/25/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-05-26T14:00:00Z,NAIL,40.141934695,-39,Market,Filled,-1565.535453105,Warning: No quote information available at 05/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-01T17:00:00Z,NAIL,40.004361357,87,Market,Filled,3480.379438059,Warning: No quote information available at 06/01/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-06-01T20:00:00Z,NAIL,40.544828042,39,Market On Open,Filled,1581.248293638, 
+2017-06-07T14:00:00Z,NAIL,40.417081371,-87,Market,Filled,-3516.286079277,Warning: No quote information available at 06/07/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-08T14:00:00Z,NAIL,41.2720014,85,Market,Filled,3508.120119,Warning: No quote information available at 06/07/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-06-16T14:00:00Z,NAIL,42.2546681,-124,Market,Filled,-5239.5788444,Warning: No quote information available at 06/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-16T20:00:00Z,NAIL,44.052948161,38,Market On Open,Filled,1674.012030118, 
+2017-06-19T14:00:00Z,NAIL,44.111908163,81,Market,Filled,3573.064561203,Warning: No quote information available at 06/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-22T14:00:00Z,NAIL,44.072601495,-82,Market,Filled,-3613.95332259,Warning: No quote information available at 06/22/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-22T20:00:00Z,NAIL,43.070281461,-37,Market On Open,Filled,-1593.600414057, 
+2017-06-26T20:00:00Z,NAIL,43.974334825,80,Market On Open,Filled,3517.946786, 
+2017-06-27T20:00:00Z,NAIL,44.239654834,-80,Market On Open,Filled,-3539.17238672, 
+2017-06-28T14:00:00Z,NAIL,44.239654834,118,Market,Filled,5220.279270412,Warning: No quote information available at 06/28/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-29T15:00:00Z,NAIL,43.33560147,-118,Market,Filled,-5113.60097346,Warning: No quote information available at 06/29/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-30T14:00:00Z,NAIL,44.062774828,116,Market,Filled,5111.281880048,Warning: No quote information available at 06/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-06T15:00:00Z,NAIL,43.483001475,-116,Market,Filled,-5044.0281711,Warning: No quote information available at 07/06/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-07T14:00:00Z,NAIL,45.409028207,111,Market,Filled,5040.402130977,Warning: No quote information available at 07/07/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-18T14:00:00Z,NAIL,46.666841583,-76,Market,Filled,-3546.679960308,Warning: No quote information available at 07/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-18T15:00:00Z,NAIL,45.025788194,-35,Market,Filled,-1575.90258679,Warning: No quote information available at 07/18/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-21T15:00:00Z,NAIL,45.851228222,76,Market,Filled,3484.693344872,Warning: No quote information available at 07/21/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-25T14:00:00Z,NAIL,46.057588229,36,Market,Filled,1658.073176244,Warning: No quote information available at 07/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T14:00:00Z,NAIL,45.743134885,-77,Market,Filled,-3522.221386145,Warning: No quote information available at 07/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T16:00:00Z,NAIL,46.411348241,75,Market,Filled,3480.851118075,Warning: No quote information available at 07/27/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T19:00:00Z,NAIL,45.487641543,-75,Market,Filled,-3411.573115725,Warning: No quote information available at 07/27/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-07-28T16:00:00Z,NAIL,44.789948186,-35,Market,Filled,-1567.64818651,Warning: No quote information available at 07/28/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-08-01T18:00:00Z,NAIL,46.214814901,108,Market,Filled,4991.200009308,Warning: No quote information available at 08/01/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-08-10T14:00:00Z,NAIL,47.187654934,-74,Market,Filled,-3491.886465116,Warning: No quote information available at 08/10/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-10T15:00:00Z,NAIL,46.136201565,-34,Market,Filled,-1568.63085321,Warning: No quote information available at 08/10/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-14T14:00:00Z,NAIL,46.263948236,75,Market,Filled,3469.7961177,Warning: No quote information available at 08/14/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-14T15:00:00Z,NAIL,46.981294927,34,Market,Filled,1597.364027518,Warning: No quote information available at 08/14/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-17T19:00:00Z,NAIL,45.428681541,-109,Market,Filled,-4951.726287969,Warning: No quote information available at 08/17/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-08-25T18:00:00Z,NAIL,42.765654784,116,Market,Filled,4960.815954944,Warning: No quote information available at 08/25/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-09-15T15:00:00Z,NAIL,46.991121594,-80,Market,Filled,-3759.28972752,Warning: No quote information available at 09/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-18T14:00:00Z,NAIL,47.649508283,78,Market,Filled,3716.661646074,Warning: No quote information available at 09/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-21T14:00:00Z,NAIL,47.325228272,-78,Market,Filled,-3691.367805216,Warning: No quote information available at 09/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-22T14:00:00Z,NAIL,48.54373498,76,Market,Filled,3689.32385848,Warning: No quote information available at 09/22/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-10T17:00:00Z,NAIL,57.987161967,-77,Market,Filled,-4465.011471459,Warning: No quote information available at 10/10/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-11T15:00:00Z,NAIL,59.05826867,75,Market,Filled,4429.37015025,Warning: No quote information available at 10/11/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-16T17:00:00Z,NAIL,58.724161992,-76,Market,Filled,-4463.036311392,Warning: No quote information available at 10/16/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-17T15:00:00Z,NAIL,59.431682016,75,Market,Filled,4457.3761512,Warning: No quote information available at 10/17/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-18T15:00:00Z,NAIL,58.724161992,-109,Market,Filled,-6400.933657128,Warning: No quote information available at 10/18/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-18T16:00:00Z,NAIL,59.500468685,107,Market,Filled,6366.550149295,Warning: No quote information available at 10/18/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-11-02T15:00:00Z,NAIL,66.467575588,-107,Market,Filled,-7112.030587916,Warning: No quote information available at 11/02/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-06T17:00:00Z,NAIL,68.49186899,71,Market,Filled,4862.92269829,Warning: No quote information available at 11/06/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-11-06T18:00:00Z,NAIL,68.786669,32,Market,Filled,2201.173408,Warning: No quote information available at 11/06/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-12-05T15:00:00Z,NAIL,84.489682866,-103,Market,Filled,-8702.437335198,Warning: No quote information available at 12/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T15:00:00Z,NAIL,85.089109553,69,Market,Filled,5871.148559157,Warning: No quote information available at 12/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T17:00:00Z,NAIL,86.798949611,32,Market,Filled,2777.566387552,Warning: No quote information available at 12/08/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-12T21:00:00Z,NAIL,84.1714471,-69,Market On Open,Filled,-5807.8298499, 
+2017-12-13T21:00:00Z,NAIL,83.085685238,-32,Market On Open,Filled,-2658.741927616, 
+2017-12-14T16:00:00Z,NAIL,84.42047505,68,Market,Filled,5740.5923034,Warning: No quote information available at 12/14/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-12-14T17:00:00Z,NAIL,85.1675589,32,Market,Filled,2725.3618848,Warning: No quote information available at 12/14/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-14T19:00:00Z,NAIL,83.394479896,-100,Market,Filled,-8339.4479896,Warning: No quote information available at 12/14/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-12-15T15:00:00Z,NAIL,84.510125112,67,Market,Filled,5662.178382504,Warning: No quote information available at 12/15/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-15T16:00:00Z,NAIL,84.699386354,31,Market,Filled,2625.680976974,Warning: No quote information available at 12/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-02T17:00:00Z,NAIL,91.413179886,-67,Market,Filled,-6124.683052362,Warning: No quote information available at 01/02/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-01-02T20:00:00Z,NAIL,92.598552928,66,Market,Filled,6111.504493248,Warning: No quote information available at 01/02/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-01-10T15:00:00Z,NAIL,99.900052422,-67,Market,Filled,-6693.303512274,Warning: No quote information available at 01/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-10T16:00:00Z,NAIL,97.66876199,-30,Market,Filled,-2930.0628597,Warning: No quote information available at 01/10/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-11T15:00:00Z,NAIL,102.868465586,93,Market,Filled,9566.767299498,Warning: No quote information available at 01/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-16T20:00:00Z,NAIL,100.318419378,-29,Market,Filled,-2909.234161962,Warning: No quote information available at 01/16/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-01-17T16:00:00Z,NAIL,102.529787574,29,Market,Filled,2973.363839646,Warning: No quote information available at 01/17/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-25T15:00:00Z,NAIL,100.029546956,-93,Market,Filled,-9302.747866908,Warning: No quote information available at 01/25/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-07T15:00:00Z,NAIL,77.577186984,82,Market,Filled,6361.329332688,Warning: No quote information available at 02/07/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-07T16:00:00Z,NAIL,78.64302661,37,Market,Filled,2909.79198457,Warning: No quote information available at 02/07/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-07T21:00:00Z,NAIL,76.421697296,-37,Market On Open,Filled,-2827.602799952, 
+2018-02-08T21:00:00Z,NAIL,67.03832414,-82,Market On Open,Filled,-5497.14257948, 
+2018-02-12T18:00:00Z,NAIL,68.422919542,84,Market,Filled,5747.525241528,Warning: No quote information available at 02/12/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-14T16:00:00Z,NAIL,70.195998546,38,Market,Filled,2667.447944748,Warning: No quote information available at 02/14/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-21T21:00:00Z,NAIL,73.582778666,-84,Market On Open,Filled,-6180.953407944, 
+2018-02-22T15:00:00Z,NAIL,70.255765254,-38,Market,Filled,-2669.719079652,Warning: No quote information available at 02/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T15:00:00Z,NAIL,70.395220906,85,Market,Filled,5983.59377701,Warning: No quote information available at 02/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T16:00:00Z,NAIL,68.393036188,-85,Market,Filled,-5813.40807598,Warning: No quote information available at 02/26/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T19:00:00Z,NAIL,70.62432662,84,Market,Filled,5932.44343608,Warning: No quote information available at 02/26/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T15:00:00Z,NAIL,71.082538048,38,Market,Filled,2701.136445824,Warning: No quote information available at 02/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T17:00:00Z,NAIL,67.725641282,-122,Market,Filled,-8262.528236404,Warning: No quote information available at 02/27/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-05T15:00:00Z,NAIL,60.533714086,94,Market,Filled,5690.169124084,Warning: No quote information available at 03/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-06T15:00:00Z,NAIL,63.482205014,41,Market,Filled,2602.770405574,Warning: No quote information available at 03/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-15T14:00:00Z,NAIL,67.048285258,-93,Market,Filled,-6235.490528994,Warning: No quote information available at 03/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-15T16:00:00Z,NAIL,65.852951098,-42,Market,Filled,-2765.823946116,Warning: No quote information available at 03/15/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-20T14:00:00Z,NAIL,66.859024016,92,Market,Filled,6151.030209472,Warning: No quote information available at 03/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-21T14:00:00Z,NAIL,66.68968501,42,Market,Filled,2800.96677042,Warning: No quote information available at 03/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-22T20:00:00Z,NAIL,64.179483274,-134,Market On Open,Filled,-8600.050758716, 
+2018-03-23T14:00:00Z,NAIL,66.012328986,89,Market,Filled,5875.097279754,Warning: No quote information available at 03/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-23T16:00:00Z,NAIL,63.930455324,-89,Market,Filled,-5689.810523836,Warning: No quote information available at 03/23/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-26T14:00:00Z,NAIL,65.49435085,129,Market,Filled,8448.77125965,Warning: No quote information available at 03/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-26T16:00:00Z,NAIL,63.790999672,-41,Market,Filled,-2615.430986552,Warning: No quote information available at 03/26/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-26T17:00:00Z,NAIL,63.2530993,-88,Market,Filled,-5566.2727384,Warning: No quote information available at 03/26/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-26T19:00:00Z,NAIL,64.89668377,86,Market,Filled,5581.11480422,Warning: No quote information available at 03/26/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-03-26T20:00:00Z,NAIL,67.516457804,39,Market On Open,Filled,2633.141854356, 
+2018-03-27T20:00:00Z,NAIL,62.914421288,-40,Market On Open,Filled,-2516.57685152, 
+2018-03-29T17:00:00Z,NAIL,63.95037756,39,Market,Filled,2494.06472484,Warning: No quote information available at 03/29/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-02T14:00:00Z,NAIL,61.569670358,-124,Market,Filled,-7634.639124392,Warning: No quote information available at 04/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-04T14:00:00Z,NAIL,63.522049486,120,Market,Filled,7622.64593832,Warning: No quote information available at 04/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-10T14:00:00Z,NAIL,66.550229358,-82,Market,Filled,-5457.118807356,Warning: No quote information available at 04/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-11T19:00:00Z,NAIL,64.139638802,-38,Market,Filled,-2437.306274476,Warning: No quote information available at 04/11/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-04-16T15:00:00Z,NAIL,63.970299796,124,Market,Filled,7932.317174704,Warning: No quote information available at 04/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-19T14:00:00Z,NAIL,61.450136942,-124,Market,Filled,-7619.816980808,Warning: No quote information available at 04/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-24T14:00:00Z,NAIL,59.826474708,87,Market,Filled,5204.903299596,Warning: No quote information available at 04/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-24T18:00:00Z,NAIL,57.505534214,-87,Market,Filled,-5002.981476618,Warning: No quote information available at 04/24/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-25T17:00:00Z,NAIL,58.551451604,87,Market,Filled,5093.976289548,Warning: No quote information available at 04/25/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-26T15:00:00Z,NAIL,60.46398626,38,Market,Filled,2297.63147788,Warning: No quote information available at 04/26/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-30T20:00:00Z,NAIL,57.794406636,-86,Market On Open,Filled,-4970.318970696, 
+2018-05-01T15:00:00Z,NAIL,56.7783726,-39,Market,Filled,-2214.3565314,Warning: No quote information available at 05/01/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-01T20:00:00Z,NAIL,58.979779678,38,Market On Open,Filled,2241.231627764, 
+2018-05-02T15:00:00Z,NAIL,60.324530608,82,Market,Filled,4946.611509856,Warning: No quote information available at 05/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-02T20:00:00Z,NAIL,56.7783726,-120,Market On Open,Filled,-6813.404712, 
+2018-05-03T18:00:00Z,NAIL,58.850285144,80,Market,Filled,4708.02281152,Warning: No quote information available at 05/03/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-04T15:00:00Z,NAIL,60.324530608,36,Market,Filled,2171.683101888,Warning: No quote information available at 05/04/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-09T14:00:00Z,NAIL,59.766708,-80,Market,Filled,-4781.33664,Warning: No quote information available at 05/09/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-09T15:00:00Z,NAIL,57.67487322,-36,Market,Filled,-2076.29543592,Warning: No quote information available at 05/09/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-11T14:00:00Z,NAIL,60.633325266,113,Market,Filled,6851.565755058,Warning: No quote information available at 05/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-14T20:00:00Z,NAIL,58.162968002,-36,Market On Open,Filled,-2093.866848072, 
+2018-05-15T14:00:00Z,NAIL,55.324049372,-77,Market,Filled,-4259.951801644,Warning: No quote information available at 05/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-17T14:00:00Z,NAIL,55.13478813,79,Market,Filled,4355.64826227,Warning: No quote information available at 05/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-18T15:00:00Z,NAIL,56.439694588,35,Market,Filled,1975.38931058,Warning: No quote information available at 05/18/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-22T15:00:00Z,NAIL,55.294166018,-78,Market,Filled,-4312.944949404,Warning: No quote information available at 05/22/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-24T16:00:00Z,NAIL,57.087167258,76,Market,Filled,4338.624711608,Warning: No quote information available at 05/24/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-05-31T18:00:00Z,NAIL,57.605145394,-77,Market,Filled,-4435.596195338,Warning: No quote information available at 05/31/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-06-04T14:00:00Z,NAIL,59.149118684,75,Market,Filled,4436.1839013,Warning: No quote information available at 06/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-06T14:00:00Z,NAIL,57.884056698,-110,Market,Filled,-6367.24623678,Warning: No quote information available at 06/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-06T16:00:00Z,NAIL,59.428029988,107,Market,Filled,6358.799208716,Warning: No quote information available at 06/06/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-13T16:00:00Z,NAIL,63.890610852,-74,Market,Filled,-4727.905203048,Warning: No quote information available at 06/13/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-13T18:00:00Z,NAIL,61.579631476,-33,Market,Filled,-2032.127838708,Warning: No quote information available at 06/13/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-06-26T14:00:00Z,NAIL,55.871910862,82,Market,Filled,4581.496690684,Warning: No quote information available at 06/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-27T19:00:00Z,NAIL,52.963264406,-82,Market,Filled,-4342.987681292,Warning: No quote information available at 06/27/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-06-28T20:00:00Z,NAIL,54.83595459,83,Market On Open,Filled,4551.38423097, 
+2018-06-29T14:00:00Z,NAIL,56.18070552,35,Market,Filled,1966.3246932,Warning: No quote information available at 06/29/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-12T14:00:00Z,NAIL,57.415884152,-81,Market,Filled,-4650.686616312,Warning: No quote information available at 07/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-13T14:00:00Z,NAIL,58.7705962,79,Market,Filled,4642.8770998,Warning: No quote information available at 07/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-20T19:00:00Z,NAIL,59.936047006,-80,Market,Filled,-4794.88376048,Warning: No quote information available at 07/20/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-07-23T15:00:00Z,NAIL,59.258690982,-36,Market,Filled,-2133.312875352,Warning: No quote information available at 07/23/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-27T14:00:00Z,NAIL,54.078909622,87,Market,Filled,4704.865137114,Warning: No quote information available at 07/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-31T15:00:00Z,NAIL,53.630659312,41,Market,Filled,2198.857031792,Warning: No quote information available at 07/31/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-01T17:00:00Z,NAIL,51.49898006,-88,Market,Filled,-4531.91024528,Warning: No quote information available at 08/01/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-01T20:00:00Z,NAIL,51.94723037,87,Market On Open,Filled,4519.40904219, 
+2018-08-02T14:00:00Z,NAIL,51.020846396,-127,Market,Filled,-6479.647492292,Warning: No quote information available at 08/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-06T19:00:00Z,NAIL,52.116569376,85,Market,Filled,4429.90839696,Warning: No quote information available at 08/06/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-08-06T20:00:00Z,NAIL,51.757969128,40,Market On Open,Filled,2070.31876512, 
+2018-08-10T14:00:00Z,NAIL,52.465208506,-86,Market,Filled,-4512.007931516,Warning: No quote information available at 08/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-13T14:00:00Z,NAIL,51.54878565,-39,Market,Filled,-2010.40264035,Warning: No quote information available at 08/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-16T14:00:00Z,NAIL,51.030807514,87,Market,Filled,4439.680253718,Warning: No quote information available at 08/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-16T16:00:00Z,NAIL,51.578669004,40,Market,Filled,2063.14676016,Warning: No quote information available at 08/16/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-24T14:00:00Z,NAIL,53.282020182,-87,Market,Filled,-4635.535755834,Warning: No quote information available at 08/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-27T14:00:00Z,NAIL,54.746304528,85,Market,Filled,4653.43588488,Warning: No quote information available at 08/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-29T14:00:00Z,NAIL,52.833769872,-125,Market,Filled,-6604.221234,Warning: No quote information available at 08/29/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-29T17:00:00Z,NAIL,54.228326392,122,Market,Filled,6615.855819824,Warning: No quote information available at 08/29/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-30T16:00:00Z,NAIL,52.59470304,-122,Market,Filled,-6416.55377088,Warning: No quote information available at 08/30/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-09-05T14:00:00Z,NAIL,53.072836704,121,Market,Filled,6421.813241184,Warning: No quote information available at 09/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-07T14:00:00Z,NAIL,51.568707886,-121,Market,Filled,-6239.813654206,Warning: No quote information available at 09/07/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-11T16:00:00Z,NAIL,52.664430866,118,Market,Filled,6214.402842188,Warning: No quote information available at 09/11/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-09-13T15:00:00Z,NAIL,50.393295962,-118,Market,Filled,-5946.408923516,Warning: No quote information available at 09/13/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-09-14T16:00:00Z,NAIL,52.554858568,114,Market,Filled,5991.253876752,Warning: No quote information available at 09/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-09-17T20:00:00Z,NAIL,51.688241302,-78,Market On Open,Filled,-4031.682821556, 
+2018-09-18T18:00:00Z,NAIL,52.156413848,77,Market,Filled,4016.043866296,Warning: No quote information available at 09/18/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-09-20T14:00:00Z,NAIL,49.227845156,-113,Market,Filled,-5562.746502628,Warning: No quote information available at 09/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-02T14:00:00Z,NAIL,42.7712822,89,Market,Filled,3806.6441158,Warning: No quote information available at 10/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-02T15:00:00Z,NAIL,42.3527375,-89,Market,Filled,-3769.3936375,Warning: No quote information available at 10/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-02T19:00:00Z,NAIL,42.70152475,89,Market,Filled,3800.43570275,Warning: No quote information available at 10/02/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-10-02T20:00:00Z,NAIL,41.85447,-89,Market On Open,Filled,-3725.04783, 
+2018-10-03T15:00:00Z,NAIL,42.16339585,89,Market,Filled,3752.54223065,Warning: No quote information available at 10/03/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T16:00:00Z,NAIL,40.68852405,-89,Market,Filled,-3621.27864045,Warning: No quote information available at 10/03/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-08T19:00:00Z,NAIL,38.67552335,95,Market,Filled,3674.17471825,Warning: No quote information available at 10/08/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-10-09T17:00:00Z,NAIL,36.30377005,-95,Market,Filled,-3448.85815475,Warning: No quote information available at 10/09/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T15:00:00Z,NAIL,32.63652125,108,Market,Filled,3524.744295,Warning: No quote information available at 10/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T16:00:00Z,NAIL,32.885655,49,Market,Filled,1611.397095,Warning: No quote information available at 10/16/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-17T14:00:00Z,NAIL,30.7530701,-157,Market,Filled,-4828.2320057,Warning: No quote information available at 10/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-23T17:00:00Z,NAIL,27.105752,122,Market,Filled,3306.901744,Warning: No quote information available at 10/23/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-24T14:00:00Z,NAIL,28.0424949,55,Market,Filled,1542.3372195,Warning: No quote information available at 10/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-24T15:00:00Z,NAIL,26.5476924,-56,Market,Filled,-1486.6707744,Warning: No quote information available at 10/24/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-24T20:00:00Z,NAIL,25.7703951,-121,Market On Open,Filled,-3118.2178071, 
+2018-10-25T14:00:00Z,NAIL,26.21883585,120,Market,Filled,3146.260302,Warning: No quote information available at 10/25/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-25T16:00:00Z,NAIL,26.75696475,55,Market,Filled,1471.63306125,Warning: No quote information available at 10/25/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-26T15:00:00Z,NAIL,24.7738601,-55,Market,Filled,-1362.5623055,Warning: No quote information available at 10/26/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-26T16:00:00Z,NAIL,26.89647965,50,Market,Filled,1344.8239825,Warning: No quote information available at 10/26/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-08T15:00:00Z,NAIL,27.6239502,-170,Market,Filled,-4696.071534,Warning: No quote information available at 11/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-13T15:00:00Z,NAIL,28.37135145,113,Market,Filled,3205.96271385,Warning: No quote information available at 11/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-14T15:00:00Z,NAIL,29.08885665,51,Market,Filled,1483.53168915,Warning: No quote information available at 11/14/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-14T19:00:00Z,NAIL,27.6239502,-52,Market,Filled,-1436.4454104,Warning: No quote information available at 11/14/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-11-15T15:00:00Z,NAIL,25.0130285,-112,Market,Filled,-2801.459192,Warning: No quote information available at 11/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-16T20:00:00Z,NAIL,27.2452669,107,Market,Filled,2915.2435583,Warning: No quote information available at 11/16/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-11-16T21:00:00Z,NAIL,27.73356905,49,Market On Open,Filled,1358.94488345, 
+2018-11-28T16:00:00Z,NAIL,27.81329185,-156,Market,Filled,-4338.8735286,Warning: No quote information available at 11/28/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-28T18:00:00Z,NAIL,31.06199595,139,Market,Filled,4317.61743705,Warning: No quote information available at 11/28/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-12-04T15:00:00Z,NAIL,28.82975755,-139,Market,Filled,-4007.33629945,Warning: No quote information available at 12/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-07T15:00:00Z,NAIL,29.9558421,92,Market,Filled,2755.9374732,Warning: No quote information available at 12/07/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-07T20:00:00Z,NAIL,28.01259885,-92,Market,Filled,-2577.1590942,Warning: No quote information available at 12/07/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-12-12T16:00:00Z,NAIL,26.87654895,98,Market,Filled,2633.9017971,Warning: No quote information available at 12/12/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-12T17:00:00Z,NAIL,27.37481645,45,Market,Filled,1231.86674025,Warning: No quote information available at 12/12/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-13T19:00:00Z,NAIL,26.2885933,-45,Market,Filled,-1182.9866985,Warning: No quote information available at 12/13/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T15:00:00Z,NAIL,26.707138,44,Market,Filled,1175.114072,Warning: No quote information available at 12/14/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T17:00:00Z,NAIL,26.308524,-45,Market,Filled,-1183.88358,Warning: No quote information available at 12/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T20:00:00Z,NAIL,25.34188505,-97,Market,Filled,-2458.16284985,Warning: No quote information available at 12/14/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-12-18T15:00:00Z,NAIL,26.39821215,138,Market,Filled,3642.9532767,Warning: No quote information available at 12/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-19T21:00:00Z,NAIL,24.913375,-43,Market On Open,Filled,-1071.275125, 
+2018-12-20T15:00:00Z,NAIL,24.56458775,-95,Market,Filled,-2333.63583625,Warning: No quote information available at 12/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-20T16:00:00Z,NAIL,25.76042975,133,Market,Filled,3426.13715675,Warning: No quote information available at 12/20/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-20T19:00:00Z,NAIL,24.5546224,-133,Market,Filled,-3265.7647792,Warning: No quote information available at 12/20/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-12-26T21:00:00Z,NAIL,23.4185725,95,Market On Open,Filled,2224.7643875, 
+2018-12-27T21:00:00Z,NAIL,22.93027035,44,Market On Open,Filled,1008.9318954, 
+2019-01-15T15:00:00Z,NAIL,30.74310475,-96,Market,Filled,-2951.338056,Warning: No quote information available at 01/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-16T17:00:00Z,NAIL,30.3943175,-43,Market,Filled,-1306.9556525,Warning: No quote information available at 01/16/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-18T17:00:00Z,NAIL,30.70324335,94,Market,Filled,2886.1048749,Warning: No quote information available at 01/18/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-22T15:00:00Z,NAIL,29.2383369,-94,Market,Filled,-2748.4036686,Warning: No quote information available at 01/22/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-23T16:00:00Z,NAIL,29.6170202,95,Market,Filled,2813.616919,Warning: No quote information available at 01/23/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-23T17:00:00Z,NAIL,29.0390299,-95,Market,Filled,-2758.7078405,Warning: No quote information available at 01/23/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-24T15:00:00Z,NAIL,29.7565351,136,Market,Filled,4046.8887736,Warning: No quote information available at 01/24/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T15:00:00Z,NAIL,28.86961895,-136,Market,Filled,-3926.2681772,Warning: No quote information available at 01/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T16:00:00Z,NAIL,29.78643115,41,Market,Filled,1221.24367715,Warning: No quote information available at 01/29/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T19:00:00Z,NAIL,30.8327929,88,Market,Filled,2713.2857752,Warning: No quote information available at 01/29/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-02-06T16:00:00Z,NAIL,33.8622593,-89,Market,Filled,-3013.7410777,Warning: No quote information available at 02/06/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-06T21:00:00Z,NAIL,32.686348,-40,Market On Open,Filled,-1307.45392, 
+2019-02-11T15:00:00Z,NAIL,33.35402645,88,Market,Filled,2935.1543276,Warning: No quote information available at 02/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-12T15:00:00Z,NAIL,36.1742205,37,Market,Filled,1338.4461585,Warning: No quote information available at 02/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-26T17:00:00Z,NAIL,37.9679835,-86,Market,Filled,-3265.246581,Warning: No quote information available at 02/26/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-02-26T18:00:00Z,NAIL,37.49961205,-39,Market,Filled,-1462.48486995,Warning: No quote information available at 02/26/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T15:00:00Z,NAIL,36.30377005,89,Market,Filled,3231.03553445,Warning: No quote information available at 03/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T16:00:00Z,NAIL,37.0910327,40,Market,Filled,1483.641308,Warning: No quote information available at 03/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T18:00:00Z,NAIL,36.1343591,-41,Market,Filled,-1481.5087231,Warning: No quote information available at 03/04/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-03-05T16:00:00Z,NAIL,34.9185864,-88,Market,Filled,-3072.8356032,Warning: No quote information available at 03/05/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-07T16:00:00Z,NAIL,35.20758155,88,Market,Filled,3098.2671764,Warning: No quote information available at 03/07/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-07T17:00:00Z,NAIL,35.3371311,41,Market,Filled,1448.8223751,Warning: No quote information available at 03/07/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-14T14:00:00Z,NAIL,35.72577975,-89,Market,Filled,-3179.59439775,Warning: No quote information available at 03/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-14T15:00:00Z,NAIL,35.1378241,-40,Market,Filled,-1405.512964,Warning: No quote information available at 03/14/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-15T14:00:00Z,NAIL,36.273874,86,Market,Filled,3119.553164,Warning: No quote information available at 03/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-15T20:00:00Z,NAIL,35.42681925,-86,Market On Open,Filled,-3046.7064555, 
+2019-03-18T14:00:00Z,NAIL,35.88522535,86,Market,Filled,3086.1293801,Warning: No quote information available at 03/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-18T16:00:00Z,NAIL,35.0182399,-86,Market,Filled,-3011.5686314,Warning: No quote information available at 03/18/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-18T20:00:00Z,NAIL,35.919362427,85,Market On Open,Filled,3053.145806295, 
+2019-03-19T14:00:00Z,NAIL,36.22875399,38,Market,Filled,1376.69265162,Warning: No quote information available at 03/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-19T16:00:00Z,NAIL,35.53012788,-39,Market,Filled,-1385.67498732,Warning: No quote information available at 03/19/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-19T18:00:00Z,NAIL,35.051069976,-84,Market,Filled,-2944.289877984,Warning: No quote information available at 03/19/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-03-21T14:00:00Z,NAIL,34.53209058,86,Market,Filled,2969.75978988,Warning: No quote information available at 03/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-21T15:00:00Z,NAIL,34.901364381,39,Market,Filled,1361.153210859,Warning: No quote information available at 03/21/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-01T15:00:00Z,NAIL,36.867497862,-86,Market,Filled,-3170.604816132,Warning: No quote information available at 04/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-02T18:00:00Z,NAIL,37.715829567,84,Market,Filled,3168.129683628,Warning: No quote information available at 04/02/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-04-25T14:00:00Z,NAIL,45.071364468,-123,Market,Filled,-5543.777829564,Warning: No quote information available at 04/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-30T15:00:00Z,NAIL,45.550422372,82,Market,Filled,3735.134634504,Warning: No quote information available at 04/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T14:00:00Z,NAIL,47.60637921,37,Market,Filled,1761.43603077,Warning: No quote information available at 05/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-07T16:00:00Z,NAIL,46.259028855,-82,Market,Filled,-3793.24036611,Warning: No quote information available at 05/07/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-07T19:00:00Z,NAIL,45.730069086,-37,Market,Filled,-1692.012556182,Warning: No quote information available at 05/07/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-05-10T18:00:00Z,NAIL,45.989558784,81,Market,Filled,3725.154261504,Warning: No quote information available at 05/10/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-05-13T14:00:00Z,NAIL,43.933601946,-81,Market,Filled,-3558.621757626,Warning: No quote information available at 05/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-14T16:00:00Z,NAIL,46.338871839,115,Market,Filled,5328.970261485,Warning: No quote information available at 05/14/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-20T14:00:00Z,NAIL,47.017537203,-79,Market,Filled,-3714.385439037,Warning: No quote information available at 05/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-20T19:00:00Z,NAIL,45.280952301,-36,Market,Filled,-1630.114282836,Warning: No quote information available at 05/20/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-05-21T19:00:00Z,NAIL,47.127321306,113,Market,Filled,5325.387307578,Warning: No quote information available at 05/21/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-05-22T14:00:00Z,NAIL,45.340834539,-113,Market,Filled,-5123.514302907,Warning: No quote information available at 05/22/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-24T17:00:00Z,NAIL,45.041423349,78,Market,Filled,3513.231021222,Warning: No quote information available at 05/24/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-05-24T20:00:00Z,NAIL,46.039460649,36,Market On Open,Filled,1657.420583364, 
+2019-05-28T20:00:00Z,NAIL,42.865702035,-114,Market On Open,Filled,-4886.69003199, 
+2019-06-03T15:00:00Z,NAIL,41.857684362,79,Market,Filled,3306.757064598,Warning: No quote information available at 06/03/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-03T18:00:00Z,NAIL,42.865702035,36,Market,Filled,1543.16527326,Warning: No quote information available at 06/03/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-06-11T16:00:00Z,NAIL,46.50853818,-79,Market,Filled,-3674.17451622,Warning: No quote information available at 06/11/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T18:00:00Z,NAIL,47.845908162,76,Market,Filled,3636.289020312,Warning: No quote information available at 06/12/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T16:00:00Z,NAIL,47.70618294,-77,Market,Filled,-3673.37608638,Warning: No quote information available at 06/18/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T18:00:00Z,NAIL,49.083474414,75,Market,Filled,3681.26058105,Warning: No quote information available at 06/18/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-06-19T14:00:00Z,NAIL,45.939656919,-110,Market,Filled,-5053.36226109,Warning: No quote information available at 06/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-20T14:00:00Z,NAIL,48.963709938,104,Market,Filled,5092.225833552,Warning: No quote information available at 06/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-20T17:00:00Z,NAIL,47.10736056,-33,Market,Filled,-1554.54289848,Warning: No quote information available at 06/20/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-20T19:00:00Z,NAIL,48.524573526,32,Market,Filled,1552.786352832,Warning: No quote information available at 06/20/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-21T17:00:00Z,NAIL,47.087399814,-33,Market,Filled,-1553.884193862,Warning: No quote information available at 06/21/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-21T19:00:00Z,NAIL,46.149244752,-70,Market,Filled,-3230.44713264,Warning: No quote information available at 06/21/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-25T14:00:00Z,NAIL,46.960841643,70,Market,Filled,3287.25891501,Warning: No quote information available at 06/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-25T16:00:00Z,NAIL,42.265756433,-70,Market,Filled,-2958.60295031,Warning: No quote information available at 06/25/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-27T17:00:00Z,NAIL,43.943999657,69,Market,Filled,3032.135976333,Warning: No quote information available at 06/27/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-28T14:00:00Z,NAIL,45.9518978,31,Market,Filled,1424.5088318,Warning: No quote information available at 06/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-05T15:00:00Z,NAIL,45.492378822,-69,Market,Filled,-3138.974138718,Warning: No quote information available at 07/05/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-09T18:00:00Z,NAIL,45.85200237,-31,Market,Filled,-1421.41207347,Warning: No quote information available at 07/09/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-07-10T15:00:00Z,NAIL,46.9508521,66,Market,Filled,3098.7562386,Warning: No quote information available at 07/10/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-10T17:00:00Z,NAIL,47.230559304,31,Market,Filled,1464.147338424,Warning: No quote information available at 07/10/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-11T15:00:00Z,NAIL,46.201636375,-31,Market,Filled,-1432.250727625,Warning: No quote information available at 07/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-11T18:00:00Z,NAIL,46.15168866,-66,Market,Filled,-3046.01145156,Warning: No quote information available at 07/11/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-07-11T20:00:00Z,NAIL,47.540235137,95,Market On Open,Filled,4516.322338015, 
+2019-07-18T14:00:00Z,NAIL,47.55022468,-95,Market,Filled,-4517.2713446,Warning: No quote information available at 07/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-24T17:00:00Z,NAIL,45.85200237,67,Market,Filled,3072.08415879,Warning: No quote information available at 07/24/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-25T14:00:00Z,NAIL,48.309429948,29,Market,Filled,1400.973468492,Warning: No quote information available at 07/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-29T19:00:00Z,NAIL,46.021824601,-66,Market,Filled,-3037.440423666,Warning: No quote information available at 07/29/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-07-30T14:00:00Z,NAIL,48.019733201,63,Market,Filled,3025.243191663,Warning: No quote information available at 07/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-05T14:00:00Z,NAIL,46.35147952,-93,Market,Filled,-4310.68759536,Warning: No quote information available at 08/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-07T17:00:00Z,NAIL,47.030768444,63,Market,Filled,2962.938411972,Warning: No quote information available at 08/07/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-08-07T19:00:00Z,NAIL,48.529199894,28,Market,Filled,1358.817597032,Warning: No quote information available at 08/07/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-12T15:00:00Z,NAIL,47.779984169,-63,Market,Filled,-3010.139002647,Warning: No quote information available at 08/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-13T14:00:00Z,NAIL,50.926690214,59,Market,Filled,3004.674722626,Warning: No quote information available at 08/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-14T15:00:00Z,NAIL,47.720046911,-87,Market,Filled,-4151.644081257,Warning: No quote information available at 08/14/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-16T19:00:00Z,NAIL,48.319419491,86,Market,Filled,4155.470076226,Warning: No quote information available at 08/16/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-23T19:00:00Z,NAIL,51.965602686,-59,Market,Filled,-3065.970558474,Warning: No quote information available at 08/23/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-26T15:00:00Z,NAIL,51.136470617,-27,Market,Filled,-1380.684706659,Warning: No quote information available at 08/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-28T15:00:00Z,NAIL,50.966648386,59,Market,Filled,3007.032254774,Warning: No quote information available at 08/28/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-29T14:00:00Z,NAIL,53.873605399,26,Market,Filled,1400.713740374,Warning: No quote information available at 08/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-10T14:00:00Z,NAIL,55.501900908,-58,Market,Filled,-3219.110252664,Warning: No quote information available at 09/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-10T15:00:00Z,NAIL,56.8474923501,57,Market,Filled,3240.3070639557,Warning: No quote information available at 09/10/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-02T14:00:00Z,NAIL,60.875991392,-84,Market,Filled,-5113.583276928,Warning: No quote information available at 10/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-04T14:00:00Z,NAIL,63.184322648,80,Market,Filled,5054.74581184,Warning: No quote information available at 10/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-10T15:00:00Z,NAIL,63.633997568,-55,Market,Filled,-3499.86986624,Warning: No quote information available at 10/10/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-11T14:00:00Z,NAIL,66.022271032,53,Market,Filled,3499.180364696,Warning: No quote information available at 10/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-28T15:00:00Z,NAIL,73.167105872,-54,Market,Filled,-3951.023717088,Warning: No quote information available at 10/28/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-28T17:00:00Z,NAIL,72.527568208,-24,Market,Filled,-1740.661636992,Warning: No quote information available at 10/28/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-11-01T14:00:00Z,NAIL,72.527568208,78,Market,Filled,5657.150320224,Warning: No quote information available at 11/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-04T19:00:00Z,NAIL,69.229952128,-24,Market,Filled,-1661.518851072,Warning: No quote information available at 11/04/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-11-05T15:00:00Z,NAIL,68.30062396,-54,Market,Filled,-3688.23369384,Warning: No quote information available at 11/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-07T15:00:00Z,NAIL,68.590414464,54,Market,Filled,3703.882381056,Warning: No quote information available at 11/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-07T17:00:00Z,NAIL,66.691787024,-54,Market,Filled,-3601.356499296,Warning: No quote information available at 11/07/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-11-11T15:00:00Z,NAIL,67.331324688,54,Market,Filled,3635.891533152,Warning: No quote information available at 11/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-11T16:00:00Z,NAIL,68.040811784,24,Market,Filled,1632.979482816,Warning: No quote information available at 11/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-21T17:00:00Z,NAIL,70.978687928,-54,Market,Filled,-3832.849148112,Warning: No quote information available at 11/21/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-11-21T18:00:00Z,NAIL,70.9487096,-24,Market,Filled,-1702.7690304,Warning: No quote information available at 11/21/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-11-25T15:00:00Z,NAIL,72.117864392,77,Market,Filled,5553.075558184,Warning: No quote information available at 11/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-02T15:00:00Z,NAIL,70.259208056,-77,Market,Filled,-5409.959020312,Warning: No quote information available at 12/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-04T19:00:00Z,NAIL,71.528290608,51,Market,Filled,3647.942821008,Warning: No quote information available at 12/04/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-12-05T15:00:00Z,NAIL,72.887308144,24,Market,Filled,1749.295395456,Warning: No quote information available at 12/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-10T15:00:00Z,NAIL,71.828073888,-52,Market,Filled,-3735.059842176,Warning: No quote information available at 12/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-10T17:00:00Z,NAIL,73.456896376,51,Market,Filled,3746.301715176,Warning: No quote information available at 12/10/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-12T21:00:00Z,NAIL,71.438355624,-74,Market On Open,Filled,-5286.438316176, 
+2019-12-16T16:00:00Z,NAIL,73.316997512,72,Market,Filled,5278.823820864,Warning: No quote information available at 12/16/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-17T20:00:00Z,NAIL,70.04935976,-72,Market,Filled,-5043.55390272,Warning: No quote information available at 12/17/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-12-20T20:00:00Z,NAIL,68.710327776,50,Market,Filled,3435.5163888,Warning: No quote information available at 12/20/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-12-20T21:00:00Z,NAIL,69.979410328,23,Market On Open,Filled,1609.526437544, 
+2019-12-23T17:00:00Z,NAIL,67.980855128,-23,Market,Filled,-1563.559667944,Warning: No quote information available at 12/23/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-24T16:00:00Z,NAIL,68.870212192,23,Market,Filled,1584.014880416,Warning: No quote information available at 12/24/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-30T15:00:00Z,NAIL,67.30134636,-73,Market,Filled,-4912.99828428,Warning: No quote information available at 12/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-31T15:00:00Z,NAIL,68.285634796,72,Market,Filled,4916.565705312,Warning: No quote information available at 12/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-02T17:00:00Z,NAIL,66.98547471064,-23,Market,Filled,-1540.6659183447,Warning: No quote information available at 01/02/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-02T19:00:00Z,NAIL,66.21153420944,-49,Market,Filled,-3244.3651762626,Warning: No quote information available at 01/02/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T16:00:00Z,NAIL,67.7899931064,48,Market,Filled,3253.9196691072,Warning: No quote information available at 01/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T17:00:00Z,NAIL,68.40055172,22,Market,Filled,1504.81213784,Warning: No quote information available at 01/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-31T15:00:00Z,NAIL,86.73729568,-48,Market,Filled,-4163.39019264,Warning: No quote information available at 01/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-31T16:00:00Z,NAIL,84.51700078056,-22,Market,Filled,-1859.3740171723,Warning: No quote information available at 01/31/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-04T15:00:00Z,NAIL,85.23837928,48,Market,Filled,4091.44220544,Warning: No quote information available at 02/04/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-04T17:00:00Z,NAIL,83.21514192328,-48,Market,Filled,-3994.3268123174,Warning: No quote information available at 02/04/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-05T15:00:00Z,NAIL,83.719477328,48,Market,Filled,4018.534911744,Warning: No quote information available at 02/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-05T17:00:00Z,NAIL,86.897180096,21,Market,Filled,1824.840782016,Warning: No quote information available at 02/05/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-24T15:00:00Z,NAIL,91.613770368,-69,Market,Filled,-6321.350155392,Warning: No quote information available at 02/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T21:00:00Z,NAIL,69.169995472,63,Market On Open,Filled,4357.709714736, 
+2020-03-03T16:00:00Z,NAIL,74.036477384,26,Market,Filled,1924.948411984,Warning: No quote information available at 03/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-03T20:00:00Z,NAIL,66.921620872,-28,Market,Filled,-1873.805384416,Warning: No quote information available at 03/03/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-03-04T15:00:00Z,NAIL,76.09498924,25,Market,Filled,1902.374731,Warning: No quote information available at 03/04/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-06T15:00:00Z,NAIL,62.34283098104,-86,Market,Filled,-5361.4834643694,Warning: No quote information available at 03/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-20T15:00:00Z,NAIL,8.973512848,415,Market,Filled,3724.00783192,Warning: No quote information available at 03/20/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T14:00:00Z,NAIL,8.4025,207,Market,Filled,1739.3175,Warning: No quote information available at 03/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-31T14:00:00Z,NAIL,11.02,-428,Market,Filled,-4716.56,Warning: No quote information available at 03/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-31T20:00:00Z,NAIL,8.78,-194,Market On Open,Filled,-1703.32, 
+2020-04-06T14:00:00Z,NAIL,9.18,692,Market,Filled,6352.56,Warning: No quote information available at 04/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-15T14:00:00Z,NAIL,11.175,-692,Market,Filled,-7733.1,Warning: No quote information available at 04/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-17T14:00:00Z,NAIL,12.8,598,Market,Filled,7654.4,Warning: No quote information available at 04/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-20T19:00:00Z,NAIL,11,-186,Market,Filled,-2046,Warning: No quote information available at 04/20/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-21T14:00:00Z,NAIL,10.59,-412,Market,Filled,-4363.08,Warning: No quote information available at 04/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-22T16:00:00Z,NAIL,11.0899,184,Market,Filled,2040.5416,Warning: No quote information available at 04/22/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-04-23T14:00:00Z,NAIL,10.81,410,Market,Filled,4432.1,Warning: No quote information available at 04/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-01T14:00:00Z,NAIL,15.47,-410,Market,Filled,-6342.7,Warning: No quote information available at 05/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-04T14:00:00Z,NAIL,15.5147,-184,Market,Filled,-2854.7048,Warning: No quote information available at 05/04/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T14:00:00Z,NAIL,18.18,498,Market,Filled,9053.64,Warning: No quote information available at 05/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-12T20:00:00Z,NAIL,17.31,-498,Market On Open,Filled,-8620.38, 
+2020-05-15T15:00:00Z,NAIL,16.62,355,Market,Filled,5900.1,Warning: No quote information available at 05/15/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-18T14:00:00Z,NAIL,20.48,130,Market,Filled,2662.4,Warning: No quote information available at 05/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-29T18:00:00Z,NAIL,26.65,-334,Market,Filled,-8901.1,Warning: No quote information available at 05/29/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-06-02T14:00:00Z,NAIL,27.29,320,Market,Filled,8732.8,Warning: No quote information available at 06/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-09T14:00:00Z,NAIL,29.59,-323,Market,Filled,-9557.57,Warning: No quote information available at 06/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-09T18:00:00Z,NAIL,30.76,309,Market,Filled,9504.84,Warning: No quote information available at 06/09/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-06-10T14:00:00Z,NAIL,29.72,-313,Market,Filled,-9302.36,Warning: No quote information available at 06/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-10T15:00:00Z,NAIL,28.18,-144,Market,Filled,-4057.92,Warning: No quote information available at 06/10/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-15T17:00:00Z,NAIL,26.28,348,Market,Filled,9145.44,Warning: No quote information available at 06/15/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-06-15T20:00:00Z,NAIL,31,152,Market On Open,Filled,4712, 
+2020-06-19T15:00:00Z,NAIL,27.58,-348,Market,Filled,-9597.84,Warning: No quote information available at 06/19/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-22T14:00:00Z,NAIL,26.1,-152,Market,Filled,-3967.2,Warning: No quote information available at 06/22/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-23T14:00:00Z,NAIL,27.64,324,Market,Filled,8955.36,Warning: No quote information available at 06/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-23T18:00:00Z,NAIL,28.31,146,Market,Filled,4133.26,Warning: No quote information available at 06/23/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-06-24T14:00:00Z,NAIL,25.79,-470,Market,Filled,-12121.3,Warning: No quote information available at 06/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-29T15:00:00Z,NAIL,24.59,339,Market,Filled,8336.01,Warning: No quote information available at 06/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-30T14:00:00Z,NAIL,25.515,150,Market,Filled,3827.25,Warning: No quote information available at 06/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-13T20:00:00Z,NAIL,26.36,-489,Market On Open,Filled,-12890.04, 
+2020-07-14T15:00:00Z,NAIL,27.5,320,Market,Filled,8800,Warning: No quote information available at 07/14/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-14T16:00:00Z,NAIL,28.29,143,Market,Filled,4045.47,Warning: No quote information available at 07/14/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-07-31T17:00:00Z,NAIL,39.08,-319,Market,Filled,-12466.52,Warning: No quote information available at 07/31/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-31T20:00:00Z,NAIL,41.93,294,Market On Open,Filled,12327.42, 
+2020-08-27T15:00:00Z,NAIL,52.01,-302,Market,Filled,-15707.02,Warning: No quote information available at 08/27/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-27T17:00:00Z,NAIL,50.38,-136,Market,Filled,-6851.68,Warning: No quote information available at 08/27/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-09-01T14:00:00Z,NAIL,49.77,305,Market,Filled,15179.85,Warning: No quote information available at 09/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-01T16:00:00Z,NAIL,51.17,137,Market,Filled,7010.29,Warning: No quote information available at 09/01/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-03T15:00:00Z,NAIL,49,-139,Market,Filled,-6811,Warning: No quote information available at 09/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-03T16:00:00Z,NAIL,47.38,-303,Market,Filled,-14356.14,Warning: No quote information available at 09/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-09T14:00:00Z,NAIL,45,323,Market,Filled,14535,Warning: No quote information available at 09/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-10T14:00:00Z,NAIL,48.24,138,Market,Filled,6657.12,Warning: No quote information available at 09/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-18T17:00:00Z,NAIL,48.72,-461,Market,Filled,-22459.92,Warning: No quote information available at 09/18/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-09-22T16:00:00Z,NAIL,49,313,Market,Filled,15337,Warning: No quote information available at 09/22/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-22T18:00:00Z,NAIL,50.14,141,Market,Filled,7069.74,Warning: No quote information available at 09/22/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-23T19:00:00Z,NAIL,45.8,-142,Market,Filled,-6503.6,Warning: No quote information available at 09/23/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-09-23T20:00:00Z,NAIL,44.33,-312,Market On Open,Filled,-13830.96, 
+2020-09-24T18:00:00Z,NAIL,47.51,294,Market,Filled,13967.94,Warning: No quote information available at 09/24/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-28T14:00:00Z,NAIL,48.15,134,Market,Filled,6452.1,Warning: No quote information available at 09/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-13T14:00:00Z,NAIL,58.35,-294,Market,Filled,-17154.9,Warning: No quote information available at 10/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-13T15:00:00Z,NAIL,60.71,279,Market,Filled,16938.09,Warning: No quote information available at 10/13/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-14T16:00:00Z,NAIL,58.68,-283,Market,Filled,-16606.44,Warning: No quote information available at 10/14/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-15T17:00:00Z,NAIL,60.8,274,Market,Filled,16659.2,Warning: No quote information available at 10/15/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-10-19T18:00:00Z,NAIL,58.55,-128,Market,Filled,-7494.4,Warning: No quote information available at 10/19/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-10-19T19:00:00Z,NAIL,56.5,-276,Market,Filled,-15594,Warning: No quote information available at 10/19/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T15:00:00Z,NAIL,42.9,539,Market,Filled,23123.1,Warning: No quote information available at 11/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-09T15:00:00Z,NAIL,45.75,-539,Market,Filled,-24659.25,Warning: No quote information available at 11/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-11T17:00:00Z,NAIL,45.24,372,Market,Filled,16829.28,Warning: No quote information available at 11/11/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T16:00:00Z,NAIL,46.24,167,Market,Filled,7722.08,Warning: No quote information available at 11/12/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T19:00:00Z,NAIL,44.1,-169,Market,Filled,-7452.9,Warning: No quote information available at 11/12/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-11-13T15:00:00Z,NAIL,47,159,Market,Filled,7473,Warning: No quote information available at 11/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-25T17:00:00Z,NAIL,48.42,-363,Market,Filled,-17576.46,Warning: No quote information available at 11/25/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-25T20:00:00Z,NAIL,50.08,350,Market,Filled,17528,Warning: No quote information available at 11/25/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-11-27T16:00:00Z,NAIL,48.57,-353,Market,Filled,-17145.21,Warning: No quote information available at 11/27/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-11-30T15:00:00Z,NAIL,47.2105,-163,Market,Filled,-7695.3115,Warning: No quote information available at 11/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-03T17:00:00Z,NAIL,45.1,377,Market,Filled,17002.7,Warning: No quote information available at 12/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-07T16:00:00Z,NAIL,45.66,172,Market,Filled,7853.52,Warning: No quote information available at 12/07/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-08T20:00:00Z,NAIL,42.88,-172,Market,Filled,-7375.36,Warning: No quote information available at 12/08/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-12-09T15:00:00Z,NAIL,44.65,166,Market,Filled,7411.9,Warning: No quote information available at 12/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-23T17:00:00Z,NAIL,49.69,-373,Market,Filled,-18534.37,Warning: No quote information available at 12/23/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-24T16:00:00Z,NAIL,51.16,360,Market,Filled,18417.6,Warning: No quote information available at 12/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-28T17:00:00Z,NAIL,49.5,-530,Market,Filled,-26235,Warning: No quote information available at 12/28/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-30T16:00:00Z,NAIL,49.88,360,Market,Filled,17956.8,Warning: No quote information available at 12/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-30T20:00:00Z,NAIL,48.11,-360,Market,Filled,-17319.6,Warning: No quote information available at 12/30/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2021-01-06T18:00:00Z,NAIL,44.45,395,Market,Filled,17557.75,Warning: No quote information available at 01/06/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-01-07T15:00:00Z,NAIL,46.47,173,Market,Filled,8039.31,Warning: No quote information available at 01/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-27T15:00:00Z,NAIL,58,-391,Market,Filled,-22678,Warning: No quote information available at 01/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-27T17:00:00Z,NAIL,57.85,-177,Market,Filled,-10239.45,Warning: No quote information available at 01/27/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T21:00:00Z,NAIL,57.15,396,Market On Open,Filled,22631.4, 
+2021-02-02T17:00:00Z,NAIL,57.2,174,Market,Filled,9952.8,Warning: No quote information available at 02/02/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-16T15:00:00Z,NAIL,66,-570,Market,Filled,-37620,Warning: No quote information available at 02/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-19T15:00:00Z,NAIL,63.4337,403,Market,Filled,25563.7811,Warning: No quote information available at 02/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-22T21:00:00Z,NAIL,59,-403,Market On Open,Filled,-23777, 
+2021-02-24T21:00:00Z,NAIL,61.25,575,Market On Open,Filled,35218.75, 
+2021-02-25T16:00:00Z,NAIL,56.64,-575,Market,Filled,-32568,Warning: No quote information available at 02/25/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T15:00:00Z,NAIL,58.56,566,Market,Filled,33144.96,Warning: No quote information available at 03/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-03T20:00:00Z,NAIL,55.2,-387,Market,Filled,-21362.4,Warning: No quote information available at 03/03/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-03T21:00:00Z,NAIL,53,-179,Market On Open,Filled,-9487, 
+2021-03-05T19:00:00Z,NAIL,56.26,550,Market,Filled,30943,Warning: No quote information available at 03/05/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-12T16:00:00Z,NAIL,63.7,-378,Market,Filled,-24078.6,Warning: No quote information available at 03/12/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-15T17:00:00Z,NAIL,67.66,352,Market,Filled,23816.32,Warning: No quote information available at 03/15/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-03-19T14:00:00Z,NAIL,65.48,-358,Market,Filled,-23441.84,Warning: No quote information available at 03/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-23T14:00:00Z,NAIL,69.8,336,Market,Filled,23452.8,Warning: No quote information available at 03/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-23T20:00:00Z,NAIL,66.37,-502,Market On Open,Filled,-33317.74, 
+2021-03-24T14:00:00Z,NAIL,67.83,337,Market,Filled,22858.71,Warning: No quote information available at 03/24/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-24T15:00:00Z,NAIL,69.225,152,Market,Filled,10522.2,Warning: No quote information available at 03/24/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-25T14:00:00Z,NAIL,63.4,-489,Market,Filled,-31002.6,Warning: No quote information available at 03/25/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-25T16:00:00Z,NAIL,68.4,456,Market,Filled,31190.4,Warning: No quote information available at 03/25/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-04-08T15:00:00Z,NAIL,82.06,-314,Market,Filled,-25766.84,Warning: No quote information available at 04/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-09T14:00:00Z,NAIL,84.94,299,Market,Filled,25397.06,Warning: No quote information available at 04/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-20T15:00:00Z,NAIL,86.69,-441,Market,Filled,-38230.29,Warning: No quote information available at 04/20/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-23T14:00:00Z,NAIL,89.0899,293,Market,Filled,26103.3407,Warning: No quote information available at 04/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-23T15:00:00Z,NAIL,89.8,134,Market,Filled,12033.2,Warning: No quote information available at 04/23/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-30T15:00:00Z,NAIL,94.49,-293,Market,Filled,-27685.57,Warning: No quote information available at 04/30/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-03T14:00:00Z,NAIL,100.33,275,Market,Filled,27590.75,Warning: No quote information available at 05/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T14:00:00Z,NAIL,102.66,-280,Market,Filled,-28744.8,Warning: No quote information available at 05/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T15:00:00Z,NAIL,97.45,-129,Market,Filled,-12571.05,Warning: No quote information available at 05/11/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-14T14:00:00Z,NAIL,92.1,307,Market,Filled,28274.7,Warning: No quote information available at 05/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-18T17:00:00Z,NAIL,85.5,-307,Market,Filled,-26248.5,Warning: No quote information available at 05/18/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-05-21T14:00:00Z,NAIL,83.83,321,Market,Filled,26909.43,Warning: No quote information available at 05/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T14:00:00Z,NAIL,82.71,151,Market,Filled,12489.21,Warning: No quote information available at 05/25/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-01T18:00:00Z,NAIL,85.66,-324,Market,Filled,-27753.84,Warning: No quote information available at 06/01/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-02T16:00:00Z,NAIL,84.14,-148,Market,Filled,-12452.72,Warning: No quote information available at 06/02/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-06-08T15:00:00Z,NAIL,82.71,332,Market,Filled,27459.72,Warning: No quote information available at 06/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-08T19:00:00Z,NAIL,83.114,152,Market,Filled,12633.328,Warning: No quote information available at 06/08/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-09T14:00:00Z,NAIL,79.93,-484,Market,Filled,-38686.12,Warning: No quote information available at 06/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-15T18:00:00Z,NAIL,73.6,361,Market,Filled,26569.6,Warning: No quote information available at 06/15/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-16T15:00:00Z,NAIL,70.79,-361,Market,Filled,-25555.19,Warning: No quote information available at 06/16/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-17T18:00:00Z,NAIL,72,359,Market,Filled,25848,Warning: No quote information available at 06/17/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-18T15:00:00Z,NAIL,72.83,164,Market,Filled,11944.12,Warning: No quote information available at 06/18/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-24T14:00:00Z,NAIL,72.49,-358,Market,Filled,-25951.42,Warning: No quote information available at 06/24/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-25T18:00:00Z,NAIL,75.2,345,Market,Filled,25944,Warning: No quote information available at 06/25/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-07-06T14:00:00Z,NAIL,77.4101,-349,Market,Filled,-27016.1249,Warning: No quote information available at 07/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-06T15:00:00Z,NAIL,75.5,-161,Market,Filled,-12155.5,Warning: No quote information available at 07/06/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-07T14:00:00Z,NAIL,79.25,156,Market,Filled,12363,Warning: No quote information available at 07/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-07T16:00:00Z,NAIL,81.05,330,Market,Filled,26746.5,Warning: No quote information available at 07/07/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-08T14:00:00Z,NAIL,72.63,-486,Market,Filled,-35298.18,Warning: No quote information available at 07/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-16T14:00:00Z,NAIL,71.5993,339,Market,Filled,24272.1627,Warning: No quote information available at 07/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-16T15:00:00Z,NAIL,71.8,157,Market,Filled,11272.6,Warning: No quote information available at 07/16/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-16T17:00:00Z,NAIL,69.97,-157,Market,Filled,-10985.29,Warning: No quote information available at 07/16/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-16T20:00:00Z,NAIL,65,-339,Market On Open,Filled,-22035, 
+2021-07-20T14:00:00Z,NAIL,69.7456,475,Market,Filled,33129.16,Warning: No quote information available at 07/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-06T20:00:00Z,NAIL,84,-327,Market On Open,Filled,-27468, 
+2021-08-09T14:00:00Z,NAIL,83.4184,-148,Market,Filled,-12345.9232,Warning: No quote information available at 08/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-10T15:00:00Z,NAIL,85.65,461,Market,Filled,39484.65,Warning: No quote information available at 08/10/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-17T14:00:00Z,NAIL,83.59,-461,Market,Filled,-38534.99,Warning: No quote information available at 08/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-20T14:00:00Z,NAIL,83.1616,317,Market,Filled,26362.2272,Warning: No quote information available at 08/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-23T20:00:00Z,NAIL,85.77,144,Market On Open,Filled,12350.88, 
+2021-09-03T14:00:00Z,NAIL,88.47,-148,Market,Filled,-13093.56,Warning: No quote information available at 09/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-03T15:00:00Z,NAIL,87.98,-313,Market,Filled,-27537.74,Warning: No quote information available at 09/03/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-10T17:00:00Z,NAIL,82.5,335,Market,Filled,27637.5,Warning: No quote information available at 09/10/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-09-10T20:00:00Z,NAIL,81.29,-335,Market On Open,Filled,-27232.15, 
+2021-09-16T14:00:00Z,NAIL,77.39,353,Market,Filled,27318.67,Warning: No quote information available at 09/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-16T15:00:00Z,NAIL,78.13,162,Market,Filled,12657.06,Warning: No quote information available at 09/16/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-20T14:00:00Z,NAIL,75.51,-515,Market,Filled,-38887.65,Warning: No quote information available at 09/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-22T14:00:00Z,NAIL,75.9531,351,Market,Filled,26659.5381,Warning: No quote information available at 09/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-22T16:00:00Z,NAIL,76.87,160,Market,Filled,12299.2,Warning: No quote information available at 09/22/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-28T15:00:00Z,NAIL,72.5,-511,Market,Filled,-37047.5,Warning: No quote information available at 09/28/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-05T14:00:00Z,NAIL,66.01,385,Market,Filled,25413.85,Warning: No quote information available at 10/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-06T19:00:00Z,NAIL,67.26,174,Market,Filled,11703.24,Warning: No quote information available at 10/06/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-10-12T14:00:00Z,NAIL,67.7,-383,Market,Filled,-25929.1,Warning: No quote information available at 10/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-12T15:00:00Z,NAIL,68.6658,377,Market,Filled,25887.0066,Warning: No quote information available at 10/12/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-23T16:00:00Z,NAIL,104.24,-382,Market,Filled,-39819.68,Warning: No quote information available at 11/23/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-23T19:00:00Z,NAIL,107.064,362,Market,Filled,38757.168,Warning: No quote information available at 11/23/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-26T15:00:00Z,NAIL,102.02,-533,Market,Filled,-54376.66,Warning: No quote information available at 11/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T15:00:00Z,NAIL,102.84,363,Market,Filled,37330.92,Warning: No quote information available at 12/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T16:00:00Z,NAIL,103.46,166,Market,Filled,17174.36,Warning: No quote information available at 12/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T21:00:00Z,NAIL,99.57,-166,Market On Open,Filled,-16528.62, 
+2021-12-02T15:00:00Z,NAIL,103.28,161,Market,Filled,16628.08,Warning: No quote information available at 12/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-13T18:00:00Z,NAIL,119.22,-360,Market,Filled,-42919.2,Warning: No quote information available at 12/13/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-12-14T15:00:00Z,NAIL,115.36,-164,Market,Filled,-18919.04,Warning: No quote information available at 12/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-21T18:00:00Z,NAIL,104.25,403,Market,Filled,42012.75,Warning: No quote information available at 12/21/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-12-22T16:00:00Z,NAIL,109.84,175,Market,Filled,19222,Warning: No quote information available at 12/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T15:00:00Z,NAIL,119,-396,Market,Filled,-47124,Warning: No quote information available at 01/03/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T16:00:00Z,NAIL,116.03,-182,Market,Filled,-21117.46,Warning: No quote information available at 01/03/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-05T16:00:00Z,NAIL,121.31,561,Market,Filled,68054.91,Warning: No quote information available at 01/05/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-05T20:00:00Z,NAIL,112.51,-561,Market,Filled,-63118.11,Warning: No quote information available at 01/05/2022 15:00:00 America/New_York, order filled using TradeBar data 
+2022-01-11T18:00:00Z,NAIL,97.11,446,Market,Filled,43311.06,Warning: No quote information available at 01/11/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-12T15:00:00Z,NAIL,101.845,196,Market,Filled,19961.62,Warning: No quote information available at 01/12/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-14T18:00:00Z,NAIL,94.18,-439,Market,Filled,-41345.02,Warning: No quote information available at 01/14/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-18T15:00:00Z,NAIL,87,-203,Market,Filled,-17661,Warning: No quote information available at 01/18/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-24T19:00:00Z,NAIL,74.28,546,Market,Filled,40556.88,Warning: No quote information available at 01/24/2022 14:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T15:00:00Z,NAIL,78.1721,239,Market,Filled,18683.1319,Warning: No quote information available at 01/26/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T20:00:00Z,NAIL,69.85,-245,Market,Filled,-17113.25,Warning: No quote information available at 01/26/2022 15:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T21:00:00Z,NAIL,68.04,-540,Market On Open,Filled,-36741.6, 
+2022-01-28T21:00:00Z,NAIL,0,540,Market On Open,Submitted,0, 

@@ -1,0 +1,598 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2016-10-07T16:00:00Z,SOXS,8866.4608166602,1,Market,Filled,8866.4608166602,Warning: No quote information available at 10/07/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-10-10T14:00:00Z,SOXS,8518.4094605837,-1,Market,Filled,-8518.4094605837,Warning: No quote information available at 10/10/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-10T20:00:00Z,SOXS,8884.1583432403,1,Market On Open,Filled,8884.1583432403, 
+2016-10-14T14:00:00Z,SOXS,9302.9998056374,-1,Market,Filled,-9302.9998056374,Warning: No quote information available at 10/14/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-28T18:00:00Z,SOXS,9143.722066416,1,Market,Filled,9143.722066416,Warning: No quote information available at 10/28/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-11-07T15:00:00Z,SOXS,9196.8146461565,-1,Market,Filled,-9196.8146461565,Warning: No quote information available at 11/07/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-29T15:00:00Z,SOXS,7143.9015628579,1,Market,Filled,7143.9015628579,Warning: No quote information available at 11/29/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-29T16:00:00Z,SOXS,6949.2287704762,-1,Market,Filled,-6949.2287704762,Warning: No quote information available at 11/29/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-11-29T21:00:00Z,SOXS,7008.2205257434,1,Market On Open,Filled,7008.2205257434, 
+2016-12-06T15:00:00Z,SOXS,7391.6669349802,-1,Market,Filled,-7391.6669349802,Warning: No quote information available at 12/06/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-12T18:00:00Z,SOXS,7037.716403377,1,Market,Filled,7037.716403377,Warning: No quote information available at 12/12/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-12-12T21:00:00Z,SOXS,6795.8502067814,-1,Market On Open,Filled,-6795.8502067814, 
+2016-12-28T16:00:00Z,SOXS,5946.3689309338,1,Market,Filled,5946.3689309338,Warning: No quote information available at 12/28/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2017-01-09T15:00:00Z,SOXS,6087.949143575,-1,Market,Filled,-6087.949143575,Warning: No quote information available at 01/09/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-12T15:00:00Z,SOXS,6235.428531743,1,Market,Filled,6235.428531743,Warning: No quote information available at 01/12/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-13T16:00:00Z,SOXS,5964.0664575139,-1,Market,Filled,-5964.0664575139,Warning: No quote information available at 01/13/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-01-17T15:00:00Z,SOXS,6141.0417233155,1,Market,Filled,6141.0417233155,Warning: No quote information available at 01/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-19T15:00:00Z,SOXS,5893.2763511933,-1,Market,Filled,-5893.2763511933,Warning: No quote information available at 01/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-19T20:00:00Z,SOXS,6093.8483191018,1,Market,Filled,6093.8483191018,Warning: No quote information available at 01/19/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-01-20T15:00:00Z,SOXS,5769.3936651322,-1,Market,Filled,-5769.3936651322,Warning: No quote information available at 01/20/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-23T16:00:00Z,SOXS,6082.0499680483,1,Market,Filled,6082.0499680483,Warning: No quote information available at 01/23/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-01-24T15:00:00Z,SOXS,5769.3936651322,-1,Market,Filled,-5769.3936651322,Warning: No quote information available at 01/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-30T15:00:00Z,SOXS,5468.5357132694,1,Market,Filled,5468.5357132694,Warning: No quote information available at 01/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-01T21:00:00Z,SOXS,5362.3505537885,-1,Market On Open,Filled,-5362.3505537885, 
+2017-02-09T18:00:00Z,SOXS,5114.5851816662,1,Market,Filled,5114.5851816662,Warning: No quote information available at 02/09/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-02-15T19:00:00Z,SOXS,5096.8876550861,-1,Market,Filled,-5096.8876550861,Warning: No quote information available at 02/15/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-02-17T15:00:00Z,SOXS,5173.5769369334,1,Market,Filled,5173.5769369334,Warning: No quote information available at 02/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-17T16:00:00Z,SOXS,5096.8876550861,-1,Market,Filled,-5096.8876550861,Warning: No quote information available at 02/17/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-23T15:00:00Z,SOXS,4890.4165116509,1,Market,Filled,4890.4165116509,Warning: No quote information available at 02/23/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-01T17:00:00Z,SOXS,4908.114038231,-1,Market,Filled,-4908.114038231,Warning: No quote information available at 03/01/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-03-02T19:00:00Z,SOXS,4925.8115648112,1,Market,Filled,4925.8115648112,Warning: No quote information available at 03/02/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-03-07T16:00:00Z,SOXS,4855.0214584906,-1,Market,Filled,-4855.0214584906,Warning: No quote information available at 03/07/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-15T15:00:00Z,SOXS,4660.3486661088,1,Market,Filled,4660.3486661088,Warning: No quote information available at 03/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-15T17:00:00Z,SOXS,4601.3569108416,-1,Market,Filled,-4601.3569108416,Warning: No quote information available at 03/15/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-03-21T15:00:00Z,SOXS,4524.6676289942,1,Market,Filled,4524.6676289942,Warning: No quote information available at 03/21/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-24T14:00:00Z,SOXS,4377.1882408262,-1,Market,Filled,-4377.1882408262,Warning: No quote information available at 03/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-27T14:00:00Z,SOXS,4636.7519640019,1,Market,Filled,4636.7519640019,Warning: No quote information available at 03/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-27T17:00:00Z,SOXS,4465.675873727,-1,Market,Filled,-4465.675873727,Warning: No quote information available at 03/27/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-03-29T14:00:00Z,SOXS,4489.2725758339,1,Market,Filled,4489.2725758339,Warning: No quote information available at 03/29/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-30T14:00:00Z,SOXS,4388.9865918797,-1,Market,Filled,-4388.9865918797,Warning: No quote information available at 03/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-03T15:00:00Z,SOXS,4495.1717513606,1,Market,Filled,4495.1717513606,Warning: No quote information available at 04/03/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-18T20:00:00Z,SOXS,4742.9371234829,-1,Market On Open,Filled,-4742.9371234829, 
+2017-04-28T14:00:00Z,SOXS,4353.5915387194,1,Market,Filled,4353.5915387194,Warning: No quote information available at 04/28/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-05T20:00:00Z,SOXS,4340.6133525606,-1,Market On Open,Filled,-4340.6133525606, 
+2017-05-08T14:00:00Z,SOXS,4379.5479110369,1,Market,Filled,4379.5479110369,Warning: No quote information available at 05/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-09T14:00:00Z,SOXS,4285.1611026094,-1,Market,Filled,-4285.1611026094,Warning: No quote information available at 05/09/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-17T14:00:00Z,SOXS,3762.494150942,1,Market,Filled,3762.494150942,Warning: No quote information available at 05/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-17T15:00:00Z,SOXS,3859.2406295802,1,Market,Filled,3859.2406295802,Warning: No quote information available at 05/17/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-19T14:00:00Z,SOXS,3702.3225605695,-1,Market,Filled,-3702.3225605695,Warning: No quote information available at 05/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-19T17:00:00Z,SOXS,3645.690475513,-1,Market,Filled,-3645.690475513,Warning: No quote information available at 05/19/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-06-01T14:00:00Z,SOXS,3382.5872470212,1,Market,Filled,3382.5872470212,Warning: No quote information available at 06/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-02T15:00:00Z,SOXS,3290.5601088044,-1,Market,Filled,-3290.5601088044,Warning: No quote information available at 06/02/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-09T17:00:00Z,SOXS,3150.1597312685,2,Market,Filled,6300.319462537,Warning: No quote information available at 06/09/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-06-19T14:00:00Z,SOXS,3358.9905449144,-2,Market,Filled,-6717.9810898287,Warning: No quote information available at 06/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-26T15:00:00Z,SOXS,3407.3637842335,2,Market,Filled,6814.7275684669,Warning: No quote information available at 06/26/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-07T14:00:00Z,SOXS,3589.0583904564,-2,Market,Filled,-7178.1167809129,Warning: No quote information available at 07/07/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-18T14:00:00Z,SOXS,3191.4539599555,1,Market,Filled,3191.4539599555,Warning: No quote information available at 07/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-19T14:00:00Z,SOXS,3067.5712738944,-1,Market,Filled,-3067.5712738944,Warning: No quote information available at 07/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-21T14:00:00Z,SOXS,3119.4840185295,2,Market,Filled,6238.9680370591,Warning: No quote information available at 07/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-26T14:00:00Z,SOXS,3008.5795186272,-2,Market,Filled,-6017.1590372544,Warning: No quote information available at 07/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T17:00:00Z,SOXS,3151.3395663738,2,Market,Filled,6302.6791327476,Warning: No quote information available at 07/27/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-08-07T16:00:00Z,SOXS,3170.2169280593,-2,Market,Filled,-6340.4338561187,Warning: No quote information available at 08/07/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-08-09T14:00:00Z,SOXS,3249.2658801174,2,Market,Filled,6498.5317602348,Warning: No quote information available at 08/09/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-14T14:00:00Z,SOXS,3220.9498375891,-2,Market,Filled,-6441.8996751782,Warning: No quote information available at 08/14/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-17T14:00:00Z,SOXS,3148.9798961631,1,Market,Filled,3148.9798961631,Warning: No quote information available at 08/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-17T17:00:00Z,SOXS,3275.2222524349,1,Market,Filled,3275.2222524349,Warning: No quote information available at 08/17/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-08-22T19:00:00Z,SOXS,3216.2304971677,-2,Market,Filled,-6432.4609943355,Warning: No quote information available at 08/22/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-08-25T16:00:00Z,SOXS,3232.7481886426,1,Market,Filled,3232.7481886426,Warning: No quote information available at 08/25/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-08-29T14:00:00Z,SOXS,3274.0424173296,1,Market,Filled,3274.0424173296,Warning: No quote information available at 08/29/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-30T14:00:00Z,SOXS,3110.0453376868,-2,Market,Filled,-6220.0906753736,Warning: No quote information available at 08/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-05T15:00:00Z,SOXS,2968.4651250455,1,Market,Filled,2968.4651250455,Warning: No quote information available at 09/05/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-05T17:00:00Z,SOXS,3056.9527579463,1,Market,Filled,3056.9527579463,Warning: No quote information available at 09/05/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-09-05T19:00:00Z,SOXS,3033.3560558394,-1,Market,Filled,-3033.3560558394,Warning: No quote information available at 09/05/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-09-06T15:00:00Z,SOXS,3026.2770452074,1,Market,Filled,3026.2770452074,Warning: No quote information available at 09/06/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-11T14:00:00Z,SOXS,2955.4869388867,-2,Market,Filled,-5910.9738777734,Warning: No quote information available at 09/11/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-20T15:00:00Z,SOXS,2651.089481708,1,Market,Filled,2651.089481708,Warning: No quote information available at 09/20/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-20T19:00:00Z,SOXS,2721.8795880286,1,Market,Filled,2721.8795880286,Warning: No quote information available at 09/20/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-09-20T20:00:00Z,SOXS,2675.8660189202,-1,Market On Open,Filled,-2675.8660189202, 
+2017-09-21T14:00:00Z,SOXS,2684.1248646576,1,Market,Filled,2684.1248646576,Warning: No quote information available at 09/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-27T17:00:00Z,SOXS,2666.4273380774,-2,Market,Filled,-5332.8546761549,Warning: No quote information available at 09/27/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-04T15:00:00Z,SOXS,2464.6755350636,2,Market,Filled,4929.3510701272,Warning: No quote information available at 10/04/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-04T19:00:00Z,SOXS,2418.6619659552,-2,Market,Filled,-4837.3239319104,Warning: No quote information available at 10/04/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-10-06T15:00:00Z,SOXS,2412.7627904285,2,Market,Filled,4825.525580857,Warning: No quote information available at 10/06/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-06T17:00:00Z,SOXS,2380.9072425842,-2,Market,Filled,-4761.8144851684,Warning: No quote information available at 10/06/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-18T14:00:00Z,SOXS,2214.5504927307,3,Market,Filled,6643.6514781921,Warning: No quote information available at 10/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-18T17:00:00Z,SOXS,2180.3352746757,-1,Market,Filled,-2180.3352746757,Warning: No quote information available at 10/18/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-18T18:00:00Z,SOXS,2159.0982427795,-2,Market,Filled,-4318.196485559,Warning: No quote information available at 10/18/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-10-19T14:00:00Z,SOXS,2260.5640618391,3,Market,Filled,6781.6921855173,Warning: No quote information available at 10/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-19T20:00:00Z,SOXS,2134.3217055673,-1,Market On Open,Filled,-2134.3217055673, 
+2017-10-20T14:00:00Z,SOXS,2130.7822002513,-2,Market,Filled,-4261.5644005025,Warning: No quote information available at 10/20/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-25T16:00:00Z,SOXS,2185.0546150971,3,Market,Filled,6555.1638452913,Warning: No quote information available at 10/25/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-10-27T14:00:00Z,SOXS,2070.6106098787,-3,Market,Filled,-6211.8318296362,Warning: No quote information available at 10/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T18:00:00Z,SOXS,1985.662482294,2,Market,Filled,3971.3249645879,Warning: No quote information available at 11/01/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T20:00:00Z,SOXS,1933.7497376588,-2,Market On Open,Filled,-3867.4994753176, 
+2017-11-02T15:00:00Z,SOXS,1939.6489131855,2,Market,Filled,3879.2978263711,Warning: No quote information available at 11/02/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-03T18:00:00Z,SOXS,1846.4419398634,-2,Market,Filled,-3692.8838797267,Warning: No quote information available at 11/03/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-11-08T15:00:00Z,SOXS,1761.4938122786,2,Market,Filled,3522.9876245572,Warning: No quote information available at 11/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-08T16:00:00Z,SOXS,1737.8971101717,-2,Market,Filled,-3475.7942203434,Warning: No quote information available at 11/08/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-09T15:00:00Z,SOXS,1808.6872164924,3,Market,Filled,5426.0616494771,Warning: No quote information available at 11/09/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-16T15:00:00Z,SOXS,1773.292163332,-3,Market,Filled,-5319.8764899961,Warning: No quote information available at 11/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-27T15:00:00Z,SOXS,1680.0851900099,2,Market,Filled,3360.1703800197,Warning: No quote information available at 11/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-27T17:00:00Z,SOXS,1693.0633761686,1,Market,Filled,1693.0633761686,Warning: No quote information available at 11/27/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T15:00:00Z,SOXS,1958.526274871,-2,Market,Filled,-3917.0525497421,Warning: No quote information available at 12/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-12T15:00:00Z,SOXS,2055.2727535092,2,Market,Filled,4110.5455070185,Warning: No quote information available at 12/12/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-15T17:00:00Z,SOXS,1982.1229769779,-3,Market,Filled,-5946.3689309338,Warning: No quote information available at 12/15/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-21T15:00:00Z,SOXS,1840.5427643366,2,Market,Filled,3681.0855286733,Warning: No quote information available at 12/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-22T15:00:00Z,SOXS,1870.0386419702,1,Market,Filled,1870.0386419702,Warning: No quote information available at 12/22/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-28T17:00:00Z,SOXS,1879.477322813,-2,Market,Filled,-3758.954645626,Warning: No quote information available at 12/28/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-29T16:00:00Z,SOXS,1916.0522110787,2,Market,Filled,3832.1044221573,Warning: No quote information available at 12/29/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-02T15:00:00Z,SOXS,1871.2184770756,-3,Market,Filled,-5613.6554312268,Warning: No quote information available at 01/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-09T16:00:00Z,SOXS,1643.5103017442,2,Market,Filled,3287.0206034884,Warning: No quote information available at 01/09/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-10T15:00:00Z,SOXS,1719.0197484862,2,Market,Filled,3438.0394969724,Warning: No quote information available at 01/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-12T18:00:00Z,SOXS,1642.3304666388,-3,Market,Filled,-4926.9913999165,Warning: No quote information available at 01/12/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-01-16T15:00:00Z,SOXS,1596.3168975304,-1,Market,Filled,-1596.3168975304,Warning: No quote information available at 01/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-24T15:00:00Z,SOXS,1444.1181689411,3,Market,Filled,4332.3545068232,Warning: No quote information available at 01/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-24T17:00:00Z,SOXS,1481.8728923121,1,Market,Filled,1481.8728923121,Warning: No quote information available at 01/24/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-01-26T21:00:00Z,SOXS,1440.578663625,-1,Market On Open,Filled,-1440.578663625, 
+2018-01-29T16:00:00Z,SOXS,1467.7148710479,1,Market,Filled,1467.7148710479,Warning: No quote information available at 01/29/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-12T19:00:00Z,SOXS,1698.9625516954,-3,Market,Filled,-5096.8876550861,Warning: No quote information available at 02/12/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-02-14T16:00:00Z,SOXS,1647.0498070602,-1,Market,Filled,-1647.0498070602,Warning: No quote information available at 02/14/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-21T21:00:00Z,SOXS,1493.6712433655,3,Market On Open,Filled,4481.0137300965, 
+2018-02-23T21:00:00Z,SOXS,1399.284434938,-3,Market On Open,Filled,-4197.853304814, 
+2018-02-28T21:00:00Z,SOXS,1385.1264136739,3,Market On Open,Filled,4155.3792410216, 
+2018-03-01T15:00:00Z,SOXS,1429.9601476769,2,Market,Filled,2859.9202953539,Warning: No quote information available at 03/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-05T17:00:00Z,SOXS,1341.4725147761,-4,Market,Filled,-5365.8900591045,Warning: No quote information available at 03/05/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-05T20:00:00Z,SOXS,1320.2354828799,-1,Market,Filled,-1320.2354828799,Warning: No quote information available at 03/05/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-03-13T20:00:00Z,SOXS,1185.7342808707,3,Market On Open,Filled,3557.2028426122, 
+2018-03-14T14:00:00Z,SOXS,1224.6688393471,2,Market,Filled,2449.3376786941,Warning: No quote information available at 03/14/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-21T16:00:00Z,SOXS,1213.9924026399,-4,Market,Filled,-4855.9696105597,Warning: No quote information available at 03/21/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-22T14:00:00Z,SOXS,1271.8577992638,4,Market,Filled,5087.4311970553,Warning: No quote information available at 03/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-27T14:00:00Z,SOXS,1265.9531669553,-4,Market,Filled,-5063.8126678211,Warning: No quote information available at 03/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-27T19:00:00Z,SOXS,1389.950445435,4,Market,Filled,5559.8017817401,Warning: No quote information available at 03/27/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-04-05T14:00:00Z,SOXS,1431.2828715949,-4,Market,Filled,-5725.1314863798,Warning: No quote information available at 04/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-06T14:00:00Z,SOXS,1508.0430916062,3,Market,Filled,4524.1292748187,Warning: No quote information available at 04/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-10T15:00:00Z,SOXS,1441.9112097504,-4,Market,Filled,-5767.6448390014,Warning: No quote information available at 04/10/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-16T15:00:00Z,SOXS,1391.1313718967,3,Market,Filled,4173.3941156902,Warning: No quote information available at 04/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-17T14:00:00Z,SOXS,1321.4567106557,-3,Market,Filled,-3964.3701319672,Warning: No quote information available at 04/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-18T14:00:00Z,SOXS,1353.341725122,3,Market,Filled,4060.0251753659,Warning: No quote information available at 04/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-19T14:00:00Z,SOXS,1450.1776949823,1,Market,Filled,1450.1776949823,Warning: No quote information available at 04/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-26T20:00:00Z,SOXS,1515.1286503765,-3,Market On Open,Filled,-4545.3859511295, 
+2018-04-30T16:00:00Z,SOXS,1654.4779728585,3,Market,Filled,4963.4339185755,Warning: No quote information available at 04/30/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-05-04T15:00:00Z,SOXS,1526.9379149936,-4,Market,Filled,-6107.7516599745,Warning: No quote information available at 05/04/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-15T14:00:00Z,SOXS,1283.6670638809,3,Market,Filled,3851.0011916428,Warning: No quote information available at 05/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-15T17:00:00Z,SOXS,1297.8381814215,2,Market,Filled,2595.676362843,Warning: No quote information available at 05/15/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-15T20:00:00Z,SOXS,1274.2196521872,-2,Market On Open,Filled,-2548.4393043745, 
+2018-05-16T18:00:00Z,SOXS,1228.1635201805,-3,Market,Filled,-3684.4905605414,Warning: No quote information available at 05/16/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-17T18:00:00Z,SOXS,1250.601122953,3,Market,Filled,3751.803368859,Warning: No quote information available at 05/17/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-18T14:00:00Z,SOXS,1289.5716961895,2,Market,Filled,2579.143392379,Warning: No quote information available at 05/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-21T14:00:00Z,SOXS,1217.5351820251,-5,Market,Filled,-6087.6759101254,Warning: No quote information available at 05/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-21T16:00:00Z,SOXS,1254.1439023381,5,Market,Filled,6270.7195116907,Warning: No quote information available at 05/21/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-05-22T14:00:00Z,SOXS,1221.0779614102,-5,Market,Filled,-6105.389807051,Warning: No quote information available at 05/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-23T14:00:00Z,SOXS,1247.0583435679,1,Market,Filled,1247.0583435679,Warning: No quote information available at 05/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-23T20:00:00Z,SOXS,1211.6305497165,-1,Market On Open,Filled,-1211.6305497165, 
+2018-05-24T14:00:00Z,SOXS,1232.8872260273,3,Market,Filled,3698.661678082,Warning: No quote information available at 05/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-24T17:00:00Z,SOXS,1204.5449909462,-3,Market,Filled,-3613.6349728387,Warning: No quote information available at 05/24/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-29T16:00:00Z,SOXS,1197.459432176,3,Market,Filled,3592.3782965279,Warning: No quote information available at 05/29/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-05-29T17:00:00Z,SOXS,1186.8310940206,-3,Market,Filled,-3560.4932820617,Warning: No quote information available at 05/29/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-29T19:00:00Z,SOXS,1199.8212850994,3,Market,Filled,3599.4638552982,Warning: No quote information available at 05/29/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-05-30T14:00:00Z,SOXS,1156.127006016,-3,Market,Filled,-3468.3810180481,Warning: No quote information available at 05/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-31T15:00:00Z,SOXS,1180.926461712,3,Market,Filled,3542.779385136,Warning: No quote information available at 05/31/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-31T18:00:00Z,SOXS,1190.3738734057,2,Market,Filled,2380.7477468114,Warning: No quote information available at 05/31/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-06-01T14:00:00Z,SOXS,1144.3177413989,-5,Market,Filled,-5721.5887069946,Warning: No quote information available at 06/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-07T16:00:00Z,SOXS,1075.8240066196,3,Market,Filled,3227.4720198589,Warning: No quote information available at 06/07/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-08T14:00:00Z,SOXS,1114.7945798561,2,Market,Filled,2229.5891597123,Warning: No quote information available at 06/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-13T14:00:00Z,SOXS,1082.9095653899,-4,Market,Filled,-4331.6382615596,Warning: No quote information available at 06/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-13T15:00:00Z,SOXS,1071.1003007728,-1,Market,Filled,-1071.1003007728,Warning: No quote information available at 06/13/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-13T20:00:00Z,SOXS,1086.452344775,1,Market On Open,Filled,1086.452344775, 
+2018-06-14T15:00:00Z,SOXS,1078.1858595431,-1,Market,Filled,-1078.1858595431,Warning: No quote information available at 06/14/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-14T19:00:00Z,SOXS,1099.4425358539,1,Market,Filled,1099.4425358539,Warning: No quote information available at 06/14/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-06-15T14:00:00Z,SOXS,1100.6234623156,4,Market,Filled,4402.4938492623,Warning: No quote information available at 06/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-05T17:00:00Z,SOXS,1301.3809608066,-5,Market,Filled,-6506.9048040331,Warning: No quote information available at 07/05/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-07-11T14:00:00Z,SOXS,1238.7918583359,3,Market,Filled,3716.3755750077,Warning: No quote information available at 07/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-11T18:00:00Z,SOXS,1265.9531669553,2,Market,Filled,2531.9063339105,Warning: No quote information available at 07/11/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-07-17T17:00:00Z,SOXS,1234.068152489,-4,Market,Filled,-4936.2726099562,Warning: No quote information available at 07/17/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-07-17T20:00:00Z,SOXS,1196.2785057143,-1,Market On Open,Filled,-1196.2785057143, 
+2018-07-20T14:00:00Z,SOXS,1206.9068438697,3,Market,Filled,3620.720531609,Warning: No quote information available at 07/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-23T14:00:00Z,SOXS,1260.0485346467,2,Market,Filled,2520.0970692934,Warning: No quote information available at 07/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-24T14:00:00Z,SOXS,1171.4790500183,-5,Market,Filled,-5857.3952500915,Warning: No quote information available at 07/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-24T16:00:00Z,SOXS,1210.4496232548,5,Market,Filled,6052.248116274,Warning: No quote information available at 07/24/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-26T14:00:00Z,SOXS,1192.7357263291,-4,Market,Filled,-4770.9429053165,Warning: No quote information available at 07/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-26T15:00:00Z,SOXS,1173.8409029417,-1,Market,Filled,-1173.8409029417,Warning: No quote information available at 07/26/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-30T15:00:00Z,SOXS,1193.9166527908,3,Market,Filled,3581.7499583725,Warning: No quote information available at 07/30/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-30T16:00:00Z,SOXS,1206.9068438697,2,Market,Filled,2413.8136877393,Warning: No quote information available at 07/30/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-31T16:00:00Z,SOXS,1165.5744177097,-2,Market,Filled,-2331.1488354195,Warning: No quote information available at 07/31/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-01T16:00:00Z,SOXS,1189.192946944,2,Market,Filled,2378.385893888,Warning: No quote information available at 08/01/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-06T16:00:00Z,SOXS,1146.6795943224,-5,Market,Filled,-5733.3979716118,Warning: No quote information available at 08/06/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-09T14:00:00Z,SOXS,1112.4327269327,3,Market,Filled,3337.2981807981,Warning: No quote information available at 08/09/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-09T20:00:00Z,SOXS,1192.7357263291,2,Market On Open,Filled,2385.4714526582, 
+2018-08-21T14:00:00Z,SOXS,1257.6866817233,-4,Market,Filled,-5030.7467268931,Warning: No quote information available at 08/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-21T16:00:00Z,SOXS,1234.068152489,-1,Market,Filled,-1234.068152489,Warning: No quote information available at 08/21/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-30T16:00:00Z,SOXS,1088.8141976985,4,Market,Filled,4355.2567907939,Warning: No quote information available at 08/30/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-09-04T14:00:00Z,SOXS,1098.2616093922,2,Market,Filled,2196.5232187843,Warning: No quote information available at 09/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-04T15:00:00Z,SOXS,1073.4621536962,-5,Market,Filled,-5367.310768481,Warning: No quote information available at 09/04/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-09-04T19:00:00Z,SOXS,1065.1956684642,-1,Market,Filled,-1065.1956684642,Warning: No quote information available at 09/04/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-09-05T14:00:00Z,SOXS,1085.2714183133,1,Market,Filled,1085.2714183133,Warning: No quote information available at 09/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-05T17:00:00Z,SOXS,1086.452344775,4,Market,Filled,4345.8093791002,Warning: No quote information available at 09/05/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-13T14:00:00Z,SOXS,1149.0414472458,-4,Market,Filled,-4596.1657889831,Warning: No quote information available at 09/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-13T17:00:00Z,SOXS,1138.4131090904,-1,Market,Filled,-1138.4131090904,Warning: No quote information available at 09/13/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-17T20:00:00Z,SOXS,1165.5744177097,5,Market On Open,Filled,5827.8720885487, 
+2018-09-18T15:00:00Z,SOXS,1136.0512561669,-2,Market,Filled,-2272.1025123339,Warning: No quote information available at 09/18/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-09-20T14:00:00Z,SOXS,1108.8899475476,-3,Market,Filled,-3326.6698426427,Warning: No quote information available at 09/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-25T14:00:00Z,SOXS,1144.4064727173,5,Market,Filled,5722.0323635863,Warning: No quote information available at 09/25/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-01T14:00:00Z,SOXS,1121.9207198924,-5,Market,Filled,-5609.6035994621,Warning: No quote information available at 10/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T14:00:00Z,SOXS,1170.4426075671,5,Market,Filled,5852.2130378354,Warning: No quote information available at 10/03/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T17:00:00Z,SOXS,1129.0214839424,-2,Market,Filled,-2258.0429678847,Warning: No quote information available at 10/03/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-04T14:00:00Z,SOXS,1175.1764502671,2,Market,Filled,2350.3529005341,Warning: No quote information available at 10/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T16:00:00Z,SOXS,1404.7678212155,-4,Market,Filled,-5619.071284862,Warning: No quote information available at 10/16/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T18:00:00Z,SOXS,1379.9151470407,-1,Market,Filled,-1379.9151470407,Warning: No quote information available at 10/16/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-10-18T14:00:00Z,SOXS,1422.5197313404,3,Market,Filled,4267.5591940212,Warning: No quote information available at 10/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-18T16:00:00Z,SOXS,1474.59200104,2,Market,Filled,2949.1840020801,Warning: No quote information available at 10/18/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-30T14:00:00Z,SOXS,1679.3306978136,-4,Market,Filled,-6717.3227912546,Warning: No quote information available at 10/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-30T20:00:00Z,SOXS,1566.9019336894,-1,Market On Open,Filled,-1566.9019336894, 
+2018-11-05T15:00:00Z,SOXS,1485.243147115,3,Market,Filled,4455.7294413449,Warning: No quote information available at 11/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-07T16:00:00Z,SOXS,1362.1632369158,-3,Market,Filled,-4086.4897107474,Warning: No quote information available at 11/07/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-09T15:00:00Z,SOXS,1446.1889448402,5,Market,Filled,7230.9447242011,Warning: No quote information available at 11/09/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-15T17:00:00Z,SOXS,1461.5739336151,-4,Market,Filled,-5846.2957344605,Warning: No quote information available at 11/15/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-15T19:00:00Z,SOXS,1407.1347425655,-1,Market,Filled,-1407.1347425655,Warning: No quote information available at 11/15/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-11-19T15:00:00Z,SOXS,1495.8942931899,3,Market,Filled,4487.6828795697,Warning: No quote information available at 11/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-19T17:00:00Z,SOXS,1555.0673269395,2,Market,Filled,3110.134653879,Warning: No quote information available at 11/19/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-26T15:00:00Z,SOXS,1508.9123606148,-4,Market,Filled,-6035.6494424592,Warning: No quote information available at 11/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-27T16:00:00Z,SOXS,1474.59200104,-1,Market,Filled,-1474.59200104,Warning: No quote information available at 11/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-04T18:00:00Z,SOXS,1389.3828324406,5,Market,Filled,6946.914162203,Warning: No quote information available at 12/04/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-12-11T15:00:00Z,SOXS,1455.6566302402,-4,Market,Filled,-5822.6265209606,Warning: No quote information available at 12/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-12T16:00:00Z,SOXS,1420.1528099904,-1,Market,Filled,-1420.1528099904,Warning: No quote information available at 12/12/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T17:00:00Z,SOXS,1511.2792819648,3,Market,Filled,4533.8378458944,Warning: No quote information available at 12/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T21:00:00Z,SOXS,1553.8838662645,2,Market On Open,Filled,3107.767732529, 
+2018-12-26T21:00:00Z,SOXS,1749.1548776382,-4,Market On Open,Filled,-6996.6195105527, 
+2018-12-27T21:00:00Z,SOXS,1592.9380685392,-1,Market On Open,Filled,-1592.9380685392, 
+2019-01-03T15:00:00Z,SOXS,1705.3668326635,5,Market,Filled,8526.8341633174,Warning: No quote information available at 01/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-07T15:00:00Z,SOXS,1525.4808100647,-5,Market,Filled,-7627.4040503234,Warning: No quote information available at 01/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-14T15:00:00Z,SOXS,1373.9978436657,4,Market,Filled,5495.9913746628,Warning: No quote information available at 01/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-16T17:00:00Z,SOXS,1350.3286301659,2,Market,Filled,2700.6572603317,Warning: No quote information available at 01/16/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-18T15:00:00Z,SOXS,1298.2563604662,-6,Market,Filled,-7789.5381627973,Warning: No quote information available at 01/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-22T16:00:00Z,SOXS,1326.659416666,4,Market,Filled,5306.6376666641,Warning: No quote information available at 01/22/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-22T17:00:00Z,SOXS,1337.310562741,1,Market,Filled,1337.310562741,Warning: No quote information available at 01/22/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-24T15:00:00Z,SOXS,1162.1583828421,-5,Market,Filled,-5810.7919142107,Warning: No quote information available at 01/24/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T15:00:00Z,SOXS,1152.6906974422,4,Market,Filled,4610.7627897688,Warning: No quote information available at 01/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T20:00:00Z,SOXS,1065.1146074928,-4,Market,Filled,-4260.4584299712,Warning: No quote information available at 01/30/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-02-07T17:00:00Z,SOXS,1008.3084950932,4,Market,Filled,4033.2339803727,Warning: No quote information available at 02/07/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-02-08T15:00:00Z,SOXS,1029.610787243,2,Market,Filled,2059.2215744861,Warning: No quote information available at 02/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-12T15:00:00Z,SOXS,933.75047256869,-6,Market,Filled,-5602.5028354121,Warning: No quote information available at 02/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-21T16:00:00Z,SOXS,892.32934894397,4,Market,Filled,3569.3173957759,Warning: No quote information available at 02/21/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-21T20:00:00Z,SOXS,895.87973096894,3,Market,Filled,2687.6391929068,Warning: No quote information available at 02/21/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-02-22T16:00:00Z,SOXS,868.66013544413,-3,Market,Filled,-2605.9804063324,Warning: No quote information available at 02/22/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-22T17:00:00Z,SOXS,863.92629274416,-4,Market,Filled,-3455.7051709766,Warning: No quote information available at 02/22/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-02-27T15:00:00Z,SOXS,894.69627029395,6,Market,Filled,5368.1776217637,Warning: No quote information available at 02/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-01T15:00:00Z,SOXS,856.82552869421,-4,Market,Filled,-3427.3021147768,Warning: No quote information available at 03/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-01T17:00:00Z,SOXS,886.41204556901,4,Market,Filled,3545.648182276,Warning: No quote information available at 03/01/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-01T20:00:00Z,SOXS,861.55937139418,-4,Market,Filled,-3446.2374855767,Warning: No quote information available at 03/01/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T15:00:00Z,SOXS,843.8074612693,-2,Market,Filled,-1687.6149225386,Warning: No quote information available at 03/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T17:00:00Z,SOXS,884.04512421902,6,Market,Filled,5304.2707453141,Warning: No quote information available at 03/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T21:00:00Z,SOXS,867.47667476914,-4,Market On Open,Filled,-3469.9066990765, 
+2019-03-05T15:00:00Z,SOXS,880.49474219405,4,Market,Filled,3521.9789687762,Warning: No quote information available at 03/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-11T14:00:00Z,SOXS,906.53087704387,-4,Market,Filled,-3626.1235081755,Warning: No quote information available at 03/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-11T17:00:00Z,SOXS,882.86166354403,-2,Market,Filled,-1765.7233270881,Warning: No quote information available at 03/11/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-03-14T18:00:00Z,SOXS,873.3939781441,4,Market,Filled,3493.5759125764,Warning: No quote information available at 03/14/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-03-15T14:00:00Z,SOXS,794.10211291963,-4,Market,Filled,-3176.4084516785,Warning: No quote information available at 03/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-20T16:00:00Z,SOXS,801.97145727878,4,Market,Filled,3207.8858291151,Warning: No quote information available at 03/20/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-21T14:00:00Z,SOXS,754.51752489542,-4,Market,Filled,-3018.0700995817,Warning: No quote information available at 03/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-22T16:00:00Z,SOXS,766.38100799126,4,Market,Filled,3065.5240319651,Warning: No quote information available at 03/22/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-25T14:00:00Z,SOXS,805.53050220754,2,Market,Filled,1611.0610044151,Warning: No quote information available at 03/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-01T14:00:00Z,SOXS,749.77213165709,-6,Market,Filled,-4498.6327899425,Warning: No quote information available at 04/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-08T15:00:00Z,SOXS,665.54140167662,5,Market,Filled,3327.7070083831,Warning: No quote information available at 04/08/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-08T19:00:00Z,SOXS,653.67791858078,-5,Market,Filled,-3268.3895929039,Warning: No quote information available at 04/08/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-04-09T14:00:00Z,SOXS,670.28679491496,5,Market,Filled,3351.4339745748,Warning: No quote information available at 04/09/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-09T15:00:00Z,SOXS,675.0321881533,2,Market,Filled,1350.0643763066,Warning: No quote information available at 04/09/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-11T15:00:00Z,SOXS,648.93252534245,-7,Market,Filled,-4542.5276773971,Warning: No quote information available at 04/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-15T15:00:00Z,SOXS,650.11887365203,5,Market,Filled,3250.5943682602,Warning: No quote information available at 04/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-16T14:00:00Z,SOXS,624.01921084118,-5,Market,Filled,-3120.0960542059,Warning: No quote information available at 04/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-25T14:00:00Z,SOXS,538.60213255114,6,Market,Filled,3231.6127953068,Warning: No quote information available at 04/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-25T15:00:00Z,SOXS,556.3973571949,2,Market,Filled,1112.7947143898,Warning: No quote information available at 04/25/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T14:00:00Z,SOXS,540.9748291703,-6,Market,Filled,-3245.8489750218,Warning: No quote information available at 05/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T20:00:00Z,SOXS,569.44718860032,6,Market On Open,Filled,3416.6831316019, 
+2019-05-02T14:00:00Z,SOXS,545.72022240864,-6,Market,Filled,-3274.3213344518,Warning: No quote information available at 05/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-02T15:00:00Z,SOXS,542.16117747989,-2,Market,Filled,-1084.3223549598,Warning: No quote information available at 05/02/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-02T16:00:00Z,SOXS,563.5154470524,8,Market,Filled,4508.1235764192,Warning: No quote information available at 05/02/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-03T15:00:00Z,SOXS,545.72022240864,-3,Market,Filled,-1637.1606672259,Warning: No quote information available at 05/03/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-06T14:00:00Z,SOXS,577.75162676741,3,Market,Filled,1733.2548803022,Warning: No quote information available at 05/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-15T15:00:00Z,SOXS,658.42331181912,-6,Market,Filled,-3950.5398709147,Warning: No quote information available at 05/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-16T14:00:00Z,SOXS,696.38645772581,5,Market,Filled,3481.932288629,Warning: No quote information available at 05/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-03T15:00:00Z,SOXS,855.35713121006,-7,Market,Filled,-5987.4999184704,Warning: No quote information available at 06/03/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-03T17:00:00Z,SOXS,895.69297373592,7,Market,Filled,6269.8508161514,Warning: No quote information available at 06/03/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T15:00:00Z,SOXS,835.18920994714,-7,Market,Filled,-5846.32446963,Warning: No quote information available at 06/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T14:00:00Z,SOXS,711.8089857504,5,Market,Filled,3559.044928752,Warning: No quote information available at 06/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-13T15:00:00Z,SOXS,733.16325532291,3,Market,Filled,2199.4897659687,Warning: No quote information available at 06/13/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T14:00:00Z,SOXS,709.43628913123,-8,Market,Filled,-5675.4903130499,Warning: No quote information available at 06/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-21T19:00:00Z,SOXS,683.33662632038,5,Market,Filled,3416.6831316019,Warning: No quote information available at 06/21/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-25T17:00:00Z,SOXS,685.70932293955,3,Market,Filled,2057.1279688187,Warning: No quote information available at 06/25/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-26T14:00:00Z,SOXS,637.06904224661,-8,Market,Filled,-5096.5523379729,Warning: No quote information available at 06/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-03T14:00:00Z,SOXS,600.41087948046,6,Market,Filled,3602.4652768828,Warning: No quote information available at 07/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-05T14:00:00Z,SOXS,614.64705919547,3,Market,Filled,1843.9411775864,Warning: No quote information available at 07/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-10T14:00:00Z,SOXS,566.12541333348,-9,Market,Filled,-5095.1287200014,Warning: No quote information available at 07/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-17T15:00:00Z,SOXS,554.14329540669,6,Market,Filled,3324.8597724401,Warning: No quote information available at 07/17/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-18T14:00:00Z,SOXS,538.24622805826,-6,Market,Filled,-3229.4773683496,Warning: No quote information available at 07/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-26T20:00:00Z,SOXS,463.15038006159,7,Market On Open,Filled,3242.0526604312, 
+2019-07-30T14:00:00Z,SOXS,471.09891373581,4,Market,Filled,1884.3956549432,Warning: No quote information available at 07/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T14:00:00Z,SOXS,577.15845261262,-8,Market,Filled,-4617.2676209009,Warning: No quote information available at 08/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T16:00:00Z,SOXS,555.09237405435,-3,Market,Filled,-1665.2771221631,Warning: No quote information available at 08/08/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-08-09T16:00:00Z,SOXS,584.86971662491,7,Market,Filled,4094.0880163744,Warning: No quote information available at 08/09/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-08-09T18:00:00Z,SOXS,567.66766613594,-7,Market,Filled,-3973.6736629516,Warning: No quote information available at 08/09/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-08-12T14:00:00Z,SOXS,583.92063797724,7,Market,Filled,4087.4444658407,Warning: No quote information available at 08/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-12T18:00:00Z,SOXS,590.92009300379,3,Market,Filled,1772.7602790114,Warning: No quote information available at 08/12/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-08-13T14:00:00Z,SOXS,542.16117747989,-10,Market,Filled,-5421.6117747989,Warning: No quote information available at 08/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-14T15:00:00Z,SOXS,588.78466604654,9,Market,Filled,5299.0619944189,Warning: No quote information available at 08/14/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-16T15:00:00Z,SOXS,549.75380666123,-9,Market,Filled,-4947.784259951,Warning: No quote information available at 08/16/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-22T15:00:00Z,SOXS,525.55230114571,7,Market,Filled,3678.86610802,Warning: No quote information available at 08/22/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-22T19:00:00Z,SOXS,508.58752031866,-7,Market,Filled,-3560.1126422306,Warning: No quote information available at 08/22/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-23T14:00:00Z,SOXS,536.82261008676,9,Market,Filled,4831.4034907808,Warning: No quote information available at 08/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-29T14:00:00Z,SOXS,517.72240230246,-9,Market,Filled,-4659.5016207221,Warning: No quote information available at 08/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-03T15:00:00Z,SOXS,536.46670559388,6,Market,Filled,3218.8002335633,Warning: No quote information available at 09/03/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-03T18:00:00Z,SOXS,546.66930105631,3,Market,Filled,1640.0079031689,Warning: No quote information available at 09/03/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-09-04T14:00:00Z,SOXS,501.94396978499,-9,Market,Filled,-4517.4957280649,Warning: No quote information available at 09/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-10T14:00:00Z,SOXS,449.74464416329,7,Market,Filled,3148.2125091431,Warning: No quote information available at 09/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T14:00:00Z,SOXS,428.27173975982,-7,Market,Filled,-2997.9021783188,Warning: No quote information available at 09/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-16T14:00:00Z,SOXS,424.3567903382,7,Market,Filled,2970.4975323674,Warning: No quote information available at 09/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-16T15:00:00Z,SOXS,424.94996449299,3,Market,Filled,1274.849893479,Warning: No quote information available at 09/16/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-19T14:00:00Z,SOXS,416.6455263259,-7,Market,Filled,-2916.5186842813,Warning: No quote information available at 09/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-19T18:00:00Z,SOXS,423.40771169053,7,Market,Filled,2963.8539818337,Warning: No quote information available at 09/19/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-01T14:00:00Z,SOXS,427.08192056244,-10,Market,Filled,-4270.8192056244,Warning: No quote information available at 10/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-01T15:00:00Z,SOXS,451.5719327905,10,Market,Filled,4515.719327905,Warning: No quote information available at 10/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-04T14:00:00Z,SOXS,446.31553992204,-10,Market,Filled,-4463.1553992204,Warning: No quote information available at 10/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-08T14:00:00Z,SOXS,478.69014145278,9,Market,Filled,4308.211273075,Warning: No quote information available at 10/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-10T14:00:00Z,SOXS,438.43095061934,-9,Market,Filled,-3945.8785555741,Warning: No quote information available at 10/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-17T16:00:00Z,SOXS,408.56508204854,7,Market,Filled,2859.9555743398,Warning: No quote information available at 10/17/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-10-18T15:00:00Z,SOXS,410.11810721423,3,Market,Filled,1230.3543216427,Warning: No quote information available at 10/18/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-21T16:00:00Z,SOXS,395.54356335168,-3,Market,Filled,-1186.630690055,Warning: No quote information available at 10/21/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-10-21T20:00:00Z,SOXS,390.04824353465,-7,Market On Open,Filled,-2730.3377047425, 
+2019-10-23T14:00:00Z,SOXS,421.10874684828,9,Market,Filled,3789.9787216345,Warning: No quote information available at 10/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-24T19:00:00Z,SOXS,397.21605199164,-6,Market,Filled,-2383.2963119498,Warning: No quote information available at 10/24/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-10-24T20:00:00Z,SOXS,392.43751302031,-3,Market On Open,Filled,-1177.3125390609, 
+2019-10-30T14:00:00Z,SOXS,360.30183843813,7,Market,Filled,2522.1128690669,Warning: No quote information available at 10/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-31T14:00:00Z,SOXS,374.39852840355,3,Market,Filled,1123.1955852106,Warning: No quote information available at 10/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-01T14:00:00Z,SOXS,351.46154134117,-10,Market,Filled,-3514.6154134117,Warning: No quote information available at 11/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-06T15:00:00Z,SOXS,325.53796742172,7,Market,Filled,2278.765771952,Warning: No quote information available at 11/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-07T15:00:00Z,SOXS,309.17147144492,-7,Market,Filled,-2164.2003001145,Warning: No quote information available at 11/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-08T15:00:00Z,SOXS,324.46279615317,11,Market,Filled,3569.0907576849,Warning: No quote information available at 11/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-08T17:00:00Z,SOXS,316.10035295335,-4,Market,Filled,-1264.4014118134,Warning: No quote information available at 11/08/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-11-11T15:00:00Z,SOXS,320.28157455326,4,Market,Filled,1281.126298213,Warning: No quote information available at 11/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T15:00:00Z,SOXS,311.91913135344,-4,Market,Filled,-1247.6765254137,Warning: No quote information available at 11/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T16:00:00Z,SOXS,309.88825229062,-7,Market,Filled,-2169.2177660343,Warning: No quote information available at 11/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T20:00:00Z,SOXS,317.8923050676,10,Market,Filled,3178.923050676,Warning: No quote information available at 11/12/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-11-15T15:00:00Z,SOXS,307.61844627924,-10,Market,Filled,-3076.1844627924,Warning: No quote information available at 11/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-19T16:00:00Z,SOXS,320.63996497611,10,Market,Filled,3206.3996497611,Warning: No quote information available at 11/19/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-25T15:00:00Z,SOXS,319.80372065613,-7,Market,Filled,-2238.6260445929,Warning: No quote information available at 11/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-25T17:00:00Z,SOXS,315.98088947906,-3,Market,Filled,-947.94266843719,Warning: No quote information available at 11/25/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-11-29T15:00:00Z,SOXS,316.21981642763,7,Market,Filled,2213.5387149934,Warning: No quote information available at 11/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-02T15:00:00Z,SOXS,326.61313869027,3,Market,Filled,979.83941607081,Warning: No quote information available at 12/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-05T15:00:00Z,SOXS,327.68830995882,-7,Market,Filled,-2293.8181697117,Warning: No quote information available at 12/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-06T15:00:00Z,SOXS,314.3084008391,-3,Market,Filled,-942.9252025173,Warning: No quote information available at 12/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T18:00:00Z,SOXS,249.00303310068,9,Market,Filled,2241.0272979062,Warning: No quote information available at 12/26/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T19:00:00Z,SOXS,247.08578164274,-9,Market,Filled,-2223.7720347847,Warning: No quote information available at 12/26/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-12-27T15:00:00Z,SOXS,249.60217418129,9,Market,Filled,2246.4195676316,Warning: No quote information available at 12/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-30T15:00:00Z,SOXS,257.9901493098,4,Market,Filled,1031.9605972392,Warning: No quote information available at 12/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-02T15:00:00Z,SOXS,240.85471440442,-13,Market,Filled,-3131.1112872574,Warning: No quote information available at 01/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T16:00:00Z,SOXS,248.64354845232,12,Market,Filled,2983.7225814278,Warning: No quote information available at 01/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T18:00:00Z,SOXS,244.20990445582,-12,Market,Filled,-2930.5188534698,Warning: No quote information available at 01/03/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T21:00:00Z,SOXS,257.87032109368,12,Market On Open,Filled,3094.4438531242, 
+2020-01-07T16:00:00Z,SOXS,242.412481214,-12,Market,Filled,-2908.949774568,Warning: No quote information available at 01/07/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-10T18:00:00Z,SOXS,242.77196586236,8,Market,Filled,1942.1757268989,Warning: No quote information available at 01/10/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-01-13T15:00:00Z,SOXS,234.74347538221,-8,Market,Filled,-1877.9478030577,Warning: No quote information available at 01/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-15T16:00:00Z,SOXS,238.69780651423,8,Market,Filled,1909.5824521138,Warning: No quote information available at 01/15/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-15T17:00:00Z,SOXS,240.01591689156,4,Market,Filled,960.06366756626,Warning: No quote information available at 01/15/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-16T15:00:00Z,SOXS,231.38828533081,-12,Market,Filled,-2776.6594239697,Warning: No quote information available at 01/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-24T19:00:00Z,SOXS,222.52099733781,8,Market,Filled,1780.1679787025,Warning: No quote information available at 01/24/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-01-27T15:00:00Z,SOXS,241.57368370115,4,Market,Filled,966.29473480458,Warning: No quote information available at 01/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-04T15:00:00Z,SOXS,240.01591689156,-12,Market,Filled,-2880.1910026988,Warning: No quote information available at 02/04/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-07T15:00:00Z,SOXS,230.54948781796,8,Market,Filled,1844.3959025437,Warning: No quote information available at 02/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-10T15:00:00Z,SOXS,234.50381894997,4,Market,Filled,938.01527579988,Warning: No quote information available at 02/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-10T17:00:00Z,SOXS,230.66931603408,-4,Market,Filled,-922.67726413632,Warning: No quote information available at 02/10/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-11T15:00:00Z,SOXS,211.73645788687,-8,Market,Filled,-1693.8916630949,Warning: No quote information available at 02/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-14T19:00:00Z,SOXS,205.14590600018,9,Market,Filled,1846.3131540016,Warning: No quote information available at 02/14/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-02-18T15:00:00Z,SOXS,212.93474004808,4,Market,Filled,851.73896019233,Warning: No quote information available at 02/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-19T15:00:00Z,SOXS,197.23724373615,-13,Market,Filled,-2564.08416857,Warning: No quote information available at 02/19/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-20T17:00:00Z,SOXS,206.943329242,12,Market,Filled,2483.319950904,Warning: No quote information available at 02/20/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T17:00:00Z,SOXS,275.24541243132,-9,Market,Filled,-2477.2087118818,Warning: No quote information available at 03/02/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T21:00:00Z,SOXS,260.02722898387,-3,Market On Open,Filled,-780.08168695162, 
+2020-03-03T19:00:00Z,SOXS,289.14548550142,11,Market,Filled,3180.6003405156,Warning: No quote information available at 03/03/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-03-04T18:00:00Z,SOXS,257.9901493098,-11,Market,Filled,-2837.8916424079,Warning: No quote information available at 03/04/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-05T18:00:00Z,SOXS,266.13846800607,7,Market,Filled,1862.9692760425,Warning: No quote information available at 03/05/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-06T15:00:00Z,SOXS,290.22393944652,4,Market,Filled,1160.8957577861,Warning: No quote information available at 03/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-13T20:00:00Z,SOXS,407.29610659732,-11,Market On Open,Filled,-4480.2571725705, 
+2020-03-16T14:00:00Z,SOXS,383.09080694076,11,Market,Filled,4213.9988763483,Warning: No quote information available at 03/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-17T16:00:00Z,SOXS,340.19230556922,-8,Market,Filled,-2721.5384445538,Warning: No quote information available at 03/17/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-17T20:00:00Z,SOXS,387.88393558562,-3,Market On Open,Filled,-1163.6518067569, 
+2020-03-18T14:00:00Z,SOXS,359.4846483648,7,Market,Filled,2516.3925385536,Warning: No quote information available at 03/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-18T15:00:00Z,SOXS,379.25630402486,4,Market,Filled,1517.0252160995,Warning: No quote information available at 03/18/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-19T19:00:00Z,SOXS,333.12244081805,-11,Market,Filled,-3664.3468489985,Warning: No quote information available at 03/19/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-03-20T19:00:00Z,SOXS,364.75708987415,10,Market,Filled,3647.5708987415,Warning: No quote information available at 03/20/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T14:00:00Z,SOXS,265.546176,-10,Market,Filled,-2655.46176,Warning: No quote information available at 03/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-31T19:00:00Z,SOXS,202.641024,9,Market,Filled,1823.769216,Warning: No quote information available at 03/31/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-01T14:00:00Z,SOXS,228.0912,4,Market,Filled,912.3648,Warning: No quote information available at 04/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-06T14:00:00Z,SOXS,184.033584,-13,Market,Filled,-2392.436592,Warning: No quote information available at 04/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-13T14:00:00Z,SOXS,158.46336,10,Market,Filled,1584.6336,Warning: No quote information available at 04/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-14T14:00:00Z,SOXS,130.972368,-10,Market,Filled,-1309.72368,Warning: No quote information available at 04/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-20T19:00:00Z,SOXS,132.8811312,11,Market,Filled,1461.6924432,Warning: No quote information available at 04/20/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-21T14:00:00Z,SOXS,141.776688,5,Market,Filled,708.88344,Warning: No quote information available at 04/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-22T19:00:00Z,SOXS,128.0071824,-16,Market,Filled,-2048.1149184,Warning: No quote information available at 04/22/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-30T19:00:00Z,SOXS,112.484976,12,Market,Filled,1349.819712,Warning: No quote information available at 04/30/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-05-01T14:00:00Z,SOXS,124.489776,5,Market,Filled,622.44888,Warning: No quote information available at 05/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T14:00:00Z,SOXS,113.205264,-12,Market,Filled,-1358.463168,Warning: No quote information available at 05/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-06T15:00:00Z,SOXS,110.924352,-5,Market,Filled,-554.62176,Warning: No quote information available at 05/06/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-12T20:00:00Z,SOXS,108.283296,18,Market On Open,Filled,1949.099328, 
+2020-05-18T14:00:00Z,SOXS,103.361328,-18,Market,Filled,-1860.503904,Warning: No quote information available at 05/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-22T14:00:00Z,SOXS,94.597824,14,Market,Filled,1324.369536,Warning: No quote information available at 05/22/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-26T14:00:00Z,SOXS,87.33492,-14,Market,Filled,-1222.68888,Warning: No quote information available at 05/26/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-27T15:00:00Z,SOXS,95.798304,19,Market,Filled,1820.167776,Warning: No quote information available at 05/27/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-27T19:00:00Z,SOXS,87.755088,-19,Market,Filled,-1667.346672,Warning: No quote information available at 05/27/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-05-28T20:00:00Z,SOXS,90.756288,18,Market On Open,Filled,1633.613184, 
+2020-05-29T19:00:00Z,SOXS,86.8067088,-6,Market,Filled,-520.8402528,Warning: No quote information available at 05/29/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-05-29T20:00:00Z,SOXS,86.43456,-12,Market On Open,Filled,-1037.21472, 
+2020-06-11T14:00:00Z,SOXS,71.308512,22,Market,Filled,1568.787264,Warning: No quote information available at 06/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-16T14:00:00Z,SOXS,64.945968,-22,Market,Filled,-1428.811296,Warning: No quote information available at 06/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-19T18:00:00Z,SOXS,66.8547312,15,Market,Filled,1002.820968,Warning: No quote information available at 06/19/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-06-22T14:00:00Z,SOXS,68.067216,7,Market,Filled,476.470512,Warning: No quote information available at 06/22/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-22T19:00:00Z,SOXS,65.42616,-7,Market,Filled,-457.98312,Warning: No quote information available at 06/22/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-06-23T16:00:00Z,SOXS,63.385344,-15,Market,Filled,-950.78016,Warning: No quote information available at 06/23/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-06-24T14:00:00Z,SOXS,67.106832,21,Market,Filled,1409.243472,Warning: No quote information available at 06/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-30T14:00:00Z,SOXS,64.465776,-21,Market,Filled,-1353.781296,Warning: No quote information available at 06/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-09T15:00:00Z,SOXS,59.42376,15,Market,Filled,891.3564,Warning: No quote information available at 07/09/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-09T17:00:00Z,SOXS,57.743088,-15,Market,Filled,-866.14632,Warning: No quote information available at 07/09/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-13T20:00:00Z,SOXS,60.504192,22,Market On Open,Filled,1331.092224, 
+2020-07-20T15:00:00Z,SOXS,55.60983504,-15,Market,Filled,-834.1475256,Warning: No quote information available at 07/20/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-20T17:00:00Z,SOXS,54.981984,-7,Market,Filled,-384.873888,Warning: No quote information available at 07/20/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-23T17:00:00Z,SOXS,54.681864,15,Market,Filled,820.22796,Warning: No quote information available at 07/23/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-23T18:00:00Z,SOXS,55.94356848,7,Market,Filled,391.60497936,Warning: No quote information available at 07/23/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-07-27T20:00:00Z,SOXS,54.0216,-22,Market On Open,Filled,-1188.4752, 
+2020-07-28T14:00:00Z,SOXS,55.82232,21,Market,Filled,1172.26872,Warning: No quote information available at 07/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-29T14:00:00Z,SOXS,54.261696,-15,Market,Filled,-813.92544,Warning: No quote information available at 07/29/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-29T15:00:00Z,SOXS,53.4093552,-6,Market,Filled,-320.4561312,Warning: No quote information available at 07/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-06T15:00:00Z,SOXS,46.4705808,17,Market,Filled,789.9998736,Warning: No quote information available at 08/06/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-06T19:00:00Z,SOXS,45.258096,-17,Market,Filled,-769.387632,Warning: No quote information available at 08/06/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-08-07T14:00:00Z,SOXS,45.18246576,17,Market,Filled,768.10191792,Warning: No quote information available at 08/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-07T17:00:00Z,SOXS,47.2869072,7,Market,Filled,331.0083504,Warning: No quote information available at 08/07/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-12T15:00:00Z,SOXS,44.89555104,-24,Market,Filled,-1077.49322496,Warning: No quote information available at 08/12/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-19T14:00:00Z,SOXS,44.41655952,25,Market,Filled,1110.413988,Warning: No quote information available at 08/19/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T14:00:00Z,SOXS,44.057616,-18,Market,Filled,-793.037088,Warning: No quote information available at 08/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T20:00:00Z,SOXS,43.697472,-7,Market On Open,Filled,-305.882304, 
+2020-08-27T14:00:00Z,SOXS,43.157256,17,Market,Filled,733.673352,Warning: No quote information available at 08/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-27T17:00:00Z,SOXS,44.057616,8,Market,Filled,352.460928,Warning: No quote information available at 08/27/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-27T19:00:00Z,SOXS,43.097232,-8,Market,Filled,-344.777856,Warning: No quote information available at 08/27/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-08-28T19:00:00Z,SOXS,41.463,-17,Market,Filled,-704.871,Warning: No quote information available at 08/28/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-09-03T15:00:00Z,SOXS,39.53,18,Market,Filled,711.54,Warning: No quote information available at 09/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-03T16:00:00Z,SOXS,40.185,8,Market,Filled,321.48,Warning: No quote information available at 09/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-14T15:00:00Z,SOXS,43,-18,Market,Filled,-774,Warning: No quote information available at 09/14/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-15T14:00:00Z,SOXS,41.7305,-8,Market,Filled,-333.844,Warning: No quote information available at 09/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-17T14:00:00Z,SOXS,44.23,25,Market,Filled,1105.75,Warning: No quote information available at 09/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-28T14:00:00Z,SOXS,41.9,-25,Market,Filled,-1047.5,Warning: No quote information available at 09/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-02T14:00:00Z,SOXS,38.45,19,Market,Filled,730.55,Warning: No quote information available at 10/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-02T20:00:00Z,SOXS,38.86,8,Market On Open,Filled,310.88, 
+2020-10-05T14:00:00Z,SOXS,37.63,-8,Market,Filled,-301.04,Warning: No quote information available at 10/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-05T16:00:00Z,SOXS,36.8,-19,Market,Filled,-699.2,Warning: No quote information available at 10/05/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-14T16:00:00Z,SOXS,30.79,23,Market,Filled,708.17,Warning: No quote information available at 10/14/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-15T14:00:00Z,SOXS,31.46,10,Market,Filled,314.6,Warning: No quote information available at 10/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T15:00:00Z,SOXS,36.01,-23,Market,Filled,-828.23,Warning: No quote information available at 11/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T19:00:00Z,SOXS,37.85,21,Market,Filled,794.85,Warning: No quote information available at 11/02/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-11-03T15:00:00Z,SOXS,35.1,-31,Market,Filled,-1088.1,Warning: No quote information available at 11/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-10T15:00:00Z,SOXS,27.57,27,Market,Filled,744.39,Warning: No quote information available at 11/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-10T21:00:00Z,SOXS,27.62,13,Market On Open,Filled,359.06, 
+2020-11-11T15:00:00Z,SOXS,26.438,-13,Market,Filled,-343.694,Warning: No quote information available at 11/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T20:00:00Z,SOXS,26.86,13,Market,Filled,349.18,Warning: No quote information available at 11/12/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-11-13T15:00:00Z,SOXS,25.13,-40,Market,Filled,-1005.2,Warning: No quote information available at 11/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-18T21:00:00Z,SOXS,25.1,28,Market On Open,Filled,702.8, 
+2020-11-19T21:00:00Z,SOXS,23.73,-28,Market On Open,Filled,-664.44, 
+2020-12-09T17:00:00Z,SOXS,18.115,37,Market,Filled,670.255,Warning: No quote information available at 12/09/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-09T19:00:00Z,SOXS,19.46,15,Market,Filled,291.9,Warning: No quote information available at 12/09/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-12-15T15:00:00Z,SOXS,18.54,-52,Market,Filled,-964.08,Warning: No quote information available at 12/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-18T15:00:00Z,SOXS,18.4899,36,Market,Filled,665.6364,Warning: No quote information available at 12/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T15:00:00Z,SOXS,19.41,16,Market,Filled,310.56,Warning: No quote information available at 12/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-28T15:00:00Z,SOXS,18.3608,-52,Market,Filled,-954.7616,Warning: No quote information available at 12/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-29T15:00:00Z,SOXS,19.16,50,Market,Filled,958,Warning: No quote information available at 12/29/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-30T15:00:00Z,SOXS,18.31,-50,Market,Filled,-915.5,Warning: No quote information available at 12/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-15T16:00:00Z,SOXS,14.365,43,Market,Filled,617.695,Warning: No quote information available at 01/15/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-19T15:00:00Z,SOXS,13.5,-43,Market,Filled,-580.5,Warning: No quote information available at 01/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-22T16:00:00Z,SOXS,12.89,46,Market,Filled,592.94,Warning: No quote information available at 01/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-25T16:00:00Z,SOXS,13.3,21,Market,Filled,279.3,Warning: No quote information available at 01/25/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T18:00:00Z,SOXS,13.975,-46,Market,Filled,-642.85,Warning: No quote information available at 02/01/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T20:00:00Z,SOXS,13.7,-21,Market,Filled,-287.7,Warning: No quote information available at 02/01/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-02-04T15:00:00Z,SOXS,14.02,45,Market,Filled,630.9,Warning: No quote information available at 02/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-08T15:00:00Z,SOXS,13.01,-45,Market,Filled,-585.45,Warning: No quote information available at 02/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-17T15:00:00Z,SOXS,10.94,55,Market,Filled,601.7,Warning: No quote information available at 02/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T15:00:00Z,SOXS,11.56,24,Market,Filled,277.44,Warning: No quote information available at 02/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-19T15:00:00Z,SOXS,10.8,-79,Market,Filled,-853.2,Warning: No quote information available at 02/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-22T15:00:00Z,SOXS,10.97,24,Market,Filled,263.28,Warning: No quote information available at 02/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-22T16:00:00Z,SOXS,11.3,52,Market,Filled,587.6,Warning: No quote information available at 02/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-24T21:00:00Z,SOXS,11.33,-76,Market On Open,Filled,-861.08, 
+2021-02-25T16:00:00Z,SOXS,11.73,73,Market,Filled,856.29,Warning: No quote information available at 02/25/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T17:00:00Z,SOXS,10.99,-73,Market,Filled,-802.27,Warning: No quote information available at 03/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-03-02T21:00:00Z,SOXS,11.7,21,Market On Open,Filled,245.7, 
+2021-03-03T15:00:00Z,SOXS,11.95,47,Market,Filled,561.65,Warning: No quote information available at 03/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-09T19:00:00Z,SOXS,12.495,-47,Market,Filled,-587.265,Warning: No quote information available at 03/09/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-10T15:00:00Z,SOXS,12.34,-21,Market,Filled,-259.14,Warning: No quote information available at 03/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-18T14:00:00Z,SOXS,10.87,53,Market,Filled,576.11,Warning: No quote information available at 03/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-18T19:00:00Z,SOXS,11.46,23,Market,Filled,263.58,Warning: No quote information available at 03/18/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-22T16:00:00Z,SOXS,10.5,-76,Market,Filled,-798,Warning: No quote information available at 03/22/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-03-23T16:00:00Z,SOXS,11.005,23,Market,Filled,253.115,Warning: No quote information available at 03/23/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-03-23T18:00:00Z,SOXS,11.24,48,Market,Filled,539.52,Warning: No quote information available at 03/23/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-26T16:00:00Z,SOXS,10.84,-49,Market,Filled,-531.16,Warning: No quote information available at 03/26/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-03-26T17:00:00Z,SOXS,10.71,-22,Market,Filled,-235.62,Warning: No quote information available at 03/26/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-03-30T16:00:00Z,SOXS,10.78,49,Market,Filled,528.22,Warning: No quote information available at 03/30/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-03-30T20:00:00Z,SOXS,10.3,-49,Market On Open,Filled,-504.7, 
+2021-04-07T15:00:00Z,SOXS,8.5,60,Market,Filled,510,Warning: No quote information available at 04/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-08T20:00:00Z,SOXS,8.34,-60,Market On Open,Filled,-500.4, 
+2021-04-12T14:00:00Z,SOXS,8.58,86,Market,Filled,737.88,Warning: No quote information available at 04/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-23T16:00:00Z,SOXS,8.92,-59,Market,Filled,-526.28,Warning: No quote information available at 04/23/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-04-26T14:00:00Z,SOXS,8.56,-27,Market,Filled,-231.12,Warning: No quote information available at 04/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-28T14:00:00Z,SOXS,8.79,58,Market,Filled,509.82,Warning: No quote information available at 04/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-28T15:00:00Z,SOXS,8.88,27,Market,Filled,239.76,Warning: No quote information available at 04/28/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-07T14:00:00Z,SOXS,9.53,-85,Market,Filled,-810.05,Warning: No quote information available at 05/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-10T14:00:00Z,SOXS,10.19,79,Market,Filled,805.01,Warning: No quote information available at 05/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-14T15:00:00Z,SOXS,10.66,-54,Market,Filled,-575.64,Warning: No quote information available at 05/14/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-14T18:00:00Z,SOXS,10.29,-25,Market,Filled,-257.25,Warning: No quote information available at 05/14/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-05-17T14:00:00Z,SOXS,11.105,23,Market,Filled,255.415,Warning: No quote information available at 05/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-18T14:00:00Z,SOXS,10.5,-23,Market,Filled,-241.5,Warning: No quote information available at 05/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-18T20:00:00Z,SOXS,11.6,51,Market On Open,Filled,591.6, 
+2021-05-19T14:00:00Z,SOXS,11.41,19,Market,Filled,216.79,Warning: No quote information available at 05/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T17:00:00Z,SOXS,10.57,-22,Market,Filled,-232.54,Warning: No quote information available at 05/19/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T20:00:00Z,SOXS,10.07,-48,Market On Open,Filled,-483.36, 
+2021-06-03T14:00:00Z,SOXS,8.81,82,Market,Filled,722.42,Warning: No quote information available at 06/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T14:00:00Z,SOXS,8.235,-82,Market,Filled,-675.27,Warning: No quote information available at 06/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-08T15:00:00Z,SOXS,8.515,79,Market,Filled,672.685,Warning: No quote information available at 06/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-10T14:00:00Z,SOXS,8.19,-25,Market,Filled,-204.75,Warning: No quote information available at 06/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-10T15:00:00Z,SOXS,8.465,24,Market,Filled,203.16,Warning: No quote information available at 06/10/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-10T19:00:00Z,SOXS,8.21,-24,Market,Filled,-197.04,Warning: No quote information available at 06/10/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-11T20:00:00Z,SOXS,8.11,-54,Market On Open,Filled,-437.94, 
+2021-06-16T18:00:00Z,SOXS,8.01,54,Market,Filled,432.54,Warning: No quote information available at 06/16/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-16T19:00:00Z,SOXS,8.32,24,Market,Filled,199.68,Warning: No quote information available at 06/16/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-17T15:00:00Z,SOXS,7.91,-24,Market,Filled,-189.84,Warning: No quote information available at 06/17/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-17T17:00:00Z,SOXS,8.09,24,Market,Filled,194.16,Warning: No quote information available at 06/17/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-06-17T18:00:00Z,SOXS,7.93,-25,Market,Filled,-198.25,Warning: No quote information available at 06/17/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-18T14:00:00Z,SOXS,8.18,24,Market,Filled,196.32,Warning: No quote information available at 06/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-23T14:00:00Z,SOXS,8.08,-53,Market,Filled,-428.24,Warning: No quote information available at 06/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-23T16:00:00Z,SOXS,8.05,-24,Market,Filled,-193.2,Warning: No quote information available at 06/23/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T14:00:00Z,SOXS,7.28,58,Market,Filled,422.24,Warning: No quote information available at 07/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T18:00:00Z,SOXS,7.385,26,Market,Filled,192.01,Warning: No quote information available at 07/01/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-07-12T14:00:00Z,SOXS,7.39,-58,Market,Filled,-428.62,Warning: No quote information available at 07/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-12T16:00:00Z,SOXS,7.26,-26,Market,Filled,-188.76,Warning: No quote information available at 07/12/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-14T16:00:00Z,SOXS,7.42,57,Market,Filled,422.94,Warning: No quote information available at 07/14/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-15T14:00:00Z,SOXS,7.54,25,Market,Filled,188.5,Warning: No quote information available at 07/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-21T14:00:00Z,SOXS,7.53,-82,Market,Filled,-617.46,Warning: No quote information available at 07/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-26T15:00:00Z,SOXS,7.39,57,Market,Filled,421.23,Warning: No quote information available at 07/26/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-27T14:00:00Z,SOXS,7.71,25,Market,Filled,192.75,Warning: No quote information available at 07/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-29T14:00:00Z,SOXS,7.135,-82,Market,Filled,-585.07,Warning: No quote information available at 07/29/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-06T17:00:00Z,SOXS,6.44,62,Market,Filled,399.28,Warning: No quote information available at 08/06/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-08-09T14:00:00Z,SOXS,6.495,29,Market,Filled,188.355,Warning: No quote information available at 08/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-23T14:00:00Z,SOXS,6.98,-91,Market,Filled,-635.18,Warning: No quote information available at 08/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-31T14:00:00Z,SOXS,6.445,67,Market,Filled,431.815,Warning: No quote information available at 08/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-01T20:00:00Z,SOXS,6.34,31,Market On Open,Filled,196.54, 
+2021-09-03T14:00:00Z,SOXS,6.14,-98,Market,Filled,-601.72,Warning: No quote information available at 09/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-07T14:00:00Z,SOXS,6.29,30,Market,Filled,188.7,Warning: No quote information available at 09/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-08T14:00:00Z,SOXS,6.47,64,Market,Filled,414.08,Warning: No quote information available at 09/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-10T14:00:00Z,SOXS,6.03,-94,Market,Filled,-566.82,Warning: No quote information available at 09/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-15T14:00:00Z,SOXS,6.17,63,Market,Filled,388.71,Warning: No quote information available at 09/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-16T18:00:00Z,SOXS,5.99,-63,Market,Filled,-377.37,Warning: No quote information available at 09/16/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-09-17T14:00:00Z,SOXS,6.18,90,Market,Filled,556.2,Warning: No quote information available at 09/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-22T15:00:00Z,SOXS,6.36,-62,Market,Filled,-394.32,Warning: No quote information available at 09/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-23T14:00:00Z,SOXS,6.035,-28,Market,Filled,-168.98,Warning: No quote information available at 09/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-27T14:00:00Z,SOXS,6.18,62,Market,Filled,383.16,Warning: No quote information available at 09/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-27T19:00:00Z,SOXS,6.03,-62,Market,Filled,-373.86,Warning: No quote information available at 09/27/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-09-28T14:00:00Z,SOXS,6.41,85,Market,Filled,544.85,Warning: No quote information available at 09/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-07T14:00:00Z,SOXS,6.8,-85,Market,Filled,-578,Warning: No quote information available at 10/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-11T18:00:00Z,SOXS,7.115,55,Market,Filled,391.325,Warning: No quote information available at 10/11/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-10-11T20:00:00Z,SOXS,7.14,25,Market On Open,Filled,178.5, 
+2021-10-14T14:00:00Z,SOXS,7,-55,Market,Filled,-385,Warning: No quote information available at 10/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-14T15:00:00Z,SOXS,6.89,-25,Market,Filled,-172.25,Warning: No quote information available at 10/14/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-22T16:00:00Z,SOXS,6.215,62,Market,Filled,385.33,Warning: No quote information available at 10/22/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-25T17:00:00Z,SOXS,6.059,-62,Market,Filled,-375.658,Warning: No quote information available at 10/25/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-11-10T15:00:00Z,SOXS,4.32,87,Market,Filled,375.84,Warning: No quote information available at 11/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-10T19:00:00Z,SOXS,4.555,38,Market,Filled,173.09,Warning: No quote information available at 11/10/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-12T17:00:00Z,SOXS,4.135,-125,Market,Filled,-516.875,Warning: No quote information available at 11/12/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-17T18:00:00Z,SOXS,4.1399,85,Market,Filled,351.8915,Warning: No quote information available at 11/17/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-11-18T15:00:00Z,SOXS,3.87,-85,Market,Filled,-328.95,Warning: No quote information available at 11/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T21:00:00Z,SOXS,4.05,123,Market On Open,Filled,498.15, 
+2021-11-29T17:00:00Z,SOXS,3.89,-85,Market,Filled,-330.65,Warning: No quote information available at 11/29/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-29T18:00:00Z,SOXS,3.85,-38,Market,Filled,-146.3,Warning: No quote information available at 11/29/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-11-30T16:00:00Z,SOXS,3.98,81,Market,Filled,322.38,Warning: No quote information available at 11/30/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-30T18:00:00Z,SOXS,4,37,Market,Filled,148,Warning: No quote information available at 11/30/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T15:00:00Z,SOXS,3.6594,-118,Market,Filled,-431.8092,Warning: No quote information available at 12/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T21:00:00Z,SOXS,4.16,107,Market On Open,Filled,445.12, 
+2021-12-07T15:00:00Z,SOXS,3.65,-107,Market,Filled,-390.55,Warning: No quote information available at 12/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-09T19:00:00Z,SOXS,3.69,70,Market,Filled,258.3,Warning: No quote information available at 12/09/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-13T15:00:00Z,SOXS,3.71,32,Market,Filled,118.72,Warning: No quote information available at 12/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-15T21:00:00Z,SOXS,3.53,-102,Market On Open,Filled,-360.06, 
+2021-12-16T17:00:00Z,SOXS,3.905,92,Market,Filled,359.26,Warning: No quote information available at 12/16/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-21T19:00:00Z,SOXS,3.76,-92,Market,Filled,-345.92,Warning: No quote information available at 12/21/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-30T15:00:00Z,SOXS,3.32,71,Market,Filled,235.72,Warning: No quote information available at 12/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-30T21:00:00Z,SOXS,3.39,31,Market On Open,Filled,105.09, 
+2022-01-03T16:00:00Z,SOXS,3.25,-70,Market,Filled,-227.5,Warning: No quote information available at 01/03/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T20:00:00Z,SOXS,3.23,-32,Market,Filled,-103.36,Warning: No quote information available at 01/03/2022 15:00:00 America/New_York, order filled using TradeBar data 
+2022-01-04T16:00:00Z,SOXS,3.43,97,Market,Filled,332.71,Warning: No quote information available at 01/04/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-04T21:00:00Z,SOXS,3.34,-67,Market On Open,Filled,-223.78, 
+2022-01-05T16:00:00Z,SOXS,3.315,67,Market,Filled,222.105,Warning: No quote information available at 01/05/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-12T15:00:00Z,SOXS,3.4407,-97,Market,Filled,-333.7479,Warning: No quote information available at 01/12/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-13T20:00:00Z,SOXS,3.64,91,Market,Filled,331.24,Warning: No quote information available at 01/13/2022 15:00:00 America/New_York, order filled using TradeBar data 
+2022-01-14T21:00:00Z,SOXS,3.68,-29,Market On Open,Filled,-106.72, 
+2022-01-18T15:00:00Z,SOXS,3.74,28,Market,Filled,104.72,Warning: No quote information available at 01/18/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T15:00:00Z,SOXS,4.68,-62,Market,Filled,-290.16,Warning: No quote information available at 01/26/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T21:00:00Z,SOXS,4.93,56,Market On Open,Filled,276.08, 
