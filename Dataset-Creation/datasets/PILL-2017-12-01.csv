@@ -1,0 +1,504 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2017-12-01T15:00:00Z,PILL,26.13421875,362,Market,Filled,9460.5871875,Warning: No quote information available at 12/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-06T18:00:00Z,PILL,24.4475,-362,Market,Filled,-8849.995,Warning: No quote information available at 12/06/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T15:00:00Z,PILL,25.310703125,240,Market,Filled,6074.56875,Warning: No quote information available at 12/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-11T15:00:00Z,PILL,27.543125,101,Market,Filled,2781.855625,Warning: No quote information available at 12/11/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-14T20:00:00Z,PILL,26.7890625,-234,Market,Filled,-6268.640625,Warning: No quote information available at 12/14/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-12-18T15:00:00Z,PILL,27.910234375,225,Market,Filled,6279.802734375,Warning: No quote information available at 12/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-20T18:00:00Z,PILL,26.163401848,-332,Market,Filled,-8686.249413536,Warning: No quote information available at 12/20/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-12-21T17:00:00Z,PILL,27.39415368,318,Market,Filled,8711.34087024,Warning: No quote information available at 12/21/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-28T19:00:00Z,PILL,26.610045658,-318,Market,Filled,-8461.994519244,Warning: No quote information available at 12/28/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2018-01-02T18:00:00Z,PILL,28.13856003,301,Market,Filled,8469.70656903,Warning: No quote information available at 01/02/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-01-08T15:00:00Z,PILL,28.793637618,-207,Market,Filled,-5960.282986926,Warning: No quote information available at 01/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-08T18:00:00Z,PILL,30.014464032,198,Market,Filled,5942.863878336,Warning: No quote information available at 01/08/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-01-24T17:00:00Z,PILL,32.743953982,-201,Market,Filled,-6581.534750382,Warning: No quote information available at 01/24/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-01-24T19:00:00Z,PILL,33.567763676,194,Market,Filled,6512.146153144,Warning: No quote information available at 01/24/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-01-30T15:00:00Z,PILL,33.64716702,-195,Market,Filled,-6561.1975689,Warning: No quote information available at 01/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-30T18:00:00Z,PILL,33.557838258,-90,Market,Filled,-3020.20544322,Warning: No quote information available at 01/30/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-07T16:00:00Z,PILL,28.267590464,232,Market,Filled,6558.080987648,Warning: No quote information available at 02/07/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-08T18:00:00Z,PILL,25.55795135,-232,Market,Filled,-5929.4447132,Warning: No quote information available at 02/08/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-12T18:00:00Z,PILL,26.222954356,234,Market,Filled,6136.171319304,Warning: No quote information available at 02/12/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-12T20:00:00Z,PILL,26.471089806,108,Market,Filled,2858.877699048,Warning: No quote information available at 02/12/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-02-22T16:00:00Z,PILL,28.247739628,-235,Market,Filled,-6638.21881258,Warning: No quote information available at 02/22/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-22T18:00:00Z,PILL,27.423929934,-107,Market,Filled,-2934.360502938,Warning: No quote information available at 02/22/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-23T15:00:00Z,PILL,28.08893294,232,Market,Filled,6516.63244208,Warning: No quote information available at 02/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-23T17:00:00Z,PILL,27.463631606,-232,Market,Filled,-6371.562532592,Warning: No quote information available at 02/23/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-02-23T18:00:00Z,PILL,28.823413872,326,Market,Filled,9396.432922272,Warning: No quote information available at 02/23/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T16:00:00Z,PILL,27.751468728,-103,Market,Filled,-2858.401278984,Warning: No quote information available at 02/26/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T18:00:00Z,PILL,28.18818712,102,Market,Filled,2875.19508624,Warning: No quote information available at 02/26/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T16:00:00Z,PILL,27.364377426,-103,Market,Filled,-2818.530874878,Warning: No quote information available at 02/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T17:00:00Z,PILL,26.99713696,-222,Market,Filled,-5993.36440512,Warning: No quote information available at 02/27/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-05T17:00:00Z,PILL,25.518249678,236,Market,Filled,6022.306924008,Warning: No quote information available at 03/05/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-06T15:00:00Z,PILL,25.627429276,109,Market,Filled,2793.389791084,Warning: No quote information available at 03/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-15T14:00:00Z,PILL,27.59266204,-237,Market,Filled,-6539.46090348,Warning: No quote information available at 03/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-15T20:00:00Z,PILL,27.423929934,-108,Market On Open,Filled,-2961.784432872, 
+2018-03-21T14:00:00Z,PILL,26.421462716,245,Market,Filled,6473.25836542,Warning: No quote information available at 03/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-21T17:00:00Z,PILL,26.133625594,-245,Market,Filled,-6402.73827053,Warning: No quote information available at 03/21/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-27T14:00:00Z,PILL,23.562942332,273,Market,Filled,6432.683256636,Warning: No quote information available at 03/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-27T20:00:00Z,PILL,21.875621272,-273,Market On Open,Filled,-5972.044607256, 
+2018-03-28T17:00:00Z,PILL,23.205627284,264,Market,Filled,6126.285602976,Warning: No quote information available at 03/28/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-29T16:00:00Z,PILL,23.513315242,120,Market,Filled,2821.59782904,Warning: No quote information available at 03/29/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-04-02T15:00:00Z,PILL,22.113831304,-384,Market,Filled,-8491.711220736,Warning: No quote information available at 04/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-04T19:00:00Z,PILL,22.947566416,371,Market,Filled,8513.547140336,Warning: No quote information available at 04/04/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-04-06T18:00:00Z,PILL,21.68703833,-371,Market,Filled,-8045.89122043,Warning: No quote information available at 04/06/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-09T18:00:00Z,PILL,22.371892172,114,Market,Filled,2550.395707608,Warning: No quote information available at 04/09/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-10T14:00:00Z,PILL,22.92771558,241,Market,Filled,5525.57945478,Warning: No quote information available at 04/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-13T20:00:00Z,PILL,23.483538988,-243,Market On Open,Filled,-5706.499974084, 
+2018-04-17T14:00:00Z,PILL,23.592718586,241,Market,Filled,5685.845179226,Warning: No quote information available at 04/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-20T20:00:00Z,PILL,23.414061062,-353,Market On Open,Filled,-8265.163554886, 
+2018-04-27T14:00:00Z,PILL,23.255254374,355,Market,Filled,8255.61530277,Warning: No quote information available at 04/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-01T15:00:00Z,PILL,22.014577124,-355,Market,Filled,-7815.17487902,Warning: No quote information available at 05/01/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-04T20:00:00Z,PILL,21.776367092,250,Market On Open,Filled,5444.091773, 
+2018-05-08T14:00:00Z,PILL,21.766441674,110,Market,Filled,2394.30858414,Warning: No quote information available at 05/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-21T17:00:00Z,PILL,25.329666736,-247,Market,Filled,-6256.427683792,Warning: No quote information available at 05/21/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-21T20:00:00Z,PILL,25.081531286,-113,Market On Open,Filled,-2834.213035318, 
+2018-05-24T15:00:00Z,PILL,25.40907008,243,Market,Filled,6174.40402944,Warning: No quote information available at 05/24/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-24T17:00:00Z,PILL,25.55795135,112,Market,Filled,2862.4905512,Warning: No quote information available at 05/24/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-29T16:00:00Z,PILL,24.91279918,-355,Market,Filled,-8844.0437089,Warning: No quote information available at 05/29/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-05-30T15:00:00Z,PILL,26.05422225,339,Market,Filled,8832.38134275,Warning: No quote information available at 05/30/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-18T14:00:00Z,PILL,29.389162698,-339,Market,Filled,-9962.926154622,Warning: No quote information available at 06/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-20T14:00:00Z,PILL,29.827152,227,Market,Filled,6770.763504,Warning: No quote information available at 06/19/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-06-20T15:00:00Z,PILL,30.214904976,104,Market,Filled,3142.350117504,Warning: No quote information available at 06/20/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-25T14:00:00Z,PILL,29.3300328,-331,Market,Filled,-9708.2408568,Warning: No quote information available at 06/25/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-28T19:00:00Z,PILL,28.38550632,234,Market,Filled,6642.20847888,Warning: No quote information available at 06/28/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-06-29T14:00:00Z,PILL,29.111300352,105,Market,Filled,3056.68653696,Warning: No quote information available at 06/29/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-12T14:00:00Z,PILL,32.084073168,-233,Market,Filled,-7475.589048144,Warning: No quote information available at 07/11/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-07-12T15:00:00Z,PILL,32.402229456,229,Market,Filled,7420.110545424,Warning: No quote information available at 07/12/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-16T14:00:00Z,PILL,32.223266544,-335,Market,Filled,-10794.79429224,Warning: No quote information available at 07/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-17T18:00:00Z,PILL,32.730328128,330,Market,Filled,10801.00828224,Warning: No quote information available at 07/17/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-07-19T15:00:00Z,PILL,31.905110256,-330,Market,Filled,-10528.68638448,Warning: No quote information available at 07/19/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-24T14:00:00Z,PILL,32.949060576,320,Market,Filled,10543.69938432,Warning: No quote information available at 07/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-27T15:00:00Z,PILL,32.044303632,-320,Market,Filled,-10254.17716224,Warning: No quote information available at 07/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-31T15:00:00Z,PILL,32.402229456,216,Market,Filled,6998.881562496,Warning: No quote information available at 07/31/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-31T16:00:00Z,PILL,32.879463888,99,Market,Filled,3255.066924912,Warning: No quote information available at 07/31/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-10T14:00:00Z,PILL,34.74863208,-216,Market,Filled,-7505.70452928,Warning: No quote information available at 08/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-13T14:00:00Z,PILL,34.281340032,-99,Market,Filled,-3393.852663168,Warning: No quote information available at 08/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-14T20:00:00Z,PILL,34.907710224,213,Market On Open,Filled,7435.342277712, 
+2018-08-15T15:00:00Z,PILL,33.923414208,-213,Market,Filled,-7225.687226304,Warning: No quote information available at 08/15/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-16T15:00:00Z,PILL,34.94747976,305,Market,Filled,10658.9813268,Warning: No quote information available at 08/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-23T16:00:00Z,PILL,35.971545312,-209,Market,Filled,-7518.052970208,Warning: No quote information available at 08/23/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-27T14:00:00Z,PILL,36.727166496,204,Market,Filled,7492.341965184,Warning: No quote information available at 08/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-04T14:00:00Z,PILL,36.09085392,-300,Market,Filled,-10827.256176,Warning: No quote information available at 09/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-12T14:00:00Z,PILL,34.410591024,216,Market,Filled,7432.687661184,Warning: No quote information available at 09/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-13T14:00:00Z,PILL,35.0469036,97,Market,Filled,3399.5496492,Warning: No quote information available at 09/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-17T14:00:00Z,PILL,34.281340032,-214,Market,Filled,-7336.206766848,Warning: No quote information available at 09/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-18T14:00:00Z,PILL,34.718804928,212,Market,Filled,7360.386644736,Warning: No quote information available at 09/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-26T20:00:00Z,PILL,36.00148397,-213,Market On Open,Filled,-7668.31608561, 
+2018-09-27T14:00:00Z,PILL,35.85218282,213,Market,Filled,7636.51494066,Warning: No quote information available at 09/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-01T17:00:00Z,PILL,35.65311462,-311,Market,Filled,-11088.11864682,Warning: No quote information available at 10/01/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T17:00:00Z,PILL,35.58344075,213,Market,Filled,7579.27287975,Warning: No quote information available at 10/03/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-04T14:00:00Z,PILL,34.66772703,-213,Market,Filled,-7384.22585739,Warning: No quote information available at 10/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-09T19:00:00Z,PILL,34.15014971,218,Market,Filled,7444.73263678,Warning: No quote information available at 10/09/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-10-10T14:00:00Z,PILL,34.65777362,100,Market,Filled,3465.777362,Warning: No quote information available at 10/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-10T16:00:00Z,PILL,33.40364396,-100,Market,Filled,-3340.364396,Warning: No quote information available at 10/10/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-10T17:00:00Z,PILL,33.09508825,-218,Market,Filled,-7214.7292385,Warning: No quote information available at 10/10/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-15T14:00:00Z,PILL,30.20859935,239,Market,Filled,7219.85524465,Warning: No quote information available at 10/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-15T15:00:00Z,PILL,29.54172088,-239,Market,Filled,-7060.47129032,Warning: No quote information available at 10/15/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T14:00:00Z,PILL,30.14887889,236,Market,Filled,7115.13541804,Warning: No quote information available at 10/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T16:00:00Z,PILL,31.21389376,105,Market,Filled,3277.4588448,Warning: No quote information available at 10/16/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-19T20:00:00Z,PILL,30.58682893,-233,Market On Open,Filled,-7126.73114069, 
+2018-10-22T15:00:00Z,PILL,28.6658208,-108,Market,Filled,-3095.9086464,Warning: No quote information available at 10/22/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-30T16:00:00Z,PILL,26.35662968,266,Market,Filled,7010.86349488,Warning: No quote information available at 10/30/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-31T14:00:00Z,PILL,27.56099229,117,Market,Filled,3224.63609793,Warning: No quote information available at 10/31/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-09T19:00:00Z,PILL,29.5616277,-263,Market,Filled,-7774.7080851,Warning: No quote information available at 11/09/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-11-12T16:00:00Z,PILL,29.29288563,-120,Market,Filled,-3515.1462756,Warning: No quote information available at 11/12/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-15T21:00:00Z,PILL,28.91465605,272,Market On Open,Filled,7864.7864456, 
+2018-11-16T20:00:00Z,PILL,28.91465605,117,Market,Filled,3383.01475785,Warning: No quote information available at 11/16/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-11-20T15:00:00Z,PILL,27.31215704,-389,Market,Filled,-10624.42908856,Warning: No quote information available at 11/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-23T16:00:00Z,PILL,27.93922187,261,Market,Filled,7292.13690807,Warning: No quote information available at 11/23/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-26T15:00:00Z,PILL,29.04405038,115,Market,Filled,3340.0657937,Warning: No quote information available at 11/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-27T16:00:00Z,PILL,27.42164455,-376,Market,Filled,-10310.5383508,Warning: No quote information available at 11/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-27T17:00:00Z,PILL,27.73020026,255,Market,Filled,7071.2010663,Warning: No quote information available at 11/27/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-27T21:00:00Z,PILL,28.64591398,116,Market On Open,Filled,3322.92602168, 
+2018-12-04T18:00:00Z,PILL,29.97967092,-255,Market,Filled,-7644.8160846,Warning: No quote information available at 12/04/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-12-04T21:00:00Z,PILL,27.42164455,-116,Market On Open,Filled,-3180.9107678, 
+2018-12-12T15:00:00Z,PILL,27.08322861,271,Market,Filled,7339.55495331,Warning: No quote information available at 12/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-12T20:00:00Z,PILL,27.52117865,123,Market,Filled,3385.10497395,Warning: No quote information available at 12/12/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T15:00:00Z,PILL,25.45086937,-394,Market,Filled,-10027.64253178,Warning: No quote information available at 12/14/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-26T17:00:00Z,PILL,18.90152559,365,Market,Filled,6899.05684035,Warning: No quote information available at 12/26/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-26T21:00:00Z,PILL,19.47882337,154,Market On Open,Filled,2999.73879898, 
+2019-01-02T15:00:00Z,PILL,20.21537571,-353,Market,Filled,-7136.02762563,Warning: No quote information available at 01/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-02T16:00:00Z,PILL,20.81258031,350,Market,Filled,7284.4031085,Warning: No quote information available at 01/02/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-14T21:00:00Z,PILL,23.888184,-355,Market On Open,Filled,-8480.30532, 
+2019-01-15T20:00:00Z,PILL,24.96315228,336,Market,Filled,8387.61916608,Warning: No quote information available at 01/15/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-01-22T18:00:00Z,PILL,24.77403749,-340,Market,Filled,-8423.1727466,Warning: No quote information available at 01/22/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-23T15:00:00Z,PILL,24.53515565,-157,Market,Filled,-3852.01943705,Warning: No quote information available at 01/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-25T15:00:00Z,PILL,25.07263979,489,Market,Filled,12260.52085731,Warning: No quote information available at 01/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-25T16:00:00Z,PILL,24.1867863,-489,Market,Filled,-11827.3385007,Warning: No quote information available at 01/25/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T18:00:00Z,PILL,23.61944193,343,Market,Filled,8101.46858199,Warning: No quote information available at 01/30/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T20:00:00Z,PILL,24.19673971,155,Market,Filled,3750.49465505,Warning: No quote information available at 01/30/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-02-07T15:00:00Z,PILL,24.20669312,-498,Market,Filled,-12054.93317376,Warning: No quote information available at 02/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-11T16:00:00Z,PILL,24.11711243,341,Market,Filled,8223.93533863,Warning: No quote information available at 02/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-12T16:00:00Z,PILL,24.75413067,154,Market,Filled,3812.13612318,Warning: No quote information available at 02/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-20T16:00:00Z,PILL,25.5802637,-339,Market,Filled,-8671.7093943,Warning: No quote information available at 02/20/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-21T15:00:00Z,PILL,24.94324546,-156,Market,Filled,-3891.14629176,Warning: No quote information available at 02/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-22T18:00:00Z,PILL,25.42100914,337,Market,Filled,8566.88008018,Warning: No quote information available at 02/22/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-02-22T21:00:00Z,PILL,25.49068301,-337,Market On Open,Filled,-8590.36017437, 
+2019-02-25T15:00:00Z,PILL,25.15226707,338,Market,Filled,8501.46626966,Warning: No quote information available at 02/22/2019 16:00:00 America/New_York, order filled using TradeBar data 
+2019-02-25T20:00:00Z,PILL,25.64993757,158,Market,Filled,4052.69013606,Warning: No quote information available at 02/25/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T18:00:00Z,PILL,26.4760706,-340,Market,Filled,-9001.864004,Warning: No quote information available at 03/04/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-03-05T21:00:00Z,PILL,27.03346156,-156,Market On Open,Filled,-4217.22000336, 
+2019-03-11T15:00:00Z,PILL,24.09720561,374,Market,Filled,9012.35489814,Warning: No quote information available at 03/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-12T16:00:00Z,PILL,24.95319887,166,Market,Filled,4142.23101242,Warning: No quote information available at 03/12/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-20T17:00:00Z,PILL,24.860635576,-370,Market,Filled,-9198.43516312,Warning: No quote information available at 03/20/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-03-21T14:00:00Z,PILL,24.64115966,-170,Market,Filled,-4188.9971422,Warning: No quote information available at 03/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-26T15:00:00Z,PILL,23.463970656,391,Market,Filled,9174.412526496,Warning: No quote information available at 03/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-29T14:00:00Z,PILL,23.034995002,184,Market,Filled,4238.439080368,Warning: No quote information available at 03/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-04T14:00:00Z,PILL,23.483923012,-394,Market,Filled,-9252.665666728,Warning: No quote information available at 04/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-04T20:00:00Z,PILL,24.59127877,387,Market On Open,Filled,9516.82488399, 
+2019-04-09T20:00:00Z,PILL,23.982731912,-568,Market On Open,Filled,-13622.191726016, 
+2019-04-10T14:00:00Z,PILL,23.982731912,175,Market,Filled,4196.9780846,Warning: No quote information available at 04/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-11T20:00:00Z,PILL,23.533803902,-175,Market On Open,Filled,-4118.41568285, 
+2019-04-12T14:00:00Z,PILL,23.533803902,385,Market,Filled,9060.51450227,Warning: No quote information available at 04/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-12T15:00:00Z,PILL,22.925257044,-385,Market,Filled,-8826.22396194,Warning: No quote information available at 04/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-16T14:00:00Z,PILL,22.835471442,390,Market,Filled,8905.83386238,Warning: No quote information available at 04/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-16T16:00:00Z,PILL,22.356614898,-390,Market,Filled,-8719.07981022,Warning: No quote information available at 04/16/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T14:00:00Z,PILL,19.4535471,452,Market,Filled,8793.0032892,Warning: No quote information available at 04/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T18:00:00Z,PILL,20.50104579,197,Market,Filled,4038.70602063,Warning: No quote information available at 04/23/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-04-30T16:00:00Z,PILL,20.35140312,-444,Market,Filled,-9036.02298528,Warning: No quote information available at 04/30/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T16:00:00Z,PILL,21.09961647,428,Market,Filled,9030.63584916,Warning: No quote information available at 05/01/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-07T15:00:00Z,PILL,20.979902334,-433,Market,Filled,-9084.297710622,Warning: No quote information available at 05/07/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-07T19:00:00Z,PILL,20.620759926,-200,Market,Filled,-4124.1519852,Warning: No quote information available at 05/07/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-05-16T14:00:00Z,PILL,19.234071184,470,Market,Filled,9040.01345648,Warning: No quote information available at 05/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-16T15:00:00Z,PILL,20.141903382,206,Market,Filled,4149.232096692,Warning: No quote information available at 05/16/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-20T15:00:00Z,PILL,18.426000766,-676,Market,Filled,-12455.976517816,Warning: No quote information available at 05/20/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-03T19:00:00Z,PILL,16.141456004,530,Market,Filled,8554.97168212,Warning: No quote information available at 06/03/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T14:00:00Z,PILL,16.520550768,238,Market,Filled,3931.891082784,Warning: No quote information available at 06/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-07T14:00:00Z,PILL,16.380884276,-526,Market,Filled,-8616.345129176,Warning: No quote information available at 06/06/2019 16:00:00 America/New_York, order filled using TradeBar data 
+2019-06-07T15:00:00Z,PILL,16.80985993,513,Market,Filled,8623.45814409,Warning: No quote information available at 06/07/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-11T20:00:00Z,PILL,16.420788988,-238,Market On Open,Filled,-3908.147779144, 
+2019-06-12T14:00:00Z,PILL,16.4606937,-517,Market,Filled,-8510.1786429,Warning: No quote information available at 06/11/2019 16:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T15:00:00Z,PILL,16.690145794,744,Market,Filled,12417.468470736,Warning: No quote information available at 06/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-14T19:00:00Z,PILL,16.490622234,-744,Market,Filled,-12269.022942096,Warning: No quote information available at 06/14/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-17T14:00:00Z,PILL,16.849764642,728,Market,Filled,12266.628659376,Warning: No quote information available at 06/17/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-21T14:00:00Z,PILL,17.318645008,-499,Market,Filled,-8642.003858992,Warning: No quote information available at 06/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-21T19:00:00Z,PILL,17.847382442,483,Market,Filled,8620.285719486,Warning: No quote information available at 06/21/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-24T15:00:00Z,PILL,17.378502076,-487,Market,Filled,-8463.330511012,Warning: No quote information available at 06/24/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-24T20:00:00Z,PILL,17.5110676,-225,Market On Open,Filled,-3939.99021, 
+2019-06-27T14:00:00Z,PILL,17.1614456,495,Market,Filled,8494.915572,Warning: No quote information available at 06/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-27T19:00:00Z,PILL,17.5710028,222,Market,Filled,3900.7626216,Warning: No quote information available at 06/27/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-07-05T17:00:00Z,PILL,18.2902252,-491,Market,Filled,-8980.5005732,Warning: No quote information available at 07/05/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-08T14:00:00Z,PILL,17.780776,-226,Market,Filled,-4018.455376,Warning: No quote information available at 07/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-10T14:00:00Z,PILL,18.0404952,492,Market,Filled,8875.9236384,Warning: No quote information available at 07/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-11T15:00:00Z,PILL,17.1214888,-492,Market,Filled,-8423.7724896,Warning: No quote information available at 07/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-18T20:00:00Z,PILL,16.4721908,523,Market On Open,Filled,8614.9557884, 
+2019-07-19T16:00:00Z,PILL,15.932774,-523,Market,Filled,-8332.840802,Warning: No quote information available at 07/19/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-24T14:00:00Z,PILL,15.8628496,529,Market,Filled,8391.4474384,Warning: No quote information available at 07/23/2019 16:00:00 America/New_York, order filled using TradeBar data 
+2019-07-24T19:00:00Z,PILL,16.0426552,242,Market,Filled,3882.3225584,Warning: No quote information available at 07/24/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-07-25T17:00:00Z,PILL,15.6131196,-771,Market,Filled,-12037.7152116,Warning: No quote information available at 07/25/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-26T20:00:00Z,PILL,15.8928172,757,Market On Open,Filled,12030.8626204, 
+2019-07-30T14:00:00Z,PILL,15.6231088,-757,Market,Filled,-11826.6933616,Warning: No quote information available at 07/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-30T16:00:00Z,PILL,15.9427632,743,Market,Filled,11845.4730576,Warning: No quote information available at 07/30/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-31T19:00:00Z,PILL,15.4532924,-743,Market,Filled,-11481.7962532,Warning: No quote information available at 07/31/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-01T15:00:00Z,PILL,15.8628496,724,Market,Filled,11484.7031104,Warning: No quote information available at 08/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-01T19:00:00Z,PILL,15.3534004,-724,Market,Filled,-11115.8618896,Warning: No quote information available at 08/01/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-02T14:00:00Z,PILL,15.683044,485,Market,Filled,7606.27634,Warning: No quote information available at 08/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-02T15:00:00Z,PILL,15.183584,-485,Market,Filled,-7364.03824,Warning: No quote information available at 08/02/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T14:00:00Z,PILL,14.2745668,522,Market,Filled,7451.3238696,Warning: No quote information available at 08/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T15:00:00Z,PILL,14.5542644,236,Market,Filled,3434.8063984,Warning: No quote information available at 08/08/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-12T14:00:00Z,PILL,13.7151716,-758,Market,Filled,-10396.1000728,Warning: No quote information available at 08/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-13T15:00:00Z,PILL,14.3744588,725,Market,Filled,10421.48263,Warning: No quote information available at 08/13/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-14T14:00:00Z,PILL,13.1657656,-725,Market,Filled,-9545.18006,Warning: No quote information available at 08/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-19T14:00:00Z,PILL,13.335582,719,Market,Filled,9588.283458,Warning: No quote information available at 08/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-22T16:00:00Z,PILL,13.3255928,-492,Market,Filled,-6556.1916576,Warning: No quote information available at 08/22/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-08-23T16:00:00Z,PILL,12.7661976,-227,Market,Filled,-2897.9268552,Warning: No quote information available at 08/23/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-08-29T14:00:00Z,PILL,12.3166836,525,Market,Filled,6466.25889,Warning: No quote information available at 08/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-30T14:00:00Z,PILL,12.436554,240,Market,Filled,2984.77296,Warning: No quote information available at 08/29/2019 16:00:00 America/New_York, order filled using TradeBar data 
+2019-09-03T14:00:00Z,PILL,12.0070184,-765,Market,Filled,-9185.369076,Warning: No quote information available at 09/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-04T14:00:00Z,PILL,12.1668456,238,Market,Filled,2895.7092528,Warning: No quote information available at 09/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-04T17:00:00Z,PILL,11.8072344,-238,Market,Filled,-2810.1217872,Warning: No quote information available at 09/04/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-09-05T15:00:00Z,PILL,12.1468672,513,Market,Filled,6231.3428736,Warning: No quote information available at 09/05/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-05T20:00:00Z,PILL,12.5564244,234,Market On Open,Filled,2938.2033096, 
+2019-09-18T19:00:00Z,PILL,14.0548044,-747,Market,Filled,-10498.9388868,Warning: No quote information available at 09/18/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-09-19T16:00:00Z,PILL,14.4543724,226,Market,Filled,3266.6881624,Warning: No quote information available at 09/19/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-09-19T20:00:00Z,PILL,14.0548044,-226,Market On Open,Filled,-3176.3857944, 
+2019-09-20T14:00:00Z,PILL,14.4044264,713,Market,Filled,10270.3560232,Warning: No quote information available at 09/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-24T15:00:00Z,PILL,14.079716992,-713,Market,Filled,-10038.838215296,Warning: No quote information available at 09/24/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-01T14:00:00Z,PILL,12.619746338,545,Market,Filled,6877.76175421,Warning: No quote information available at 10/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-01T16:00:00Z,PILL,12.349751765,-545,Market,Filled,-6730.614711925,Warning: No quote information available at 10/01/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-10-03T18:00:00Z,PILL,11.869761413,571,Market,Filled,6777.633766823,Warning: No quote information available at 10/03/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-04T14:00:00Z,PILL,12.29975277,253,Market,Filled,3111.83745081,Warning: No quote information available at 10/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-08T14:00:00Z,PILL,11.789763021,-564,Market,Filled,-6649.426343844,Warning: No quote information available at 10/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-08T15:00:00Z,PILL,11.69976483,-260,Market,Filled,-3041.9388558,Warning: No quote information available at 10/08/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-11T14:00:00Z,PILL,12.349751765,786,Market,Filled,9706.90488729,Warning: No quote information available at 10/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-06T15:00:00Z,PILL,15.449689455,-786,Market,Filled,-12143.45591163,Warning: No quote information available at 11/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-08T18:00:00Z,PILL,15.39969046,534,Market,Filled,8223.43470564,Warning: No quote information available at 11/08/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T16:00:00Z,PILL,15.719684028,240,Market,Filled,3772.72416672,Warning: No quote information available at 11/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T21:00:00Z,PILL,14.969699103,-243,Market On Open,Filled,-3637.636882029, 
+2019-11-13T15:00:00Z,PILL,14.929699907,-531,Market,Filled,-7927.670650617,Warning: No quote information available at 11/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-15T15:00:00Z,PILL,15.049697495,527,Market,Filled,7931.190579865,Warning: No quote information available at 11/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-15T17:00:00Z,PILL,15.359691264,238,Market,Filled,3655.606520832,Warning: No quote information available at 11/15/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-03T15:00:00Z,PILL,17.609646039,-765,Market,Filled,-13471.379219835,Warning: No quote information available at 12/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-04T16:00:00Z,PILL,18.089636391,233,Market,Filled,4214.885279103,Warning: No quote information available at 12/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-04T17:00:00Z,PILL,18.119635788,506,Market,Filled,9168.535708728,Warning: No quote information available at 12/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-05T21:00:00Z,PILL,17.9996382,-233,Market On Open,Filled,-4193.9157006, 
+2019-12-06T15:00:00Z,PILL,18.339631366,228,Market,Filled,4181.435951448,Warning: No quote information available at 12/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-27T15:00:00Z,PILL,25.359827552,-506,Market,Filled,-12832.072741312,Warning: No quote information available at 12/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-30T15:00:00Z,PILL,24.89983068,-228,Market,Filled,-5677.16139504,Warning: No quote information available at 12/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-08T15:00:00Z,PILL,24.039836528,519,Market,Filled,12476.675158032,Warning: No quote information available at 01/08/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-09T16:00:00Z,PILL,24.31513465596,237,Market,Filled,5762.6869134625,Warning: No quote information available at 01/09/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-23T15:00:00Z,PILL,27.35771396628,-756,Market,Filled,-20682.431758508,Warning: No quote information available at 01/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-29T15:00:00Z,PILL,26.09612254516,539,Market,Filled,14065.810051841,Warning: No quote information available at 01/29/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-30T16:00:00Z,PILL,24.64993237932,-539,Market,Filled,-13286.313552453,Warning: No quote information available at 01/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-03T16:00:00Z,PILL,25.829824356,767,Market,Filled,19811.475281052,Warning: No quote information available at 02/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-07T15:00:00Z,PILL,26.89981708,-526,Market,Filled,-14149.30378408,Warning: No quote information available at 02/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-10T18:00:00Z,PILL,27.429813476,514,Market,Filled,14098.924126664,Warning: No quote information available at 02/10/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-02-13T15:00:00Z,PILL,26.79981776,-755,Market,Filled,-20233.8624088,Warning: No quote information available at 02/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-21T18:00:00Z,PILL,26.12972231668,775,Market,Filled,20250.534795427,Warning: No quote information available at 02/21/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-02-24T15:00:00Z,PILL,23.98823687888,-775,Market,Filled,-18590.883581132,Warning: No quote information available at 02/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T21:00:00Z,PILL,19.999864,650,Market On Open,Filled,12999.9116, 
+2020-03-04T16:00:00Z,PILL,19.384868182,293,Market,Filled,5679.766377326,Warning: No quote information available at 03/04/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-06T15:00:00Z,PILL,17.104883686,-943,Market,Filled,-16129.905315898,Warning: No quote information available at 03/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-20T15:00:00Z,PILL,8.409942812,1321,Market,Filled,11109.534454652,Warning: No quote information available at 03/20/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-20T20:00:00Z,PILL,7.04995206,-1321,Market On Open,Filled,-9312.98667126, 
+2020-03-24T14:00:00Z,PILL,7.67004784332,1295,Market,Filled,9932.7119570994,Warning: No quote information available at 03/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T15:00:00Z,PILL,7.9054462426,578,Market,Filled,4569.3479282228,Warning: No quote information available at 03/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-04-01T14:00:00Z,PILL,8.89853948952,-1285,Market,Filled,-11434.623244033,Warning: No quote information available at 04/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-01T17:00:00Z,PILL,8.519942064,-588,Market,Filled,-5009.725933632,Warning: No quote information available at 04/01/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-04-03T14:00:00Z,PILL,9.20813738424,1215,Market,Filled,11187.886921852,Warning: No quote information available at 04/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-03T17:00:00Z,PILL,8.58764160364,-1215,Market,Filled,-10433.984548423,Warning: No quote information available at 04/03/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-04-06T14:00:00Z,PILL,9.79983336068,1594,Market,Filled,15620.934376924,Warning: No quote information available at 04/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-15T16:00:00Z,PILL,11.14992418,-1094,Market,Filled,-12198.01705292,Warning: No quote information available at 04/15/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-04-15T19:00:00Z,PILL,11.769919964,1025,Market,Filled,12064.1679631,Warning: No quote information available at 04/15/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-16T17:00:00Z,PILL,11.08402462812,-1042,Market,Filled,-11549.553662501,Warning: No quote information available at 04/16/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-04-17T14:00:00Z,PILL,12.43821541956,929,Market,Filled,11555.102124771,Warning: No quote information available at 04/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-21T17:00:00Z,PILL,11.68002057532,-965,Market,Filled,-11271.219855184,Warning: No quote information available at 04/21/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-04-23T14:00:00Z,PILL,12.709913572,889,Market,Filled,11299.113165508,Warning: No quote information available at 04/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-01T14:00:00Z,PILL,13.82490599,-1336,Market,Filled,-18470.07440264,Warning: No quote information available at 05/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T14:00:00Z,PILL,14.569900924,1261,Market,Filled,18372.645065164,Warning: No quote information available at 05/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-13T16:00:00Z,PILL,14.659900312,-863,Market,Filled,-12651.493969256,Warning: No quote information available at 05/13/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-05-13T17:00:00Z,PILL,14.62370055816,-398,Market,Filled,-5820.2328221477,Warning: No quote information available at 05/13/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-05-15T14:00:00Z,PILL,15.059897592,839,Market,Filled,12635.254079688,Warning: No quote information available at 05/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-15T17:00:00Z,PILL,15.14989698,384,Market,Filled,5817.56044032,Warning: No quote information available at 05/15/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-05-21T14:00:00Z,PILL,15.87489205,-838,Market,Filled,-13303.1595379,Warning: No quote information available at 05/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-26T14:00:00Z,PILL,16.40978841268,807,Market,Filled,13242.699249033,Warning: No quote information available at 05/26/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-26T20:00:00Z,PILL,16.09989052,-375,Market On Open,Filled,-6037.458945, 
+2020-05-27T14:00:00Z,PILL,15.039897728,-817,Market,Filled,-12287.596443776,Warning: No quote information available at 05/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-27T20:00:00Z,PILL,16.09989052,1160,Market On Open,Filled,18675.8730032, 
+2020-05-29T15:00:00Z,PILL,15.029897796,-1160,Market,Filled,-17434.68144336,Warning: No quote information available at 05/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-29T20:00:00Z,PILL,15.54989426,1085,Market On Open,Filled,16871.6352721, 
+2020-06-02T15:00:00Z,PILL,15.15169696776,-1085,Market,Filled,-16439.59121002,Warning: No quote information available at 06/02/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-02T20:00:00Z,PILL,15.889891948,1060,Market On Open,Filled,16843.28546488, 
+2020-06-10T15:00:00Z,PILL,15.869892084,-727,Market,Filled,-11537.411545068,Warning: No quote information available at 06/10/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-10T20:00:00Z,PILL,15.2498963,-333,Market On Open,Filled,-5078.2154679, 
+2020-06-16T14:00:00Z,PILL,14.789899428,1118,Market,Filled,16535.107560504,Warning: No quote information available at 06/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-24T14:00:00Z,PILL,15.169896844,-766,Market,Filled,-11620.140982504,Warning: No quote information available at 06/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-24T16:00:00Z,PILL,14.39990208,-352,Market,Filled,-5068.76553216,Warning: No quote information available at 06/24/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-06-25T20:00:00Z,PILL,15.419895144,341,Market On Open,Filled,5258.184244104, 
+2020-06-26T15:00:00Z,PILL,14.84989902,-341,Market,Filled,-5063.81556582,Warning: No quote information available at 06/26/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-29T15:00:00Z,PILL,15.189896708,743,Market,Filled,11286.093254044,Warning: No quote information available at 06/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-30T18:00:00Z,PILL,15.059897592,346,Market,Filled,5210.724566832,Warning: No quote information available at 06/30/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-07-09T15:00:00Z,PILL,15.46209485704,-1089,Market,Filled,-16838.221299317,Warning: No quote information available at 07/09/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-13T14:00:00Z,PILL,16.219889704,1036,Market,Filled,16803.805733344,Warning: No quote information available at 07/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-13T20:00:00Z,PILL,15.109897252,-1036,Market On Open,Filled,-15653.853553072, 
+2020-07-14T20:00:00Z,PILL,16.2498895,998,Market On Open,Filled,16217.389721, 
+2020-07-22T15:00:00Z,PILL,16.36768869896,-998,Market,Filled,-16334.953321562,Warning: No quote information available at 07/22/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-23T15:00:00Z,PILL,16.729886236,646,Market,Filled,10807.506508456,Warning: No quote information available at 07/23/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-23T16:00:00Z,PILL,16.77488593,298,Market,Filled,4998.91600714,Warning: No quote information available at 07/23/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-07-23T18:00:00Z,PILL,16.189889908,-944,Market,Filled,-15283.256073152,Warning: No quote information available at 07/23/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-07-28T14:00:00Z,PILL,15.94989154,656,Market,Filled,10463.12885024,Warning: No quote information available at 07/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-28T20:00:00Z,PILL,15.34989562,-656,Market On Open,Filled,-10069.53152672, 
+2020-07-29T19:00:00Z,PILL,15.594893954,654,Market,Filled,10199.060645916,Warning: No quote information available at 07/29/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T15:00:00Z,PILL,15.089897388,-654,Market,Filled,-9868.792891752,Warning: No quote information available at 07/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T17:00:00Z,PILL,15.4998946,644,Market,Filled,9981.9321224,Warning: No quote information available at 07/30/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T18:00:00Z,PILL,15.669893444,294,Market,Filled,4606.948672536,Warning: No quote information available at 07/30/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-07-31T15:00:00Z,PILL,14.78179948308,-938,Market,Filled,-13865.327915129,Warning: No quote information available at 07/31/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-03T14:00:00Z,PILL,15.302395943,621,Market,Filled,9502.787880603,Warning: No quote information available at 08/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-03T16:00:00Z,PILL,15.779892696,278,Market,Filled,4386.810169488,Warning: No quote information available at 08/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-08-11T18:00:00Z,PILL,16.4788879428,-616,Market,Filled,-10150.994972765,Warning: No quote information available at 08/11/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-08-11T19:00:00Z,PILL,16.159890112,-283,Market,Filled,-4573.248901696,Warning: No quote information available at 08/11/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-08-14T16:00:00Z,PILL,16.1593901154,622,Market,Filled,10051.140651779,Warning: No quote information available at 08/14/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-08-17T14:00:00Z,PILL,16.40978841268,282,Market,Filled,4627.5603323758,Warning: No quote information available at 08/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-20T14:00:00Z,PILL,16.01349110752,-619,Market,Filled,-9912.3509955549,Warning: No quote information available at 08/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-21T15:00:00Z,PILL,15.73559299724,-285,Market,Filled,-4484.6440042134,Warning: No quote information available at 08/21/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-25T20:00:00Z,PILL,16.089890588,618,Market On Open,Filled,9943.552383384, 
+2020-08-27T17:00:00Z,PILL,15.389895348,-618,Market,Filled,-9510.955325064,Warning: No quote information available at 08/27/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-28T19:00:00Z,PILL,15.76399280412,280,Market,Filled,4413.9179851536,Warning: No quote information available at 08/28/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-08-28T20:00:00Z,PILL,15.989891268,603,Market On Open,Filled,9641.904434604, 
+2020-09-03T18:00:00Z,PILL,15.489894668,-883,Market,Filled,-13677.576991844,Warning: No quote information available at 09/03/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-09T14:00:00Z,PILL,15.64979358068,871,Market,Filled,13630.970208772,Warning: No quote information available at 09/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-11T18:00:00Z,PILL,14.89989868,-871,Market,Filled,-12977.81175028,Warning: No quote information available at 09/11/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-14T14:00:00Z,PILL,16.064890758,809,Market,Filled,12996.496623222,Warning: No quote information available at 09/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-18T18:00:00Z,PILL,16.879885216,-555,Market,Filled,-9368.33629488,Warning: No quote information available at 09/18/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-18T20:00:00Z,PILL,16.789885828,532,Market On Open,Filled,8932.219260496, 
+2020-09-21T14:00:00Z,PILL,16.219889704,-786,Market,Filled,-12748.833307344,Warning: No quote information available at 09/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-28T14:00:00Z,PILL,14.79979936068,608,Market,Filled,8998.2780112934,Warning: No quote information available at 09/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-30T14:00:00Z,PILL,15.229896436,273,Market,Filled,4157.761727028,Warning: No quote information available at 09/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-13T16:00:00Z,PILL,19.139869848,-606,Market,Filled,-11598.761127888,Warning: No quote information available at 10/13/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-15T14:00:00Z,PILL,18.35497518532,-275,Market,Filled,-5047.618175963,Warning: No quote information available at 10/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-16T15:00:00Z,PILL,19.219869304,857,Market,Filled,16471.427993528,Warning: No quote information available at 10/16/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-16T20:00:00Z,PILL,19.119869984,-270,Market On Open,Filled,-5162.36489568, 
+2020-10-19T19:00:00Z,PILL,18.19507627264,-587,Market,Filled,-10680.50977204,Warning: No quote information available at 10/19/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-10-22T14:00:00Z,PILL,17.85267860096,608,Market,Filled,10854.428589384,Warning: No quote information available at 10/22/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-22T15:00:00Z,PILL,17.49978100068,-608,Market,Filled,-10639.866848413,Warning: No quote information available at 10/22/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-22T17:00:00Z,PILL,17.809878892,601,Market,Filled,10703.737214092,Warning: No quote information available at 10/22/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-10-22T19:00:00Z,PILL,18.11547681392,273,Market,Filled,4945.5251702002,Warning: No quote information available at 10/22/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-10-26T15:00:00Z,PILL,17.60118031116,-276,Market,Filled,-4857.9257658802,Warning: No quote information available at 10/26/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-26T16:00:00Z,PILL,17.39988168,-598,Market,Filled,-10405.12924464,Warning: No quote information available at 10/26/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T15:00:00Z,PILL,15.97479137068,654,Market,Filled,10447.513556425,Warning: No quote information available at 11/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-03T15:00:00Z,PILL,16.94988474,283,Market,Filled,4796.81738142,Warning: No quote information available at 11/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T18:00:00Z,PILL,19.62486655,-644,Market,Filled,-12638.4140582,Warning: No quote information available at 11/12/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-11-13T15:00:00Z,PILL,20.44986094,611,Market,Filled,12494.86503434,Warning: No quote information available at 11/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-18T21:00:00Z,PILL,20.159862912,-619,Market On Open,Filled,-12478.955142528, 
+2020-11-19T20:00:00Z,PILL,20.579860056,606,Market,Filled,12471.395193936,Warning: No quote information available at 11/19/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-11-23T15:00:00Z,PILL,20.04986366,-891,Market,Filled,-17864.42852106,Warning: No quote information available at 11/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-24T17:00:00Z,PILL,20.44986094,875,Market,Filled,17893.6283225,Warning: No quote information available at 11/24/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-25T15:00:00Z,PILL,19.554867026,-875,Market,Filled,-17110.50864775,Warning: No quote information available at 11/25/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-27T15:00:00Z,PILL,20.339861688,843,Market,Filled,17146.503402984,Warning: No quote information available at 11/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-30T16:00:00Z,PILL,19.639866448,-843,Market,Filled,-16556.407415664,Warning: No quote information available at 11/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-01T16:00:00Z,PILL,20.34276166828,814,Market,Filled,16559.00799798,Warning: No quote information available at 12/01/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-02T15:00:00Z,PILL,19.69656606244,-814,Market,Filled,-16033.004774826,Warning: No quote information available at 12/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-03T15:00:00Z,PILL,20.159862912,797,Market,Filled,16067.410740864,Warning: No quote information available at 12/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-09T19:00:00Z,PILL,20.269862164,-546,Market,Filled,-11067.344741544,Warning: No quote information available at 12/09/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-12-10T15:00:00Z,PILL,21.09985652,523,Market,Filled,11035.22495996,Warning: No quote information available at 12/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-11T18:00:00Z,PILL,20.2498623,-774,Market,Filled,-15673.3934202,Warning: No quote information available at 12/11/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-12-14T15:00:00Z,PILL,22.56214657636,696,Market,Filled,15703.254017147,Warning: No quote information available at 12/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T15:00:00Z,PILL,22.14974938068,-696,Market,Filled,-15416.225568953,Warning: No quote information available at 12/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-22T16:00:00Z,PILL,23.3663411078,660,Market,Filled,15421.785131148,Warning: No quote information available at 12/22/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-29T16:00:00Z,PILL,24.079836256,-452,Market,Filled,-10884.085987712,Warning: No quote information available at 12/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-30T15:00:00Z,PILL,24.834831122,437,Market,Filled,10852.821200314,Warning: No quote information available at 12/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-04T18:00:00Z,PILL,23.86063774656,-645,Market,Filled,-15390.111346531,Warning: No quote information available at 01/04/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-01-05T15:00:00Z,PILL,24.93713042636,195,Market,Filled,4862.7404331402,Warning: No quote information available at 01/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-05T21:00:00Z,PILL,24.709831972,422,Market On Open,Filled,10427.549092184, 
+2021-01-15T16:00:00Z,PILL,27.57481249,-422,Market,Filled,-11636.57087078,Warning: No quote information available at 01/15/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-19T15:00:00Z,PILL,28.564805758,408,Market,Filled,11654.440749264,Warning: No quote information available at 01/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-21T15:00:00Z,PILL,26.529819596,-603,Market,Filled,-15997.481216388,Warning: No quote information available at 01/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-25T16:00:00Z,PILL,28.144808614,570,Market,Filled,16042.54090998,Warning: No quote information available at 01/25/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-27T15:00:00Z,PILL,25.979823336,-570,Market,Filled,-14808.49930152,Warning: No quote information available at 01/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-29T16:00:00Z,PILL,26.69981844,381,Market,Filled,10172.63082564,Warning: No quote information available at 01/29/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-29T17:00:00Z,PILL,25.829824356,-381,Market,Filled,-9841.163079636,Warning: No quote information available at 01/29/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T15:00:00Z,PILL,25.83162434376,386,Market,Filled,9971.0069966914,Warning: No quote information available at 02/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T20:00:00Z,PILL,26.634818882,172,Market,Filled,4581.188847704,Warning: No quote information available at 02/01/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-02-17T17:00:00Z,PILL,30.154794946,-383,Market,Filled,-11549.286464318,Warning: No quote information available at 02/17/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-17T19:00:00Z,PILL,30.8682900942,370,Market,Filled,11421.267334854,Warning: No quote information available at 02/17/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T21:00:00Z,PILL,30.419793144,-373,Market On Open,Filled,-11346.582842712, 
+2021-02-19T15:00:00Z,PILL,30.089795388,-172,Market,Filled,-5175.444806736,Warning: No quote information available at 02/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-19T17:00:00Z,PILL,30.65989151132,369,Market,Filled,11313.499967677,Warning: No quote information available at 02/19/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-22T15:00:00Z,PILL,29.38750016364,-369,Market,Filled,-10843.987560383,Warning: No quote information available at 02/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-24T16:00:00Z,PILL,29.03740254432,379,Market,Filled,11005.175564297,Warning: No quote information available at 02/24/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-24T17:00:00Z,PILL,29.93749642364,169,Market,Filled,5059.4368955952,Warning: No quote information available at 02/24/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-25T18:00:00Z,PILL,27.14651540244,-548,Market,Filled,-14876.290440537,Warning: No quote information available at 02/25/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-03-02T15:00:00Z,PILL,27.689811708,370,Market,Filled,10245.23033196,Warning: No quote information available at 03/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-02T20:00:00Z,PILL,26.7308182292,-370,Market,Filled,-9890.402744804,Warning: No quote information available at 03/02/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-08T16:00:00Z,PILL,25.309827892,395,Market,Filled,9997.38201734,Warning: No quote information available at 03/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-09T15:00:00Z,PILL,26.479819936,174,Market,Filled,4607.488668864,Warning: No quote information available at 03/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-16T17:00:00Z,PILL,27.07091591652,-390,Market,Filled,-10557.657207443,Warning: No quote information available at 03/16/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-03-17T14:00:00Z,PILL,26.37482065,-179,Market,Filled,-4721.09289635,Warning: No quote information available at 03/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-17T20:00:00Z,PILL,27.189815108,549,Market On Open,Filled,14927.208494292, 
+2021-03-18T19:00:00Z,PILL,26.42052033924,-549,Market,Filled,-14504.865666243,Warning: No quote information available at 03/18/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-31T14:00:00Z,PILL,21.9998504,675,Market,Filled,14849.89902,Warning: No quote information available at 03/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-06T14:00:00Z,PILL,21.579853256,-462,Market,Filled,-9969.892204272,Warning: No quote information available at 04/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-06T15:00:00Z,PILL,22.01965026536,453,Market,Filled,9974.9015702081,Warning: No quote information available at 04/06/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-06T19:00:00Z,PILL,21.6383528582,-456,Market,Filled,-9867.0889033392,Warning: No quote information available at 04/06/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-04-07T14:00:00Z,PILL,21.229855636,-210,Market,Filled,-4458.26968356,Warning: No quote information available at 04/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-14T14:00:00Z,PILL,20.089863388,488,Market,Filled,9803.853333344,Warning: No quote information available at 04/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-14T15:00:00Z,PILL,20.6208597772,219,Market,Filled,4515.9682912068,Warning: No quote information available at 04/14/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-19T15:00:00Z,PILL,19.459867672,-707,Market,Filled,-13758.126444104,Warning: No quote information available at 04/19/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-21T15:00:00Z,PILL,20.169862844,684,Market,Filled,13796.186185296,Warning: No quote information available at 04/21/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-29T14:00:00Z,PILL,20.719859104,-684,Market,Filled,-14172.383627136,Warning: No quote information available at 04/29/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-30T14:00:00Z,PILL,21.3418548744,209,Market,Filled,4460.4476687496,Warning: No quote information available at 04/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-30T18:00:00Z,PILL,20.484860702,-209,Market,Filled,-4281.335886718,Warning: No quote information available at 04/30/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-05-07T14:00:00Z,PILL,19.95996427132,700,Market,Filled,13971.974989924,Warning: No quote information available at 05/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T14:00:00Z,PILL,18.89927148408,-700,Market,Filled,-13229.490038856,Warning: No quote information available at 05/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T18:00:00Z,PILL,19.429867876,467,Market,Filled,9073.748298092,Warning: No quote information available at 05/11/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T19:00:00Z,PILL,19.59986672,214,Market,Filled,4194.37147808,Warning: No quote information available at 05/11/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T15:00:00Z,PILL,20.189862708,-467,Market,Filled,-9428.665884636,Warning: No quote information available at 05/19/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-20T14:00:00Z,PILL,21.279855296,441,Market,Filled,9384.416185536,Warning: No quote information available at 05/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T16:00:00Z,PILL,21.339854888,-449,Market,Filled,-9581.594844712,Warning: No quote information available at 05/25/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-05-26T20:00:00Z,PILL,21.7498521,441,Market On Open,Filled,9591.6847761, 
+2021-06-01T15:00:00Z,PILL,21.3358549152,-647,Market,Filled,-13804.298130134,Warning: No quote information available at 06/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-01T19:00:00Z,PILL,21.89985108,199,Market,Filled,4358.07036492,Warning: No quote information available at 06/01/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-02T14:00:00Z,PILL,22.189849108,425,Market,Filled,9430.6858709,Warning: No quote information available at 06/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-03T14:00:00Z,PILL,21.36925468808,-624,Market,Filled,-13334.414925362,Warning: No quote information available at 06/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-03T15:00:00Z,PILL,21.9998504,607,Market,Filled,13353.9091928,Warning: No quote information available at 06/03/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-15T15:00:00Z,PILL,24.539833128,-417,Market,Filled,-10233.110414376,Warning: No quote information available at 06/15/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-16T19:00:00Z,PILL,24.29983476,-190,Market,Filled,-4616.9686044,Warning: No quote information available at 06/16/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-21T19:00:00Z,PILL,24.6008327132,411,Market,Filled,10110.942245125,Warning: No quote information available at 06/21/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-21T20:00:00Z,PILL,24.819831224,187,Market On Open,Filled,4641.308438888, 
+2021-06-22T15:00:00Z,PILL,23.7978381736,-188,Market,Filled,-4473.9935766368,Warning: No quote information available at 06/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-22T18:00:00Z,PILL,23.569839724,-410,Market,Filled,-9663.63428684,Warning: No quote information available at 06/22/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-24T14:00:00Z,PILL,24.679832176,574,Market,Filled,14166.223669024,Warning: No quote information available at 06/24/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-29T16:00:00Z,PILL,24.069836324,-393,Market,Filled,-9459.445675332,Warning: No quote information available at 06/29/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-06-29T19:00:00Z,PILL,23.90973741268,-181,Market,Filled,-4327.6624716951,Warning: No quote information available at 06/29/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T14:00:00Z,PILL,24.27973489668,389,Market,Filled,9444.8168748085,Warning: No quote information available at 07/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T15:00:00Z,PILL,24.57763287096,177,Market,Filled,4350.2410181599,Warning: No quote information available at 07/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-06T14:00:00Z,PILL,23.829837956,-178,Market,Filled,-4241.711156168,Warning: No quote information available at 07/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-06T15:00:00Z,PILL,23.7498385,-388,Market,Filled,-9214.937338,Warning: No quote information available at 07/06/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-07T14:00:00Z,PILL,24.19983544,176,Market,Filled,4259.17103744,Warning: No quote information available at 07/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-07T15:00:00Z,PILL,23.29984156,-176,Market,Filled,-4100.77211456,Warning: No quote information available at 07/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-09T14:00:00Z,PILL,24.34983442,548,Market,Filled,13343.70926216,Warning: No quote information available at 07/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-13T15:00:00Z,PILL,23.334841322,-375,Market,Filled,-8750.56549575,Warning: No quote information available at 07/13/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-14T15:00:00Z,PILL,22.939844008,-173,Market,Filled,-3968.593013384,Warning: No quote information available at 07/14/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-20T14:00:00Z,PILL,20.97995733532,415,Market,Filled,8706.6822941578,Warning: No quote information available at 07/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-20T17:00:00Z,PILL,21.59985312,186,Market,Filled,4017.57268032,Warning: No quote information available at 07/20/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-27T14:00:00Z,PILL,22.8653445146,-412,Market,Filled,-9420.5219400152,Warning: No quote information available at 07/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-27T15:00:00Z,PILL,22.529846796,-189,Market,Filled,-4258.141044444,Warning: No quote information available at 07/27/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-27T20:00:00Z,PILL,23.84983782,182,Market On Open,Filled,4340.67048324, 
+2021-07-28T14:00:00Z,PILL,24.39983408,381,Market,Filled,9296.33678448,Warning: No quote information available at 07/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-30T14:00:00Z,PILL,22.84984462,-563,Market,Filled,-12864.46252106,Warning: No quote information available at 07/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-03T15:00:00Z,PILL,22.5418467144,391,Market,Filled,8813.8620653304,Warning: No quote information available at 08/03/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-05T16:00:00Z,PILL,22.69984564,180,Market,Filled,4085.9722152,Warning: No quote information available at 08/05/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-09T14:00:00Z,PILL,21.54985346,-571,Market,Filled,-12304.96632566,Warning: No quote information available at 08/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-12T19:00:00Z,PILL,20.89985788,403,Market,Filled,8422.64272564,Warning: No quote information available at 08/12/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-08-17T16:00:00Z,PILL,19.57976685668,-403,Market,Filled,-7890.646043242,Warning: No quote information available at 08/17/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-18T15:00:00Z,PILL,20.539860328,181,Market,Filled,3717.714719368,Warning: No quote information available at 08/18/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-18T16:00:00Z,PILL,20.64985958,392,Market,Filled,8094.74495536,Warning: No quote information available at 08/18/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-18T20:00:00Z,PILL,19.369868284,-573,Market On Open,Filled,-11098.934526732, 
+2021-08-23T14:00:00Z,PILL,20.41466117936,545,Market,Filled,11125.990342751,Warning: No quote information available at 08/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-25T14:00:00Z,PILL,19.09987012,-545,Market,Filled,-10409.4292154,Warning: No quote information available at 08/25/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-25T16:00:00Z,PILL,20.089863388,164,Market,Filled,3294.737595632,Warning: No quote information available at 08/25/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-26T15:00:00Z,PILL,19.159869712,-164,Market,Filled,-3142.218632768,Warning: No quote information available at 08/26/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-31T14:00:00Z,PILL,18.90997141132,373,Market,Filled,7053.4193364224,Warning: No quote information available at 08/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-01T17:00:00Z,PILL,19.0413705178,170,Market,Filled,3237.032988026,Warning: No quote information available at 09/01/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-09-07T15:00:00Z,PILL,18.9678710176,-372,Market,Filled,-7056.0480185472,Warning: No quote information available at 09/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-07T16:00:00Z,PILL,18.72997263532,-171,Market,Filled,-3202.8253206397,Warning: No quote information available at 09/07/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-17T20:00:00Z,PILL,16.7498861,398,Market On Open,Filled,6666.4546678, 
+2021-09-20T15:00:00Z,PILL,16.89988508,-398,Market,Filled,-6726.15426184,Warning: No quote information available at 09/20/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-21T14:00:00Z,PILL,17.319882224,408,Market,Filled,7066.511947392,Warning: No quote information available at 09/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-21T16:00:00Z,PILL,17.454881306,186,Market,Filled,3246.607922916,Warning: No quote information available at 09/21/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-28T14:00:00Z,PILL,18.079877056,-407,Market,Filled,-7358.509961792,Warning: No quote information available at 09/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-30T16:00:00Z,PILL,17.929878076,-187,Market,Filled,-3352.887200212,Warning: No quote information available at 09/30/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-01T18:00:00Z,PILL,18.17487641,402,Market,Filled,7306.30031682,Warning: No quote information available at 10/01/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T15:00:00Z,PILL,17.40718163036,-402,Market,Filled,-6997.6870154047,Warning: No quote information available at 10/04/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-07T14:00:00Z,PILL,17.39988168,409,Market,Filled,7116.55160712,Warning: No quote information available at 10/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-07T15:00:00Z,PILL,17.539880728,187,Market,Filled,3279.957696136,Warning: No quote information available at 10/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-18T14:00:00Z,PILL,17.459881272,-596,Market,Filled,-10406.089238112,Warning: No quote information available at 10/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-19T15:00:00Z,PILL,17.979877736,182,Market,Filled,3272.337747952,Warning: No quote information available at 10/19/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-19T16:00:00Z,PILL,18.089876988,394,Market,Filled,7127.411533272,Warning: No quote information available at 10/19/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-22T14:00:00Z,PILL,17.84997861932,-394,Market,Filled,-7032.8915760121,Warning: No quote information available at 10/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-25T17:00:00Z,PILL,18.419874744,382,Market,Filled,7036.392152208,Warning: No quote information available at 10/25/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T14:00:00Z,PILL,17.94987794,-386,Market,Filled,-6928.65288484,Warning: No quote information available at 10/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-28T14:00:00Z,PILL,17.93607803384,-178,Market,Filled,-3192.6218900235,Warning: No quote information available at 10/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-29T17:00:00Z,PILL,18.119876784,382,Market,Filled,6921.792931488,Warning: No quote information available at 10/29/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-10-29T18:00:00Z,PILL,18.23357601084,175,Market,Filled,3190.875801897,Warning: No quote information available at 10/29/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-10T15:00:00Z,PILL,22.239848768,-383,Market,Filled,-8517.862078144,Warning: No quote information available at 11/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-11T15:00:00Z,PILL,21.479853936,-174,Market,Filled,-3737.494584864,Warning: No quote information available at 11/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T16:00:00Z,PILL,18.479874336,450,Market,Filled,8315.9434512,Warning: No quote information available at 11/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T17:00:00Z,PILL,18.14987658,-450,Market,Filled,-8167.444461,Warning: No quote information available at 11/22/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T16:00:00Z,PILL,16.419888344,500,Market,Filled,8209.944172,Warning: No quote information available at 12/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T19:00:00Z,PILL,15.7938926008,-500,Market,Filled,-7896.9463004,Warning: No quote information available at 12/01/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-07T15:00:00Z,PILL,14.819899224,540,Market,Filled,8002.74558096,Warning: No quote information available at 12/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-07T16:00:00Z,PILL,14.95979827268,247,Market,Filled,3695.070173352,Warning: No quote information available at 12/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-09T19:00:00Z,PILL,14.269902964,-787,Market,Filled,-11230.413632668,Warning: No quote information available at 12/09/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-15T15:00:00Z,PILL,13.719906704,561,Market,Filled,7696.867660944,Warning: No quote information available at 12/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-15T21:00:00Z,PILL,14.79989936,241,Market On Open,Filled,3566.77574576, 
+2021-12-20T16:00:00Z,PILL,13.91800535692,-549,Market,Filled,-7640.9849409491,Warning: No quote information available at 12/20/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-20T20:00:00Z,PILL,14.68910011344,519,Market,Filled,7623.6429588754,Warning: No quote information available at 12/20/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-12-29T15:00:00Z,PILL,15.78,-772,Market,Filled,-12182.16,Warning: No quote information available at 12/29/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-30T15:00:00Z,PILL,16.4,740,Market,Filled,12136,Warning: No quote information available at 12/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-31T21:00:00Z,PILL,16.01,-233,Market On Open,Filled,-3730.33, 
+2022-01-03T15:00:00Z,PILL,15.7513,-507,Market,Filled,-7985.9091,Warning: No quote information available at 01/03/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T16:00:00Z,PILL,16.3992,715,Market,Filled,11725.428,Warning: No quote information available at 01/03/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-04T16:00:00Z,PILL,15.495,-715,Market,Filled,-11078.925,Warning: No quote information available at 01/04/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-10T17:00:00Z,PILL,14.9,510,Market,Filled,7599,Warning: No quote information available at 01/10/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-10T21:00:00Z,PILL,15.3,227,Market On Open,Filled,3473.1, 
+2022-01-12T17:00:00Z,PILL,14.6709,-504,Market,Filled,-7394.1336,Warning: No quote information available at 01/12/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-13T15:00:00Z,PILL,14.38,-233,Market,Filled,-3350.54,Warning: No quote information available at 01/13/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-20T16:00:00Z,PILL,13.51,546,Market,Filled,7376.46,Warning: No quote information available at 01/20/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-20T21:00:00Z,PILL,12.45,-546,Market On Open,Filled,-6797.7, 
+2022-01-25T20:00:00Z,PILL,12.4154,564,Market,Filled,7002.2856,Warning: No quote information available at 01/25/2022 15:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T15:00:00Z,PILL,12.4775,259,Market,Filled,3231.6725,Warning: No quote information available at 01/26/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-27T21:00:00Z,PILL,11.44,-258,Market On Open,Filled,-2951.52, 
+2022-01-28T15:00:00Z,PILL,11.4,-565,Market,Filled,-6441,Warning: No quote information available at 01/28/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-28T17:00:00Z,PILL,11.83,545,Market,Filled,6447.35,Warning: No quote information available at 01/28/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-28T21:00:00Z,PILL,0,242,Market On Open,Submitted,0, 

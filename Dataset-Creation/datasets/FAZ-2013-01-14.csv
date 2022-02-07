@@ -1,0 +1,1079 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2013-01-14T15:00:00Z,FAZ,8412.3947904,1,Market,Filled,8412.3947904,Warning: No quote information available at 01/14/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-01-14T20:00:00Z,FAZ,8343.33781824,-1,Market,Filled,-8343.33781824,Warning: No quote information available at 01/14/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-01-16T15:00:00Z,FAZ,8330.78200512,1,Market,Filled,8330.78200512,Warning: No quote information available at 01/16/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-01-16T17:00:00Z,FAZ,8236.61340672,-1,Market,Filled,-8236.61340672,Warning: No quote information available at 01/16/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-01-18T16:00:00Z,FAZ,8293.11456576,1,Market,Filled,8293.11456576,Warning: No quote information available at 01/18/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-01-18T21:00:00Z,FAZ,8230.33550016,-1,Market On Open,Filled,-8230.33550016, 
+2013-01-30T15:00:00Z,FAZ,7885.05063936,1,Market,Filled,7885.05063936,Warning: No quote information available at 01/30/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-02-01T15:00:00Z,FAZ,7715.54716224,-1,Market,Filled,-7715.54716224,Warning: No quote information available at 02/01/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-02-04T17:00:00Z,FAZ,7809.71576064,1,Market,Filled,7809.71576064,Warning: No quote information available at 02/04/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-02-05T15:00:00Z,FAZ,7646.49019008,-1,Market,Filled,-7646.49019008,Warning: No quote information available at 02/05/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-02-07T17:00:00Z,FAZ,7696.71344256,1,Market,Filled,7696.71344256,Warning: No quote information available at 02/07/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-02-07T19:00:00Z,FAZ,7589.98903104,-1,Market,Filled,-7589.98903104,Warning: No quote information available at 02/07/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-02-20T20:00:00Z,FAZ,7332.59486208,1,Market,Filled,7332.59486208,Warning: No quote information available at 02/20/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-02-25T15:00:00Z,FAZ,7263.53788992,-1,Market,Filled,-7263.53788992,Warning: No quote information available at 02/25/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-02-25T17:00:00Z,FAZ,7514.65415232,1,Market,Filled,7514.65415232,Warning: No quote information available at 02/25/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-02-27T21:00:00Z,FAZ,7433.04136704,-1,Market On Open,Filled,-7433.04136704, 
+2013-03-01T15:00:00Z,FAZ,7583.71112448,1,Market,Filled,7583.71112448,Warning: No quote information available at 03/01/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-03-01T16:00:00Z,FAZ,7401.65183424,-1,Market,Filled,-7401.65183424,Warning: No quote information available at 03/01/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-03-18T14:00:00Z,FAZ,6667.13676672,1,Market,Filled,6667.13676672,Warning: No quote information available at 03/18/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-03-25T14:00:00Z,FAZ,6560.4123552,-1,Market,Filled,-6560.4123552,Warning: No quote information available at 03/25/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-03-25T15:00:00Z,FAZ,6698.52629952,1,Market,Filled,6698.52629952,Warning: No quote information available at 03/25/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-03-26T14:00:00Z,FAZ,6591.801888,-1,Market,Filled,-6591.801888,Warning: No quote information available at 03/26/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-03-27T14:00:00Z,FAZ,6723.63792576,1,Market,Filled,6723.63792576,Warning: No quote information available at 03/27/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-03-28T20:00:00Z,FAZ,6591.801888,-1,Market On Open,Filled,-6591.801888, 
+2013-04-01T15:00:00Z,FAZ,6685.9704864,1,Market,Filled,6685.9704864,Warning: No quote information available at 04/01/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-04-02T15:00:00Z,FAZ,6546.28706544,-1,Market,Filled,-6546.28706544,Warning: No quote information available at 04/02/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-04-03T14:00:00Z,FAZ,6684.40100976,1,Market,Filled,6684.40100976,Warning: No quote information available at 04/03/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-04-08T20:00:00Z,FAZ,6544.7175888,-1,Market On Open,Filled,-6544.7175888, 
+2013-04-15T16:00:00Z,FAZ,6434.854224,1,Market,Filled,6434.854224,Warning: No quote information available at 04/15/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-04-22T19:00:00Z,FAZ,6613.77456096,-1,Market,Filled,-6613.77456096,Warning: No quote information available at 04/22/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-05-01T17:00:00Z,FAZ,6133.51470912,1,Market,Filled,6133.51470912,Warning: No quote information available at 05/01/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-05-02T16:00:00Z,FAZ,6045.62401728,-1,Market,Filled,-6045.62401728,Warning: No quote information available at 05/02/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-05-22T19:00:00Z,FAZ,5039.58949104,1,Market,Filled,5039.58949104,Warning: No quote information available at 05/22/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-05-28T14:00:00Z,FAZ,4976.81042544,-1,Market,Filled,-4976.81042544,Warning: No quote information available at 05/28/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-05-29T15:00:00Z,FAZ,5193.39820176,1,Market,Filled,5193.39820176,Warning: No quote information available at 05/29/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-05-29T18:00:00Z,FAZ,5064.70111728,-1,Market,Filled,-5064.70111728,Warning: No quote information available at 05/29/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-05-31T19:00:00Z,FAZ,5085.1043136,1,Market,Filled,5085.1043136,Warning: No quote information available at 05/31/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-06-07T15:00:00Z,FAZ,5171.4255288,-1,Market,Filled,-5171.4255288,Warning: No quote information available at 06/07/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-06-11T14:00:00Z,FAZ,5243.62145424,1,Market,Filled,5243.62145424,Warning: No quote information available at 06/11/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-06-14T14:00:00Z,FAZ,5144.74442592,-1,Market,Filled,-5144.74442592,Warning: No quote information available at 06/14/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-06-14T18:00:00Z,FAZ,5323.66476288,1,Market,Filled,5323.66476288,Warning: No quote information available at 06/14/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-06-17T14:00:00Z,FAZ,5130.61913616,-1,Market,Filled,-5130.61913616,Warning: No quote information available at 06/17/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-06-19T19:00:00Z,FAZ,5242.0519776,1,Market,Filled,5242.0519776,Warning: No quote information available at 06/19/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-06-26T14:00:00Z,FAZ,5400.56911824,-1,Market,Filled,-5400.56911824,Warning: No quote information available at 06/26/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-07-03T14:00:00Z,FAZ,5262.45517392,1,Market,Filled,5262.45517392,Warning: No quote information available at 07/03/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-07-05T16:00:00Z,FAZ,5091.38222016,-1,Market,Filled,-5091.38222016,Warning: No quote information available at 07/05/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-07-10T16:00:00Z,FAZ,4888.9197336,1,Market,Filled,4888.9197336,Warning: No quote information available at 07/10/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-07-10T20:00:00Z,FAZ,4677.0403872,-1,Market On Open,Filled,-4677.0403872, 
+2013-07-16T16:00:00Z,FAZ,4617.40027488,1,Market,Filled,4617.40027488,Warning: No quote information available at 07/16/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-07-17T17:00:00Z,FAZ,4520.0927232,-1,Market,Filled,-4520.0927232,Warning: No quote information available at 07/17/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-07-24T14:00:00Z,FAZ,4331.7555264,1,Market,Filled,4331.7555264,Warning: No quote information available at 07/24/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-07-31T19:00:00Z,FAZ,4405.52092848,-1,Market,Filled,-4405.52092848,Warning: No quote information available at 07/31/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-07-31T20:00:00Z,FAZ,4416.50726496,1,Market On Open,Filled,4416.50726496, 
+2013-08-01T14:00:00Z,FAZ,4339.6029096,-1,Market,Filled,-4339.6029096,Warning: No quote information available at 08/01/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-08-06T14:00:00Z,FAZ,4381.97877888,1,Market,Filled,4381.97877888,Warning: No quote information available at 08/06/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-08-22T15:00:00Z,FAZ,4802.5985184,-1,Market,Filled,-4802.5985184,Warning: No quote information available at 08/22/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-08-26T20:00:00Z,FAZ,5009.76943488,1,Market On Open,Filled,5009.76943488, 
+2013-09-03T14:00:00Z,FAZ,4978.37990208,-1,Market,Filled,-4978.37990208,Warning: No quote information available at 09/03/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-09-03T18:00:00Z,FAZ,5141.60547264,1,Market,Filled,5141.60547264,Warning: No quote information available at 09/03/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-09-04T15:00:00Z,FAZ,4957.97670576,-1,Market,Filled,-4957.97670576,Warning: No quote information available at 09/04/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-09-06T14:00:00Z,FAZ,5001.92205168,1,Market,Filled,5001.92205168,Warning: No quote information available at 09/06/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-09-06T16:00:00Z,FAZ,4882.64182704,-1,Market,Filled,-4882.64182704,Warning: No quote information available at 09/06/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-09-12T20:00:00Z,FAZ,4625.24765808,1,Market On Open,Filled,4625.24765808, 
+2013-09-16T14:00:00Z,FAZ,4454.17470432,-1,Market,Filled,-4454.17470432,Warning: No quote information available at 09/16/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-09-20T15:00:00Z,FAZ,4331.7555264,1,Market,Filled,4331.7555264,Warning: No quote information available at 09/20/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-10-01T17:00:00Z,FAZ,4543.6348728,-1,Market,Filled,-4543.6348728,Warning: No quote information available at 10/01/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-10-02T14:00:00Z,FAZ,4631.52556464,1,Market,Filled,4631.52556464,Warning: No quote information available at 10/02/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-10-10T14:00:00Z,FAZ,4601.70550848,-1,Market,Filled,-4601.70550848,Warning: No quote information available at 10/10/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-10-15T19:00:00Z,FAZ,4378.8398256,1,Market,Filled,4378.8398256,Warning: No quote information available at 10/15/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-10-16T14:00:00Z,FAZ,4188.93315216,-1,Market,Filled,-4188.93315216,Warning: No quote information available at 10/16/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-10-23T14:00:00Z,FAZ,4066.51397424,1,Market,Filled,4066.51397424,Warning: No quote information available at 10/23/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-10-25T20:00:00Z,FAZ,3967.63694592,-1,Market On Open,Filled,-3967.63694592, 
+2013-10-29T15:00:00Z,FAZ,3991.17909552,1,Market,Filled,3991.17909552,Warning: No quote information available at 10/29/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-10-29T17:00:00Z,FAZ,3967.63694592,-1,Market,Filled,-3967.63694592,Warning: No quote information available at 10/29/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-10-30T16:00:00Z,FAZ,3972.34537584,1,Market,Filled,3972.34537584,Warning: No quote information available at 10/30/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-11-07T15:00:00Z,FAZ,4072.7918808,-1,Market,Filled,-4072.7918808,Warning: No quote information available at 11/07/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-11-07T16:00:00Z,FAZ,4126.15408656,1,Market,Filled,4126.15408656,Warning: No quote information available at 11/07/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-11-08T16:00:00Z,FAZ,4057.0971144,-1,Market,Filled,-4057.0971144,Warning: No quote information available at 11/08/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-11-12T18:00:00Z,FAZ,4082.20874064,1,Market,Filled,4082.20874064,Warning: No quote information available at 11/12/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-11-13T21:00:00Z,FAZ,3953.51165616,-1,Market On Open,Filled,-3953.51165616, 
+2013-11-19T19:00:00Z,FAZ,3859.34305776,1,Market,Filled,3859.34305776,Warning: No quote information available at 11/19/2013 14:00:00 America/New_York, order filled using TradeBar data 
+2013-11-21T16:00:00Z,FAZ,3765.17445936,-1,Market,Filled,-3765.17445936,Warning: No quote information available at 11/21/2013 11:00:00 America/New_York, order filled using TradeBar data 
+2013-11-29T18:00:00Z,FAZ,3660.01952448,1,Market On Open,Filled,3660.01952448, 
+2013-12-02T17:00:00Z,FAZ,3612.93522528,-1,Market,Filled,-3612.93522528,Warning: No quote information available at 12/02/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-12-02T21:00:00Z,FAZ,3733.78492656,1,Market On Open,Filled,3733.78492656, 
+2013-12-06T17:00:00Z,FAZ,3721.22911344,-1,Market,Filled,-3721.22911344,Warning: No quote information available at 12/06/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-12-11T15:00:00Z,FAZ,3725.93754336,1,Market,Filled,3725.93754336,Warning: No quote information available at 12/11/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-12-16T15:00:00Z,FAZ,3722.79859008,-1,Market,Filled,-3722.79859008,Warning: No quote information available at 12/16/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2013-12-18T17:00:00Z,FAZ,3790.2860856,1,Market,Filled,3790.2860856,Warning: No quote information available at 12/18/2013 12:00:00 America/New_York, order filled using TradeBar data 
+2013-12-18T20:00:00Z,FAZ,3623.92156176,-1,Market,Filled,-3623.92156176,Warning: No quote information available at 12/18/2013 15:00:00 America/New_York, order filled using TradeBar data 
+2013-12-30T18:00:00Z,FAZ,3423.02855184,1,Market,Filled,3423.02855184,Warning: No quote information available at 12/30/2013 13:00:00 America/New_York, order filled using TradeBar data 
+2013-12-31T15:00:00Z,FAZ,3386.93058912,-1,Market,Filled,-3386.93058912,Warning: No quote information available at 12/31/2013 10:00:00 America/New_York, order filled using TradeBar data 
+2014-01-02T16:00:00Z,FAZ,3418.32012192,1,Market,Filled,3418.32012192,Warning: No quote information available at 01/02/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-01-03T15:00:00Z,FAZ,3375.94425264,-1,Market,Filled,-3375.94425264,Warning: No quote information available at 01/03/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-01-10T17:00:00Z,FAZ,3331.99890672,1,Market,Filled,3331.99890672,Warning: No quote information available at 01/10/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-01-10T21:00:00Z,FAZ,3316.30414032,-1,Market On Open,Filled,-3316.30414032, 
+2014-01-13T15:00:00Z,FAZ,3335.13786,1,Market,Filled,3335.13786,Warning: No quote information available at 01/13/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-01-15T15:00:00Z,FAZ,3292.76199072,-1,Market,Filled,-3292.76199072,Warning: No quote information available at 01/15/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-01-17T20:00:00Z,FAZ,3308.45675712,1,Market,Filled,3308.45675712,Warning: No quote information available at 01/17/2014 15:00:00 America/New_York, order filled using TradeBar data 
+2014-01-21T15:00:00Z,FAZ,3266.08088784,-1,Market,Filled,-3266.08088784,Warning: No quote information available at 01/21/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-01-21T17:00:00Z,FAZ,3339.84628992,1,Market,Filled,3339.84628992,Warning: No quote information available at 01/21/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-01-30T17:00:00Z,FAZ,3568.98987936,-1,Market,Filled,-3568.98987936,Warning: No quote information available at 01/30/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-01-31T15:00:00Z,FAZ,3716.52068352,1,Market,Filled,3716.52068352,Warning: No quote information available at 01/31/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-02-06T16:00:00Z,FAZ,3765.17445936,-1,Market,Filled,-3765.17445936,Warning: No quote information available at 02/06/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-02-13T15:00:00Z,FAZ,3493.65500064,1,Market,Filled,3493.65500064,Warning: No quote information available at 02/13/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-02-13T16:00:00Z,FAZ,3454.41808464,-1,Market,Filled,-3454.41808464,Warning: No quote information available at 02/13/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-02-19T18:00:00Z,FAZ,3412.04221536,1,Market,Filled,3412.04221536,Warning: No quote information available at 02/19/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-02-24T15:00:00Z,FAZ,3358.6800096,-1,Market,Filled,-3358.6800096,Warning: No quote information available at 02/24/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-02-26T15:00:00Z,FAZ,3452.848608,1,Market,Filled,3452.848608,Warning: No quote information available at 02/26/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-02-28T15:00:00Z,FAZ,3324.15152352,-1,Market,Filled,-3324.15152352,Warning: No quote information available at 02/28/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-03-03T15:00:00Z,FAZ,3393.20849568,1,Market,Filled,3393.20849568,Warning: No quote information available at 03/03/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-03-04T15:00:00Z,FAZ,3262.94193456,-1,Market,Filled,-3262.94193456,Warning: No quote information available at 03/04/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-03-11T14:00:00Z,FAZ,3096.57741072,1,Market,Filled,3096.57741072,Warning: No quote information available at 03/11/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-03-12T14:00:00Z,FAZ,3175.05124272,1,Market,Filled,3175.05124272,Warning: No quote information available at 03/12/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-03-18T18:00:00Z,FAZ,3132.67537344,-2,Market,Filled,-6265.35074688,Warning: No quote information available at 03/18/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2014-03-24T17:00:00Z,FAZ,3077.74369104,1,Market,Filled,3077.74369104,Warning: No quote information available at 03/24/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-03-26T15:00:00Z,FAZ,3068.3268312,1,Market,Filled,3068.3268312,Warning: No quote information available at 03/26/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-03-31T14:00:00Z,FAZ,3077.74369104,-2,Market,Filled,-6155.48738208,Warning: No quote information available at 03/31/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-04-03T15:00:00Z,FAZ,3046.35415824,1,Market,Filled,3046.35415824,Warning: No quote information available at 04/03/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-04-04T14:00:00Z,FAZ,3000.83933568,-1,Market,Filled,-3000.83933568,Warning: No quote information available at 04/04/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-04-04T16:00:00Z,FAZ,3047.92363488,1,Market,Filled,3047.92363488,Warning: No quote information available at 04/04/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-04-04T17:00:00Z,FAZ,3084.0215976,1,Market,Filled,3084.0215976,Warning: No quote information available at 04/04/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-04-16T14:00:00Z,FAZ,3288.0535608,-2,Market,Filled,-6576.1071216,Warning: No quote information available at 04/16/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-04-25T14:00:00Z,FAZ,3217.427112,2,Market,Filled,6434.854224,Warning: No quote information available at 04/25/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-04-30T15:00:00Z,FAZ,3186.0375792,-2,Market,Filled,-6372.0751584,Warning: No quote information available at 04/30/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-05-05T14:00:00Z,FAZ,3222.13554192,2,Market,Filled,6444.27108384,Warning: No quote information available at 05/05/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-05-08T14:00:00Z,FAZ,3121.68903696,-2,Market,Filled,-6243.37807392,Warning: No quote information available at 05/08/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-05-14T14:00:00Z,FAZ,3107.5637472,1,Market,Filled,3107.5637472,Warning: No quote information available at 05/14/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-05-14T15:00:00Z,FAZ,3121.68903696,1,Market,Filled,3121.68903696,Warning: No quote information available at 05/14/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-05-20T15:00:00Z,FAZ,3175.05124272,-2,Market,Filled,-6350.10248544,Warning: No quote information available at 05/20/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-05-20T17:00:00Z,FAZ,3218.99658864,2,Market,Filled,6437.99317728,Warning: No quote information available at 05/20/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-05-21T14:00:00Z,FAZ,3153.07856976,-2,Market,Filled,-6306.15713952,Warning: No quote information available at 05/21/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-06-02T15:00:00Z,FAZ,3016.53410208,1,Market,Filled,3016.53410208,Warning: No quote information available at 06/02/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-06-02T16:00:00Z,FAZ,2983.57509264,-1,Market,Filled,-2983.57509264,Warning: No quote information available at 06/02/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-06-03T16:00:00Z,FAZ,2996.13090576,1,Market,Filled,2996.13090576,Warning: No quote information available at 06/03/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-06-03T17:00:00Z,FAZ,2978.86666272,-1,Market,Filled,-2978.86666272,Warning: No quote information available at 06/03/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-06-11T14:00:00Z,FAZ,2818.78004544,1,Market,Filled,2818.78004544,Warning: No quote information available at 06/11/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-06-11T15:00:00Z,FAZ,2837.61376512,1,Market,Filled,2837.61376512,Warning: No quote information available at 06/11/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-06-17T16:00:00Z,FAZ,2845.46114832,-2,Market,Filled,-5690.92229664,Warning: No quote information available at 06/17/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-06-24T18:00:00Z,FAZ,2777.9736528,1,Market,Filled,2777.9736528,Warning: No quote information available at 06/24/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2014-06-24T20:00:00Z,FAZ,2825.057952,1,Market On Open,Filled,2825.057952, 
+2014-06-30T18:00:00Z,FAZ,2788.95998928,-2,Market,Filled,-5577.91997856,Warning: No quote information available at 06/30/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2014-07-07T14:00:00Z,FAZ,2719.90301712,1,Market,Filled,2719.90301712,Warning: No quote information available at 07/07/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-07-08T14:00:00Z,FAZ,2751.29254992,1,Market,Filled,2751.29254992,Warning: No quote information available at 07/08/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-07-14T14:00:00Z,FAZ,2721.47249376,-2,Market,Filled,-5442.94498752,Warning: No quote information available at 07/14/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-07-17T14:00:00Z,FAZ,2708.91668064,1,Market,Filled,2708.91668064,Warning: No quote information available at 07/17/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-07-17T16:00:00Z,FAZ,2746.58412,1,Market,Filled,2746.58412,Warning: No quote information available at 07/17/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-07-22T14:00:00Z,FAZ,2697.93034416,-2,Market,Filled,-5395.86068832,Warning: No quote information available at 07/22/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-07-25T14:00:00Z,FAZ,2693.22191424,1,Market,Filled,2693.22191424,Warning: No quote information available at 07/25/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-07-25T15:00:00Z,FAZ,2701.06929744,1,Market,Filled,2701.06929744,Warning: No quote information available at 07/25/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-08-08T20:00:00Z,FAZ,2845.46114832,-2,Market On Open,Filled,-5690.92229664, 
+2014-08-15T16:00:00Z,FAZ,2820.34952208,1,Market,Filled,2820.34952208,Warning: No quote information available at 08/15/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-08-15T20:00:00Z,FAZ,2741.87569008,-1,Market On Open,Filled,-2741.87569008, 
+2014-08-28T14:00:00Z,FAZ,2583.35854944,2,Market,Filled,5166.71709888,Warning: No quote information available at 08/28/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-08-29T16:00:00Z,FAZ,2540.98268016,-1,Market,Filled,-2540.98268016,Warning: No quote information available at 08/29/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-09-02T14:00:00Z,FAZ,2531.56582032,-1,Market,Filled,-2531.56582032,Warning: No quote information available at 09/02/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-09-04T19:00:00Z,FAZ,2529.99634368,1,Market,Filled,2529.99634368,Warning: No quote information available at 09/04/2014 15:00:00 America/New_York, order filled using TradeBar data 
+2014-09-05T15:00:00Z,FAZ,2553.53849328,1,Market,Filled,2553.53849328,Warning: No quote information available at 09/05/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-09-05T20:00:00Z,FAZ,2515.87105392,-1,Market On Open,Filled,-2515.87105392, 
+2014-09-08T14:00:00Z,FAZ,2489.18995104,-1,Market,Filled,-2489.18995104,Warning: No quote information available at 09/08/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-09-08T18:00:00Z,FAZ,2525.28791376,2,Market,Filled,5050.57582752,Warning: No quote information available at 09/08/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2014-09-12T15:00:00Z,FAZ,2522.14896048,-2,Market,Filled,-5044.29792096,Warning: No quote information available at 09/12/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-09-12T17:00:00Z,FAZ,2555.10796992,2,Market,Filled,5110.21593984,Warning: No quote information available at 09/12/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-09-16T18:00:00Z,FAZ,2520.57948384,-2,Market,Filled,-5041.15896768,Warning: No quote information available at 09/16/2014 14:00:00 America/New_York, order filled using TradeBar data 
+2014-09-22T14:00:00Z,FAZ,2478.20361456,1,Market,Filled,2478.20361456,Warning: No quote information available at 09/22/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-09-22T15:00:00Z,FAZ,2500.17628752,1,Market,Filled,2500.17628752,Warning: No quote information available at 09/22/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-10-03T14:00:00Z,FAZ,2600.62279248,-2,Market,Filled,-5201.24558496,Warning: No quote information available at 10/03/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-10-07T14:00:00Z,FAZ,2639.85970848,2,Market,Filled,5279.71941696,Warning: No quote information available at 10/07/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-10-08T20:00:00Z,FAZ,2600.62279248,-1,Market On Open,Filled,-2600.62279248, 
+2014-10-09T16:00:00Z,FAZ,2672.81871792,1,Market,Filled,2672.81871792,Warning: No quote information available at 10/09/2014 12:00:00 America/New_York, order filled using TradeBar data 
+2014-10-17T15:00:00Z,FAZ,2829.76638192,-2,Market,Filled,-5659.53276384,Warning: No quote information available at 10/17/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-11-12T15:00:00Z,FAZ,2208.25363248,3,Market,Filled,6624.76089744,Warning: No quote information available at 11/12/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-11-18T16:00:00Z,FAZ,2192.55886608,-3,Market,Filled,-6577.67659824,Warning: No quote information available at 11/18/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-11-19T15:00:00Z,FAZ,2219.23996896,3,Market,Filled,6657.71990688,Warning: No quote information available at 11/19/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-11-21T15:00:00Z,FAZ,2145.47456688,-3,Market,Filled,-6436.42370064,Warning: No quote information available at 11/21/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-12-01T15:00:00Z,FAZ,2170.58619312,3,Market,Filled,6511.75857936,Warning: No quote information available at 12/01/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-12-02T20:00:00Z,FAZ,2106.23765088,-3,Market,Filled,-6318.71295264,Warning: No quote information available at 12/02/2014 15:00:00 America/New_York, order filled using TradeBar data 
+2014-12-09T15:00:00Z,FAZ,2045.02806192,2,Market,Filled,4090.05612384,Warning: No quote information available at 12/09/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-12-09T16:00:00Z,FAZ,2060.72282832,1,Market,Filled,2060.72282832,Warning: No quote information available at 12/09/2014 11:00:00 America/New_York, order filled using TradeBar data 
+2014-12-09T18:00:00Z,FAZ,2032.4722488,-1,Market,Filled,-2032.4722488,Warning: No quote information available at 12/09/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2014-12-09T21:00:00Z,FAZ,2037.18067872,-2,Market On Open,Filled,-4074.36135744, 
+2014-12-10T15:00:00Z,FAZ,2040.319632,3,Market,Filled,6120.958896,Warning: No quote information available at 12/10/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-12-18T15:00:00Z,FAZ,2048.1670152,-3,Market,Filled,-6144.5010456,Warning: No quote information available at 12/18/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-12-30T15:00:00Z,FAZ,1936.73417376,2,Market,Filled,3873.46834752,Warning: No quote information available at 12/30/2014 10:00:00 America/New_York, order filled using TradeBar data 
+2014-12-31T18:00:00Z,FAZ,1944.58155696,1,Market,Filled,1944.58155696,Warning: No quote information available at 12/31/2014 13:00:00 America/New_York, order filled using TradeBar data 
+2015-01-08T15:00:00Z,FAZ,2037.18067872,-2,Market,Filled,-4074.36135744,Warning: No quote information available at 01/08/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-01-12T15:00:00Z,FAZ,2137.62718368,2,Market,Filled,4275.25436736,Warning: No quote information available at 01/12/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-01-22T16:00:00Z,FAZ,2136.05770704,-3,Market,Filled,-6408.17312112,Warning: No quote information available at 01/22/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-01-27T15:00:00Z,FAZ,2161.16933328,3,Market,Filled,6483.50799984,Warning: No quote information available at 01/27/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-02-03T15:00:00Z,FAZ,2143.90509024,-3,Market,Filled,-6431.71527072,Warning: No quote information available at 02/03/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-02-10T16:00:00Z,FAZ,2046.59753856,2,Market,Filled,4093.19507712,Warning: No quote information available at 02/10/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-02-10T20:00:00Z,FAZ,2007.36062256,-2,Market,Filled,-4014.72124512,Warning: No quote information available at 02/10/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-02-18T15:00:00Z,FAZ,1938.3036504,2,Market,Filled,3876.6073008,Warning: No quote information available at 02/18/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-02-19T15:00:00Z,FAZ,1971.26265984,1,Market,Filled,1971.26265984,Warning: No quote information available at 02/19/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-02-20T20:00:00Z,FAZ,1925.74783728,-3,Market,Filled,-5777.24351184,Warning: No quote information available at 02/20/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-02-23T15:00:00Z,FAZ,1952.42894016,3,Market,Filled,5857.28682048,Warning: No quote information available at 02/23/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-02-24T15:00:00Z,FAZ,1924.17836064,-3,Market,Filled,-5772.53508192,Warning: No quote information available at 02/24/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-02-26T15:00:00Z,FAZ,1935.16469712,3,Market,Filled,5805.49409136,Warning: No quote information available at 02/26/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-02T16:00:00Z,FAZ,1913.19202416,-3,Market,Filled,-5739.57607248,Warning: No quote information available at 03/02/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-03-03T15:00:00Z,FAZ,1928.88679056,1,Market,Filled,1928.88679056,Warning: No quote information available at 03/03/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-03T17:00:00Z,FAZ,1939.87312704,2,Market,Filled,3879.74625408,Warning: No quote information available at 03/03/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-03-06T15:00:00Z,FAZ,1899.0667344,-3,Market,Filled,-5697.2002032,Warning: No quote information available at 03/06/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-06T17:00:00Z,FAZ,1955.56789344,3,Market,Filled,5866.70368032,Warning: No quote information available at 03/06/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-03-12T14:00:00Z,FAZ,1950.85946352,-3,Market,Filled,-5852.57839056,Warning: No quote information available at 03/12/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-17T14:00:00Z,FAZ,1917.90045408,2,Market,Filled,3835.80090816,Warning: No quote information available at 03/17/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-17T17:00:00Z,FAZ,1900.63621104,-2,Market,Filled,-3801.27242208,Warning: No quote information available at 03/17/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-03-18T14:00:00Z,FAZ,1911.62254752,2,Market,Filled,3823.24509504,Warning: No quote information available at 03/18/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-18T19:00:00Z,FAZ,1864.53824832,-2,Market,Filled,-3729.07649664,Warning: No quote information available at 03/18/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-03-19T14:00:00Z,FAZ,1880.23301472,2,Market,Filled,3760.46602944,Warning: No quote information available at 03/19/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-19T15:00:00Z,FAZ,1900.63621104,1,Market,Filled,1900.63621104,Warning: No quote information available at 03/19/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-03-20T14:00:00Z,FAZ,1873.95510816,-1,Market,Filled,-1873.95510816,Warning: No quote information available at 03/20/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-20T15:00:00Z,FAZ,1848.84348192,-2,Market,Filled,-3697.68696384,Warning: No quote information available at 03/20/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-03-24T14:00:00Z,FAZ,1869.24667824,3,Market,Filled,5607.74003472,Warning: No quote information available at 03/24/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-03-30T14:00:00Z,FAZ,1921.03940736,-2,Market,Filled,-3842.07881472,Warning: No quote information available at 03/30/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-01T14:00:00Z,FAZ,1979.11004304,2,Market,Filled,3958.22008608,Warning: No quote information available at 04/01/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-02T14:00:00Z,FAZ,1917.90045408,-1,Market,Filled,-1917.90045408,Warning: No quote information available at 04/02/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-06T15:00:00Z,FAZ,1914.7615008,-2,Market,Filled,-3829.5230016,Warning: No quote information available at 04/06/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-04-07T20:00:00Z,FAZ,1919.46993072,3,Market On Open,Filled,5758.40979216, 
+2015-04-08T14:00:00Z,FAZ,1897.49725776,-3,Market,Filled,-5692.49177328,Warning: No quote information available at 04/08/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-09T14:00:00Z,FAZ,1927.31731392,3,Market,Filled,5781.95194176,Warning: No quote information available at 04/09/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-13T14:00:00Z,FAZ,1891.2193512,-3,Market,Filled,-5673.6580536,Warning: No quote information available at 04/13/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-14T14:00:00Z,FAZ,1911.62254752,2,Market,Filled,3823.24509504,Warning: No quote information available at 04/14/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-14T15:00:00Z,FAZ,1924.17836064,1,Market,Filled,1924.17836064,Warning: No quote information available at 04/14/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-04-15T14:00:00Z,FAZ,1879.4482764,-3,Market,Filled,-5638.3448292,Warning: No quote information available at 04/15/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-16T14:00:00Z,FAZ,1905.34464096,3,Market,Filled,5716.03392288,Warning: No quote information available at 04/16/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-16T15:00:00Z,FAZ,1878.66353808,-1,Market,Filled,-1878.66353808,Warning: No quote information available at 04/16/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-04-16T18:00:00Z,FAZ,1864.53824832,-2,Market,Filled,-3729.07649664,Warning: No quote information available at 04/16/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-04-17T14:00:00Z,FAZ,1930.4562672,2,Market,Filled,3860.9125344,Warning: No quote information available at 04/17/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-04-22T15:00:00Z,FAZ,1895.92778112,-2,Market,Filled,-3791.85556224,Warning: No quote information available at 04/22/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-04-27T17:00:00Z,FAZ,1906.9141176,2,Market,Filled,3813.8282352,Warning: No quote information available at 04/27/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-05-04T14:00:00Z,FAZ,1867.6772016,-2,Market,Filled,-3735.3544032,Warning: No quote information available at 05/04/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-05-05T19:00:00Z,FAZ,1895.92778112,2,Market,Filled,3791.85556224,Warning: No quote information available at 05/05/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-05-08T14:00:00Z,FAZ,1817.45394912,-2,Market,Filled,-3634.90789824,Warning: No quote information available at 05/08/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-05-12T14:00:00Z,FAZ,1862.96877168,2,Market,Filled,3725.93754336,Warning: No quote information available at 05/12/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-05-13T14:00:00Z,FAZ,1819.02342576,-1,Market,Filled,-1819.02342576,Warning: No quote information available at 05/13/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-05-14T15:00:00Z,FAZ,1797.0507528,-1,Market,Filled,-1797.0507528,Warning: No quote information available at 05/14/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-05-21T14:00:00Z,FAZ,1768.80017328,2,Market,Filled,3537.60034656,Warning: No quote information available at 05/21/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-06-03T14:00:00Z,FAZ,1778.21703312,-2,Market,Filled,-3556.43406624,Warning: No quote information available at 06/03/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-06-04T16:00:00Z,FAZ,1801.75918272,2,Market,Filled,3603.51836544,Warning: No quote information available at 06/04/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-06-10T14:00:00Z,FAZ,1762.52226672,-2,Market,Filled,-3525.04453344,Warning: No quote information available at 06/10/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-06-15T14:00:00Z,FAZ,1773.5086032,2,Market,Filled,3547.0172064,Warning: No quote information available at 06/15/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-06-17T14:00:00Z,FAZ,1721.71587408,-2,Market,Filled,-3443.43174816,Warning: No quote information available at 06/17/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-06-17T17:00:00Z,FAZ,1735.84116384,2,Market,Filled,3471.68232768,Warning: No quote information available at 06/17/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-06-17T19:00:00Z,FAZ,1713.86849088,-2,Market,Filled,-3427.73698176,Warning: No quote information available at 06/17/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-06-19T19:00:00Z,FAZ,1717.00744416,2,Market,Filled,3434.01488832,Warning: No quote information available at 06/19/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-06-22T14:00:00Z,FAZ,1680.90948144,-2,Market,Filled,-3361.81896288,Warning: No quote information available at 06/22/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-06-24T16:00:00Z,FAZ,1695.0347712,2,Market,Filled,3390.0695424,Warning: No quote information available at 06/24/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-07-01T14:00:00Z,FAZ,1749.9664536,-2,Market,Filled,-3499.9329072,Warning: No quote information available at 07/01/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-07-06T14:00:00Z,FAZ,1803.32865936,2,Market,Filled,3606.65731872,Warning: No quote information available at 07/06/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-07-10T14:00:00Z,FAZ,1767.23069664,-2,Market,Filled,-3534.46139328,Warning: No quote information available at 07/10/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-07-21T16:00:00Z,FAZ,1616.5609392,2,Market,Filled,3233.1218784,Warning: No quote information available at 07/21/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-07-22T18:00:00Z,FAZ,1589.87983632,-2,Market,Filled,-3179.75967264,Warning: No quote information available at 07/22/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-07-23T16:00:00Z,FAZ,1625.97779904,3,Market,Filled,4877.93339712,Warning: No quote information available at 07/23/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-07-29T15:00:00Z,FAZ,1651.08942528,-3,Market,Filled,-4953.26827584,Warning: No quote information available at 07/29/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-08-03T14:00:00Z,FAZ,1630.68622896,2,Market,Filled,3261.37245792,Warning: No quote information available at 08/03/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-03T17:00:00Z,FAZ,1651.08942528,1,Market,Filled,1651.08942528,Warning: No quote information available at 08/03/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-08-03T20:00:00Z,FAZ,1632.2557056,-1,Market On Open,Filled,-1632.2557056, 
+2015-08-04T18:00:00Z,FAZ,1633.82518224,1,Market,Filled,1633.82518224,Warning: No quote information available at 08/04/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-08-05T14:00:00Z,FAZ,1599.29669616,-3,Market,Filled,-4797.89008848,Warning: No quote information available at 08/05/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-06T16:00:00Z,FAZ,1643.24204208,2,Market,Filled,3286.48408416,Warning: No quote information available at 08/06/2015 12:00:00 America/New_York, order filled using TradeBar data 
+2015-08-10T14:00:00Z,FAZ,1605.57460272,-2,Market,Filled,-3211.14920544,Warning: No quote information available at 08/10/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-11T14:00:00Z,FAZ,1629.11675232,2,Market,Filled,3258.23350464,Warning: No quote information available at 08/11/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-14T14:00:00Z,FAZ,1630.68622896,-2,Market,Filled,-3261.37245792,Warning: No quote information available at 08/14/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-17T14:00:00Z,FAZ,1644.81151872,2,Market,Filled,3289.62303744,Warning: No quote information available at 08/17/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-17T15:00:00Z,FAZ,1619.69989248,-2,Market,Filled,-3239.39978496,Warning: No quote information available at 08/17/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-08-19T14:00:00Z,FAZ,1643.24204208,2,Market,Filled,3286.48408416,Warning: No quote information available at 08/19/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-27T14:00:00Z,FAZ,1949.28998688,-2,Market,Filled,-3898.57997376,Warning: No quote information available at 08/27/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-31T14:00:00Z,FAZ,1914.7615008,1,Market,Filled,1914.7615008,Warning: No quote information available at 08/31/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-08-31T15:00:00Z,FAZ,1900.63621104,-1,Market,Filled,-1900.63621104,Warning: No quote information available at 08/31/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-08-31T19:00:00Z,FAZ,1924.17836064,1,Market,Filled,1924.17836064,Warning: No quote information available at 08/31/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-09-01T14:00:00Z,FAZ,2043.45858528,1,Market,Filled,2043.45858528,Warning: No quote information available at 09/01/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-03T14:00:00Z,FAZ,1968.12370656,-2,Market,Filled,-3936.24741312,Warning: No quote information available at 09/03/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-04T14:00:00Z,FAZ,2079.556548,2,Market,Filled,4159.113096,Warning: No quote information available at 09/04/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-08T18:00:00Z,FAZ,1975.97108976,-2,Market,Filled,-3951.94217952,Warning: No quote information available at 09/08/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-09-09T20:00:00Z,FAZ,2041.88910864,1,Market On Open,Filled,2041.88910864, 
+2015-09-10T14:00:00Z,FAZ,2018.34695904,1,Market,Filled,2018.34695904,Warning: No quote information available at 09/10/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-15T15:00:00Z,FAZ,1924.17836064,-2,Market,Filled,-3848.35672128,Warning: No quote information available at 09/15/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-09-17T20:00:00Z,FAZ,1986.95742624,1,Market On Open,Filled,1986.95742624, 
+2015-09-18T14:00:00Z,FAZ,1997.94376272,1,Market,Filled,1997.94376272,Warning: No quote information available at 09/18/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-25T14:00:00Z,FAZ,1960.27632336,-2,Market,Filled,-3920.55264672,Warning: No quote information available at 09/25/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-09-28T14:00:00Z,FAZ,2037.18067872,2,Market,Filled,4074.36135744,Warning: No quote information available at 09/28/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-01T14:00:00Z,FAZ,2017.16985156,-2,Market,Filled,-4034.33970312,Warning: No quote information available at 10/01/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-02T14:00:00Z,FAZ,2136.05770704,2,Market,Filled,4272.11541408,Warning: No quote information available at 10/02/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-02T20:00:00Z,FAZ,1952.036571,-2,Market On Open,Filled,-3904.073142, 
+2015-10-12T15:00:00Z,FAZ,1827.65554728,1,Market,Filled,1827.65554728,Warning: No quote information available at 10/12/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-10-13T17:00:00Z,FAZ,1841.78083704,1,Market,Filled,1841.78083704,Warning: No quote information available at 10/13/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-10-15T18:00:00Z,FAZ,1811.56841172,-2,Market,Filled,-3623.13682344,Warning: No quote information available at 10/15/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-10-21T18:00:00Z,FAZ,1749.18171528,1,Market,Filled,1749.18171528,Warning: No quote information available at 10/21/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-10-22T14:00:00Z,FAZ,1707.59058432,-1,Market,Filled,-1707.59058432,Warning: No quote information available at 10/22/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-27T14:00:00Z,FAZ,1669.92314496,1,Market,Filled,1669.92314496,Warning: No quote information available at 10/27/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-27T18:00:00Z,FAZ,1693.85766372,1,Market,Filled,1693.85766372,Warning: No quote information available at 10/27/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-10-28T14:00:00Z,FAZ,1642.45730376,-2,Market,Filled,-3284.91460752,Warning: No quote information available at 10/28/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-30T14:00:00Z,FAZ,1613.42198592,1,Market,Filled,1613.42198592,Warning: No quote information available at 10/30/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-10-30T19:00:00Z,FAZ,1640.88782712,1,Market,Filled,1640.88782712,Warning: No quote information available at 10/30/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-11-02T18:00:00Z,FAZ,1598.11958868,-1,Market,Filled,-1598.11958868,Warning: No quote information available at 11/02/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-11-03T20:00:00Z,FAZ,1564.76821008,-1,Market,Filled,-1564.76821008,Warning: No quote information available at 11/03/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-11-05T16:00:00Z,FAZ,1580.85534564,1,Market,Filled,1580.85534564,Warning: No quote information available at 11/05/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-11-05T19:00:00Z,FAZ,1562.02162596,-1,Market,Filled,-1562.02162596,Warning: No quote information available at 11/05/2015 14:00:00 America/New_York, order filled using TradeBar data 
+2015-11-09T16:00:00Z,FAZ,1568.29953252,2,Market,Filled,3136.59906504,Warning: No quote information available at 11/09/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-11-17T16:00:00Z,FAZ,1603.22038776,-2,Market,Filled,-3206.44077552,Warning: No quote information available at 11/17/2015 11:00:00 America/New_York, order filled using TradeBar data 
+2015-11-23T20:00:00Z,FAZ,1542.79553712,1,Market,Filled,1542.79553712,Warning: No quote information available at 11/23/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-11-24T15:00:00Z,FAZ,1573.4003316,1,Market,Filled,1573.4003316,Warning: No quote information available at 11/24/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-11-30T15:00:00Z,FAZ,1538.87184552,-2,Market,Filled,-3077.74369104,Warning: No quote information available at 11/30/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-02T20:00:00Z,FAZ,1549.858182,2,Market,Filled,3099.716364,Warning: No quote information available at 12/02/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-12-04T18:00:00Z,FAZ,1514.93732676,-1,Market,Filled,-1514.93732676,Warning: No quote information available at 12/04/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-12-04T20:00:00Z,FAZ,1501.98914448,-1,Market,Filled,-1501.98914448,Warning: No quote information available at 12/04/2015 15:00:00 America/New_York, order filled using TradeBar data 
+2015-12-07T18:00:00Z,FAZ,1558.09793436,2,Market,Filled,3116.19586872,Warning: No quote information available at 12/07/2015 13:00:00 America/New_York, order filled using TradeBar data 
+2015-12-15T15:00:00Z,FAZ,1644.41914956,-2,Market,Filled,-3288.83829912,Warning: No quote information available at 12/15/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-18T15:00:00Z,FAZ,1655.7978552,2,Market,Filled,3311.5957104,Warning: No quote information available at 12/18/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-23T15:00:00Z,FAZ,1610.6754018,-2,Market,Filled,-3221.3508036,Warning: No quote information available at 12/23/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-28T15:00:00Z,FAZ,1602.8280186,1,Market,Filled,1602.8280186,Warning: No quote information available at 12/28/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2015-12-28T21:00:00Z,FAZ,1558.09793436,-1,Market On Open,Filled,-1558.09793436, 
+2015-12-30T21:00:00Z,FAZ,1595.76537372,1,Market On Open,Filled,1595.76537372, 
+2015-12-31T15:00:00Z,FAZ,1590.66457464,1,Market,Filled,1590.66457464,Warning: No quote information available at 12/31/2015 10:00:00 America/New_York, order filled using TradeBar data 
+2016-01-22T19:00:00Z,FAZ,2154.1066884,-2,Market,Filled,-4308.2133768,Warning: No quote information available at 01/22/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-01-25T20:00:00Z,FAZ,2254.1608242,2,Market,Filled,4508.3216484,Warning: No quote information available at 01/25/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-01-27T17:00:00Z,FAZ,2125.85610888,-2,Market,Filled,-4251.71221776,Warning: No quote information available at 01/27/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-01-27T21:00:00Z,FAZ,2154.1066884,1,Market On Open,Filled,2154.1066884, 
+2016-01-28T17:00:00Z,FAZ,2250.2371326,1,Market,Filled,2250.2371326,Warning: No quote information available at 01/28/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-01-29T17:00:00Z,FAZ,2124.28663224,-2,Market,Filled,-4248.57326448,Warning: No quote information available at 01/29/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-02-02T15:00:00Z,FAZ,2149.39825848,2,Market,Filled,4298.79651696,Warning: No quote information available at 02/02/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-02-12T17:00:00Z,FAZ,2385.6044928,-2,Market,Filled,-4771.2089856,Warning: No quote information available at 02/12/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-02-19T15:00:00Z,FAZ,2199.2291418,1,Market,Filled,2199.2291418,Warning: No quote information available at 02/19/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-02-22T15:00:00Z,FAZ,2056.79913672,-1,Market,Filled,-2056.79913672,Warning: No quote information available at 02/22/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-02-23T16:00:00Z,FAZ,2143.51272108,1,Market,Filled,2143.51272108,Warning: No quote information available at 02/23/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-02-23T18:00:00Z,FAZ,2149.00588932,1,Market,Filled,2149.00588932,Warning: No quote information available at 02/23/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-02-25T19:00:00Z,FAZ,2094.07420692,-1,Market,Filled,-2094.07420692,Warning: No quote information available at 02/25/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-02-25T21:00:00Z,FAZ,2021.48591232,-1,Market On Open,Filled,-2021.48591232, 
+2016-02-29T21:00:00Z,FAZ,2056.79913672,2,Market On Open,Filled,4113.59827344, 
+2016-03-01T15:00:00Z,FAZ,2039.92726284,-1,Market,Filled,-2039.92726284,Warning: No quote information available at 03/01/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-01T16:00:00Z,FAZ,1988.52690288,-1,Market,Filled,-1988.52690288,Warning: No quote information available at 03/01/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-03-07T15:00:00Z,FAZ,1820.98527156,1,Market,Filled,1820.98527156,Warning: No quote information available at 03/07/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-07T17:00:00Z,FAZ,1795.48127616,-1,Market,Filled,-1795.48127616,Warning: No quote information available at 03/07/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-03-07T20:00:00Z,FAZ,1818.23868744,1,Market,Filled,1818.23868744,Warning: No quote information available at 03/07/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-03-07T21:00:00Z,FAZ,1843.35031368,-1,Market On Open,Filled,-1843.35031368, 
+2016-03-08T15:00:00Z,FAZ,1853.55191184,2,Market,Filled,3707.10382368,Warning: No quote information available at 03/08/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-11T15:00:00Z,FAZ,1809.99893508,-2,Market,Filled,-3619.99787016,Warning: No quote information available at 03/11/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-15T14:00:00Z,FAZ,1799.79733692,1,Market,Filled,1799.79733692,Warning: No quote information available at 03/15/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-17T15:00:00Z,FAZ,1731.52510308,-1,Market,Filled,-1731.52510308,Warning: No quote information available at 03/17/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-03-22T14:00:00Z,FAZ,1683.2636964,1,Market,Filled,1683.2636964,Warning: No quote information available at 03/22/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-03-23T16:00:00Z,FAZ,1693.46529456,1,Market,Filled,1693.46529456,Warning: No quote information available at 03/23/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-03-29T19:00:00Z,FAZ,1703.66689272,-2,Market,Filled,-3407.33378544,Warning: No quote information available at 03/29/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-04-01T14:00:00Z,FAZ,1689.1492338,1,Market,Filled,1689.1492338,Warning: No quote information available at 04/01/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-04-01T15:00:00Z,FAZ,1649.51994864,-1,Market,Filled,-1649.51994864,Warning: No quote information available at 04/01/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-04-05T14:00:00Z,FAZ,1703.66689272,2,Market,Filled,3407.33378544,Warning: No quote information available at 04/05/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-04-12T17:00:00Z,FAZ,1687.57975716,-2,Market,Filled,-3375.15951432,Warning: No quote information available at 04/12/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-04-21T18:00:00Z,FAZ,1502.38151364,2,Market,Filled,3004.76302728,Warning: No quote information available at 04/21/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-04-25T15:00:00Z,FAZ,1500.41966784,1,Market,Filled,1500.41966784,Warning: No quote information available at 04/25/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-04-26T14:00:00Z,FAZ,1457.25906024,-3,Market,Filled,-4371.77718072,Warning: No quote information available at 04/26/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-04-27T15:00:00Z,FAZ,1468.63776588,2,Market,Filled,2937.27553176,Warning: No quote information available at 04/27/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-04-27T16:00:00Z,FAZ,1460.39801352,-2,Market,Filled,-2920.79602704,Warning: No quote information available at 04/27/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-04-28T19:00:00Z,FAZ,1466.28355092,2,Market,Filled,2932.56710184,Warning: No quote information available at 04/28/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-04-28T20:00:00Z,FAZ,1503.95099028,1,Market On Open,Filled,1503.95099028, 
+2016-05-09T14:00:00Z,FAZ,1520.82286416,-3,Market,Filled,-4562.46859248,Warning: No quote information available at 05/09/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-11T19:00:00Z,FAZ,1511.01363516,2,Market,Filled,3022.02727032,Warning: No quote information available at 05/11/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-05-12T15:00:00Z,FAZ,1520.82286416,1,Market,Filled,1520.82286416,Warning: No quote information available at 05/12/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-05-18T16:00:00Z,FAZ,1512.97548096,-3,Market,Filled,-4538.92644288,Warning: No quote information available at 05/18/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-05-19T14:00:00Z,FAZ,1552.21239696,2,Market,Filled,3104.42479392,Warning: No quote information available at 05/19/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-20T14:00:00Z,FAZ,1489.43333136,-2,Market,Filled,-2978.86666272,Warning: No quote information available at 05/20/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-23T14:00:00Z,FAZ,1521.99997164,2,Market,Filled,3043.99994328,Warning: No quote information available at 05/23/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-24T14:00:00Z,FAZ,1452.55063032,-2,Market,Filled,-2905.10126064,Warning: No quote information available at 05/24/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-05-31T19:00:00Z,FAZ,1413.31371432,2,Market,Filled,2826.62742864,Warning: No quote information available at 05/31/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-06-01T14:00:00Z,FAZ,1434.50164896,1,Market,Filled,1434.50164896,Warning: No quote information available at 06/01/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-06-01T19:00:00Z,FAZ,1392.51814884,-1,Market,Filled,-1392.51814884,Warning: No quote information available at 06/01/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-06-02T14:00:00Z,FAZ,1408.99765356,1,Market,Filled,1408.99765356,Warning: No quote information available at 06/02/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-06-02T20:00:00Z,FAZ,1433.32454148,-3,Market On Open,Filled,-4299.97362444, 
+2016-06-03T14:00:00Z,FAZ,1448.23456956,3,Market,Filled,4344.70370868,Warning: No quote information available at 06/03/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-06-06T18:00:00Z,FAZ,1394.8723638,-3,Market,Filled,-4184.6170914,Warning: No quote information available at 06/06/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-06-06T20:00:00Z,FAZ,1405.07396196,3,Market On Open,Filled,4215.22188588, 
+2016-06-20T14:00:00Z,FAZ,1487.47148556,-3,Market,Filled,-4462.41445668,Warning: No quote information available at 06/20/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-06-24T14:00:00Z,FAZ,1585.1714064,2,Market,Filled,3170.3428128,Warning: No quote information available at 06/24/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-06-29T14:00:00Z,FAZ,1603.22038776,-2,Market,Filled,-3206.44077552,Warning: No quote information available at 06/29/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-05T14:00:00Z,FAZ,1550.25055116,1,Market,Filled,1550.25055116,Warning: No quote information available at 07/05/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-06T14:00:00Z,FAZ,1578.10876152,1,Market,Filled,1578.10876152,Warning: No quote information available at 07/06/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-07T14:00:00Z,FAZ,1509.83652768,-2,Market,Filled,-3019.67305536,Warning: No quote information available at 07/07/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-07T16:00:00Z,FAZ,1537.69473804,2,Market,Filled,3075.38947608,Warning: No quote information available at 07/07/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-07-08T14:00:00Z,FAZ,1465.10644344,-2,Market,Filled,-2930.21288688,Warning: No quote information available at 07/08/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-15T17:00:00Z,FAZ,1368.58363008,2,Market,Filled,2737.16726016,Warning: No quote information available at 07/15/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-07-15T19:00:00Z,FAZ,1352.88886368,-2,Market,Filled,-2705.77772736,Warning: No quote information available at 07/15/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-07-21T14:00:00Z,FAZ,1330.91619072,2,Market,Filled,2661.83238144,Warning: No quote information available at 07/21/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-07-21T15:00:00Z,FAZ,1322.67643836,-2,Market,Filled,-2645.35287672,Warning: No quote information available at 07/21/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-07-21T16:00:00Z,FAZ,1335.23225148,2,Market,Filled,2670.46450296,Warning: No quote information available at 07/21/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-07-21T18:00:00Z,FAZ,1339.15594308,1,Market,Filled,1339.15594308,Warning: No quote information available at 07/21/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-07-22T16:00:00Z,FAZ,1319.92985424,-3,Market,Filled,-3959.78956272,Warning: No quote information available at 07/22/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-07-25T16:00:00Z,FAZ,1328.95434492,2,Market,Filled,2657.90868984,Warning: No quote information available at 07/25/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-07-26T15:00:00Z,FAZ,1332.0932982,1,Market,Filled,1332.0932982,Warning: No quote information available at 07/26/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-07-28T18:00:00Z,FAZ,1307.37404112,-3,Market,Filled,-3922.12212336,Warning: No quote information available at 07/28/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-08-01T17:00:00Z,FAZ,1326.99249912,3,Market,Filled,3980.97749736,Warning: No quote information available at 08/01/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-08-05T14:00:00Z,FAZ,1272.45318588,-3,Market,Filled,-3817.35955764,Warning: No quote information available at 08/05/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-10T14:00:00Z,FAZ,1264.21343352,2,Market,Filled,2528.42686704,Warning: No quote information available at 08/10/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-11T14:00:00Z,FAZ,1282.65478404,1,Market,Filled,1282.65478404,Warning: No quote information available at 08/11/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-15T15:00:00Z,FAZ,1263.4286952,-3,Market,Filled,-3790.2860856,Warning: No quote information available at 08/15/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-08-16T14:00:00Z,FAZ,1274.02266252,3,Market,Filled,3822.06798756,Warning: No quote information available at 08/16/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-17T19:00:00Z,FAZ,1266.56764848,-3,Market,Filled,-3799.70294544,Warning: No quote information available at 08/17/2016 15:00:00 America/New_York, order filled using TradeBar data 
+2016-08-18T14:00:00Z,FAZ,1267.3523868,3,Market,Filled,3802.0571604,Warning: No quote information available at 08/18/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-18T15:00:00Z,FAZ,1262.25158772,-3,Market,Filled,-3786.75476316,Warning: No quote information available at 08/18/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-08-18T16:00:00Z,FAZ,1268.92186344,2,Market,Filled,2537.84372688,Warning: No quote information available at 08/18/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-08-18T17:00:00Z,FAZ,1274.80740084,1,Market,Filled,1274.80740084,Warning: No quote information available at 08/18/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-08-23T14:00:00Z,FAZ,1247.34155964,-3,Market,Filled,-3742.02467892,Warning: No quote information available at 08/23/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-24T15:00:00Z,FAZ,1265.390541,3,Market,Filled,3796.171623,Warning: No quote information available at 08/24/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-08-26T14:00:00Z,FAZ,1247.7339288,-3,Market,Filled,-3743.2017864,Warning: No quote information available at 08/26/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-08-26T18:00:00Z,FAZ,1265.390541,2,Market,Filled,2530.781082,Warning: No quote information available at 08/26/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-08-29T14:00:00Z,FAZ,1228.1154708,-2,Market,Filled,-2456.2309416,Warning: No quote information available at 08/29/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-01T15:00:00Z,FAZ,1224.1917792,2,Market,Filled,2448.3835584,Warning: No quote information available at 09/01/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-09-02T14:00:00Z,FAZ,1181.0311716,-2,Market,Filled,-2362.0623432,Warning: No quote information available at 09/02/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-06T15:00:00Z,FAZ,1208.10464364,2,Market,Filled,2416.20928728,Warning: No quote information available at 09/06/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-09-07T20:00:00Z,FAZ,1187.70144732,-2,Market On Open,Filled,-2375.40289464, 
+2016-09-08T14:00:00Z,FAZ,1190.44803144,2,Market,Filled,2380.89606288,Warning: No quote information available at 09/08/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-08T16:00:00Z,FAZ,1179.46169496,-2,Market,Filled,-2358.92338992,Warning: No quote information available at 09/08/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-09-08T18:00:00Z,FAZ,1186.52433984,2,Market,Filled,2373.04867968,Warning: No quote information available at 09/08/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-09-19T14:00:00Z,FAZ,1253.6194662,-2,Market,Filled,-2507.2389324,Warning: No quote information available at 09/19/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-26T14:00:00Z,FAZ,1253.6194662,2,Market,Filled,2507.2389324,Warning: No quote information available at 09/26/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-09-28T20:00:00Z,FAZ,1238.70943812,-2,Market On Open,Filled,-2477.41887624, 
+2016-09-29T17:00:00Z,FAZ,1265.78291016,2,Market,Filled,2531.56582032,Warning: No quote information available at 09/29/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-10-05T15:00:00Z,FAZ,1244.20260636,-2,Market,Filled,-2488.40521272,Warning: No quote information available at 10/05/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-10-07T16:00:00Z,FAZ,1259.89737276,2,Market,Filled,2519.79474552,Warning: No quote information available at 10/07/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-10-10T14:00:00Z,FAZ,1221.05282592,-2,Market,Filled,-2442.10565184,Warning: No quote information available at 10/10/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-11T14:00:00Z,FAZ,1241.8483914,1,Market,Filled,1241.8483914,Warning: No quote information available at 10/11/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-11T15:00:00Z,FAZ,1259.5050036,1,Market,Filled,1259.5050036,Warning: No quote information available at 10/11/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-10-14T14:00:00Z,FAZ,1240.67128392,-2,Market,Filled,-2481.34256784,Warning: No quote information available at 10/14/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-17T17:00:00Z,FAZ,1273.2379242,2,Market,Filled,2546.4758484,Warning: No quote information available at 10/17/2016 13:00:00 America/New_York, order filled using TradeBar data 
+2016-10-18T16:00:00Z,FAZ,1244.98734468,-2,Market,Filled,-2489.97468936,Warning: No quote information available at 10/18/2016 12:00:00 America/New_York, order filled using TradeBar data 
+2016-10-21T14:00:00Z,FAZ,1247.34155964,1,Market,Filled,1247.34155964,Warning: No quote information available at 10/21/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-24T14:00:00Z,FAZ,1201.43436792,-1,Market,Filled,-1201.43436792,Warning: No quote information available at 10/24/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-10-25T15:00:00Z,FAZ,1229.29257828,1,Market,Filled,1229.29257828,Warning: No quote information available at 10/25/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-10-26T14:00:00Z,FAZ,1238.70943812,1,Market,Filled,1238.70943812,Warning: No quote information available at 10/26/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-07T15:00:00Z,FAZ,1232.82390072,-2,Market,Filled,-2465.64780144,Warning: No quote information available at 11/07/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-16T15:00:00Z,FAZ,1018.59033936,2,Market,Filled,2037.18067872,Warning: No quote information available at 11/16/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-17T15:00:00Z,FAZ,994.6558206,-2,Market,Filled,-1989.3116412,Warning: No quote information available at 11/17/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-28T15:00:00Z,FAZ,960.12733452,2,Market,Filled,1920.25466904,Warning: No quote information available at 11/28/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-11-28T16:00:00Z,FAZ,971.113671,1,Market,Filled,971.113671,Warning: No quote information available at 11/28/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-11-30T15:00:00Z,FAZ,952.67232048,-3,Market,Filled,-2858.01696144,Warning: No quote information available at 11/30/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-02T19:00:00Z,FAZ,955.81127376,2,Market,Filled,1911.62254752,Warning: No quote information available at 12/02/2016 14:00:00 America/New_York, order filled using TradeBar data 
+2016-12-05T15:00:00Z,FAZ,916.96672692,-2,Market,Filled,-1833.93345384,Warning: No quote information available at 12/05/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-12T16:00:00Z,FAZ,838.49289492,2,Market,Filled,1676.98578984,Warning: No quote information available at 12/12/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-12-14T15:00:00Z,FAZ,849.4792314,1,Market,Filled,849.4792314,Warning: No quote information available at 12/14/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-20T15:00:00Z,FAZ,827.50655844,-3,Market,Filled,-2482.51967532,Warning: No quote information available at 12/20/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-22T15:00:00Z,FAZ,840.06237156,3,Market,Filled,2520.18711468,Warning: No quote information available at 12/22/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-27T15:00:00Z,FAZ,829.8607734,-1,Market,Filled,-829.8607734,Warning: No quote information available at 12/27/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2016-12-27T16:00:00Z,FAZ,829.46840424,-2,Market,Filled,-1658.93680848,Warning: No quote information available at 12/27/2016 11:00:00 America/New_York, order filled using TradeBar data 
+2016-12-28T15:00:00Z,FAZ,840.06237156,3,Market,Filled,2520.18711468,Warning: No quote information available at 12/28/2016 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-03T15:00:00Z,FAZ,830.64551172,-3,Market,Filled,-2491.93653516,Warning: No quote information available at 01/03/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-03T18:00:00Z,FAZ,847.5173856,1,Market,Filled,847.5173856,Warning: No quote information available at 01/03/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-01-03T21:00:00Z,FAZ,826.72182012,-1,Market On Open,Filled,-826.72182012, 
+2017-01-05T17:00:00Z,FAZ,830.64551172,2,Market,Filled,1661.29102344,Warning: No quote information available at 01/05/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-01-05T21:00:00Z,FAZ,809.45757708,-2,Market On Open,Filled,-1618.91515416, 
+2017-01-09T15:00:00Z,FAZ,820.0515444,2,Market,Filled,1640.1030888,Warning: No quote information available at 01/09/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-09T20:00:00Z,FAZ,822.40575936,1,Market,Filled,822.40575936,Warning: No quote information available at 01/09/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-01-13T15:00:00Z,FAZ,805.14151632,-3,Market,Filled,-2415.42454896,Warning: No quote information available at 01/13/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-17T15:00:00Z,FAZ,843.593694,3,Market,Filled,2530.781082,Warning: No quote information available at 01/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-24T16:00:00Z,FAZ,836.13867996,-2,Market,Filled,-1672.27735992,Warning: No quote information available at 01/24/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-01-24T17:00:00Z,FAZ,832.60735752,-1,Market,Filled,-832.60735752,Warning: No quote information available at 01/24/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-01-27T15:00:00Z,FAZ,808.2804696,2,Market,Filled,1616.5609392,Warning: No quote information available at 01/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-01-30T15:00:00Z,FAZ,828.68366592,1,Market,Filled,828.68366592,Warning: No quote information available at 01/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-03T15:00:00Z,FAZ,806.71099296,-3,Market,Filled,-2420.13297888,Warning: No quote information available at 02/03/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-08T15:00:00Z,FAZ,822.0133902,3,Market,Filled,2466.0401706,Warning: No quote information available at 02/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-09T16:00:00Z,FAZ,794.15517984,-3,Market,Filled,-2382.46553952,Warning: No quote information available at 02/09/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-17T15:00:00Z,FAZ,739.22349744,2,Market,Filled,1478.44699488,Warning: No quote information available at 02/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-17T21:00:00Z,FAZ,722.35162356,-2,Market On Open,Filled,-1444.70324712, 
+2017-02-23T16:00:00Z,FAZ,720.38977776,2,Market,Filled,1440.77955552,Warning: No quote information available at 02/23/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-23T17:00:00Z,FAZ,717.64319364,-2,Market,Filled,-1435.28638728,Warning: No quote information available at 02/23/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-02-24T15:00:00Z,FAZ,721.56688524,3,Market,Filled,2164.70065572,Warning: No quote information available at 02/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-27T15:00:00Z,FAZ,714.50424036,-1,Market,Filled,-714.50424036,Warning: No quote information available at 02/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-02-27T16:00:00Z,FAZ,712.93476372,-2,Market,Filled,-1425.86952744,Warning: No quote information available at 02/27/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-02-27T17:00:00Z,FAZ,715.68134784,2,Market,Filled,1431.36269568,Warning: No quote information available at 02/27/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-02-27T18:00:00Z,FAZ,712.54239456,-2,Market,Filled,-1425.08478912,Warning: No quote information available at 02/27/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-02-28T15:00:00Z,FAZ,717.25082448,3,Market,Filled,2151.75247344,Warning: No quote information available at 02/28/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-01T15:00:00Z,FAZ,678.7986468,-3,Market,Filled,-2036.3959404,Warning: No quote information available at 03/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-03T15:00:00Z,FAZ,698.02473564,2,Market,Filled,1396.04947128,Warning: No quote information available at 03/03/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-06T15:00:00Z,FAZ,700.77131976,1,Market,Filled,700.77131976,Warning: No quote information available at 03/06/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-15T17:00:00Z,FAZ,706.264488,-2,Market,Filled,-1412.528976,Warning: No quote information available at 03/15/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-03-16T14:00:00Z,FAZ,698.4171048,-1,Market,Filled,-698.4171048,Warning: No quote information available at 03/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-03-17T15:00:00Z,FAZ,715.28897868,3,Market,Filled,2145.86693604,Warning: No quote information available at 03/17/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-03-28T18:00:00Z,FAZ,761.58853956,-2,Market,Filled,-1523.17707912,Warning: No quote information available at 03/28/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-03-29T15:00:00Z,FAZ,767.0817078,-1,Market,Filled,-767.0817078,Warning: No quote information available at 03/29/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-03T14:00:00Z,FAZ,763.94275452,2,Market,Filled,1527.88550904,Warning: No quote information available at 04/03/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-03T15:00:00Z,FAZ,778.06804428,1,Market,Filled,778.06804428,Warning: No quote information available at 04/03/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-05T14:00:00Z,FAZ,749.03272644,-3,Market,Filled,-2247.09817932,Warning: No quote information available at 04/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-05T19:00:00Z,FAZ,763.55038536,1,Market,Filled,763.55038536,Warning: No quote information available at 04/05/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-04-05T20:00:00Z,FAZ,776.8909368,2,Market On Open,Filled,1553.7818736, 
+2017-04-19T14:00:00Z,FAZ,771.39776856,-3,Market,Filled,-2314.19330568,Warning: No quote information available at 04/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-04-19T19:00:00Z,FAZ,790.6238574,1,Market,Filled,790.6238574,Warning: No quote information available at 04/19/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-04-20T16:00:00Z,FAZ,772.18250688,-1,Market,Filled,-772.18250688,Warning: No quote information available at 04/20/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-04-27T15:00:00Z,FAZ,743.14718904,2,Market,Filled,1486.29437808,Warning: No quote information available at 04/27/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-04-28T15:00:00Z,FAZ,749.81746476,1,Market,Filled,749.81746476,Warning: No quote information available at 04/28/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-04T14:00:00Z,FAZ,734.12269836,-3,Market,Filled,-2202.36809508,Warning: No quote information available at 05/04/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-05T17:00:00Z,FAZ,743.5395582,2,Market,Filled,1487.0791164,Warning: No quote information available at 05/05/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-05-08T15:00:00Z,FAZ,743.93192736,1,Market,Filled,743.93192736,Warning: No quote information available at 05/08/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-15T15:00:00Z,FAZ,746.28614232,-2,Market,Filled,-1492.57228464,Warning: No quote information available at 05/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-16T14:00:00Z,FAZ,746.67851148,-1,Market,Filled,-746.67851148,Warning: No quote information available at 05/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-16T15:00:00Z,FAZ,753.74115636,1,Market,Filled,753.74115636,Warning: No quote information available at 05/16/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-17T14:00:00Z,FAZ,780.02989008,2,Market,Filled,1560.05978016,Warning: No quote information available at 05/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-05-19T17:00:00Z,FAZ,761.98090872,-2,Market,Filled,-1523.96181744,Warning: No quote information available at 05/19/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-05-23T15:00:00Z,FAZ,757.2724788,-1,Market,Filled,-757.2724788,Warning: No quote information available at 05/23/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-05-30T14:00:00Z,FAZ,748.24798812,3,Market,Filled,2244.74396436,Warning: No quote information available at 05/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-01T20:00:00Z,FAZ,749.4250956,-2,Market On Open,Filled,-1498.8501912, 
+2017-06-02T16:00:00Z,FAZ,736.47691332,-1,Market,Filled,-736.47691332,Warning: No quote information available at 06/02/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-06-06T14:00:00Z,FAZ,750.20983392,3,Market,Filled,2250.62950176,Warning: No quote information available at 06/06/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-07T15:00:00Z,FAZ,736.86928248,-1,Market,Filled,-736.86928248,Warning: No quote information available at 06/07/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-07T18:00:00Z,FAZ,735.29980584,-2,Market,Filled,-1470.59961168,Warning: No quote information available at 06/07/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-06-14T15:00:00Z,FAZ,689.78498328,2,Market,Filled,1379.56996656,Warning: No quote information available at 06/14/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-14T19:00:00Z,FAZ,680.7604926,-2,Market,Filled,-1361.5209852,Warning: No quote information available at 06/14/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-06-15T15:00:00Z,FAZ,683.11470756,2,Market,Filled,1366.22941512,Warning: No quote information available at 06/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-16T14:00:00Z,FAZ,686.25366084,1,Market,Filled,686.25366084,Warning: No quote information available at 06/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-19T14:00:00Z,FAZ,668.9894178,-3,Market,Filled,-2006.9682534,Warning: No quote information available at 06/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-20T19:00:00Z,FAZ,676.836801,3,Market,Filled,2030.510403,Warning: No quote information available at 06/20/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-06-26T14:00:00Z,FAZ,684.6841842,-2,Market,Filled,-1369.3683684,Warning: No quote information available at 06/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-27T16:00:00Z,FAZ,675.26732436,-1,Market,Filled,-675.26732436,Warning: No quote information available at 06/27/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-07-06T14:00:00Z,FAZ,651.72517476,2,Market,Filled,1303.45034952,Warning: No quote information available at 07/06/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-06T20:00:00Z,FAZ,652.50991308,1,Market On Open,Filled,652.50991308, 
+2017-07-13T14:00:00Z,FAZ,647.80148316,-2,Market,Filled,-1295.60296632,Warning: No quote information available at 07/13/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-13T15:00:00Z,FAZ,646.23200652,-1,Market,Filled,-646.23200652,Warning: No quote information available at 07/13/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-17T14:00:00Z,FAZ,647.409114,2,Market,Filled,1294.818228,Warning: No quote information available at 07/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-17T17:00:00Z,FAZ,642.70068408,-2,Market,Filled,-1285.40136816,Warning: No quote information available at 07/17/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-07-18T14:00:00Z,FAZ,649.76332896,3,Market,Filled,1949.28998688,Warning: No quote information available at 07/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-19T14:00:00Z,FAZ,641.13120744,-3,Market,Filled,-1923.39362232,Warning: No quote information available at 07/19/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-19T17:00:00Z,FAZ,645.83963736,3,Market,Filled,1937.51891208,Warning: No quote information available at 07/19/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-07-19T19:00:00Z,FAZ,641.91594576,-1,Market,Filled,-641.91594576,Warning: No quote information available at 07/19/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-07-19T20:00:00Z,FAZ,639.16936164,-2,Market On Open,Filled,-1278.33872328, 
+2017-07-21T15:00:00Z,FAZ,643.87779156,3,Market,Filled,1931.63337468,Warning: No quote information available at 07/21/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-24T14:00:00Z,FAZ,636.81514668,-1,Market,Filled,-636.81514668,Warning: No quote information available at 07/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-24T16:00:00Z,FAZ,636.42277752,-2,Market,Filled,-1272.84555504,Warning: No quote information available at 07/24/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T14:00:00Z,FAZ,627.39828684,2,Market,Filled,1254.79657368,Warning: No quote information available at 07/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T18:00:00Z,FAZ,636.03040836,1,Market,Filled,636.03040836,Warning: No quote information available at 07/27/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-07-31T18:00:00Z,FAZ,620.33564196,-1,Market,Filled,-620.33564196,Warning: No quote information available at 07/31/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-08-01T14:00:00Z,FAZ,615.62721204,-2,Market,Filled,-1231.25442408,Warning: No quote information available at 08/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-03T14:00:00Z,FAZ,617.19668868,2,Market,Filled,1234.39337736,Warning: No quote information available at 08/03/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-04T14:00:00Z,FAZ,609.34930548,-2,Market,Filled,-1218.69861096,Warning: No quote information available at 08/04/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-08T14:00:00Z,FAZ,612.88062792,3,Market,Filled,1838.64188376,Warning: No quote information available at 08/08/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-08T15:00:00Z,FAZ,604.2485064,-3,Market,Filled,-1812.7455192,Warning: No quote information available at 08/08/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-08T20:00:00Z,FAZ,625.8288102,3,Market On Open,Filled,1877.4864306, 
+2017-08-14T15:00:00Z,FAZ,625.43644104,-2,Market,Filled,-1250.87288208,Warning: No quote information available at 08/14/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-15T14:00:00Z,FAZ,618.76616532,-1,Market,Filled,-618.76616532,Warning: No quote information available at 08/15/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-17T14:00:00Z,FAZ,629.7525018,2,Market,Filled,1259.5050036,Warning: No quote information available at 08/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-17T17:00:00Z,FAZ,639.16936164,1,Market,Filled,639.16936164,Warning: No quote information available at 08/17/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-08-22T19:00:00Z,FAZ,638.77699248,-2,Market,Filled,-1277.55398496,Warning: No quote information available at 08/22/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-08-23T16:00:00Z,FAZ,631.32197844,-1,Market,Filled,-631.32197844,Warning: No quote information available at 08/23/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-08-28T15:00:00Z,FAZ,639.5617308,2,Market,Filled,1279.1234616,Warning: No quote information available at 08/28/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-28T16:00:00Z,FAZ,642.70068408,1,Market,Filled,642.70068408,Warning: No quote information available at 08/28/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-08-31T14:00:00Z,FAZ,634.85330088,-2,Market,Filled,-1269.70660176,Warning: No quote information available at 08/31/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-01T14:00:00Z,FAZ,628.96776348,-1,Market,Filled,-628.96776348,Warning: No quote information available at 09/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-05T14:00:00Z,FAZ,647.01674484,3,Market,Filled,1941.05023452,Warning: No quote information available at 09/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-11T14:00:00Z,FAZ,641.5235766,-3,Market,Filled,-1924.5707298,Warning: No quote information available at 09/11/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-14T18:00:00Z,FAZ,626.22117936,2,Market,Filled,1252.44235872,Warning: No quote information available at 09/14/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-09-15T20:00:00Z,FAZ,614.84247372,-2,Market On Open,Filled,-1229.68494744, 
+2017-09-25T14:00:00Z,FAZ,593.65453908,2,Market,Filled,1187.30907816,Warning: No quote information available at 09/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-25T15:00:00Z,FAZ,597.18586152,1,Market,Filled,597.18586152,Warning: No quote information available at 09/25/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-27T14:00:00Z,FAZ,583.84531008,-3,Market,Filled,-1751.53593024,Warning: No quote information available at 09/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-10T15:00:00Z,FAZ,546.17787072,2,Market,Filled,1092.35574144,Warning: No quote information available at 10/10/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-12T15:00:00Z,FAZ,544.60839408,2,Market,Filled,1089.21678816,Warning: No quote information available at 10/12/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-20T14:00:00Z,FAZ,527.7365202,-4,Market,Filled,-2110.9460808,Warning: No quote information available at 10/20/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-25T15:00:00Z,FAZ,531.6602118,2,Market,Filled,1063.3204236,Warning: No quote information available at 10/25/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-25T17:00:00Z,FAZ,534.79916508,2,Market,Filled,1069.59833016,Warning: No quote information available at 10/25/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-25T18:00:00Z,FAZ,529.30599684,-2,Market,Filled,-1058.61199368,Warning: No quote information available at 10/25/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-10-26T15:00:00Z,FAZ,521.45861364,-2,Market,Filled,-1042.91722728,Warning: No quote information available at 10/26/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-27T14:00:00Z,FAZ,528.91362768,4,Market,Filled,2115.65451072,Warning: No quote information available at 10/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T14:00:00Z,FAZ,517.9272912,-4,Market,Filled,-2071.7091648,Warning: No quote information available at 11/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T17:00:00Z,FAZ,525.7746744,4,Market,Filled,2103.0986976,Warning: No quote information available at 11/01/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-11-02T14:00:00Z,FAZ,520.28150616,-4,Market,Filled,-2081.12602464,Warning: No quote information available at 11/02/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-07T16:00:00Z,FAZ,517.53492204,2,Market,Filled,1035.06984408,Warning: No quote information available at 11/07/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-07T17:00:00Z,FAZ,523.8128286,2,Market,Filled,1047.6256572,Warning: No quote information available at 11/07/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-11-15T17:00:00Z,FAZ,531.6602118,-3,Market,Filled,-1594.9806354,Warning: No quote information available at 11/15/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-11-15T19:00:00Z,FAZ,535.97627256,3,Market,Filled,1607.92881768,Warning: No quote information available at 11/15/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-11-16T15:00:00Z,FAZ,529.30599684,-4,Market,Filled,-2117.22398736,Warning: No quote information available at 11/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-17T15:00:00Z,FAZ,535.97627256,3,Market,Filled,1607.92881768,Warning: No quote information available at 11/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-20T17:00:00Z,FAZ,529.698366,-1,Market,Filled,-529.698366,Warning: No quote information available at 11/20/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-11-20T19:00:00Z,FAZ,526.95178188,-2,Market,Filled,-1053.90356376,Warning: No quote information available at 11/20/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-11-24T18:00:00Z,FAZ,525.38230524,2,Market On Open,Filled,1050.76461048, 
+2017-11-27T21:00:00Z,FAZ,525.7746744,1,Market On Open,Filled,525.7746744, 
+2017-11-28T17:00:00Z,FAZ,517.9272912,-3,Market,Filled,-1553.7818736,Warning: No quote information available at 11/28/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-05T21:00:00Z,FAZ,480.25985184,2,Market On Open,Filled,960.51970368, 
+2017-12-06T15:00:00Z,FAZ,479.08274436,2,Market,Filled,958.16548872,Warning: No quote information available at 12/06/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T18:00:00Z,FAZ,468.09640788,-3,Market,Filled,-1404.28922364,Warning: No quote information available at 12/08/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T21:00:00Z,FAZ,465.34982376,-1,Market On Open,Filled,-465.34982376, 
+2017-12-13T21:00:00Z,FAZ,462.60323964,2,Market On Open,Filled,925.20647928, 
+2017-12-14T17:00:00Z,FAZ,465.34982376,2,Market,Filled,930.69964752,Warning: No quote information available at 12/14/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-15T19:00:00Z,FAZ,456.32533308,-2,Market,Filled,-912.65066616,Warning: No quote information available at 12/15/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-12-18T15:00:00Z,FAZ,447.69321156,-2,Market,Filled,-895.38642312,Warning: No quote information available at 12/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-20T16:00:00Z,FAZ,462.60323964,2,Market,Filled,925.20647928,Warning: No quote information available at 12/20/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-12-20T20:00:00Z,FAZ,464.56508544,2,Market,Filled,929.13017088,Warning: No quote information available at 12/20/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-12-28T16:00:00Z,FAZ,456.32533308,-3,Market,Filled,-1368.97599924,Warning: No quote information available at 12/28/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-12-28T21:00:00Z,FAZ,450.04742652,-1,Market On Open,Filled,-450.04742652, 
+2017-12-29T21:00:00Z,FAZ,454.36348728,4,Market On Open,Filled,1817.45394912, 
+2018-01-04T15:00:00Z,FAZ,439.4534592,-4,Market,Filled,-1757.8138368,Warning: No quote information available at 01/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-17T15:00:00Z,FAZ,426.50527692,3,Market,Filled,1279.51583076,Warning: No quote information available at 01/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-17T18:00:00Z,FAZ,417.48078624,-3,Market,Filled,-1252.44235872,Warning: No quote information available at 01/17/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-01-29T16:00:00Z,FAZ,387.26836092,3,Market,Filled,1161.80508276,Warning: No quote information available at 01/29/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-29T21:00:00Z,FAZ,399.82417404,1,Market On Open,Filled,399.82417404, 
+2018-02-13T20:00:00Z,FAZ,451.61690316,-3,Market,Filled,-1354.85070948,Warning: No quote information available at 02/13/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-02-14T16:00:00Z,FAZ,446.12373492,-1,Market,Filled,-446.12373492,Warning: No quote information available at 02/14/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-20T21:00:00Z,FAZ,422.58158532,3,Market On Open,Filled,1267.74475596, 
+2018-02-22T16:00:00Z,FAZ,423.36632364,1,Market,Filled,423.36632364,Warning: No quote information available at 02/22/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T15:00:00Z,FAZ,407.67155724,-4,Market,Filled,-1630.68622896,Warning: No quote information available at 02/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-28T20:00:00Z,FAZ,411.59524884,3,Market,Filled,1234.78574652,Warning: No quote information available at 02/28/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-02-28T21:00:00Z,FAZ,422.58158532,1,Market On Open,Filled,422.58158532, 
+2018-03-06T17:00:00Z,FAZ,419.8350012,-3,Market,Filled,-1259.5050036,Warning: No quote information available at 03/06/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-07T21:00:00Z,FAZ,411.987618,-1,Market On Open,Filled,-411.987618, 
+2018-03-08T16:00:00Z,FAZ,417.48078624,3,Market,Filled,1252.44235872,Warning: No quote information available at 03/08/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-03-08T21:00:00Z,FAZ,401.39365068,-3,Market On Open,Filled,-1204.18095204, 
+2018-03-13T20:00:00Z,FAZ,393.93863664,3,Market On Open,Filled,1181.81590992, 
+2018-03-14T16:00:00Z,FAZ,403.74786564,1,Market,Filled,403.74786564,Warning: No quote information available at 03/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-29T19:00:00Z,FAZ,441.44457072,-3,Market,Filled,-1324.33371216,Warning: No quote information available at 03/29/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-04-02T15:00:00Z,FAZ,465.00922752,3,Market,Filled,1395.02768256,Warning: No quote information available at 04/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-04T20:00:00Z,FAZ,433.58968512,-4,Market On Open,Filled,-1734.35874048, 
+2018-04-06T15:00:00Z,FAZ,448.51396776,3,Market,Filled,1345.54190328,Warning: No quote information available at 04/06/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-06T18:00:00Z,FAZ,459.11806332,1,Market,Filled,459.11806332,Warning: No quote information available at 04/06/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-09T17:00:00Z,FAZ,439.08810504,-1,Market,Filled,-439.08810504,Warning: No quote information available at 04/09/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-09T18:00:00Z,FAZ,432.80419656,-3,Market,Filled,-1298.41258968,Warning: No quote information available at 04/09/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-09T20:00:00Z,FAZ,437.51712792,4,Market On Open,Filled,1750.06851168, 
+2018-04-10T15:00:00Z,FAZ,436.33889508,-1,Market,Filled,-436.33889508,Warning: No quote information available at 04/10/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-11T15:00:00Z,FAZ,449.6922006,1,Market,Filled,449.6922006,Warning: No quote information available at 04/11/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-12T17:00:00Z,FAZ,433.58968512,-4,Market,Filled,-1734.35874048,Warning: No quote information available at 04/12/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-13T15:00:00Z,FAZ,450.08494488,4,Market,Filled,1800.33977952,Warning: No quote information available at 04/13/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-17T15:00:00Z,FAZ,430.44773088,-2,Market,Filled,-860.89546176,Warning: No quote information available at 04/17/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-19T20:00:00Z,FAZ,430.84047516,-2,Market On Open,Filled,-861.68095032, 
+2018-04-23T19:00:00Z,FAZ,437.9098722,4,Market,Filled,1751.6394888,Warning: No quote information available at 04/23/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-04-24T14:00:00Z,FAZ,427.30577664,-4,Market,Filled,-1709.22310656,Warning: No quote information available at 04/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-24T17:00:00Z,FAZ,438.30261648,4,Market,Filled,1753.21046592,Warning: No quote information available at 04/24/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-30T14:00:00Z,FAZ,430.0549866,-4,Market,Filled,-1720.2199464,Warning: No quote information available at 04/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-30T20:00:00Z,FAZ,442.23005928,4,Market On Open,Filled,1768.92023712, 
+2018-05-04T18:00:00Z,FAZ,438.69536076,-3,Market,Filled,-1316.08608228,Warning: No quote information available at 05/04/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-07T14:00:00Z,FAZ,436.73163936,-1,Market,Filled,-436.73163936,Warning: No quote information available at 05/07/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-14T17:00:00Z,FAZ,406.88307408,2,Market,Filled,813.76614816,Warning: No quote information available at 05/14/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-15T14:00:00Z,FAZ,410.4177726,2,Market,Filled,820.8355452,Warning: No quote information available at 05/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-21T15:00:00Z,FAZ,408.06130692,-3,Market,Filled,-1224.18392076,Warning: No quote information available at 05/21/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-22T14:00:00Z,FAZ,405.31209696,-1,Market,Filled,-405.31209696,Warning: No quote information available at 05/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-23T14:00:00Z,FAZ,411.59600544,4,Market,Filled,1646.38402176,Warning: No quote information available at 05/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-01T14:00:00Z,FAZ,417.87991392,-4,Market,Filled,-1671.51965568,Warning: No quote information available at 06/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-11T20:00:00Z,FAZ,395.88623424,3,Market On Open,Filled,1187.65870272, 
+2018-06-12T19:00:00Z,FAZ,400.5991656,1,Market,Filled,400.5991656,Warning: No quote information available at 06/12/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-06-20T14:00:00Z,FAZ,406.88307408,-3,Market,Filled,-1220.64922224,Warning: No quote information available at 06/20/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-20T20:00:00Z,FAZ,413.95247112,3,Market On Open,Filled,1241.85741336, 
+2018-06-29T14:00:00Z,FAZ,425.73479952,-3,Market,Filled,-1277.20439856,Warning: No quote information available at 06/29/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-29T15:00:00Z,FAZ,420.62912388,-1,Market,Filled,-420.62912388,Warning: No quote information available at 06/29/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-29T20:00:00Z,FAZ,443.01554784,1,Market On Open,Filled,443.01554784, 
+2018-07-03T17:00:00Z,FAZ,432.41145228,3,Market On Open,Filled,1297.23435684, 
+2018-07-06T14:00:00Z,FAZ,428.48400948,-3,Market,Filled,-1285.45202844,Warning: No quote information available at 07/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-06T15:00:00Z,FAZ,425.73479952,-1,Market,Filled,-425.73479952,Warning: No quote information available at 07/06/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-12T14:00:00Z,FAZ,408.06130692,3,Market,Filled,1224.18392076,Warning: No quote information available at 07/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-13T14:00:00Z,FAZ,417.87991392,1,Market,Filled,417.87991392,Warning: No quote information available at 07/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-16T16:00:00Z,FAZ,404.13386412,-4,Market,Filled,-1616.53545648,Warning: No quote information available at 07/16/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-19T14:00:00Z,FAZ,396.6717228,3,Market,Filled,1190.0151684,Warning: No quote information available at 07/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-19T15:00:00Z,FAZ,393.92251284,-3,Market,Filled,-1181.76753852,Warning: No quote information available at 07/19/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-19T20:00:00Z,FAZ,398.6354442,3,Market On Open,Filled,1195.9063326, 
+2018-07-23T16:00:00Z,FAZ,388.8168372,-3,Market,Filled,-1166.4505116,Warning: No quote information available at 07/23/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-27T15:00:00Z,FAZ,382.53292872,3,Market,Filled,1147.59878616,Warning: No quote information available at 07/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-27T17:00:00Z,FAZ,389.20958148,1,Market,Filled,389.20958148,Warning: No quote information available at 07/27/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-03T17:00:00Z,FAZ,384.49665012,-3,Market,Filled,-1153.48995036,Warning: No quote information available at 08/03/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-03T20:00:00Z,FAZ,382.14018444,-1,Market On Open,Filled,-382.14018444, 
+2018-08-09T20:00:00Z,FAZ,383.31841728,3,Market On Open,Filled,1149.95525184, 
+2018-08-10T14:00:00Z,FAZ,386.46037152,1,Market,Filled,386.46037152,Warning: No quote information available at 08/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-16T14:00:00Z,FAZ,380.56920732,-3,Market,Filled,-1141.70762196,Warning: No quote information available at 08/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-16T15:00:00Z,FAZ,378.21274164,-1,Market,Filled,-378.21274164,Warning: No quote information available at 08/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-22T14:00:00Z,FAZ,371.92883316,3,Market,Filled,1115.78649948,Warning: No quote information available at 08/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-23T14:00:00Z,FAZ,372.32157744,1,Market,Filled,372.32157744,Warning: No quote information available at 08/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-24T17:00:00Z,FAZ,368.00139036,-1,Market,Filled,-368.00139036,Warning: No quote information available at 08/24/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-27T14:00:00Z,FAZ,359.75376048,-3,Market,Filled,-1079.26128144,Warning: No quote information available at 08/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-30T14:00:00Z,FAZ,358.57552764,3,Market,Filled,1075.72658292,Warning: No quote information available at 08/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-31T14:00:00Z,FAZ,364.46669184,1,Market,Filled,364.46669184,Warning: No quote information available at 08/31/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-19T14:00:00Z,FAZ,360.14650476,-4,Market,Filled,-1440.58601904,Warning: No quote information available at 09/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-24T14:00:00Z,FAZ,356.21906196,3,Market,Filled,1068.65718588,Warning: No quote information available at 09/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-24T16:00:00Z,FAZ,360.93199332,1,Market,Filled,360.93199332,Warning: No quote information available at 09/24/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T15:00:00Z,FAZ,377.46055872,-3,Market,Filled,-1132.38167616,Warning: No quote information available at 10/03/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T16:00:00Z,FAZ,373.13097984,-1,Market,Filled,-373.13097984,Warning: No quote information available at 10/03/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-04T17:00:00Z,FAZ,381.00294144,1,Market,Filled,381.00294144,Warning: No quote information available at 10/04/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-04T18:00:00Z,FAZ,383.36452992,3,Market,Filled,1150.09358976,Warning: No quote information available at 10/04/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T20:00:00Z,FAZ,426.66031872,-3,Market On Open,Filled,-1279.98095616, 
+2018-10-17T17:00:00Z,FAZ,412.09718976,-1,Market,Filled,-412.09718976,Warning: No quote information available at 10/17/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-18T16:00:00Z,FAZ,431.77709376,3,Market,Filled,1295.33128128,Warning: No quote information available at 10/18/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-22T14:00:00Z,FAZ,434.13868224,1,Market,Filled,434.13868224,Warning: No quote information available at 10/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-29T15:00:00Z,FAZ,453.42498816,-3,Market,Filled,-1360.27496448,Warning: No quote information available at 10/29/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-29T20:00:00Z,FAZ,473.89208832,3,Market On Open,Filled,1421.67626496, 
+2018-10-31T14:00:00Z,FAZ,439.64905536,-4,Market,Filled,-1758.59622144,Warning: No quote information available at 10/31/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-02T17:00:00Z,FAZ,447.12741888,2,Market,Filled,894.25483776,Warning: No quote information available at 11/02/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-11-02T20:00:00Z,FAZ,438.07466304,-2,Market On Open,Filled,-876.14932608, 
+2018-11-09T16:00:00Z,FAZ,404.22522816,3,Market,Filled,1212.67568448,Warning: No quote information available at 11/09/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-12T15:00:00Z,FAZ,411.3099936,1,Market,Filled,411.3099936,Warning: No quote information available at 11/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-26T15:00:00Z,FAZ,433.74508416,-3,Market,Filled,-1301.23525248,Warning: No quote information available at 11/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-27T15:00:00Z,FAZ,432.17069184,-1,Market,Filled,-432.17069184,Warning: No quote information available at 11/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-04T15:00:00Z,FAZ,406.58681664,3,Market,Filled,1219.76044992,Warning: No quote information available at 12/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-04T16:00:00Z,FAZ,412.49078784,1,Market,Filled,412.49078784,Warning: No quote information available at 12/04/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-26T21:00:00Z,FAZ,595.63417008,-3,Market On Open,Filled,-1786.90251024, 
+2018-12-27T21:00:00Z,FAZ,543.53098224,-1,Market On Open,Filled,-543.53098224, 
+2019-01-02T15:00:00Z,FAZ,547.87291456,3,Market,Filled,1643.61874368,Warning: No quote information available at 01/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-02T18:00:00Z,FAZ,536.03128096,-3,Market,Filled,-1608.09384288,Warning: No quote information available at 01/02/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-03T15:00:00Z,FAZ,544.32042448,3,Market,Filled,1632.96127344,Warning: No quote information available at 01/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-03T16:00:00Z,FAZ,554.18845248,1,Market,Filled,554.18845248,Warning: No quote information available at 01/03/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-04T15:00:00Z,FAZ,530.8999064,-4,Market,Filled,-2123.5996256,Warning: No quote information available at 01/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-10T15:00:00Z,FAZ,498.53277456,3,Market,Filled,1495.59832368,Warning: No quote information available at 01/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-10T17:00:00Z,FAZ,485.5069776,-3,Market,Filled,-1456.5209328,Warning: No quote information available at 01/10/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-11T15:00:00Z,FAZ,490.63835216,3,Market,Filled,1471.91505648,Warning: No quote information available at 01/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-11T17:00:00Z,FAZ,483.533372,-3,Market,Filled,-1450.600116,Warning: No quote information available at 01/11/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-22T20:00:00Z,FAZ,434.58795312,3,Market,Filled,1303.76385936,Warning: No quote information available at 01/22/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-01-23T17:00:00Z,FAZ,439.32460656,2,Market,Filled,878.64921312,Warning: No quote information available at 01/23/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-23T18:00:00Z,FAZ,433.79851088,-2,Market,Filled,-867.59702176,Warning: No quote information available at 01/23/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-25T15:00:00Z,FAZ,414.457176,-3,Market,Filled,-1243.371528,Warning: No quote information available at 01/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-28T17:00:00Z,FAZ,423.14104064,3,Market,Filled,1269.42312192,Warning: No quote information available at 01/28/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-28T19:00:00Z,FAZ,417.22022384,-3,Market,Filled,-1251.66067152,Warning: No quote information available at 01/28/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T16:00:00Z,FAZ,419.58855056,3,Market,Filled,1258.76565168,Warning: No quote information available at 01/29/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T19:00:00Z,FAZ,414.457176,-3,Market,Filled,-1243.371528,Warning: No quote information available at 01/29/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T20:00:00Z,FAZ,418.79910832,3,Market,Filled,1256.39732496,Warning: No quote information available at 01/29/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T17:00:00Z,FAZ,411.29940704,-3,Market,Filled,-1233.89822112,Warning: No quote information available at 01/30/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-31T15:00:00Z,FAZ,415.24661824,3,Market,Filled,1245.73985472,Warning: No quote information available at 01/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-31T21:00:00Z,FAZ,406.5627536,-3,Market On Open,Filled,-1219.6882608, 
+2019-02-06T16:00:00Z,FAZ,397.87888896,3,Market,Filled,1193.63666688,Warning: No quote information available at 02/06/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-07T15:00:00Z,FAZ,403.40498464,2,Market,Filled,806.80996928,Warning: No quote information available at 02/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-12T15:00:00Z,FAZ,391.95807216,-5,Market,Filled,-1959.7903608,Warning: No quote information available at 02/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-14T15:00:00Z,FAZ,398.6683312,3,Market,Filled,1196.0049936,Warning: No quote information available at 02/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-15T15:00:00Z,FAZ,381.69532304,-3,Market,Filled,-1145.08596912,Warning: No quote information available at 02/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-21T15:00:00Z,FAZ,377.35339072,4,Market,Filled,1509.41356288,Warning: No quote information available at 02/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-25T15:00:00Z,FAZ,367.0906416,-4,Market,Filled,-1468.3625664,Warning: No quote information available at 02/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-26T15:00:00Z,FAZ,376.56394848,5,Market,Filled,1882.8197424,Warning: No quote information available at 02/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-26T17:00:00Z,FAZ,371.0378528,-2,Market,Filled,-742.0757056,Warning: No quote information available at 02/26/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-02-26T18:00:00Z,FAZ,374.985064,2,Market,Filled,749.970128,Warning: No quote information available at 02/26/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-02-28T18:00:00Z,FAZ,368.27480496,-5,Market,Filled,-1841.3740248,Warning: No quote information available at 02/28/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-03-04T17:00:00Z,FAZ,376.9586696,5,Market,Filled,1884.793348,Warning: No quote information available at 03/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-11T14:00:00Z,FAZ,383.27420752,-4,Market,Filled,-1533.09683008,Warning: No quote information available at 03/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-12T14:00:00Z,FAZ,374.59034288,-1,Market,Filled,-374.59034288,Warning: No quote information available at 03/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-19T20:00:00Z,FAZ,361.09352256,4,Market On Open,Filled,1444.37409024, 
+2019-03-20T14:00:00Z,FAZ,365.05288136,1,Market,Filled,365.05288136,Warning: No quote information available at 03/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-28T14:00:00Z,FAZ,383.26593184,-4,Market,Filled,-1533.06372736,Warning: No quote information available at 03/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-28T20:00:00Z,FAZ,372.57566308,-1,Market On Open,Filled,-372.57566308, 
+2019-04-08T14:00:00Z,FAZ,350.79918968,4,Market,Filled,1403.19675872,Warning: No quote information available at 04/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-09T14:00:00Z,FAZ,352.77886908,2,Market,Filled,705.55773816,Warning: No quote information available at 04/09/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-11T14:00:00Z,FAZ,345.25608736,-6,Market,Filled,-2071.53652416,Warning: No quote information available at 04/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-17T14:00:00Z,FAZ,334.16988272,4,Market,Filled,1336.67953088,Warning: No quote information available at 04/17/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-22T14:00:00Z,FAZ,337.33736976,2,Market,Filled,674.67473952,Warning: No quote information available at 04/22/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T16:00:00Z,FAZ,330.21052392,-6,Market,Filled,-1981.26314352,Warning: No quote information available at 04/23/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T20:00:00Z,FAZ,317.54057576,4,Market On Open,Filled,1270.16230304, 
+2019-05-02T16:00:00Z,FAZ,321.89587044,2,Market,Filled,643.79174088,Warning: No quote information available at 05/02/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-03T14:00:00Z,FAZ,311.99747344,-2,Market,Filled,-623.99494688,Warning: No quote information available at 05/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-03T16:00:00Z,FAZ,309.62185816,-4,Market,Filled,-1238.48743264,Warning: No quote information available at 05/03/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-06T14:00:00Z,FAZ,319.91619104,6,Market,Filled,1919.49714624,Warning: No quote information available at 05/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-16T14:00:00Z,FAZ,326.647101,-6,Market,Filled,-1959.882606,Warning: No quote information available at 05/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-20T14:00:00Z,FAZ,332.98207508,4,Market,Filled,1331.92830032,Warning: No quote information available at 05/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-23T14:00:00Z,FAZ,340.5048568,2,Market,Filled,681.0097136,Warning: No quote information available at 05/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-28T14:00:00Z,FAZ,330.21052392,-4,Market,Filled,-1320.84209568,Warning: No quote information available at 05/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-28T19:00:00Z,FAZ,337.33736976,4,Market,Filled,1349.34947904,Warning: No quote information available at 05/28/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T15:00:00Z,FAZ,343.67234384,-5,Market,Filled,-1718.3617192,Warning: No quote information available at 06/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T16:00:00Z,FAZ,340.10892092,-1,Market,Filled,-340.10892092,Warning: No quote information available at 06/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T14:00:00Z,FAZ,314.37308872,4,Market,Filled,1257.49235488,Warning: No quote information available at 06/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T16:00:00Z,FAZ,319.12431928,2,Market,Filled,638.24863856,Warning: No quote information available at 06/12/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-17T15:00:00Z,FAZ,311.60153756,-4,Market,Filled,-1246.40615024,Warning: No quote information available at 06/17/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-17T19:00:00Z,FAZ,315.56089636,4,Market,Filled,1262.24358544,Warning: No quote information available at 06/17/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T14:00:00Z,FAZ,310.41372992,-6,Market,Filled,-1862.48237952,Warning: No quote information available at 06/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-21T20:00:00Z,FAZ,308.03811464,4,Market On Open,Filled,1232.15245856, 
+2019-06-24T20:00:00Z,FAZ,311.99747344,2,Market On Open,Filled,623.99494688, 
+2019-06-28T14:00:00Z,FAZ,307.167055704,-6,Market,Filled,-1843.002334224,Warning: No quote information available at 06/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-08T14:00:00Z,FAZ,288.478882168,4,Market,Filled,1153.915528672,Warning: No quote information available at 07/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-08T16:00:00Z,FAZ,287.132700176,-4,Market,Filled,-1148.530800704,Warning: No quote information available at 07/08/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-08T17:00:00Z,FAZ,288.63725652,4,Market,Filled,1154.54902608,Warning: No quote information available at 07/08/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-09T20:00:00Z,FAZ,283.49009008,-4,Market On Open,Filled,-1133.96036032, 
+2019-07-15T17:00:00Z,FAZ,282.69821832,4,Market,Filled,1130.79287328,Warning: No quote information available at 07/15/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-16T16:00:00Z,FAZ,283.49009008,3,Market,Filled,850.47027024,Warning: No quote information available at 07/16/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-23T15:00:00Z,FAZ,284.28196184,-5,Market,Filled,-1421.4098092,Warning: No quote information available at 07/23/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-23T18:00:00Z,FAZ,282.381469616,-2,Market,Filled,-564.762939232,Warning: No quote information available at 07/23/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-07-29T20:00:00Z,FAZ,279.847479984,5,Market On Open,Filled,1399.23739992, 
+2019-07-30T14:00:00Z,FAZ,278.501297992,2,Market,Filled,557.002595984,Warning: No quote information available at 07/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T14:00:00Z,FAZ,305.741686536,-5,Market,Filled,-1528.70843268,Warning: No quote information available at 08/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T16:00:00Z,FAZ,299.644273984,-2,Market,Filled,-599.288547968,Warning: No quote information available at 08/08/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-08-12T14:00:00Z,FAZ,309.384296632,7,Market,Filled,2165.690076424,Warning: No quote information available at 08/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-13T14:00:00Z,FAZ,302.970135376,-3,Market,Filled,-908.910406128,Warning: No quote information available at 08/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-14T14:00:00Z,FAZ,316.827891176,3,Market,Filled,950.483673528,Warning: No quote information available at 08/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-16T15:00:00Z,FAZ,309.62185816,-5,Market,Filled,-1548.1092908,Warning: No quote information available at 08/16/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-19T14:00:00Z,FAZ,300.51533292,-2,Market,Filled,-601.03066584,Warning: No quote information available at 08/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-22T15:00:00Z,FAZ,307.721365936,4,Market,Filled,1230.885463744,Warning: No quote information available at 08/22/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-22T18:00:00Z,FAZ,299.089963752,-4,Market,Filled,-1196.359855008,Warning: No quote information available at 08/22/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-08-23T16:00:00Z,FAZ,314.610650248,6,Market,Filled,1887.663901488,Warning: No quote information available at 08/23/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-08-29T14:00:00Z,FAZ,300.356958568,-6,Market,Filled,-1802.141751408,Warning: No quote information available at 08/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-03T15:00:00Z,FAZ,302.257450792,4,Market,Filled,1209.029803168,Warning: No quote information available at 09/03/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-04T14:00:00Z,FAZ,295.209792128,-4,Market,Filled,-1180.839168512,Warning: No quote information available at 09/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-10T14:00:00Z,FAZ,281.11526667176,4,Market,Filled,1124.461066687,Warning: No quote information available at 09/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-10T15:00:00Z,FAZ,286.340828416,3,Market,Filled,859.022485248,Warning: No quote information available at 09/10/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-10T17:00:00Z,FAZ,282.69821832,-3,Market,Filled,-848.09465496,Warning: No quote information available at 09/10/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T14:00:00Z,FAZ,283.173341376,3,Market,Filled,849.520024128,Warning: No quote information available at 09/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T20:00:00Z,FAZ,279.213982576,-3,Market On Open,Filled,-837.641947728, 
+2019-09-12T14:00:00Z,FAZ,276.046495536,-4,Market,Filled,-1104.185982144,Warning: No quote information available at 09/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-16T16:00:00Z,FAZ,274.937875072,4,Market,Filled,1099.751500288,Warning: No quote information available at 09/16/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-09-16T20:00:00Z,FAZ,273.037382848,-4,Market On Open,Filled,-1092.149531392, 
+2019-09-17T15:00:00Z,FAZ,272.245511088,4,Market,Filled,1088.982044352,Warning: No quote information available at 09/17/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-17T20:00:00Z,FAZ,270.503393216,-4,Market On Open,Filled,-1082.013572864, 
+2019-09-18T14:00:00Z,FAZ,272.00794956,4,Market,Filled,1088.03179824,Warning: No quote information available at 09/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-18T16:00:00Z,FAZ,272.958195672,3,Market,Filled,818.874587016,Warning: No quote information available at 09/18/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-09-18T20:00:00Z,FAZ,268.602900992,-7,Market On Open,Filled,-1880.220306944, 
+2019-09-20T18:00:00Z,FAZ,271.928762384,7,Market,Filled,1903.501336688,Warning: No quote information available at 09/20/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-09-27T15:00:00Z,FAZ,270.89091152,-5,Market,Filled,-1354.4545576,Warning: No quote information available at 09/27/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-27T17:00:00Z,FAZ,277.66916512,4,Market,Filled,1110.67666048,Warning: No quote information available at 09/27/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-10-04T19:00:00Z,FAZ,288.11565008,-4,Market,Filled,-1152.46260032,Warning: No quote information available at 10/04/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-10-07T18:00:00Z,FAZ,283.57023296,-2,Market,Filled,-567.14046592,Warning: No quote information available at 10/07/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-08T14:00:00Z,FAZ,300.6354832,6,Market,Filled,1803.8128992,Warning: No quote information available at 10/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-10T14:00:00Z,FAZ,287.39795264,-6,Market,Filled,-1724.38771584,Warning: No quote information available at 10/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-18T17:00:00Z,FAZ,272.56553888,4,Market,Filled,1090.26215552,Warning: No quote information available at 10/18/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-10-21T14:00:00Z,FAZ,267.30242432,-4,Market,Filled,-1069.20969728,Warning: No quote information available at 10/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-22T20:00:00Z,FAZ,270.65167904,4,Market On Open,Filled,1082.60671616, 
+2019-10-23T17:00:00Z,FAZ,270.65167904,2,Market,Filled,541.30335808,Warning: No quote information available at 10/23/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-10-24T15:00:00Z,FAZ,265.86702944,-2,Market,Filled,-531.73405888,Warning: No quote information available at 10/24/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-24T16:00:00Z,FAZ,263.9531696,-4,Market,Filled,-1055.8126784,Warning: No quote information available at 10/24/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-10-24T18:00:00Z,FAZ,267.142936,4,Market,Filled,1068.571744,Warning: No quote information available at 10/24/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-24T20:00:00Z,FAZ,265.78728528,-4,Market On Open,Filled,-1063.14914112, 
+2019-10-30T14:00:00Z,FAZ,261.5608448,4,Market,Filled,1046.2433792,Warning: No quote information available at 10/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-30T20:00:00Z,FAZ,258.13184592,-4,Market On Open,Filled,-1032.52738368, 
+2019-10-31T14:00:00Z,FAZ,260.68365904,6,Market,Filled,1564.10195424,Warning: No quote information available at 10/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-01T14:00:00Z,FAZ,255.50028864,-6,Market,Filled,-1533.00173184,Warning: No quote information available at 11/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-06T17:00:00Z,FAZ,252.7889872,4,Market,Filled,1011.1559488,Warning: No quote information available at 11/06/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-11-07T15:00:00Z,FAZ,246.24996608,-4,Market,Filled,-984.99986432,Warning: No quote information available at 11/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T20:00:00Z,FAZ,249.2005,4,Market,Filled,996.802,Warning: No quote information available at 11/12/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-11-13T15:00:00Z,FAZ,250.71563904,3,Market,Filled,752.14691712,Warning: No quote information available at 11/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-15T15:00:00Z,FAZ,246.09047776,-7,Market,Filled,-1722.63334432,Warning: No quote information available at 11/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-20T18:00:00Z,FAZ,243.77789712,4,Market,Filled,975.11158848,Warning: No quote information available at 11/20/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-11-21T15:00:00Z,FAZ,244.49559456,3,Market,Filled,733.48678368,Warning: No quote information available at 11/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-25T15:00:00Z,FAZ,238.75401504,-7,Market,Filled,-1671.27810528,Warning: No quote information available at 11/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-02T15:00:00Z,FAZ,236.28194608,4,Market,Filled,945.12778432,Warning: No quote information available at 12/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-02T16:00:00Z,FAZ,239.87043328,3,Market,Filled,719.61129984,Warning: No quote information available at 12/02/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-05T21:00:00Z,FAZ,233.88962128,-5,Market On Open,Filled,-1169.4481064, 
+2019-12-06T15:00:00Z,FAZ,232.77320304,-2,Market,Filled,-465.54640608,Warning: No quote information available at 12/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-10T15:00:00Z,FAZ,235.245272,4,Market,Filled,940.981088,Warning: No quote information available at 12/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-11T17:00:00Z,FAZ,237.55785264,3,Market,Filled,712.67355792,Warning: No quote information available at 12/11/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-12T15:00:00Z,FAZ,231.01883152,-7,Market,Filled,-1617.13182064,Warning: No quote information available at 12/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-19T15:00:00Z,FAZ,226.63290272,4,Market,Filled,906.53161088,Warning: No quote information available at 12/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-20T15:00:00Z,FAZ,222.00774144,-4,Market,Filled,-888.03096576,Warning: No quote information available at 12/20/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-23T18:00:00Z,FAZ,225.225324864,4,Market,Filled,900.901299456,Warning: No quote information available at 12/23/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-12-23T21:00:00Z,FAZ,225.06542048,3,Market On Open,Filled,675.19626144, 
+2019-12-26T15:00:00Z,FAZ,223.06661568,-3,Market,Filled,-669.19984704,Warning: No quote information available at 12/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T16:00:00Z,FAZ,221.787380608,-4,Market,Filled,-887.149522432,Warning: No quote information available at 12/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-30T15:00:00Z,FAZ,222.66685472,4,Market,Filled,890.66741888,Warning: No quote information available at 12/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-30T16:00:00Z,FAZ,223.6502666816,3,Market,Filled,670.9508000448,Warning: No quote information available at 12/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-02T15:00:00Z,FAZ,218.66924512,-7,Market,Filled,-1530.68471584,Warning: No quote information available at 01/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T15:00:00Z,FAZ,223.22572054208,6,Market,Filled,1339.3543232525,Warning: No quote information available at 01/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T18:00:00Z,FAZ,219.708623616,-2,Market,Filled,-439.417247232,Warning: No quote information available at 01/03/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-01-03T21:00:00Z,FAZ,226.744416512,2,Market On Open,Filled,453.488833024, 
+2020-01-08T17:00:00Z,FAZ,219.228910464,-6,Market,Filled,-1315.373462784,Warning: No quote information available at 01/08/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-23T15:00:00Z,FAZ,211.10896584448,7,Market,Filled,1477.7627609114,Warning: No quote information available at 01/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-23T20:00:00Z,FAZ,206.72278859136,-3,Market,Filled,-620.16836577408,Warning: No quote information available at 01/23/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-01-24T16:00:00Z,FAZ,209.24048311744,3,Market,Filled,627.72144935232,Warning: No quote information available at 01/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-29T18:00:00Z,FAZ,212.832735104,-5,Market,Filled,-1064.16367552,Warning: No quote information available at 01/29/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-01-30T16:00:00Z,FAZ,220.63127191168,4,Market,Filled,882.52508764672,Warning: No quote information available at 01/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-30T20:00:00Z,FAZ,213.712209216,-4,Market,Filled,-854.848836864,Warning: No quote information available at 01/30/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-01-30T21:00:00Z,FAZ,214.111970176,-2,Market On Open,Filled,-428.223940352, 
+2020-01-31T15:00:00Z,FAZ,214.991444288,4,Market,Filled,859.965777152,Warning: No quote information available at 01/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-31T16:00:00Z,FAZ,218.28787316416,2,Market,Filled,436.57574632832,Warning: No quote information available at 01/31/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-04T15:00:00Z,FAZ,208.22988741056,-6,Market,Filled,-1249.3793244634,Warning: No quote information available at 02/04/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-07T15:00:00Z,FAZ,205.55628611008,4,Market,Filled,822.22514444032,Warning: No quote information available at 02/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-10T21:00:00Z,FAZ,199.48071904,-4,Market On Open,Filled,-797.92287616, 
+2020-02-18T16:00:00Z,FAZ,196.28263136,4,Market,Filled,785.13052544,Warning: No quote information available at 02/18/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-18T17:00:00Z,FAZ,198.28143616,3,Market,Filled,594.84430848,Warning: No quote information available at 02/18/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-18T20:00:00Z,FAZ,196.122726976,-3,Market,Filled,-588.368180928,Warning: No quote information available at 02/18/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-02-19T16:00:00Z,FAZ,193.36277730816,-4,Market,Filled,-773.45110923264,Warning: No quote information available at 02/19/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-20T17:00:00Z,FAZ,195.8828704,7,Market,Filled,1371.1800928,Warning: No quote information available at 02/20/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-20T20:00:00Z,FAZ,193.644209024,-3,Market,Filled,-580.932627072,Warning: No quote information available at 02/20/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-02-21T15:00:00Z,FAZ,197.8456967136,3,Market,Filled,593.5370901408,Warning: No quote information available at 02/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T21:00:00Z,FAZ,251.529596032,-5,Market On Open,Filled,-1257.64798016, 
+2020-03-03T19:00:00Z,FAZ,274.555827328,4,Market,Filled,1098.223309312,Warning: No quote information available at 03/03/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-03-04T18:00:00Z,FAZ,259.844624,-4,Market,Filled,-1039.378496,Warning: No quote information available at 03/04/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-04T21:00:00Z,FAZ,266.320751552,-2,Market On Open,Filled,-532.641503104, 
+2020-03-05T15:00:00Z,FAZ,271.8134671424,6,Market,Filled,1630.8808028544,Warning: No quote information available at 03/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-13T20:00:00Z,FAZ,437.7382512,-6,Market On Open,Filled,-2626.4295072, 
+2020-03-16T14:00:00Z,FAZ,417.7502032,6,Market,Filled,2506.5012192,Warning: No quote information available at 03/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T15:00:00Z,FAZ,450.16,-5,Market,Filled,-2250.8,Warning: No quote information available at 03/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-24T16:00:00Z,FAZ,416.8,-1,Market,Filled,-416.8,Warning: No quote information available at 03/24/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-30T14:00:00Z,FAZ,307.52,6,Market,Filled,1845.12,Warning: No quote information available at 03/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-01T14:00:00Z,FAZ,346.24,2,Market,Filled,692.48,Warning: No quote information available at 04/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-06T14:00:00Z,FAZ,290,-8,Market,Filled,-2320,Warning: No quote information available at 04/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-14T16:00:00Z,FAZ,214.8,8,Market,Filled,1718.4,Warning: No quote information available at 04/14/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-04-15T14:00:00Z,FAZ,230.48,3,Market,Filled,691.44,Warning: No quote information available at 04/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-17T14:00:00Z,FAZ,214.08,-8,Market,Filled,-1712.64,Warning: No quote information available at 04/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-21T14:00:00Z,FAZ,234.4,8,Market,Filled,1875.2,Warning: No quote information available at 04/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-23T15:00:00Z,FAZ,222.48,-11,Market,Filled,-2447.28,Warning: No quote information available at 04/23/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-04-23T18:00:00Z,FAZ,231.68,3,Market,Filled,695.04,Warning: No quote information available at 04/23/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-04-23T20:00:00Z,FAZ,228.72,7,Market On Open,Filled,1601.04, 
+2020-04-24T19:00:00Z,FAZ,226,-7,Market,Filled,-1582,Warning: No quote information available at 04/24/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-27T14:00:00Z,FAZ,215.68,-3,Market,Filled,-647.04,Warning: No quote information available at 04/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-01T14:00:00Z,FAZ,204.24,11,Market,Filled,2246.64,Warning: No quote information available at 05/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T14:00:00Z,FAZ,197.12,-8,Market,Filled,-1576.96,Warning: No quote information available at 05/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T20:00:00Z,FAZ,203.28,8,Market On Open,Filled,1626.24, 
+2020-05-07T14:00:00Z,FAZ,197.2,-11,Market,Filled,-2169.2,Warning: No quote information available at 05/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-12T14:00:00Z,FAZ,203.84,11,Market,Filled,2242.24,Warning: No quote information available at 05/12/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-18T14:00:00Z,FAZ,194.16,-11,Market,Filled,-2135.76,Warning: No quote information available at 05/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-22T15:00:00Z,FAZ,191.04,7,Market,Filled,1337.28,Warning: No quote information available at 05/22/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-26T14:00:00Z,FAZ,167.2,-7,Market,Filled,-1170.4,Warning: No quote information available at 05/26/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-29T14:00:00Z,FAZ,157.92,8,Market,Filled,1263.36,Warning: No quote information available at 05/29/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-01T18:00:00Z,FAZ,149.92,-8,Market,Filled,-1199.36,Warning: No quote information available at 06/01/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-06-10T14:00:00Z,FAZ,121.36,11,Market,Filled,1334.96,Warning: No quote information available at 06/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-10T15:00:00Z,FAZ,124.32,4,Market,Filled,497.28,Warning: No quote information available at 06/10/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-16T14:00:00Z,FAZ,123.76,-15,Market,Filled,-1856.4,Warning: No quote information available at 06/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-18T14:00:00Z,FAZ,134.24,10,Market,Filled,1342.4,Warning: No quote information available at 06/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-19T17:00:00Z,FAZ,135.2,4,Market,Filled,540.8,Warning: No quote information available at 06/19/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-06-30T20:00:00Z,FAZ,140.96,-10,Market On Open,Filled,-1409.6, 
+2020-07-01T14:00:00Z,FAZ,139.68,-4,Market,Filled,-558.72,Warning: No quote information available at 07/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-07T17:00:00Z,FAZ,139.44,10,Market,Filled,1394.4,Warning: No quote information available at 07/07/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-07T20:00:00Z,FAZ,141.84,4,Market On Open,Filled,567.36, 
+2020-07-10T20:00:00Z,FAZ,133.44,-10,Market On Open,Filled,-1334.4, 
+2020-07-13T15:00:00Z,FAZ,135.04,-4,Market,Filled,-540.16,Warning: No quote information available at 07/13/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-20T14:00:00Z,FAZ,131.6,10,Market,Filled,1316,Warning: No quote information available at 07/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-21T14:00:00Z,FAZ,126.8,-10,Market,Filled,-1268,Warning: No quote information available at 07/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-24T14:00:00Z,FAZ,125.44,10,Market,Filled,1254.4,Warning: No quote information available at 07/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-24T20:00:00Z,FAZ,127.2,5,Market On Open,Filled,636, 
+2020-07-29T15:00:00Z,FAZ,125.304,-11,Market,Filled,-1378.344,Warning: No quote information available at 07/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-29T16:00:00Z,FAZ,123.592,-4,Market,Filled,-494.368,Warning: No quote information available at 07/29/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T14:00:00Z,FAZ,127.36,14,Market,Filled,1783.04,Warning: No quote information available at 07/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T20:00:00Z,FAZ,122.96,-14,Market On Open,Filled,-1721.44, 
+2020-07-31T14:00:00Z,FAZ,124.68,10,Market,Filled,1246.8,Warning: No quote information available at 07/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-31T15:00:00Z,FAZ,126.88,4,Market,Filled,507.52,Warning: No quote information available at 07/31/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-31T20:00:00Z,FAZ,122.4,-4,Market On Open,Filled,-489.6, 
+2020-08-05T14:00:00Z,FAZ,119.04,-10,Market,Filled,-1190.4,Warning: No quote information available at 08/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-13T15:00:00Z,FAZ,112.48,10,Market,Filled,1124.8,Warning: No quote information available at 08/13/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-13T19:00:00Z,FAZ,113.84,5,Market,Filled,569.2,Warning: No quote information available at 08/13/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T15:00:00Z,FAZ,115.04,-11,Market,Filled,-1265.44,Warning: No quote information available at 08/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T17:00:00Z,FAZ,114.32,-4,Market,Filled,-457.28,Warning: No quote information available at 08/24/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-31T20:00:00Z,FAZ,108.56,11,Market On Open,Filled,1194.16, 
+2020-09-02T14:00:00Z,FAZ,104.8,-11,Market,Filled,-1152.8,Warning: No quote information available at 09/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-03T16:00:00Z,FAZ,106.6,16,Market,Filled,1705.6,Warning: No quote information available at 09/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-14T14:00:00Z,FAZ,110.92,-11,Market,Filled,-1220.12,Warning: No quote information available at 09/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-14T15:00:00Z,FAZ,110.08,-5,Market,Filled,-550.4,Warning: No quote information available at 09/14/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-17T14:00:00Z,FAZ,113.36,15,Market,Filled,1700.4,Warning: No quote information available at 09/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-28T14:00:00Z,FAZ,123.04,-15,Market,Filled,-1845.6,Warning: No quote information available at 09/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-02T14:00:00Z,FAZ,122.48,10,Market,Filled,1224.8,Warning: No quote information available at 10/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-02T17:00:00Z,FAZ,115.6,-10,Market,Filled,-1156,Warning: No quote information available at 10/02/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-10-13T15:00:00Z,FAZ,104,12,Market,Filled,1248,Warning: No quote information available at 10/13/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-14T14:00:00Z,FAZ,104.96,5,Market,Filled,524.8,Warning: No quote information available at 10/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-22T17:00:00Z,FAZ,104,-17,Market,Filled,-1768,Warning: No quote information available at 10/22/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-10-26T14:00:00Z,FAZ,106,17,Market,Filled,1802,Warning: No quote information available at 10/26/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T15:00:00Z,FAZ,114,-12,Market,Filled,-1368,Warning: No quote information available at 11/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T16:00:00Z,FAZ,112.4,-5,Market,Filled,-562,Warning: No quote information available at 11/02/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T15:00:00Z,FAZ,81.6,16,Market,Filled,1305.6,Warning: No quote information available at 11/12/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-16T15:00:00Z,FAZ,74,-16,Market,Filled,-1184,Warning: No quote information available at 11/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-18T21:00:00Z,FAZ,76,17,Market On Open,Filled,1292, 
+2020-11-19T18:00:00Z,FAZ,76.08,7,Market,Filled,532.56,Warning: No quote information available at 11/19/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-11-19T21:00:00Z,FAZ,74.96,-8,Market On Open,Filled,-599.68, 
+2020-11-20T15:00:00Z,FAZ,75.1488,8,Market,Filled,601.1904,Warning: No quote information available at 11/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-23T15:00:00Z,FAZ,72.64,-24,Market,Filled,-1743.36,Warning: No quote information available at 11/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-30T15:00:00Z,FAZ,67.5856,18,Market,Filled,1216.5408,Warning: No quote information available at 11/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-30T17:00:00Z,FAZ,69.04,8,Market,Filled,552.32,Warning: No quote information available at 11/30/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-01T15:00:00Z,FAZ,66,-9,Market,Filled,-594,Warning: No quote information available at 12/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-02T20:00:00Z,FAZ,65.28,-17,Market,Filled,-1109.76,Warning: No quote information available at 12/02/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-12-07T15:00:00Z,FAZ,64.316,18,Market,Filled,1157.688,Warning: No quote information available at 12/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-07T17:00:00Z,FAZ,63.52,-18,Market,Filled,-1143.36,Warning: No quote information available at 12/07/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-08T15:00:00Z,FAZ,64.28,18,Market,Filled,1157.04,Warning: No quote information available at 12/08/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-09T16:00:00Z,FAZ,64.24,8,Market,Filled,513.92,Warning: No quote information available at 12/09/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-15T19:00:00Z,FAZ,63.68,-18,Market,Filled,-1146.24,Warning: No quote information available at 12/15/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-12-17T17:00:00Z,FAZ,63.5064,-8,Market,Filled,-508.0512,Warning: No quote information available at 12/17/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-18T16:00:00Z,FAZ,64.324,17,Market,Filled,1093.508,Warning: No quote information available at 12/18/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-18T19:00:00Z,FAZ,64.96,9,Market,Filled,584.64,Warning: No quote information available at 12/18/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T15:00:00Z,FAZ,63.12,-26,Market,Filled,-1641.12,Warning: No quote information available at 12/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T16:00:00Z,FAZ,64.4,17,Market,Filled,1094.8,Warning: No quote information available at 12/21/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T18:00:00Z,FAZ,62.8,-17,Market,Filled,-1067.6,Warning: No quote information available at 12/21/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-12-22T17:00:00Z,FAZ,63.6,17,Market,Filled,1081.2,Warning: No quote information available at 12/22/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-22T18:00:00Z,FAZ,63.76,8,Market,Filled,510.08,Warning: No quote information available at 12/22/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-12-23T15:00:00Z,FAZ,61.2032,-25,Market,Filled,-1530.08,Warning: No quote information available at 12/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-29T20:00:00Z,FAZ,60.96,17,Market,Filled,1036.32,Warning: No quote information available at 12/29/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-12-31T18:00:00Z,FAZ,59.24,-17,Market,Filled,-1007.08,Warning: No quote information available at 12/31/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2021-01-04T16:00:00Z,FAZ,59.92,17,Market,Filled,1018.64,Warning: No quote information available at 01/04/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-04T17:00:00Z,FAZ,60.88,8,Market,Filled,487.04,Warning: No quote information available at 01/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-01-06T15:00:00Z,FAZ,53.84,-25,Market,Filled,-1346,Warning: No quote information available at 01/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-15T15:00:00Z,FAZ,49.2,27,Market,Filled,1328.4,Warning: No quote information available at 01/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-02T15:00:00Z,FAZ,53.8512,-27,Market,Filled,-1453.9824,Warning: No quote information available at 02/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-11T16:00:00Z,FAZ,46.4792,21,Market,Filled,976.0632,Warning: No quote information available at 02/11/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-12T16:00:00Z,FAZ,45.6,-21,Market,Filled,-957.6,Warning: No quote information available at 02/12/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T17:00:00Z,FAZ,43.92,22,Market,Filled,966.24,Warning: No quote information available at 02/18/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T19:00:00Z,FAZ,43.36,-22,Market,Filled,-953.92,Warning: No quote information available at 02/18/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-02-25T21:00:00Z,FAZ,40.24,24,Market On Open,Filled,965.76, 
+2021-02-26T15:00:00Z,FAZ,40.8,12,Market,Filled,489.6,Warning: No quote information available at 02/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T16:00:00Z,FAZ,38.48,-12,Market,Filled,-461.76,Warning: No quote information available at 03/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T19:00:00Z,FAZ,37.92,-24,Market,Filled,-910.08,Warning: No quote information available at 03/01/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-05T15:00:00Z,FAZ,38.35,24,Market,Filled,920.4,Warning: No quote information available at 03/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-05T16:00:00Z,FAZ,39.38,11,Market,Filled,433.18,Warning: No quote information available at 03/05/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-05T20:00:00Z,FAZ,37.541,-11,Market,Filled,-412.951,Warning: No quote information available at 03/05/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-08T15:00:00Z,FAZ,36.135,-24,Market,Filled,-867.24,Warning: No quote information available at 03/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-15T14:00:00Z,FAZ,34.3097,25,Market,Filled,857.7425,Warning: No quote information available at 03/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-16T14:00:00Z,FAZ,34.77,12,Market,Filled,417.24,Warning: No quote information available at 03/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-18T14:00:00Z,FAZ,32.72,-37,Market,Filled,-1210.64,Warning: No quote information available at 03/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-19T14:00:00Z,FAZ,35.07,35,Market,Filled,1227.45,Warning: No quote information available at 03/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-25T20:00:00Z,FAZ,34.33,-24,Market On Open,Filled,-823.92, 
+2021-03-26T14:00:00Z,FAZ,34.5672,-11,Market,Filled,-380.2392,Warning: No quote information available at 03/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-29T15:00:00Z,FAZ,35.56,23,Market,Filled,817.88,Warning: No quote information available at 03/29/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-29T16:00:00Z,FAZ,34.825,-23,Market,Filled,-800.975,Warning: No quote information available at 03/29/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-03-31T14:00:00Z,FAZ,34.13,23,Market,Filled,784.99,Warning: No quote information available at 03/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-01T14:00:00Z,FAZ,34.61,11,Market,Filled,380.71,Warning: No quote information available at 04/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-01T16:00:00Z,FAZ,33.96,-11,Market,Filled,-373.56,Warning: No quote information available at 04/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-04-01T17:00:00Z,FAZ,33.78,-23,Market,Filled,-776.94,Warning: No quote information available at 04/01/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-04-07T16:00:00Z,FAZ,33.021,24,Market,Filled,792.504,Warning: No quote information available at 04/07/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-04-07T18:00:00Z,FAZ,32.48,-24,Market,Filled,-779.52,Warning: No quote information available at 04/07/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-04-08T14:00:00Z,FAZ,33.2,23,Market,Filled,763.6,Warning: No quote information available at 04/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-09T14:00:00Z,FAZ,31.87,-23,Market,Filled,-733.01,Warning: No quote information available at 04/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-13T14:00:00Z,FAZ,32.31,34,Market,Filled,1098.54,Warning: No quote information available at 04/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-13T15:00:00Z,FAZ,31.77,-11,Market,Filled,-349.47,Warning: No quote information available at 04/13/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-14T14:00:00Z,FAZ,31.37,-23,Market,Filled,-721.51,Warning: No quote information available at 04/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-15T14:00:00Z,FAZ,31.92,34,Market,Filled,1085.28,Warning: No quote information available at 04/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-16T14:00:00Z,FAZ,30.88,-34,Market,Filled,-1049.92,Warning: No quote information available at 04/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-20T14:00:00Z,FAZ,31.9778,33,Market,Filled,1055.2674,Warning: No quote information available at 04/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-23T15:00:00Z,FAZ,30.75,-33,Market,Filled,-1014.75,Warning: No quote information available at 04/23/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-04T14:00:00Z,FAZ,28.8099,35,Market,Filled,1008.3465,Warning: No quote information available at 05/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-04T16:00:00Z,FAZ,28.27,-11,Market,Filled,-310.97,Warning: No quote information available at 05/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-05-04T20:00:00Z,FAZ,27.22,-24,Market On Open,Filled,-653.28, 
+2021-05-11T14:00:00Z,FAZ,25.65,26,Market,Filled,666.9,Warning: No quote information available at 05/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T15:00:00Z,FAZ,26.791,11,Market,Filled,294.701,Warning: No quote information available at 05/11/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-14T14:00:00Z,FAZ,25.33,-37,Market,Filled,-937.21,Warning: No quote information available at 05/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-18T19:00:00Z,FAZ,25.43,25,Market,Filled,635.75,Warning: No quote information available at 05/18/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T14:00:00Z,FAZ,27.22,11,Market,Filled,299.42,Warning: No quote information available at 05/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-21T14:00:00Z,FAZ,25.38,-25,Market,Filled,-634.5,Warning: No quote information available at 05/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-21T15:00:00Z,FAZ,25.32,-11,Market,Filled,-278.52,Warning: No quote information available at 05/21/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-21T17:00:00Z,FAZ,25.96,11,Market,Filled,285.56,Warning: No quote information available at 05/21/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-05-24T14:00:00Z,FAZ,25.33,-11,Market,Filled,-278.63,Warning: No quote information available at 05/24/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T19:00:00Z,FAZ,25.83,24,Market,Filled,619.92,Warning: No quote information available at 05/25/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T20:00:00Z,FAZ,25.96,11,Market On Open,Filled,285.56, 
+2021-05-27T14:00:00Z,FAZ,25.0278,-35,Market,Filled,-875.973,Warning: No quote information available at 05/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T14:00:00Z,FAZ,24.409,24,Market,Filled,585.816,Warning: No quote information available at 06/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T16:00:00Z,FAZ,24.72,12,Market,Filled,296.64,Warning: No quote information available at 06/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T19:00:00Z,FAZ,24.25,-12,Market,Filled,-291,Warning: No quote information available at 06/04/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-07T15:00:00Z,FAZ,24.57,12,Market,Filled,294.84,Warning: No quote information available at 06/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-23T14:00:00Z,FAZ,28.49,-25,Market,Filled,-712.25,Warning: No quote information available at 06/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-24T15:00:00Z,FAZ,27.93,-11,Market,Filled,-307.23,Warning: No quote information available at 06/24/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-29T17:00:00Z,FAZ,27.01,25,Market,Filled,675.25,Warning: No quote information available at 06/29/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T17:00:00Z,FAZ,26.41,-25,Market,Filled,-660.25,Warning: No quote information available at 07/01/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-06T14:00:00Z,FAZ,27.29,36,Market,Filled,982.44,Warning: No quote information available at 07/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-09T16:00:00Z,FAZ,27.22,-25,Market,Filled,-680.5,Warning: No quote information available at 07/09/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-09T19:00:00Z,FAZ,26.76,-11,Market,Filled,-294.36,Warning: No quote information available at 07/09/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-07-14T14:00:00Z,FAZ,27.04,24,Market,Filled,648.96,Warning: No quote information available at 07/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-14T15:00:00Z,FAZ,27.61,12,Market,Filled,331.32,Warning: No quote information available at 07/14/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-15T15:00:00Z,FAZ,26.6,-12,Market,Filled,-319.2,Warning: No quote information available at 07/15/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-15T18:00:00Z,FAZ,27.39,11,Market,Filled,301.29,Warning: No quote information available at 07/15/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-07-21T14:00:00Z,FAZ,26.53,-35,Market,Filled,-928.55,Warning: No quote information available at 07/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-23T16:00:00Z,FAZ,27.42,23,Market,Filled,630.66,Warning: No quote information available at 07/23/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-27T14:00:00Z,FAZ,27.32,11,Market,Filled,300.52,Warning: No quote information available at 07/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-27T15:00:00Z,FAZ,26.525,-34,Market,Filled,-901.85,Warning: No quote information available at 07/27/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-28T14:00:00Z,FAZ,27.02,33,Market,Filled,891.66,Warning: No quote information available at 07/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-28T19:00:00Z,FAZ,26.4,-33,Market,Filled,-871.2,Warning: No quote information available at 07/28/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-08-02T20:00:00Z,FAZ,26.15,23,Market On Open,Filled,601.45, 
+2021-08-03T14:00:00Z,FAZ,27.15,10,Market,Filled,271.5,Warning: No quote information available at 08/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-03T18:00:00Z,FAZ,25.77,-10,Market,Filled,-257.7,Warning: No quote information available at 08/03/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-08-05T20:00:00Z,FAZ,24.69,-23,Market On Open,Filled,-567.87, 
+2021-08-13T15:00:00Z,FAZ,22.46,25,Market,Filled,561.5,Warning: No quote information available at 08/13/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-16T14:00:00Z,FAZ,23.28,12,Market,Filled,279.36,Warning: No quote information available at 08/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-23T14:00:00Z,FAZ,23.14,-37,Market,Filled,-856.18,Warning: No quote information available at 08/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-30T14:00:00Z,FAZ,22.13,26,Market,Filled,575.38,Warning: No quote information available at 08/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-31T14:00:00Z,FAZ,22.49,12,Market,Filled,269.88,Warning: No quote information available at 08/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-22T15:00:00Z,FAZ,24.22,-26,Market,Filled,-629.72,Warning: No quote information available at 09/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-23T14:00:00Z,FAZ,23.14,-12,Market,Filled,-277.68,Warning: No quote information available at 09/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-28T16:00:00Z,FAZ,22.34,28,Market,Filled,625.52,Warning: No quote information available at 09/28/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-30T14:00:00Z,FAZ,22.3,12,Market,Filled,267.6,Warning: No quote information available at 09/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T14:00:00Z,FAZ,21.75,-28,Market,Filled,-609,Warning: No quote information available at 10/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T15:00:00Z,FAZ,22.79,27,Market,Filled,615.33,Warning: No quote information available at 10/04/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-05T15:00:00Z,FAZ,21.49,-39,Market,Filled,-838.11,Warning: No quote information available at 10/05/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-06T14:00:00Z,FAZ,22.36,26,Market,Filled,581.36,Warning: No quote information available at 10/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-06T20:00:00Z,FAZ,21,-26,Market On Open,Filled,-546, 
+2021-10-11T20:00:00Z,FAZ,21.23,26,Market On Open,Filled,551.98, 
+2021-10-12T14:00:00Z,FAZ,21.36,12,Market,Filled,256.32,Warning: No quote information available at 10/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-14T16:00:00Z,FAZ,20.85,-26,Market,Filled,-542.1,Warning: No quote information available at 10/14/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-14T18:00:00Z,FAZ,20.68,-12,Market,Filled,-248.16,Warning: No quote information available at 10/14/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-10-28T14:00:00Z,FAZ,18.3592,43,Market,Filled,789.4456,Warning: No quote information available at 10/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-03T15:00:00Z,FAZ,17.83,-43,Market,Filled,-766.69,Warning: No quote information available at 11/03/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-04T14:00:00Z,FAZ,18.25,42,Market,Filled,766.5,Warning: No quote information available at 11/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-15T15:00:00Z,FAZ,18.2099,-42,Market,Filled,-764.8158,Warning: No quote information available at 11/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-16T15:00:00Z,FAZ,18.46,28,Market,Filled,516.88,Warning: No quote information available at 11/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-16T16:00:00Z,FAZ,18.5162,13,Market,Filled,240.7106,Warning: No quote information available at 11/16/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-16T17:00:00Z,FAZ,18.25,-41,Market,Filled,-748.25,Warning: No quote information available at 11/16/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-17T15:00:00Z,FAZ,19.14,39,Market,Filled,746.46,Warning: No quote information available at 11/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T16:00:00Z,FAZ,18.84,-27,Market,Filled,-508.68,Warning: No quote information available at 11/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T20:00:00Z,FAZ,18.51,-12,Market,Filled,-222.12,Warning: No quote information available at 11/22/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-11-22T21:00:00Z,FAZ,18.7,12,Market On Open,Filled,224.4, 
+2021-11-23T15:00:00Z,FAZ,18.6,-12,Market,Filled,-223.2,Warning: No quote information available at 11/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-26T15:00:00Z,FAZ,20.5,35,Market,Filled,717.5,Warning: No quote information available at 11/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-06T19:00:00Z,FAZ,19.66,-35,Market,Filled,-688.1,Warning: No quote information available at 12/06/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-12-09T15:00:00Z,FAZ,19.72,24,Market,Filled,473.28,Warning: No quote information available at 12/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-13T15:00:00Z,FAZ,20.2399,11,Market,Filled,222.6389,Warning: No quote information available at 12/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-16T15:00:00Z,FAZ,19.1545,-35,Market,Filled,-670.4075,Warning: No quote information available at 12/16/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-17T15:00:00Z,FAZ,20.38,33,Market,Filled,672.54,Warning: No quote information available at 12/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-22T15:00:00Z,FAZ,20.09,-23,Market,Filled,-462.07,Warning: No quote information available at 12/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-22T21:00:00Z,FAZ,19.45,-10,Market On Open,Filled,-194.5, 
+2021-12-30T20:00:00Z,FAZ,18.81,24,Market,Filled,451.44,Warning: No quote information available at 12/30/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-12-31T15:00:00Z,FAZ,18.985,10,Market,Filled,189.85,Warning: No quote information available at 12/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T15:00:00Z,FAZ,18.4285,-34,Market,Filled,-626.569,Warning: No quote information available at 01/03/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-11T15:00:00Z,FAZ,16.83,26,Market,Filled,437.58,Warning: No quote information available at 01/11/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-11T18:00:00Z,FAZ,16.41,-26,Market,Filled,-426.66,Warning: No quote information available at 01/11/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-13T21:00:00Z,FAZ,17,26,Market On Open,Filled,442, 
+2022-01-14T15:00:00Z,FAZ,16.93,11,Market,Filled,186.23,Warning: No quote information available at 01/14/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-26T15:00:00Z,FAZ,18.99,-26,Market,Filled,-493.74,Warning: No quote information available at 01/26/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-27T15:00:00Z,FAZ,18.89,-11,Market,Filled,-207.79,Warning: No quote information available at 01/27/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-27T18:00:00Z,FAZ,20.15,34,Market,Filled,685.1,Warning: No quote information available at 01/27/2022 13:00:00 America/New_York, order filled using TradeBar data 

@@ -1,0 +1,572 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2017-06-01T19:00:00Z,MEXX,277.61846917047,23,Market,Filled,6385.2247909209,Warning: No quote information available at 06/01/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-06-05T14:00:00Z,MEXX,277.96008336552,11,Market,Filled,3057.5609170207,Warning: No quote information available at 06/02/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-06-09T14:00:00Z,MEXX,292.76336515065,-24,Market,Filled,-7026.3207636156,Warning: No quote information available at 06/07/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-06-09T15:00:00Z,MEXX,294.69917892255,23,Market,Filled,6778.0811152187,Warning: No quote information available at 06/09/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-15T15:00:00Z,MEXX,297.20434968619,-23,Market,Filled,-6835.7000427824,Warning: No quote information available at 06/15/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-16T14:00:00Z,MEXX,314.17118803992,22,Market,Filled,6911.7661368783,Warning: No quote information available at 06/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-21T14:00:00Z,MEXX,293.78820773578,-32,Market,Filled,-9401.2226475448,Warning: No quote information available at 06/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-23T18:00:00Z,MEXX,310.9827888862,30,Market,Filled,9329.4836665861,Warning: No quote information available at 06/23/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-06-29T18:00:00Z,MEXX,300.62049163661,-30,Market,Filled,-9018.6147490982,Warning: No quote information available at 06/29/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-07-03T17:00:00Z,MEXX,314.05731664158,29,Market On Open,Filled,9107.6621826058, 
+2017-07-07T14:00:00Z,MEXX,306.31406155397,-20,Market,Filled,-6126.2812310794,Warning: No quote information available at 07/06/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-07-10T15:00:00Z,MEXX,325.67219927299,19,Market,Filled,6187.7717861868,Warning: No quote information available at 07/10/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-07-24T14:00:00Z,MEXX,368.94333064493,-28,Market,Filled,-10330.413258058,Warning: No quote information available at 07/24/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-25T14:00:00Z,MEXX,376.80045713088,27,Market,Filled,10173.612342534,Warning: No quote information available at 07/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-26T14:00:00Z,MEXX,368.71558784823,-27,Market,Filled,-9955.3208719023,Warning: No quote information available at 07/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-26T19:00:00Z,MEXX,377.14207132593,27,Market,Filled,10182.8359258,Warning: No quote information available at 07/26/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T18:00:00Z,MEXX,364.84396030443,-27,Market,Filled,-9850.7869282196,Warning: No quote information available at 07/27/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-08-02T16:00:00Z,MEXX,356.75909102178,18,Market,Filled,6421.663638392,Warning: No quote information available at 08/02/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-08-03T14:00:00Z,MEXX,358.12554780194,9,Market,Filled,3223.1299302175,Warning: No quote information available at 08/02/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-08-09T17:00:00Z,MEXX,349.47132152756,-27,Market,Filled,-9435.725681244,Warning: No quote information available at 08/09/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-08-14T15:00:00Z,MEXX,360.06136157385,26,Market,Filled,9361.59540092,Warning: No quote information available at 08/14/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-18T14:00:00Z,MEXX,355.50650563996,-18,Market,Filled,-6399.1171015193,Warning: No quote information available at 08/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-18T15:00:00Z,MEXX,352.77359207963,-8,Market,Filled,-2822.188736637,Warning: No quote information available at 08/18/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-18T17:00:00Z,MEXX,367.23525966972,25,Market,Filled,9180.881491743,Warning: No quote information available at 08/18/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-08-28T15:00:00Z,MEXX,363.36363212592,-25,Market,Filled,-9084.0908031479,Warning: No quote information available at 08/28/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-08-31T14:00:00Z,MEXX,363.8191177193,17,Market,Filled,6184.9250012282,Warning: No quote information available at 08/30/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-09-05T14:00:00Z,MEXX,354.02617746144,-17,Market,Filled,-6018.4450168446,Warning: No quote information available at 09/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-07T16:00:00Z,MEXX,358.12554780194,25,Market,Filled,8953.1386950486,Warning: No quote information available at 09/07/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-09-08T15:00:00Z,MEXX,350.04067851929,-8,Market,Filled,-2800.3254281543,Warning: No quote information available at 09/08/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-11T14:00:00Z,MEXX,353.00133487632,8,Market,Filled,2824.0106790106,Warning: No quote information available at 09/11/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-13T15:00:00Z,MEXX,342.63903762672,-25,Market,Filled,-8565.9759406681,Warning: No quote information available at 09/13/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-15T20:00:00Z,MEXX,344.68872279697,25,Market On Open,Filled,8617.2180699244, 
+2017-09-18T14:00:00Z,MEXX,344.68872279697,-8,Market,Filled,-2757.5097823758,Warning: No quote information available at 09/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-18T18:00:00Z,MEXX,347.99099334904,8,Market,Filled,2783.9279467923,Warning: No quote information available at 09/18/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-09-18T20:00:00Z,MEXX,341.95580923664,-8,Market On Open,Filled,-2735.6464738931, 
+2017-09-20T18:00:00Z,MEXX,351.52100669781,8,Market,Filled,2812.1680535825,Warning: No quote information available at 09/20/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-09-20T19:00:00Z,MEXX,341.6141950416,-17,Market,Filled,-5807.4413157072,Warning: No quote information available at 09/20/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-09-21T15:00:00Z,MEXX,336.60385351432,-8,Market,Filled,-2692.8308281146,Warning: No quote information available at 09/21/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-09-22T14:00:00Z,MEXX,344.34710860193,25,Market,Filled,8608.6777150483,Warning: No quote information available at 09/22/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-25T14:00:00Z,MEXX,340.01999546474,-25,Market,Filled,-8500.4998866185,Warning: No quote information available at 09/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-02T14:00:00Z,MEXX,317.13184439695,18,Market,Filled,5708.3731991451,Warning: No quote information available at 10/02/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-03T20:00:00Z,MEXX,324.64735668787,8,Market On Open,Filled,2597.1788535029, 
+2017-10-06T14:00:00Z,MEXX,300.96210583165,-26,Market,Filled,-7825.0147516229,Warning: No quote information available at 10/06/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-13T15:00:00Z,MEXX,287.52528082668,19,Market,Filled,5462.9803357069,Warning: No quote information available at 10/13/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-13T17:00:00Z,MEXX,278.4155689589,-19,Market,Filled,-5289.8958102192,Warning: No quote information available at 10/13/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-18T14:00:00Z,MEXX,283.53978188453,27,Market,Filled,7655.5741108823,Warning: No quote information available at 10/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-23T14:00:00Z,MEXX,273.97458442336,-27,Market,Filled,-7397.3137794308,Warning: No quote information available at 10/23/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-25T14:00:00Z,MEXX,273.29135603328,19,Market,Filled,5192.5357646323,Warning: No quote information available at 10/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-26T14:00:00Z,MEXX,259.74065962996,-19,Market,Filled,-4935.0725329693,Warning: No quote information available at 10/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T15:00:00Z,MEXX,251.88353314401,20,Market,Filled,5037.6706628801,Warning: No quote information available at 11/01/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T20:00:00Z,MEXX,248.12577699855,-20,Market On Open,Filled,-4962.515539971, 
+2017-11-06T15:00:00Z,MEXX,251.99740454235,29,Market,Filled,7307.9247317283,Warning: No quote information available at 11/06/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-09T18:00:00Z,MEXX,250.51707636384,-20,Market,Filled,-5010.3415272768,Warning: No quote information available at 11/09/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-11-10T16:00:00Z,MEXX,248.35351979524,-9,Market,Filled,-2235.1816781572,Warning: No quote information available at 11/10/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-16T15:00:00Z,MEXX,238.67445093573,20,Market,Filled,4773.4890187146,Warning: No quote information available at 11/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-16T20:00:00Z,MEXX,241.52123589441,10,Market,Filled,2415.2123589441,Warning: No quote information available at 11/16/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-11-27T16:00:00Z,MEXX,256.43838907789,-21,Market,Filled,-5385.2061706358,Warning: No quote information available at 11/27/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-28T16:00:00Z,MEXX,250.97256195723,-9,Market,Filled,-2258.7530576151,Warning: No quote information available at 11/28/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-11-30T15:00:00Z,MEXX,260.87937361344,29,Market,Filled,7565.5018347896,Warning: No quote information available at 11/30/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-30T18:00:00Z,MEXX,250.63094776219,-29,Market,Filled,-7268.2974851034,Warning: No quote information available at 11/30/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-12-05T15:00:00Z,MEXX,247.55642000681,20,Market,Filled,4951.1284001363,Warning: No quote information available at 12/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-05T17:00:00Z,MEXX,243.11543547127,-20,Market,Filled,-4862.3087094254,Warning: No quote information available at 12/05/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-11T15:00:00Z,MEXX,242.54607847954,30,Market,Filled,7276.3823543861,Warning: No quote information available at 12/11/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-12T15:00:00Z,MEXX,233.43636661176,-30,Market,Filled,-7003.0909983528,Warning: No quote information available at 12/12/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-13T15:00:00Z,MEXX,236.05540877375,30,Market,Filled,7081.6622632124,Warning: No quote information available at 12/13/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-19T16:00:00Z,MEXX,242.29651904768,-21,Market,Filled,-5088.2269000012,Warning: No quote information available at 12/19/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-12-20T15:00:00Z,MEXX,236.81573068091,-9,Market,Filled,-2131.3415761282,Warning: No quote information available at 12/20/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-28T15:00:00Z,MEXX,223.57049212788,22,Market,Filled,4918.5508268133,Warning: No quote information available at 12/27/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-12-29T15:00:00Z,MEXX,231.10657613219,9,Market,Filled,2079.9591851897,Warning: No quote information available at 12/29/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-09T15:00:00Z,MEXX,255.19920832778,-21,Market,Filled,-5359.1833748835,Warning: No quote information available at 01/09/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-10T15:00:00Z,MEXX,249.94678614296,-10,Market,Filled,-2499.4678614296,Warning: No quote information available at 01/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-12T15:00:00Z,MEXX,250.63188468881,32,Market,Filled,8020.2203100419,Warning: No quote information available at 01/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-23T15:00:00Z,MEXX,274.03941833856,-32,Market,Filled,-8769.2613868339,Warning: No quote information available at 01/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-23T20:00:00Z,MEXX,280.89040379702,9,Market,Filled,2528.0136341732,Warning: No quote information available at 01/23/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-01-23T21:00:00Z,MEXX,292.30871289446,22,Market On Open,Filled,6430.7916836782, 
+2018-01-29T16:00:00Z,MEXX,295.50583944175,-22,Market,Filled,-6501.1284677184,Warning: No quote information available at 01/29/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-30T15:00:00Z,MEXX,285.34354434503,-9,Market,Filled,-2568.0918991052,Warning: No quote information available at 01/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-01T15:00:00Z,MEXX,299.61643071683,29,Market,Filled,8688.8764907879,Warning: No quote information available at 02/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-02T15:00:00Z,MEXX,289.22576943816,-9,Market,Filled,-2603.0319249434,Warning: No quote information available at 02/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-02T16:00:00Z,MEXX,285.457727436,-20,Market,Filled,-5709.15454872,Warning: No quote information available at 02/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-02T20:00:00Z,MEXX,295.04910707785,19,Market,Filled,5605.9330344791,Warning: No quote information available at 02/02/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-02-05T15:00:00Z,MEXX,274.72451688441,-19,Market,Filled,-5219.7658208037,Warning: No quote information available at 02/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-07T15:00:00Z,MEXX,270.7281087003,20,Market,Filled,5414.562174006,Warning: No quote information available at 02/06/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-02-07T21:00:00Z,MEXX,254.51410978194,-20,Market On Open,Filled,-5090.2821956388, 
+2018-02-12T15:00:00Z,MEXX,250.06096923394,21,Market,Filled,5251.2803539127,Warning: No quote information available at 02/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-14T15:00:00Z,MEXX,248.34822286932,10,Market,Filled,2483.4822286932,Warning: No quote information available at 02/13/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-02-20T17:00:00Z,MEXX,260.22326433066,-22,Market,Filled,-5724.9118152745,Warning: No quote information available at 02/20/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-02-21T21:00:00Z,MEXX,254.74247596389,-9,Market On Open,Filled,-2292.682283675, 
+2018-02-22T19:00:00Z,MEXX,266.38915124328,30,Market,Filled,7991.6745372983,Warning: No quote information available at 02/22/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-02-26T15:00:00Z,MEXX,258.05378560214,-10,Market,Filled,-2580.5378560214,Warning: No quote information available at 02/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T15:00:00Z,MEXX,262.16437687722,10,Market,Filled,2621.6437687722,Warning: No quote information available at 02/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T16:00:00Z,MEXX,245.60782868593,-30,Market,Filled,-7368.234860578,Warning: No quote information available at 02/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-03-06T15:00:00Z,MEXX,247.43475814152,30,Market,Filled,7423.0427442457,Warning: No quote information available at 03/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-15T14:00:00Z,MEXX,254.17156050901,-30,Market,Filled,-7625.1468152704,Warning: No quote information available at 03/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-21T14:00:00Z,MEXX,249.03332141517,30,Market,Filled,7470.999642455,Warning: No quote information available at 03/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-23T17:00:00Z,MEXX,243.0958006845,-21,Market,Filled,-5105.0118143744,Warning: No quote information available at 03/23/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-23T20:00:00Z,MEXX,239.78449104624,-9,Market On Open,Filled,-2158.0604194162, 
+2018-03-26T18:00:00Z,MEXX,243.20998377547,9,Market,Filled,2188.8898539792,Warning: No quote information available at 03/26/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-03-27T14:00:00Z,MEXX,243.20998377547,21,Market,Filled,5107.4096592849,Warning: No quote information available at 03/26/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-04-02T16:00:00Z,MEXX,239.78449104624,-21,Market,Filled,-5035.474311971,Warning: No quote information available at 04/02/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-04-02T20:00:00Z,MEXX,239.55612486429,-9,Market On Open,Filled,-2156.0051237786, 
+2018-04-03T17:00:00Z,MEXX,245.49364559496,29,Market,Filled,7119.3157222538,Warning: No quote information available at 04/03/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-09T20:00:00Z,MEXX,275.1812492483,-20,Market On Open,Filled,-5503.6249849661, 
+2018-04-10T14:00:00Z,MEXX,266.2749681523,21,Market,Filled,5591.7743311983,Warning: No quote information available at 04/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-19T14:00:00Z,MEXX,285.22936125405,-30,Market,Filled,-8556.8808376215,Warning: No quote information available at 04/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-26T17:00:00Z,MEXX,248.34822286932,23,Market,Filled,5712.0091259944,Warning: No quote information available at 04/26/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-27T14:00:00Z,MEXX,252.23044796245,11,Market,Filled,2774.5349275869,Warning: No quote information available at 04/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-01T15:00:00Z,MEXX,234.07533649752,-34,Market,Filled,-7958.5614409157,Warning: No quote information available at 05/01/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-05-10T14:00:00Z,MEXX,205.52956375392,39,Market,Filled,8015.6529864029,Warning: No quote information available at 05/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-14T17:00:00Z,MEXX,198.45021211351,-27,Market,Filled,-5358.1557270647,Warning: No quote information available at 05/14/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-14T18:00:00Z,MEXX,195.70981793012,-12,Market,Filled,-2348.5178151615,Warning: No quote information available at 05/14/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-22T20:00:00Z,MEXX,173.67248137206,30,Market On Open,Filled,5210.1744411619, 
+2018-05-23T17:00:00Z,MEXX,182.80712865001,14,Market,Filled,2559.2998011002,Warning: No quote information available at 05/23/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-29T14:00:00Z,MEXX,168.30587609627,-44,Market,Filled,-7405.4585482357,Warning: No quote information available at 05/29/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-01T14:00:00Z,MEXX,168.99097464211,44,Market,Filled,7435.6028842529,Warning: No quote information available at 06/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-01T15:00:00Z,MEXX,166.3647635497,-14,Market,Filled,-2329.1066896958,Warning: No quote information available at 06/01/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-04T14:00:00Z,MEXX,166.02221427678,14,Market,Filled,2324.3109998749,Warning: No quote information available at 06/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-04T20:00:00Z,MEXX,157.57266554467,-14,Market On Open,Filled,-2206.0173176254, 
+2018-06-05T14:00:00Z,MEXX,158.37194718149,-30,Market,Filled,-4751.1584154448,Warning: No quote information available at 06/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-08T16:00:00Z,MEXX,151.97769408693,31,Market,Filled,4711.3085166947,Warning: No quote information available at 06/08/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-08T18:00:00Z,MEXX,158.60031336344,14,Market,Filled,2220.4043870882,Warning: No quote information available at 06/08/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-06-15T15:00:00Z,MEXX,158.48613027247,-31,Market,Filled,-4913.0700384465,Warning: No quote information available at 06/15/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-15T20:00:00Z,MEXX,159.85632736416,30,Market On Open,Filled,4795.6898209248, 
+2018-06-18T14:00:00Z,MEXX,157.68684863565,-44,Market,Filled,-6938.2213399684,Warning: No quote information available at 06/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-18T18:00:00Z,MEXX,162.71090463852,43,Market,Filled,6996.5688994564,Warning: No quote information available at 06/18/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-06-19T15:00:00Z,MEXX,158.25776409052,-43,Market,Filled,-6805.0838558923,Warning: No quote information available at 06/19/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-19T16:00:00Z,MEXX,163.39600318437,42,Market,Filled,6862.6321337434,Warning: No quote information available at 06/19/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-28T14:00:00Z,MEXX,176.07032628252,-29,Market,Filled,-5106.0394621932,Warning: No quote information available at 06/27/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-06-28T16:00:00Z,MEXX,184.74824119658,27,Market,Filled,4988.2025123076,Warning: No quote information available at 06/28/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-02T14:00:00Z,MEXX,177.66888955617,-40,Market,Filled,-7106.7555822467,Warning: No quote information available at 07/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-03T14:00:00Z,MEXX,189.5439310175,38,Market,Filled,7202.6693786652,Warning: No quote information available at 07/03/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-13T14:00:00Z,MEXX,232.47677322388,-27,Market,Filled,-6276.8728770447,Warning: No quote information available at 07/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-13T19:00:00Z,MEXX,229.85056213147,-11,Market,Filled,-2528.3561834461,Warning: No quote information available at 07/13/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-07-16T14:00:00Z,MEXX,234.64625195239,37,Market,Filled,8681.9113222385,Warning: No quote information available at 07/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-16T15:00:00Z,MEXX,231.33494231413,-12,Market,Filled,-2776.0193077696,Warning: No quote information available at 07/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-16T20:00:00Z,MEXX,229.73637904049,12,Market On Open,Filled,2756.8365484859, 
+2018-07-17T14:00:00Z,MEXX,230.76402685926,-37,Market,Filled,-8538.2689937927,Warning: No quote information available at 07/17/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-17T16:00:00Z,MEXX,234.64625195239,36,Market,Filled,8447.2650702861,Warning: No quote information available at 07/17/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-19T15:00:00Z,MEXX,229.73637904049,-36,Market,Filled,-8270.5096454577,Warning: No quote information available at 07/19/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-23T20:00:00Z,MEXX,239.55612486429,35,Market On Open,Filled,8384.4643702502, 
+2018-08-01T16:00:00Z,MEXX,252.23044796245,-24,Market,Filled,-6053.5307510988,Warning: No quote information available at 08/01/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-02T14:00:00Z,MEXX,244.69436395814,-11,Market,Filled,-2691.6380035395,Warning: No quote information available at 08/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-03T15:00:00Z,MEXX,251.65953250758,35,Market,Filled,8808.0836377652,Warning: No quote information available at 08/03/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-09T18:00:00Z,MEXX,248.11985668737,-35,Market,Filled,-8684.194984058,Warning: No quote information available at 08/09/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-08-14T15:00:00Z,MEXX,229.50801285854,26,Market,Filled,5967.2083343221,Warning: No quote information available at 08/14/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-15T14:00:00Z,MEXX,217.51878830623,-26,Market,Filled,-5655.488495962,Warning: No quote information available at 08/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-17T20:00:00Z,MEXX,221.74356267228,38,Market On Open,Filled,8426.2553815468, 
+2018-08-24T18:00:00Z,MEXX,229.2796466766,-27,Market,Filled,-6190.5504602681,Warning: No quote information available at 08/24/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-08-27T14:00:00Z,MEXX,257.3686870563,23,Market,Filled,5919.4798022948,Warning: No quote information available at 08/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-28T19:00:00Z,MEXX,236.70154758993,-23,Market,Filled,-5444.1355945684,Warning: No quote information available at 08/28/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-08-28T20:00:00Z,MEXX,233.39023795167,-11,Market On Open,Filled,-2567.2926174684, 
+2018-08-29T20:00:00Z,MEXX,234.76043504337,34,Market On Open,Filled,7981.8547914745, 
+2018-08-30T14:00:00Z,MEXX,228.3661819488,-34,Market,Filled,-7764.4501862592,Warning: No quote information available at 08/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-07T14:00:00Z,MEXX,207.58485939146,26,Market,Filled,5397.2063441779,Warning: No quote information available at 09/07/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-07T17:00:00Z,MEXX,201.98988793371,-26,Market,Filled,-5251.7370862766,Warning: No quote information available at 09/07/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-07T20:00:00Z,MEXX,211.23871830264,25,Market On Open,Filled,5280.967957566, 
+2018-09-11T18:00:00Z,MEXX,209.41178884705,12,Market,Filled,2512.9414661646,Warning: No quote information available at 09/11/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-09-20T17:00:00Z,MEXX,232.93350558778,-26,Market,Filled,-6056.2711452822,Warning: No quote information available at 09/20/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-20T20:00:00Z,MEXX,233.39023795167,26,Market On Open,Filled,6068.1461867435, 
+2018-09-21T14:00:00Z,MEXX,231.33494231413,-37,Market,Filled,-8559.392865623,Warning: No quote information available at 09/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-21T17:00:00Z,MEXX,235.67389977116,36,Market,Filled,8484.2603917618,Warning: No quote information available at 09/21/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-21T18:00:00Z,MEXX,232.93350558778,-25,Market,Filled,-5823.3376396944,Warning: No quote information available at 09/21/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-09-21T20:00:00Z,MEXX,232.02004085998,-11,Market On Open,Filled,-2552.2204494598, 
+2018-09-26T14:00:00Z,MEXX,231.11401092091,36,Market,Filled,8320.1043931528,Warning: No quote information available at 09/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-02T15:00:00Z,MEXX,233.80682867734,-25,Market,Filled,-5845.1707169334,Warning: No quote information available at 10/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-02T18:00:00Z,MEXX,229.82614155914,-11,Market,Filled,-2528.0875571506,Warning: No quote information available at 10/02/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-10-09T20:00:00Z,MEXX,208.86899467219,27,Market On Open,Filled,5639.4628561492, 
+2018-10-10T14:00:00Z,MEXX,203.01504302779,-27,Market,Filled,-5481.4061617504,Warning: No quote information available at 10/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-12T14:00:00Z,MEXX,203.83459625801,28,Market,Filled,5707.3686952242,Warning: No quote information available at 10/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-12T16:00:00Z,MEXX,206.05909788288,13,Market,Filled,2678.7682724774,Warning: No quote information available at 10/12/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-12T17:00:00Z,MEXX,201.0246994687,-13,Market,Filled,-2613.321093093,Warning: No quote information available at 10/12/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-15T16:00:00Z,MEXX,204.30291238956,13,Market,Filled,2655.9378610643,Warning: No quote information available at 10/15/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-18T14:00:00Z,MEXX,198.91727687671,-41,Market,Filled,-8155.6083519452,Warning: No quote information available at 10/18/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-25T16:00:00Z,MEXX,170.7012299507,32,Market,Filled,5462.4393584225,Warning: No quote information available at 10/25/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-26T14:00:00Z,MEXX,161.21782828678,-32,Market,Filled,-5158.9705051768,Warning: No quote information available at 10/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-01T14:00:00Z,MEXX,133.47009749232,40,Market,Filled,5338.8038996928,Warning: No quote information available at 11/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-02T14:00:00Z,MEXX,149.62700403086,16,Market,Filled,2394.0320644938,Warning: No quote information available at 11/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-08T15:00:00Z,MEXX,150.91487339263,-39,Market,Filled,-5885.6800623126,Warning: No quote information available at 11/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-08T17:00:00Z,MEXX,143.30473625491,-17,Market,Filled,-2436.1805163335,Warning: No quote information available at 11/08/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-16T15:00:00Z,MEXX,109.93721188183,52,Market,Filled,5716.7350178553,Warning: No quote information available at 11/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-16T18:00:00Z,MEXX,116.61071675645,23,Market,Filled,2682.0464853983,Warning: No quote information available at 11/16/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-11-20T19:00:00Z,MEXX,107.24439412541,-75,Market,Filled,-8043.3295594056,Warning: No quote information available at 11/20/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-11-21T15:00:00Z,MEXX,111.57631834226,22,Market,Filled,2454.6790035298,Warning: No quote information available at 11/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-21T17:00:00Z,MEXX,111.69339737515,50,Market,Filled,5584.6698687576,Warning: No quote information available at 11/21/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-21T21:00:00Z,MEXX,103.84910217166,-72,Market On Open,Filled,-7477.1353563592, 
+2018-11-28T16:00:00Z,MEXX,93.546147277512,55,Market,Filled,5145.0381002632,Warning: No quote information available at 11/28/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-28T19:00:00Z,MEXX,98.93178279036,24,Market,Filled,2374.3627869686,Warning: No quote information available at 11/28/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-12-04T16:00:00Z,MEXX,103.02954894144,-55,Market,Filled,-5666.6251917792,Warning: No quote information available at 12/04/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-06T15:00:00Z,MEXX,95.41941180372,-24,Market,Filled,-2290.0658832893,Warning: No quote information available at 12/06/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-06T21:00:00Z,MEXX,110.87384414494,75,Market On Open,Filled,8315.5383108702, 
+2018-12-10T17:00:00Z,MEXX,100.68796828368,-75,Market,Filled,-7551.597621276,Warning: No quote information available at 12/10/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-12T16:00:00Z,MEXX,106.54191992808,68,Market,Filled,7244.8505551094,Warning: No quote information available at 12/12/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-17T20:00:00Z,MEXX,101.15628441523,-68,Market,Filled,-6878.6273402358,Warning: No quote information available at 12/17/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-12-18T18:00:00Z,MEXX,102.444153777,46,Market,Filled,4712.431073742,Warning: No quote information available at 12/18/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-12-18T19:00:00Z,MEXX,105.13697153342,20,Market,Filled,2102.7394306685,Warning: No quote information available at 12/18/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-12-26T15:00:00Z,MEXX,107.01023605963,-45,Market,Filled,-4815.4606226834,Warning: No quote information available at 12/26/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-26T21:00:00Z,MEXX,114.1520570658,44,Market On Open,Filled,5022.6905108952, 
+2019-01-14T15:00:00Z,MEXX,137.5678636434,-45,Market,Filled,-6190.553863953,Warning: No quote information available at 01/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-14T16:00:00Z,MEXX,140.14360236694,42,Market,Filled,5886.0312994113,Warning: No quote information available at 01/14/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-22T15:00:00Z,MEXX,141.19731366293,-62,Market,Filled,-8754.2334471015,Warning: No quote information available at 01/22/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-24T15:00:00Z,MEXX,143.65597335358,61,Market,Filled,8763.0143745681,Warning: No quote information available at 01/24/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-24T18:00:00Z,MEXX,140.84607656426,-19,Market,Filled,-2676.075454721,Warning: No quote information available at 01/24/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-25T15:00:00Z,MEXX,145.88047497845,18,Market,Filled,2625.8485496121,Warning: No quote information available at 01/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-28T15:00:00Z,MEXX,138.73865397228,-60,Market,Filled,-8324.3192383368,Warning: No quote information available at 01/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-28T16:00:00Z,MEXX,142.95349915625,59,Market,Filled,8434.2564502186,Warning: No quote information available at 01/28/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-28T18:00:00Z,MEXX,140.37776043271,-19,Market,Filled,-2667.1774482215,Warning: No quote information available at 01/28/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-29T18:00:00Z,MEXX,144.12428948513,18,Market,Filled,2594.2372107323,Warning: No quote information available at 01/29/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T15:00:00Z,MEXX,138.15325880784,-58,Market,Filled,-8012.8890108547,Warning: No quote information available at 01/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T20:00:00Z,MEXX,141.66562979448,18,Market,Filled,2549.9813363006,Warning: No quote information available at 01/30/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-01-31T15:00:00Z,MEXX,146.11463304422,38,Market,Filled,5552.3560556805,Warning: No quote information available at 01/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-07T15:00:00Z,MEXX,143.4218152878,-56,Market,Filled,-8031.6216561168,Warning: No quote information available at 02/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-15T18:00:00Z,MEXX,128.08446197947,42,Market,Filled,5379.5474031378,Warning: No quote information available at 02/15/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-02-15T21:00:00Z,MEXX,131.94807006478,20,Market On Open,Filled,2638.9614012955, 
+2019-02-27T15:00:00Z,MEXX,133.7042555581,-62,Market,Filled,-8289.663844602,Warning: No quote information available at 02/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-05T15:00:00Z,MEXX,127.14782971637,44,Market,Filled,5594.5045075202,Warning: No quote information available at 03/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-05T16:00:00Z,MEXX,123.98669582839,-44,Market,Filled,-5455.4146164492,Warning: No quote information available at 03/05/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-11T14:00:00Z,MEXX,120.0060087102,68,Market,Filled,8160.4085922936,Warning: No quote information available at 03/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-11T18:00:00Z,MEXX,117.66442805244,-22,Market,Filled,-2588.6174171537,Warning: No quote information available at 03/11/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-03-11T20:00:00Z,MEXX,122.11343130218,21,Market On Open,Filled,2564.3820573459, 
+2019-03-14T15:00:00Z,MEXX,116.84487482222,-46,Market,Filled,-5374.8642418223,Warning: No quote information available at 03/14/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-15T15:00:00Z,MEXX,123.75253776262,43,Market,Filled,5321.3591237925,Warning: No quote information available at 03/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-03-22T16:00:00Z,MEXX,128.20808133544,-64,Market,Filled,-8205.3172054684,Warning: No quote information available at 03/22/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-29T14:00:00Z,MEXX,128.32548800333,64,Market,Filled,8212.8312322133,Warning: No quote information available at 03/29/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-11T14:00:00Z,MEXX,149.57609489135,-44,Market,Filled,-6581.3481752194,Warning: No quote information available at 04/11/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-12T14:00:00Z,MEXX,154.50717494271,42,Market,Filled,6489.301347594,Warning: No quote information available at 04/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-15T14:00:00Z,MEXX,147.58018153723,-62,Market,Filled,-9149.9712553081,Warning: No quote information available at 04/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-16T17:00:00Z,MEXX,152.74607492437,60,Market,Filled,9164.7644954622,Warning: No quote information available at 04/16/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T15:00:00Z,MEXX,153.68532826749,-41,Market,Filled,-6301.0984589669,Warning: No quote information available at 04/23/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T18:00:00Z,MEXX,151.10238157392,-19,Market,Filled,-2870.9452499044,Warning: No quote information available at 04/23/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-04-26T15:00:00Z,MEXX,155.56383495372,59,Market,Filled,9178.2662622695,Warning: No quote information available at 04/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-29T15:00:00Z,MEXX,149.92831489502,-19,Market,Filled,-2848.6379830054,Warning: No quote information available at 04/29/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-30T15:00:00Z,MEXX,144.5276081721,-40,Market,Filled,-5781.1043268839,Warning: No quote information available at 04/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T19:00:00Z,MEXX,152.51126158859,57,Market,Filled,8693.1419105497,Warning: No quote information available at 05/01/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-05-01T20:00:00Z,MEXX,142.53169481797,-57,Market On Open,Filled,-8124.3066046245, 
+2019-05-03T14:00:00Z,MEXX,147.69758820512,37,Market,Filled,5464.8107635893,Warning: No quote information available at 05/03/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-03T16:00:00Z,MEXX,148.51943488034,18,Market,Filled,2673.3498278462,Warning: No quote information available at 05/03/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-06T14:00:00Z,MEXX,140.77059479963,-55,Market,Filled,-7742.3827139797,Warning: No quote information available at 05/06/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-10T18:00:00Z,MEXX,133.37397472259,40,Market,Filled,5334.9589889034,Warning: No quote information available at 05/10/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-05-13T14:00:00Z,MEXX,126.32957464921,-40,Market,Filled,-5053.1829859684,Warning: No quote information available at 05/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-14T15:00:00Z,MEXX,131.49546803635,39,Market,Filled,5128.3232534177,Warning: No quote information available at 05/14/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-14T16:00:00Z,MEXX,132.31731471158,18,Market,Filled,2381.7116648084,Warning: No quote information available at 05/14/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-17T14:00:00Z,MEXX,129.38214801434,-39,Market,Filled,-5045.9037725592,Warning: No quote information available at 05/17/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-17T17:00:00Z,MEXX,133.2565680547,38,Market,Filled,5063.7495860784,Warning: No quote information available at 05/17/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-05-21T16:00:00Z,MEXX,130.79102802901,-39,Market,Filled,-5100.8500931316,Warning: No quote information available at 05/21/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-21T20:00:00Z,MEXX,133.49138139048,38,Market On Open,Filled,5072.6724928381, 
+2019-05-22T18:00:00Z,MEXX,129.61696135012,-55,Market,Filled,-7128.9328742565,Warning: No quote information available at 05/22/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-05-29T18:00:00Z,MEXX,125.74254130976,39,Market,Filled,4903.9591110807,Warning: No quote information available at 05/29/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-05-30T14:00:00Z,MEXX,130.67362136112,17,Market,Filled,2221.4515631391,Warning: No quote information available at 05/30/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-05-31T14:00:00Z,MEXX,115.88038120704,-56,Market,Filled,-6489.301347594,Warning: No quote information available at 05/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T15:00:00Z,MEXX,122.33774794096,36,Market,Filled,4404.1589258747,Warning: No quote information available at 06/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T16:00:00Z,MEXX,123.51181461986,17,Market,Filled,2099.7008485376,Warning: No quote information available at 06/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-06T15:00:00Z,MEXX,118.93295457216,-17,Market,Filled,-2021.8602277268,Warning: No quote information available at 06/06/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-06T16:00:00Z,MEXX,117.05444788593,-36,Market,Filled,-4213.9601238935,Warning: No quote information available at 06/06/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-06T19:00:00Z,MEXX,121.8681212694,35,Market,Filled,4265.3842444292,Warning: No quote information available at 06/06/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-07T14:00:00Z,MEXX,122.80737461252,16,Market,Filled,1964.9179938003,Warning: No quote information available at 06/07/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-13T17:00:00Z,MEXX,131.61287470424,-35,Market,Filled,-4606.4506146485,Warning: No quote information available at 06/13/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-14T14:00:00Z,MEXX,128.91252134278,-16,Market,Filled,-2062.6003414845,Warning: No quote information available at 06/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T14:00:00Z,MEXX,134.90026140515,49,Market,Filled,6610.1128088524,Warning: No quote information available at 06/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-18T17:00:00Z,MEXX,129.8517746859,-15,Market,Filled,-1947.7766202885,Warning: No quote information available at 06/18/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-19T19:00:00Z,MEXX,135.01766807304,15,Market,Filled,2025.2650210956,Warning: No quote information available at 06/19/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-25T14:00:00Z,MEXX,134.30477162048,-34,Market,Filled,-4566.3622350962,Warning: No quote information available at 06/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-26T14:00:00Z,MEXX,136.91033156373,33,Market,Filled,4518.0409416031,Warning: No quote information available at 06/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-27T14:00:00Z,MEXX,133.59416436323,-48,Market,Filled,-6412.5198894348,Warning: No quote information available at 06/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-01T14:00:00Z,MEXX,133.2388607346,48,Market,Filled,6395.4653152608,Warning: No quote information available at 07/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-01T15:00:00Z,MEXX,130.04112807697,-48,Market,Filled,-6241.9741476945,Warning: No quote information available at 07/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-01T16:00:00Z,MEXX,132.64668802022,47,Market,Filled,6234.3943369505,Warning: No quote information available at 07/01/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-05T14:00:00Z,MEXX,130.3964317056,-32,Market,Filled,-4172.685814579,Warning: No quote information available at 07/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-05T16:00:00Z,MEXX,134.6600752491,31,Market,Filled,4174.4623327222,Warning: No quote information available at 07/05/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-09T17:00:00Z,MEXX,128.73834810534,-46,Market,Filled,-5921.9640128458,Warning: No quote information available at 07/09/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-07-12T14:00:00Z,MEXX,128.97521719109,32,Market,Filled,4127.206950115,Warning: No quote information available at 07/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-15T15:00:00Z,MEXX,132.64668802022,14,Market,Filled,1857.0536322831,Warning: No quote information available at 07/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-17T20:00:00Z,MEXX,128.97521719109,-32,Market On Open,Filled,-4127.206950115, 
+2019-07-18T14:00:00Z,MEXX,126.60652633359,-14,Market,Filled,-1772.4913686702,Warning: No quote information available at 07/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-26T14:00:00Z,MEXX,113.93403024594,35,Market,Filled,3987.691058608,Warning: No quote information available at 07/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-26T15:00:00Z,MEXX,110.49942850256,-35,Market,Filled,-3867.4799975897,Warning: No quote information available at 07/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-29T16:00:00Z,MEXX,113.10498844582,51,Market,Filled,5768.3544107366,Warning: No quote information available at 07/29/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-31T19:00:00Z,MEXX,108.48604127368,-51,Market,Filled,-5532.7881049578,Warning: No quote information available at 07/31/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-07T18:00:00Z,MEXX,97.826932414915,39,Market,Filled,3815.2503641817,Warning: No quote information available at 08/07/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-08-08T14:00:00Z,MEXX,100.55092690104,18,Market,Filled,1809.9166842188,Warning: No quote information available at 08/08/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-12T14:00:00Z,MEXX,95.102937928786,-39,Market,Filled,-3709.0145792226,Warning: No quote information available at 08/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-13T20:00:00Z,MEXX,92.142074356906,-18,Market On Open,Filled,-1658.5573384243, 
+2019-08-16T14:00:00Z,MEXX,89.06277624215,41,Market,Filled,3651.5738259282,Warning: No quote information available at 08/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-19T14:00:00Z,MEXX,90.957728928154,18,Market,Filled,1637.2391207068,Warning: No quote information available at 08/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-23T14:00:00Z,MEXX,90.483990756653,-41,Market,Filled,-3709.8436210228,Warning: No quote information available at 08/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-27T14:00:00Z,MEXX,93.326419785658,40,Market,Filled,3733.0567914263,Warning: No quote information available at 08/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T16:00:00Z,MEXX,115.35524476044,-40,Market,Filled,-4614.2097904178,Warning: No quote information available at 09/11/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T20:00:00Z,MEXX,119.02671558958,39,Market On Open,Filled,4642.0419079935, 
+2019-09-24T16:00:00Z,MEXX,122.61336371919,-40,Market,Filled,-4904.5345487677,Warning: No quote information available at 09/24/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-09-24T20:00:00Z,MEXX,118.46300808073,-17,Market On Open,Filled,-2013.8711373724, 
+2019-10-01T14:00:00Z,MEXX,117.3957737737,40,Market,Filled,4695.8309509478,Warning: No quote information available at 10/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-01T18:00:00Z,MEXX,114.54981562161,-40,Market,Filled,-4581.9926248643,Warning: No quote information available at 10/01/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-03T20:00:00Z,MEXX,115.49846833897,40,Market On Open,Filled,4619.9387335588, 
+2019-10-04T14:00:00Z,MEXX,115.61704992864,18,Market,Filled,2081.1068987155,Warning: No quote information available at 10/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-09T19:00:00Z,MEXX,115.73563151831,-40,Market,Filled,-4629.4252607324,Warning: No quote information available at 10/09/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-10-10T14:00:00Z,MEXX,118.34442649106,39,Market,Filled,4615.4326331513,Warning: No quote information available at 10/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-18T20:00:00Z,MEXX,129.37251433041,-39,Market On Open,Filled,-5045.5280588858, 
+2019-10-21T15:00:00Z,MEXX,131.62556453414,38,Market,Filled,5001.7714522975,Warning: No quote information available at 10/21/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-30T15:00:00Z,MEXX,132.57421725151,-56,Market,Filled,-7424.1561660844,Warning: No quote information available at 10/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-01T15:00:00Z,MEXX,135.06443063459,55,Market,Filled,7428.5436849022,Warning: No quote information available at 11/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-05T16:00:00Z,MEXX,130.32116704777,-55,Market,Filled,-7167.6641876273,Warning: No quote information available at 11/05/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-06T17:00:00Z,MEXX,133.16712519986,17,Market,Filled,2263.8411283976,Warning: No quote information available at 11/06/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-11-06T21:00:00Z,MEXX,137.91038878668,36,Market On Open,Filled,4964.7739963203, 
+2019-11-12T15:00:00Z,MEXX,134.70868586557,-37,Market,Filled,-4984.2213770263,Warning: No quote information available at 11/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-12T16:00:00Z,MEXX,130.79549340645,-16,Market,Filled,-2092.7278945032,Warning: No quote information available at 11/12/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-15T15:00:00Z,MEXX,125.81506664029,38,Market,Filled,4780.9725323312,Warning: No quote information available at 11/14/2019 16:00:00 America/New_York, order filled using TradeBar data 
+2019-11-15T16:00:00Z,MEXX,130.67691181678,17,Market,Filled,2221.5075008853,Warning: No quote information available at 11/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-20T18:00:00Z,MEXX,124.9849955126,-38,Market,Filled,-4749.4298294789,Warning: No quote information available at 11/20/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-11-21T16:00:00Z,MEXX,125.22215869194,-17,Market,Filled,-2128.776697763,Warning: No quote information available at 11/21/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-22T15:00:00Z,MEXX,127.71237207502,37,Market,Filled,4725.3577667758,Warning: No quote information available at 11/22/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-22T21:00:00Z,MEXX,129.13535115107,17,Market On Open,Filled,2195.3009695681, 
+2019-11-26T15:00:00Z,MEXX,124.27350597458,-54,Market,Filled,-6710.7693226273,Warning: No quote information available at 11/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-05T15:00:00Z,MEXX,119.7674055671,56,Market,Filled,6706.9747117578,Warning: No quote information available at 12/05/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-06T17:00:00Z,MEXX,116.20995787699,-18,Market,Filled,-2091.7792417859,Warning: No quote information available at 12/06/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-09T15:00:00Z,MEXX,120.24173192579,17,Market,Filled,2044.1094427384,Warning: No quote information available at 12/09/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-23T15:00:00Z,MEXX,143.47633478688,-38,Market,Filled,-5452.1007219014,Warning: No quote information available at 12/23/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-24T15:00:00Z,MEXX,142.52458463904,-17,Market,Filled,-2422.9179388637,Warning: No quote information available at 12/24/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T15:00:00Z,MEXX,143.11942848144,37,Market,Filled,5295.4188538133,Warning: No quote information available at 12/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T16:00:00Z,MEXX,141.45386572272,-37,Market,Filled,-5233.7930317406,Warning: No quote information available at 12/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T21:00:00Z,MEXX,145.37983508256,37,Market On Open,Filled,5379.0538980547, 
+2019-12-27T15:00:00Z,MEXX,144.78499124016,17,Market,Filled,2461.3448510827,Warning: No quote information available at 12/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-30T16:00:00Z,MEXX,140.14520926944,-54,Market,Filled,-7567.8413005498,Warning: No quote information available at 12/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-02T15:00:00Z,MEXX,142.64117403215,53,Market,Filled,7559.982223704,Warning: No quote information available at 01/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-14T17:00:00Z,MEXX,145.85571015648,-37,Market,Filled,-5396.6612757898,Warning: No quote information available at 01/14/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-14T21:00:00Z,MEXX,150.4954921272,36,Market On Open,Filled,5417.8377165792, 
+2020-01-15T21:00:00Z,MEXX,149.9006482848,-36,Market On Open,Filled,-5396.4233382528, 
+2020-01-16T15:00:00Z,MEXX,151.80414858048,35,Market,Filled,5313.1452003168,Warning: No quote information available at 01/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-23T15:00:00Z,MEXX,153.99674298357,-51,Market,Filled,-7853.8338921619,Warning: No quote information available at 01/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-23T21:00:00Z,MEXX,159.18021222624,15,Market On Open,Filled,2387.7031833936, 
+2020-01-24T16:00:00Z,MEXX,154.97466626047,-15,Market,Filled,-2324.6199939071,Warning: No quote information available at 01/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-28T20:00:00Z,MEXX,151.0903359696,35,Market,Filled,5288.161758936,Warning: No quote information available at 01/28/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-01-29T16:00:00Z,MEXX,152.63692995984,16,Market,Filled,2442.1908793574,Warning: No quote information available at 01/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-31T15:00:00Z,MEXX,144.90633938401,-51,Market,Filled,-7390.2233085845,Warning: No quote information available at 01/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-03T15:00:00Z,MEXX,149.42477321088,15,Market,Filled,2241.3715981632,Warning: No quote information available at 02/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-03T16:00:00Z,MEXX,150.73342966416,35,Market,Filled,5275.6700382456,Warning: No quote information available at 02/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-06T16:00:00Z,MEXX,150.15048269861,-35,Market,Filled,-5255.2668944513,Warning: No quote information available at 02/06/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-02-06T21:00:00Z,MEXX,142.52458463904,-15,Market On Open,Filled,-2137.8687695856, 
+2020-02-11T15:00:00Z,MEXX,152.20388364257,48,Market,Filled,7305.7864148435,Warning: No quote information available at 02/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-20T15:00:00Z,MEXX,151.20930473808,-48,Market,Filled,-7258.0466274278,Warning: No quote information available at 02/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T21:00:00Z,MEXX,112.77049564219,44,Market On Open,Filled,4961.9018082564, 
+2020-03-03T16:00:00Z,MEXX,122.41886276592,19,Market,Filled,2325.9583925525,Warning: No quote information available at 03/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-05T16:00:00Z,MEXX,110.046110844,-43,Market,Filled,-4731.982766292,Warning: No quote information available at 03/05/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-06T15:00:00Z,MEXX,91.72492049808,-20,Market,Filled,-1834.4984099616,Warning: No quote information available at 03/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-25T14:00:00Z,MEXX,21.77128463184,210,Market,Filled,4571.9697726864,Warning: No quote information available at 03/25/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-25T15:00:00Z,MEXX,22.411336606262,94,Market,Filled,2106.6656409887,Warning: No quote information available at 03/25/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-27T20:00:00Z,MEXX,20.712109,-208,Market On Open,Filled,-4308.118672, 
+2020-03-30T14:00:00Z,MEXX,20.414806,-96,Market,Filled,-1959.821376,Warning: No quote information available at 03/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-31T15:00:00Z,MEXX,23.78424,83,Market,Filled,1974.09192,Warning: No quote information available at 03/31/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-31T16:00:00Z,MEXX,24.7554298,174,Market,Filled,4307.4447852,Warning: No quote information available at 03/31/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-31T20:00:00Z,MEXX,20.1670535,-176,Market On Open,Filled,-3549.401416, 
+2020-04-01T14:00:00Z,MEXX,19.039779625,-81,Market,Filled,-1542.222149625,Warning: No quote information available at 04/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-02T16:00:00Z,MEXX,21.14022532,167,Market,Filled,3530.41762844,Warning: No quote information available at 04/02/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-04-02T18:00:00Z,MEXX,19.81920899,-167,Market,Filled,-3309.80790133,Warning: No quote information available at 04/02/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-04-06T14:00:00Z,MEXX,19.2454142,176,Market,Filled,3387.1928992,Warning: No quote information available at 04/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-07T14:00:00Z,MEXX,22.533188976,68,Market,Filled,1532.256850368,Warning: No quote information available at 04/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-15T14:00:00Z,MEXX,20.3949858,-244,Market,Filled,-4976.3765352,Warning: No quote information available at 04/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-17T14:00:00Z,MEXX,21.5643776,232,Market,Filled,5002.9356032,Warning: No quote information available at 04/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-20T14:00:00Z,MEXX,20.2265141,-73,Market,Filled,-1476.5355293,Warning: No quote information available at 04/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-21T14:00:00Z,MEXX,18.6805385,-159,Market,Filled,-2970.2056215,Warning: No quote information available at 04/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-24T19:00:00Z,MEXX,18.6607183,164,Market,Filled,3060.3578012,Warning: No quote information available at 04/24/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-27T14:00:00Z,MEXX,19.0769425,73,Market,Filled,1392.6168025,Warning: No quote information available at 04/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-01T14:00:00Z,MEXX,20.8508504,-237,Market,Filled,-4941.6515448,Warning: No quote information available at 05/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-04T19:00:00Z,MEXX,22.532693471,69,Market,Filled,1554.755849499,Warning: No quote information available at 05/04/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T14:00:00Z,MEXX,25.0428227,134,Market,Filled,3355.7382418,Warning: No quote information available at 05/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-12T20:00:00Z,MEXX,25.2311146,-139,Market On Open,Filled,-3507.1249294, 
+2020-05-13T16:00:00Z,MEXX,23.249193701,-64,Market,Filled,-1487.948396864,Warning: No quote information available at 05/13/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-05-18T14:00:00Z,MEXX,25.05768785,199,Market,Filled,4986.47988215,Warning: No quote information available at 05/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-19T20:00:00Z,MEXX,24.4283965,-62,Market On Open,Filled,-1514.560583, 
+2020-05-20T14:00:00Z,MEXX,23.704860099,65,Market,Filled,1540.815906435,Warning: No quote information available at 05/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-29T15:00:00Z,MEXX,27.7185497,-139,Market,Filled,-3852.8784083,Warning: No quote information available at 05/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-01T15:00:00Z,MEXX,30.627857757,124,Market,Filled,3797.854361868,Warning: No quote information available at 06/01/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-10T14:00:00Z,MEXX,35.349921306,-187,Market,Filled,-6610.435284222,Warning: No quote information available at 06/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-16T14:00:00Z,MEXX,32.49620891,202,Market,Filled,6564.23419982,Warning: No quote information available at 06/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-16T15:00:00Z,MEXX,30.4735575,-64,Market,Filled,-1950.30768,Warning: No quote information available at 06/16/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-17T14:00:00Z,MEXX,31.3852867,62,Market,Filled,1945.8877754,Warning: No quote information available at 06/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-18T16:00:00Z,MEXX,28.800138014,-137,Market,Filled,-3945.618907918,Warning: No quote information available at 06/18/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-06-18T19:00:00Z,MEXX,28.3131557,-63,Market,Filled,-1783.7288091,Warning: No quote information available at 06/18/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-06-19T16:00:00Z,MEXX,29.988061701,131,Market,Filled,3928.436082831,Warning: No quote information available at 06/19/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-06-19T17:00:00Z,MEXX,30.225805,61,Market,Filled,1843.774105,Warning: No quote information available at 06/19/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-06-24T14:00:00Z,MEXX,29.8121286216,-192,Market,Filled,-5723.9286953472,Warning: No quote information available at 06/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-01T14:00:00Z,MEXX,28.318348155,202,Market,Filled,5720.30632731,Warning: No quote information available at 07/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-07T17:00:00Z,MEXX,28.933317537,-139,Market,Filled,-4021.731137643,Warning: No quote information available at 07/07/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-08T15:00:00Z,MEXX,28.0654171995,-63,Market,Filled,-1768.1212835685,Warning: No quote information available at 07/08/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-13T14:00:00Z,MEXX,27.395894082,144,Market,Filled,3945.008747808,Warning: No quote information available at 07/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-13T18:00:00Z,MEXX,26.37415221039,-144,Market,Filled,-3797.8779182962,Warning: No quote information available at 07/13/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-07-14T20:00:00Z,MEXX,27.356218638,148,Market On Open,Filled,4048.720358424, 
+2020-07-15T14:00:00Z,MEXX,27.415731804,58,Market,Filled,1590.112444632,Warning: No quote information available at 07/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-20T14:00:00Z,MEXX,25.9328620845,-206,Market,Filled,-5342.169589407,Warning: No quote information available at 07/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-20T17:00:00Z,MEXX,26.493277731,64,Market,Filled,1695.569774784,Warning: No quote information available at 07/20/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-07-21T14:00:00Z,MEXX,28.03377603291,130,Market,Filled,3644.3908842783,Warning: No quote information available at 07/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T14:00:00Z,MEXX,30.083905413,-133,Market,Filled,-4001.159419929,Warning: No quote information available at 07/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-30T15:00:00Z,MEXX,29.756583,-61,Market,Filled,-1815.151563,Warning: No quote information available at 07/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-05T14:00:00Z,MEXX,30.4062683955,191,Market,Filled,5807.5972635405,Warning: No quote information available at 08/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-19T20:00:00Z,MEXX,33.019888269,-131,Market On Open,Filled,-4325.605363239, 
+2020-08-20T14:00:00Z,MEXX,32.464432053,-60,Market,Filled,-1947.86592318,Warning: No quote information available at 08/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-25T20:00:00Z,MEXX,33.634857651,186,Market On Open,Filled,6256.083523086, 
+2020-08-26T15:00:00Z,MEXX,32.305730277,-186,Market,Filled,-6008.865831522,Warning: No quote information available at 08/26/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-28T15:00:00Z,MEXX,32.12282648016,128,Market,Filled,4111.7217894605,Warning: No quote information available at 08/28/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-28T16:00:00Z,MEXX,32.4197971785,58,Market,Filled,1880.348236353,Warning: No quote information available at 08/28/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-08-31T14:00:00Z,MEXX,30.94555686807,-186,Market,Filled,-5755.873577461,Warning: No quote information available at 08/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-01T16:00:00Z,MEXX,31.15970507706,127,Market,Filled,3957.2825447866,Warning: No quote information available at 09/01/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-03T16:00:00Z,MEXX,29.82928825113,-127,Market,Filled,-3788.3196078935,Warning: No quote information available at 09/03/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-09T14:00:00Z,MEXX,29.667313251,129,Market,Filled,3827.083409379,Warning: No quote information available at 09/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-09T20:00:00Z,MEXX,30.94684632,60,Market On Open,Filled,1856.8107792, 
+2020-09-17T14:00:00Z,MEXX,31.720517478,-131,Market,Filled,-4155.387789618,Warning: No quote information available at 09/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-18T14:00:00Z,MEXX,31.59286173693,-58,Market,Filled,-1832.3859807419,Warning: No quote information available at 09/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-24T18:00:00Z,MEXX,27.306624333,148,Market,Filled,4041.380401284,Warning: No quote information available at 09/24/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-28T14:00:00Z,MEXX,28.4224961955,65,Market,Filled,1847.4622527075,Warning: No quote information available at 09/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-13T15:00:00Z,MEXX,34.755688944,-147,Market,Filled,-5109.086274768,Warning: No quote information available at 10/13/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-15T17:00:00Z,MEXX,34.59292043499,-66,Market,Filled,-2283.1327487093,Warning: No quote information available at 10/15/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-10-16T14:00:00Z,MEXX,34.934228442,143,Market,Filled,4995.594667206,Warning: No quote information available at 10/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-16T16:00:00Z,MEXX,35.688061878,65,Market,Filled,2319.72402207,Warning: No quote information available at 10/16/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-19T15:00:00Z,MEXX,34.458123114,-66,Market,Filled,-2274.236125524,Warning: No quote information available at 10/19/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-10-19T20:00:00Z,MEXX,34.02169323,-142,Market On Open,Filled,-4831.08043866, 
+2020-10-20T14:00:00Z,MEXX,35.1276462315,203,Market,Filled,7130.9121849945,Warning: No quote information available at 10/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-26T14:00:00Z,MEXX,37.28747821425,-140,Market,Filled,-5220.246949995,Warning: No quote information available at 10/26/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-27T15:00:00Z,MEXX,36.27486169476,-63,Market,Filled,-2285.3162867699,Warning: No quote information available at 10/27/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T15:00:00Z,MEXX,31.83954381,160,Market,Filled,5094.3270096,Warning: No quote information available at 11/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T16:00:00Z,MEXX,30.53461845684,-160,Market,Filled,-4885.5389530944,Warning: No quote information available at 11/02/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T21:00:00Z,MEXX,33.09497404677,158,Market On Open,Filled,5229.0058993897, 
+2020-11-03T15:00:00Z,MEXX,33.2529815025,61,Market,Filled,2028.4318716525,Warning: No quote information available at 11/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T21:00:00Z,MEXX,45.13081755,-151,Market On Open,Filled,-6814.75345005, 
+2020-11-13T15:00:00Z,MEXX,45.507734268,147,Market,Filled,6689.636937396,Warning: No quote information available at 11/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-27T17:00:00Z,MEXX,54.2016159345,-148,Market,Filled,-8021.839158306,Warning: No quote information available at 11/27/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-30T15:00:00Z,MEXX,52.2773569005,-67,Market,Filled,-3502.5829123335,Warning: No quote information available at 11/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-01T15:00:00Z,MEXX,54.881057913,208,Market,Filled,11415.260045904,Warning: No quote information available at 12/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-07T15:00:00Z,MEXX,59.72701664316,-143,Market,Filled,-8540.9633799719,Warning: No quote information available at 12/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-08T16:00:00Z,MEXX,61.2995528661,139,Market,Filled,8520.6378483879,Warning: No quote information available at 12/08/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-08T18:00:00Z,MEXX,59.69220144105,-140,Market,Filled,-8356.908201747,Warning: No quote information available at 12/08/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-12-09T15:00:00Z,MEXX,59.2304784615,-64,Market,Filled,-3790.750621536,Warning: No quote information available at 12/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-10T16:00:00Z,MEXX,60.653835015,200,Market,Filled,12130.767003,Warning: No quote information available at 12/10/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-11T16:00:00Z,MEXX,58.13811429957,-63,Market,Filled,-3662.7012008729,Warning: No quote information available at 12/11/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-14T15:00:00Z,MEXX,59.27322875241,62,Market,Filled,3674.9401826494,Warning: No quote information available at 12/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T15:00:00Z,MEXX,56.220104148,-199,Market,Filled,-11187.800725452,Warning: No quote information available at 12/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-23T17:00:00Z,MEXX,58.35998121928,131,Market,Filled,7645.1575397257,Warning: No quote information available at 12/23/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-12-24T16:00:00Z,MEXX,59.66050072,60,Market,Filled,3579.6300432,Warning: No quote information available at 12/24/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-11T15:00:00Z,MEXX,67.31531025664,-131,Market,Filled,-8818.3056436198,Warning: No quote information available at 01/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-12T15:00:00Z,MEXX,71.433770912,122,Market,Filled,8714.920051264,Warning: No quote information available at 01/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-13T15:00:00Z,MEXX,67.98835217824,-182,Market,Filled,-12373.88009644,Warning: No quote information available at 01/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-14T18:00:00Z,MEXX,70.28225376,177,Market,Filled,12439.95891552,Warning: No quote information available at 01/14/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-01-15T15:00:00Z,MEXX,67.830316376,-177,Market,Filled,-12005.965998552,Warning: No quote information available at 01/15/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-15T19:00:00Z,MEXX,69.7184074304,118,Market,Filled,8226.7720767872,Warning: No quote information available at 01/15/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-01-19T15:00:00Z,MEXX,70.138314116,54,Market,Filled,3787.468962264,Warning: No quote information available at 01/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-19T21:00:00Z,MEXX,69.061248504,-55,Market On Open,Filled,-3798.36866772, 
+2021-01-20T15:00:00Z,MEXX,67.18884190736,-117,Market,Filled,-7861.0945031611,Warning: No quote information available at 01/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T20:00:00Z,MEXX,55.39055599792,144,Market,Filled,7976.2400637005,Warning: No quote information available at 02/01/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-02-02T16:00:00Z,MEXX,57.50011556664,64,Market,Filled,3680.007396265,Warning: No quote information available at 02/02/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-11T21:00:00Z,MEXX,57.139075232,-143,Market On Open,Filled,-8170.887758176, 
+2021-02-12T15:00:00Z,MEXX,57.03752333144,-65,Market,Filled,-3707.4390165436,Warning: No quote information available at 02/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-12T18:00:00Z,MEXX,59.193937736,63,Market,Filled,3729.218077368,Warning: No quote information available at 02/12/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-02-17T17:00:00Z,MEXX,59.397438612,137,Market,Filled,8137.449089844,Warning: No quote information available at 02/17/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T15:00:00Z,MEXX,57.73458828328,-63,Market,Filled,-3637.2790618466,Warning: No quote information available at 02/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T16:00:00Z,MEXX,56.93061092,-137,Market,Filled,-7799.49369604,Warning: No quote information available at 02/18/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-23T18:00:00Z,MEXX,56.617914452,138,Market,Filled,7813.272194376,Warning: No quote information available at 02/23/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-02-24T16:00:00Z,MEXX,56.637768196,64,Market,Filled,3624.817164544,Warning: No quote information available at 02/24/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-25T17:00:00Z,MEXX,54.240428608,-63,Market,Filled,-3417.147002304,Warning: No quote information available at 02/25/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-25T19:00:00Z,MEXX,52.602494728,-139,Market,Filled,-7311.746767192,Warning: No quote information available at 02/25/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T15:00:00Z,MEXX,55.089176164,196,Market,Filled,10797.478528144,Warning: No quote information available at 03/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-05T16:00:00Z,MEXX,55.7230069412,-135,Market,Filled,-7522.605937062,Warning: No quote information available at 03/05/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-08T15:00:00Z,MEXX,53.337083256,-61,Market,Filled,-3253.562078616,Warning: No quote information available at 03/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-08T20:00:00Z,MEXX,56.627841324,190,Market,Filled,10759.28985156,Warning: No quote information available at 03/08/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-08T21:00:00Z,MEXX,58.96561968,-130,Market On Open,Filled,-7665.5305584, 
+2021-03-09T15:00:00Z,MEXX,57.764468168,132,Market,Filled,7624.909798176,Warning: No quote information available at 03/09/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-19T20:00:00Z,MEXX,62.569074216,-192,Market On Open,Filled,-12013.262249472, 
+2021-03-25T20:00:00Z,MEXX,65.308630027,132,Market On Open,Filled,8620.739163564, 
+2021-03-26T14:00:00Z,MEXX,62.98514419151,53,Market,Filled,3338.21264215,Warning: No quote information available at 03/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-09T20:00:00Z,MEXX,69.419588341,-127,Market On Open,Filled,-8816.287719307, 
+2021-04-12T14:00:00Z,MEXX,68.992604748,-58,Market,Filled,-4001.571075384,Warning: No quote information available at 04/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-14T14:00:00Z,MEXX,70.452292845,181,Market,Filled,12751.865004945,Warning: No quote information available at 04/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-20T14:00:00Z,MEXX,74.066758609,-124,Market,Filled,-9184.278067516,Warning: No quote information available at 04/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-21T14:00:00Z,MEXX,76.55915121,120,Market,Filled,9187.0981452,Warning: No quote information available at 04/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-27T19:00:00Z,MEXX,75.56616611,-177,Market,Filled,-13375.21140147,Warning: No quote information available at 04/27/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-04-29T20:00:00Z,MEXX,74.235566076,120,Market On Open,Filled,8908.26792912, 
+2021-04-30T14:00:00Z,MEXX,74.2812433906,-120,Market,Filled,-8913.749206872,Warning: No quote information available at 04/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-05T14:00:00Z,MEXX,72.607070512,126,Market,Filled,9148.490884512,Warning: No quote information available at 05/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-06T14:00:00Z,MEXX,73.40026700988,57,Market,Filled,4183.8152195632,Warning: No quote information available at 05/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-12T15:00:00Z,MEXX,75.1302456511,-125,Market,Filled,-9391.2807063875,Warning: No quote information available at 05/12/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-12T16:00:00Z,MEXX,74.3060680181,-58,Market,Filled,-4309.7519450498,Warning: No quote information available at 05/12/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-05-14T14:00:00Z,MEXX,79.061473662,173,Market,Filled,13677.634943526,Warning: No quote information available at 05/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T15:00:00Z,MEXX,77.929470648,-119,Market,Filled,-9273.607007112,Warning: No quote information available at 05/19/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T16:00:00Z,MEXX,80.3811508599,116,Market,Filled,9324.2134997484,Warning: No quote information available at 05/19/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T19:00:00Z,MEXX,77.879821393,-117,Market,Filled,-9111.939102981,Warning: No quote information available at 05/19/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-05-20T16:00:00Z,MEXX,80.372213994,113,Market,Filled,9082.060181322,Warning: No quote information available at 05/20/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T17:00:00Z,MEXX,78.24722588,-166,Market,Filled,-12989.03949608,Warning: No quote information available at 05/25/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-05-27T15:00:00Z,MEXX,79.945230401,111,Market,Filled,8873.920574511,Warning: No quote information available at 05/27/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-27T20:00:00Z,MEXX,82.060288664,52,Market On Open,Filled,4267.135010528, 
+2021-06-03T14:00:00Z,MEXX,83.460397655,-112,Market,Filled,-9347.56453736,Warning: No quote information available at 06/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-03T18:00:00Z,MEXX,81.613445369,-51,Market,Filled,-4162.285713819,Warning: No quote information available at 06/03/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T14:00:00Z,MEXX,83.867521546,50,Market,Filled,4193.3760773,Warning: No quote information available at 06/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T17:00:00Z,MEXX,85.05364224795,108,Market,Filled,9185.7933627786,Warning: No quote information available at 06/04/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-06-04T18:00:00Z,MEXX,83.52762274627,-108,Market,Filled,-9020.9832565972,Warning: No quote information available at 06/04/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-07T14:00:00Z,MEXX,88.90185670449,101,Market,Filled,8979.0875271535,Warning: No quote information available at 06/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-11T18:00:00Z,MEXX,89.82622653408,-104,Market,Filled,-9341.9275595443,Warning: No quote information available at 06/11/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-11T19:00:00Z,MEXX,91.007084415,103,Market,Filled,9373.729694745,Warning: No quote information available at 06/11/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-14T15:00:00Z,MEXX,88.94574664591,-150,Market,Filled,-13341.861996887,Warning: No quote information available at 06/14/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-22T20:00:00Z,MEXX,80.9862065,115,Market On Open,Filled,9313.4137475, 
+2021-06-23T14:00:00Z,MEXX,81.15528,50,Market,Filled,4057.764,Warning: No quote information available at 06/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-30T14:00:00Z,MEXX,83.3731265,-165,Market,Filled,-13756.5658725,Warning: No quote information available at 06/30/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T14:00:00Z,MEXX,84.6063685,111,Market,Filled,9391.3069035,Warning: No quote information available at 07/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T16:00:00Z,MEXX,82.33382175,-111,Market,Filled,-9139.05421425,Warning: No quote information available at 07/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-02T14:00:00Z,MEXX,84.5307827,159,Market,Filled,13440.3944493,Warning: No quote information available at 07/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-06T14:00:00Z,MEXX,82.169721,-159,Market,Filled,-13064.985639,Warning: No quote information available at 07/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-09T16:00:00Z,MEXX,82.31393075,109,Market,Filled,8972.21845175,Warning: No quote information available at 07/09/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-12T17:00:00Z,MEXX,82.527759,50,Market,Filled,4126.38795,Warning: No quote information available at 07/12/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-13T15:00:00Z,MEXX,80.28107055,-109,Market,Filled,-8750.63668995,Warning: No quote information available at 07/13/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-07-13T17:00:00Z,MEXX,79.07169775,-50,Market,Filled,-3953.5848875,Warning: No quote information available at 07/13/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-14T18:00:00Z,MEXX,82.110048,155,Market,Filled,12727.05744,Warning: No quote information available at 07/14/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-07-19T14:00:00Z,MEXX,78.947279545,-155,Market,Filled,-12236.828329475,Warning: No quote information available at 07/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-22T14:00:00Z,MEXX,80.0314385,105,Market,Filled,8403.3010425,Warning: No quote information available at 07/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-22T20:00:00Z,MEXX,83.243835,47,Market On Open,Filled,3912.460245, 
+2021-08-02T17:00:00Z,MEXX,87.858547,-105,Market,Filled,-9225.147435,Warning: No quote information available at 08/02/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-08-03T15:00:00Z,MEXX,89.1812985,102,Market,Filled,9096.492447,Warning: No quote information available at 08/03/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-03T16:00:00Z,MEXX,87.8088195,-102,Market,Filled,-8956.499589,Warning: No quote information available at 08/03/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-03T18:00:00Z,MEXX,90.10623,100,Market,Filled,9010.623,Warning: No quote information available at 08/03/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-08-04T16:00:00Z,MEXX,87.3871303,-147,Market,Filled,-12845.9081541,Warning: No quote information available at 08/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-05T14:00:00Z,MEXX,89.231026,98,Market,Filled,8744.640548,Warning: No quote information available at 08/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-05T15:00:00Z,MEXX,89.5194455,46,Market,Filled,4117.894493,Warning: No quote information available at 08/05/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-08-06T18:00:00Z,MEXX,87.5502365,-144,Market,Filled,-12607.234056,Warning: No quote information available at 08/06/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-08-11T14:00:00Z,MEXX,87.3712175,144,Market,Filled,12581.45532,Warning: No quote information available at 08/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-17T14:00:00Z,MEXX,88.51495,-99,Market,Filled,-8762.98005,Warning: No quote information available at 08/17/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-17T20:00:00Z,MEXX,89.90732,98,Market On Open,Filled,8810.91736, 
+2021-08-19T14:00:00Z,MEXX,88.6243505,-143,Market,Filled,-12673.2821215,Warning: No quote information available at 08/19/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-23T17:00:00Z,MEXX,88.31604,98,Market,Filled,8654.97192,Warning: No quote information available at 08/23/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-08-23T19:00:00Z,MEXX,88.7914349,45,Market,Filled,3995.6145705,Warning: No quote information available at 08/23/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-09-03T17:00:00Z,MEXX,94.581705,-98,Market,Filled,-9269.00709,Warning: No quote information available at 09/03/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-09-07T14:00:00Z,MEXX,95.138653,97,Market,Filled,9228.449341,Warning: No quote information available at 09/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-08T14:00:00Z,MEXX,94.48225,-45,Market,Filled,-4251.70125,Warning: No quote information available at 09/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-08T16:00:00Z,MEXX,94.044747455,-97,Market,Filled,-9122.340503135,Warning: No quote information available at 09/08/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-10T14:00:00Z,MEXX,93.050098,98,Market,Filled,9118.909604,Warning: No quote information available at 09/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-10T20:00:00Z,MEXX,94.8303425,-98,Market On Open,Filled,-9293.373565, 
+2021-09-13T14:00:00Z,MEXX,94.8303425,142,Market,Filled,13465.908635,Warning: No quote information available at 09/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-17T16:00:00Z,MEXX,92.53193745,-142,Market,Filled,-13139.5351179,Warning: No quote information available at 09/17/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-22T20:00:00Z,MEXX,90.313593675,100,Market On Open,Filled,9031.3593675, 
+2021-09-23T16:00:00Z,MEXX,90.9535866,46,Market,Filled,4183.8649836,Warning: No quote information available at 09/23/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-09-27T14:00:00Z,MEXX,87.838656,-100,Market,Filled,-8783.8656,Warning: No quote information available at 09/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-27T17:00:00Z,MEXX,89.887429,98,Market,Filled,8808.968042,Warning: No quote information available at 09/27/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-09-28T14:00:00Z,MEXX,88.4652225,-99,Market,Filled,-8758.0570275,Warning: No quote information available at 09/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-28T15:00:00Z,MEXX,87.0131795,-45,Market,Filled,-3915.5930775,Warning: No quote information available at 09/28/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-01T14:00:00Z,MEXX,84.2881125,103,Market,Filled,8681.6755875,Warning: No quote information available at 10/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T15:00:00Z,MEXX,81.4039175,-103,Market,Filled,-8384.6035025,Warning: No quote information available at 10/04/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-07T14:00:00Z,MEXX,82.806233,149,Market,Filled,12338.128717,Warning: No quote information available at 10/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-07T20:00:00Z,MEXX,81.742163955,-47,Market On Open,Filled,-3841.881705885, 
+2021-10-11T14:00:00Z,MEXX,81.4436995,48,Market,Filled,3909.297576,Warning: No quote information available at 10/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-21T14:00:00Z,MEXX,89.882356795,-103,Market,Filled,-9257.882749885,Warning: No quote information available at 10/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-21T15:00:00Z,MEXX,87.9281655,-47,Market,Filled,-4132.6237785,Warning: No quote information available at 10/21/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-22T15:00:00Z,MEXX,90.90187,146,Market,Filled,13271.67302,Warning: No quote information available at 10/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-22T17:00:00Z,MEXX,88.355921455,-146,Market,Filled,-12899.96453243,Warning: No quote information available at 10/22/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T14:00:00Z,MEXX,89.6586825,99,Market,Filled,8876.2095675,Warning: No quote information available at 10/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T15:00:00Z,MEXX,90.1957395,45,Market,Filled,4058.8082775,Warning: No quote information available at 10/26/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T17:00:00Z,MEXX,88.753642,-46,Market,Filled,-4082.667532,Warning: No quote information available at 10/26/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-10-26T20:00:00Z,MEXX,85.92912,45,Market On Open,Filled,3866.8104, 
+2021-10-28T14:00:00Z,MEXX,87.222035,-143,Market,Filled,-12472.751005,Warning: No quote information available at 10/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-02T16:00:00Z,MEXX,83.005143,105,Market,Filled,8715.540015,Warning: No quote information available at 11/02/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-02T18:00:00Z,MEXX,80.9663155,-105,Market,Filled,-8501.4631275,Warning: No quote information available at 11/02/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-03T18:00:00Z,MEXX,82.507868,104,Market,Filled,8580.818272,Warning: No quote information available at 11/03/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-03T20:00:00Z,MEXX,85.9987385,46,Market On Open,Filled,3955.941971, 
+2021-11-10T16:00:00Z,MEXX,89.2409715,-103,Market,Filled,-9191.8200645,Warning: No quote information available at 11/10/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-10T21:00:00Z,MEXX,86.346831,-47,Market On Open,Filled,-4058.301057, 
+2021-11-30T16:00:00Z,MEXX,66.5851225,135,Market,Filled,8988.9915375,Warning: No quote information available at 11/30/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T15:00:00Z,MEXX,72.462913,57,Market,Filled,4130.386041,Warning: No quote information available at 12/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-13T17:00:00Z,MEXX,75.6753095,-192,Market,Filled,-14529.659424,Warning: No quote information available at 12/13/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-15T21:00:00Z,MEXX,81.1055525,183,Market On Open,Filled,14842.3161075, 
+2022-01-05T21:00:00Z,MEXX,95.61,-183,Market On Open,Filled,-17496.63, 
+2022-01-06T18:00:00Z,MEXX,96.8193,176,Market,Filled,17040.1968,Warning: No quote information available at 01/06/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-10T18:00:00Z,MEXX,94.88,-176,Market,Filled,-16698.88,Warning: No quote information available at 01/10/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-11T17:00:00Z,MEXX,95.99,55,Market,Filled,5279.45,Warning: No quote information available at 01/11/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-11T18:00:00Z,MEXX,95.33,-55,Market,Filled,-5243.15,Warning: No quote information available at 01/11/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-11T21:00:00Z,MEXX,97.3,173,Market On Open,Filled,16832.9, 
+2022-01-18T15:00:00Z,MEXX,98.21,-119,Market,Filled,-11686.99,Warning: No quote information available at 01/18/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-18T21:00:00Z,MEXX,96.29,-54,Market On Open,Filled,-5199.66, 
+2022-01-27T15:00:00Z,MEXX,83.22,137,Market,Filled,11401.14,Warning: No quote information available at 01/27/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-27T19:00:00Z,MEXX,78.33,-137,Market,Filled,-10731.21,Warning: No quote information available at 01/27/2022 14:00:00 America/New_York, order filled using TradeBar data 

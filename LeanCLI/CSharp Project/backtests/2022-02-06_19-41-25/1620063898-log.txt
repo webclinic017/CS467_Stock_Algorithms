@@ -1,0 +1,5 @@
+1975-01-01 00:00:00 Launching analysis for 1620063898 with LEAN Engine v2.5.0.0
+1975-01-01 00:00:00 Algorithm finished warming up.
+2022-02-05 00:00:00 Algorithm Id:(1620063898) completed in 1.87 seconds at 22k data points per second. Processing total of 40,988 data points.
+2022-02-05 00:00:00 Due to numerical precision issues in the factor file, data for the following symbols was adjust to a later starting date: [SPY, 1/1/1998]
+2022-02-05 00:00:00 The starting dates for the following symbols have been adjusted to match their map files first date: [SPY, 1998-01-02]

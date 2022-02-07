@@ -1,0 +1,6 @@
+1975-01-01 00:00:00 Launching analysis for 1255017950 with LEAN Engine v2.5.0.0
+1975-01-01 00:00:00 Algorithm finished warming up.
+1998-12-30 00:00:00 Order Error: id: 597, Insufficient buying power to complete order (Value:68840.72), Reason: Id: 597, Initial Margin: 34536.645, Free Margin: 33357.828600000023810165.
+2022-02-05 00:00:00 Algorithm Id:(1255017950) completed in 3.93 seconds at 12k data points per second. Processing total of 48,953 data points.
+2022-02-05 00:00:00 Due to numerical precision issues in the factor file, data for the following symbols was adjust to a later starting date: [SPY, 1/1/1998]
+2022-02-05 00:00:00 The starting dates for the following symbols have been adjusted to match their map files first date: [SPY, 1998-01-02]
