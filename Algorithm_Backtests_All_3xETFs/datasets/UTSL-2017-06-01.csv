@@ -1,0 +1,599 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2017-06-01T14:00:00Z,UTSL,25.34329096,373,Market,Filled,9453.04752808,Warning: No quote information available at 06/01/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-07T14:00:00Z,UTSL,25.780551966,-256,Market,Filled,-6599.821303296,Warning: No quote information available at 06/07/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-08T15:00:00Z,UTSL,25.146969692,-117,Market,Filled,-2942.195453964,Warning: No quote information available at 06/08/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-06-14T14:00:00Z,UTSL,25.8787126,369,Market,Filled,9549.2449494,Warning: No quote information available at 06/14/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-15T14:00:00Z,UTSL,25.057732752,-369,Market,Filled,-9246.303385488,Warning: No quote information available at 06/15/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-16T14:00:00Z,UTSL,26.021491704,356,Market,Filled,9263.651046624,Warning: No quote information available at 06/16/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-21T14:00:00Z,UTSL,25.450375288,-356,Market,Filled,-9060.333602528,Warning: No quote information available at 06/21/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-06-26T18:00:00Z,UTSL,25.646696556,241,Market,Filled,6180.853869996,Warning: No quote information available at 06/26/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-06-27T16:00:00Z,UTSL,25.12019861,-241,Market,Filled,-6053.96786501,Warning: No quote information available at 06/27/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-07-03T14:00:00Z,UTSL,23.763797122,257,Market,Filled,6107.295860354,Warning: No quote information available at 06/30/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-07-05T14:00:00Z,UTSL,22.603716902,-257,Market,Filled,-5809.155243814,Warning: No quote information available at 07/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-10T14:00:00Z,UTSL,22.657259066,261,Market,Filled,5913.544616226,Warning: No quote information available at 07/07/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-07-11T16:00:00Z,UTSL,22.309235,-261,Market,Filled,-5822.710335,Warning: No quote information available at 07/11/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-07-14T14:00:00Z,UTSL,22.987435744,372,Market,Filled,8551.326096768,Warning: No quote information available at 07/14/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-07-25T18:00:00Z,UTSL,24.013660554,-255,Market,Filled,-6123.48344127,Warning: No quote information available at 07/25/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-07-27T14:00:00Z,UTSL,24.201058128,252,Market,Filled,6098.666648256,Warning: No quote information available at 07/26/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-08-10T14:00:00Z,UTSL,25.575307004,-369,Market,Filled,-9437.288284476,Warning: No quote information available at 08/10/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-10T19:00:00Z,UTSL,26.110728644,361,Market,Filled,9425.973040484,Warning: No quote information available at 08/10/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-08-11T20:00:00Z,UTSL,26.396286852,-361,Market On Open,Filled,-9529.059553572, 
+2017-08-15T20:00:00Z,UTSL,26.41413424,360,Market On Open,Filled,9509.0883264, 
+2017-08-21T14:00:00Z,UTSL,26.387363158,-247,Market,Filled,-6517.678700026,Warning: No quote information available at 08/18/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-08-22T14:00:00Z,UTSL,26.833547858,243,Market,Filled,6520.552129494,Warning: No quote information available at 08/22/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-08-30T18:00:00Z,UTSL,27.44035905,-244,Market,Filled,-6695.4476082,Warning: No quote information available at 08/30/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-08-31T14:00:00Z,UTSL,27.2172667,-112,Market,Filled,-3048.3338704,Warning: No quote information available at 08/31/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-12T14:00:00Z,UTSL,28.136407182,346,Market,Filled,9735.196884972,Warning: No quote information available at 09/12/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-09-13T20:00:00Z,UTSL,27.17264823,-346,Market On Open,Filled,-9401.73628758, 
+2017-09-14T17:00:00Z,UTSL,27.17264823,346,Market,Filled,9401.73628758,Warning: No quote information available at 09/14/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-09-18T17:00:00Z,UTSL,26.690768754,-346,Market,Filled,-9235.005988884,Warning: No quote information available at 09/18/2017 13:00:00 America/New_York, order filled using TradeBar data 
+2017-10-06T16:00:00Z,UTSL,25.414680512,364,Market,Filled,9250.943706368,Warning: No quote information available at 10/06/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-10-16T15:00:00Z,UTSL,26.030415398,-250,Market,Filled,-6507.6038495,Warning: No quote information available at 10/16/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-10-16T20:00:00Z,UTSL,25.914407376,-114,Market On Open,Filled,-2954.242440864, 
+2017-10-18T14:00:00Z,UTSL,26.59260812,355,Market,Filled,9440.3758826,Warning: No quote information available at 10/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-25T14:00:00Z,UTSL,26.485523792,-355,Market,Filled,-9402.36094616,Warning: No quote information available at 10/25/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-10-26T14:00:00Z,UTSL,27.725917258,339,Market,Filled,9399.085950462,Warning: No quote information available at 10/26/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-01T16:00:00Z,UTSL,27.422511662,-232,Market,Filled,-6362.022705584,Warning: No quote information available at 11/01/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-11-02T14:00:00Z,UTSL,27.377893192,-107,Market,Filled,-2929.434571544,Warning: No quote information available at 11/01/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-11-03T18:00:00Z,UTSL,28.127483488,330,Market,Filled,9282.06955104,Warning: No quote information available at 11/03/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-11-17T15:00:00Z,UTSL,29.09124244,-330,Market,Filled,-9600.1100052,Warning: No quote information available at 11/17/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-22T15:00:00Z,UTSL,29.010929194,226,Market,Filled,6556.469997844,Warning: No quote information available at 11/22/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-11-27T15:00:00Z,UTSL,29.207250462,104,Market,Filled,3037.554048048,Warning: No quote information available at 11/27/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-01T19:00:00Z,UTSL,29.421419118,-226,Market,Filled,-6649.240720668,Warning: No quote information available at 12/01/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-12-05T15:00:00Z,UTSL,28.073941324,-104,Market,Filled,-2919.689897696,Warning: No quote information available at 12/05/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-08T15:00:00Z,UTSL,28.181025652,232,Market,Filled,6537.997951264,Warning: No quote information available at 12/07/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-12-11T15:00:00Z,UTSL,28.564744494,106,Market,Filled,3027.862916364,Warning: No quote information available at 12/08/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-12-12T19:00:00Z,UTSL,28.189949346,-232,Market,Filled,-6540.068248272,Warning: No quote information available at 12/12/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-12-12T20:00:00Z,UTSL,28.136407182,-106,Market,Filled,-2982.459161292,Warning: No quote information available at 12/12/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2017-12-15T15:00:00Z,UTSL,27.984704384,233,Market,Filled,6520.436121472,Warning: No quote information available at 12/14/2017 16:00:00 America/New_York, order filled using TradeBar data 
+2017-12-18T15:00:00Z,UTSL,28.15425457,106,Market,Filled,2984.35098442,Warning: No quote information available at 12/18/2017 10:00:00 America/New_York, order filled using TradeBar data 
+2017-12-18T16:00:00Z,UTSL,27.511748602,-339,Market,Filled,-9326.482776078,Warning: No quote information available at 12/18/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-12-26T16:00:00Z,UTSL,24.75910992,258,Market,Filled,6387.85035936,Warning: No quote information available at 12/26/2017 11:00:00 America/New_York, order filled using TradeBar data 
+2017-12-26T19:00:00Z,UTSL,24.454106392,-258,Market,Filled,-6309.159449136,Warning: No quote information available at 12/26/2017 14:00:00 America/New_York, order filled using TradeBar data 
+2017-12-27T17:00:00Z,UTSL,24.2208684,262,Market,Filled,6345.8675208,Warning: No quote information available at 12/27/2017 12:00:00 America/New_York, order filled using TradeBar data 
+2017-12-28T20:00:00Z,UTSL,24.427194316,120,Market,Filled,2931.26331792,Warning: No quote information available at 12/28/2017 15:00:00 America/New_York, order filled using TradeBar data 
+2018-01-02T15:00:00Z,UTSL,24.005571792,-382,Market,Filled,-9170.128424544,Warning: No quote information available at 01/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-08T16:00:00Z,UTSL,23.072619824,272,Market,Filled,6275.752592128,Warning: No quote information available at 01/08/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-09T15:00:00Z,UTSL,22.642026608,-272,Market,Filled,-6158.631237376,Warning: No quote information available at 01/09/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-16T15:00:00Z,UTSL,21.727016024,285,Market,Filled,6192.19956684,Warning: No quote information available at 01/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-01-16T16:00:00Z,UTSL,20.892741668,-285,Market,Filled,-5954.43137538,Warning: No quote information available at 01/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-17T16:00:00Z,UTSL,21.475836648,281,Market,Filled,6034.710098088,Warning: No quote information available at 01/17/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-18T16:00:00Z,UTSL,20.94656582,-281,Market,Filled,-5885.98499542,Warning: No quote information available at 01/18/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-18T20:00:00Z,UTSL,21.48480734,276,Market,Filled,5929.80682584,Warning: No quote information available at 01/18/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-01-18T21:00:00Z,UTSL,21.152891736,-276,Market On Open,Filled,-5838.198119136, 
+2018-01-19T16:00:00Z,UTSL,21.26054004,276,Market,Filled,5867.90905104,Warning: No quote information available at 01/19/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-01-19T21:00:00Z,UTSL,20.94656582,-276,Market On Open,Filled,-5781.25216632, 
+2018-01-22T16:00:00Z,UTSL,21.493778032,396,Market,Filled,8511.536100672,Warning: No quote information available at 01/22/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-02T15:00:00Z,UTSL,21.009360664,-396,Market,Filled,-8319.706822944,Warning: No quote information available at 02/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-09T16:00:00Z,UTSL,18.560361748,307,Market,Filled,5698.031056636,Warning: No quote information available at 02/09/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-09T19:00:00Z,UTSL,17.995208152,-307,Market,Filled,-5524.528902664,Warning: No quote information available at 02/09/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-02-09T21:00:00Z,UTSL,19.215222264,294,Market On Open,Filled,5649.275345616, 
+2018-02-12T15:00:00Z,UTSL,18.937130812,132,Market,Filled,2499.701267184,Warning: No quote information available at 02/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-21T21:00:00Z,UTSL,19.574049944,-426,Market On Open,Filled,-8338.545276144, 
+2018-02-23T15:00:00Z,UTSL,19.789346552,288,Market,Filled,5699.331806976,Warning: No quote information available at 02/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-02-23T16:00:00Z,UTSL,20.282734612,129,Market,Filled,2616.472764948,Warning: No quote information available at 02/23/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-02-27T21:00:00Z,UTSL,19.82522932,-285,Market On Open,Filled,-5650.1903562, 
+2018-02-28T16:00:00Z,UTSL,19.717581016,-132,Market,Filled,-2602.720694112,Warning: No quote information available at 02/28/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-03-01T15:00:00Z,UTSL,20.112291464,411,Market,Filled,8266.151791704,Warning: No quote information available at 03/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-01T18:00:00Z,UTSL,19.349782644,-411,Market,Filled,-7952.760666684,Warning: No quote information available at 03/01/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-02T15:00:00Z,UTSL,19.663756864,277,Market,Filled,5446.860651328,Warning: No quote information available at 03/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-02T16:00:00Z,UTSL,19.2869878,-277,Market,Filled,-5342.4956206,Warning: No quote information available at 03/02/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-03-05T15:00:00Z,UTSL,19.55610856,275,Market,Filled,5377.929854,Warning: No quote information available at 03/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-03-05T17:00:00Z,UTSL,19.87008278,125,Market,Filled,2483.7603475,Warning: No quote information available at 03/05/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-07T16:00:00Z,UTSL,19.134486036,-400,Market,Filled,-7653.7944144,Warning: No quote information available at 03/07/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-03-08T18:00:00Z,UTSL,19.520225792,124,Market,Filled,2420.507998208,Warning: No quote information available at 03/08/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-03-09T15:00:00Z,UTSL,19.547137868,268,Market,Filled,5238.632948624,Warning: No quote information available at 03/08/2018 16:00:00 America/New_York, order filled using TradeBar data 
+2018-03-20T18:00:00Z,UTSL,20.46060641,-269,Market,Filled,-5503.90312429,Warning: No quote information available at 03/20/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-03-21T19:00:00Z,UTSL,20.163161471,-123,Market,Filled,-2480.068860933,Warning: No quote information available at 03/21/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-03-22T16:00:00Z,UTSL,21.27181988,374,Market,Filled,7955.66063512,Warning: No quote information available at 03/22/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-03-23T18:00:00Z,UTSL,20.37047158,-117,Market,Filled,-2383.34517486,Warning: No quote information available at 03/23/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-03-23T20:00:00Z,UTSL,20.217242369,-257,Market On Open,Filled,-5195.831288833, 
+2018-03-26T20:00:00Z,UTSL,20.469619893,257,Market On Open,Filled,5260.692312501, 
+2018-03-27T14:00:00Z,UTSL,20.307377199,115,Market,Filled,2335.348377885,Warning: No quote information available at 03/27/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-02T18:00:00Z,UTSL,20.812132247,-255,Market,Filled,-5307.093722985,Warning: No quote information available at 04/02/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-03T20:00:00Z,UTSL,20.91128056,250,Market On Open,Filled,5227.82014, 
+2018-04-04T17:00:00Z,UTSL,20.812132247,-250,Market,Filled,-5203.03306175,Warning: No quote information available at 04/04/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-04T18:00:00Z,UTSL,20.694956968,-117,Market,Filled,-2421.309965256,Warning: No quote information available at 04/04/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-04-04T20:00:00Z,UTSL,21.136617635,361,Market On Open,Filled,7630.318966235, 
+2018-04-05T14:00:00Z,UTSL,20.767064832,-112,Market,Filled,-2325.911261184,Warning: No quote information available at 04/05/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-05T17:00:00Z,UTSL,21.36195471,112,Market,Filled,2392.53892752,Warning: No quote information available at 04/05/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-10T17:00:00Z,UTSL,20.91128056,-247,Market,Filled,-5165.08629832,Warning: No quote information available at 04/10/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-11T14:00:00Z,UTSL,20.767064832,-114,Market,Filled,-2367.445390848,Warning: No quote information available at 04/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-13T17:00:00Z,UTSL,20.676930002,249,Market,Filled,5148.555570498,Warning: No quote information available at 04/13/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-13T20:00:00Z,UTSL,20.631862587,-249,Market On Open,Filled,-5137.333784163, 
+2018-04-16T14:00:00Z,UTSL,20.974374941,359,Market,Filled,7529.800603819,Warning: No quote information available at 04/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-19T16:00:00Z,UTSL,21.190698533,-246,Market,Filled,-5212.911839118,Warning: No quote information available at 04/19/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-04-20T17:00:00Z,UTSL,20.902267077,-113,Market,Filled,-2361.956179701,Warning: No quote information available at 04/20/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-04-23T14:00:00Z,UTSL,21.36195471,242,Market,Filled,5169.59303982,Warning: No quote information available at 04/23/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-23T15:00:00Z,UTSL,21.082536737,-242,Market,Filled,-5101.973890354,Warning: No quote information available at 04/23/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-04-24T14:00:00Z,UTSL,21.280833363,241,Market,Filled,5128.680840483,Warning: No quote information available at 04/24/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-04-24T18:00:00Z,UTSL,21.767561445,108,Market,Filled,2350.89663606,Warning: No quote information available at 04/24/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-02T16:00:00Z,UTSL,22.317383908,-239,Market,Filled,-5333.854754012,Warning: No quote information available at 05/02/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-05-03T14:00:00Z,UTSL,21.983885037,-110,Market,Filled,-2418.22735407,Warning: No quote information available at 05/03/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-03T18:00:00Z,UTSL,22.5337075,344,Market,Filled,7751.59538,Warning: No quote information available at 05/03/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-05-03T19:00:00Z,UTSL,22.326397391,-236,Market,Filled,-5269.029784276,Warning: No quote information available at 05/03/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-05-04T14:00:00Z,UTSL,22.71397716,232,Market,Filled,5269.64270112,Warning: No quote information available at 05/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-07T20:00:00Z,UTSL,21.6323592,-107,Market On Open,Filled,-2314.6624344, 
+2018-05-08T14:00:00Z,UTSL,21.407022125,-233,Market,Filled,-4987.836155125,Warning: No quote information available at 05/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-11T14:00:00Z,UTSL,21.00141539,238,Market,Filled,4998.33686282,Warning: No quote information available at 05/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-14T14:00:00Z,UTSL,21.109577186,110,Market,Filled,2322.05349046,Warning: No quote information available at 05/14/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-14T17:00:00Z,UTSL,20.586795172,-110,Market,Filled,-2264.54746892,Warning: No quote information available at 05/14/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-05-15T14:00:00Z,UTSL,19.91979743,-238,Market,Filled,-4740.91178834,Warning: No quote information available at 05/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-05-21T19:00:00Z,UTSL,19.676433389,244,Market,Filled,4801.049746916,Warning: No quote information available at 05/21/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-05-22T14:00:00Z,UTSL,19.883743498,111,Market,Filled,2207.095528278,Warning: No quote information available at 05/22/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-01T16:00:00Z,UTSL,20.433565961,-355,Market,Filled,-7253.915916155,Warning: No quote information available at 06/01/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-06-11T14:00:00Z,UTSL,18.730017674,264,Market,Filled,4944.724665936,Warning: No quote information available at 06/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-12T14:00:00Z,UTSL,19.01844913,121,Market,Filled,2301.23234473,Warning: No quote information available at 06/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-06-29T15:00:00Z,UTSL,22.835916411,-265,Market,Filled,-6051.517848915,Warning: No quote information available at 06/29/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-06-29T16:00:00Z,UTSL,23.434237365,254,Market,Filled,5952.29629071,Warning: No quote information available at 06/29/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-09T16:00:00Z,UTSL,23.987230974,-256,Market,Filled,-6140.731129344,Warning: No quote information available at 07/09/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-07-09T18:00:00Z,UTSL,23.11694595,-118,Market,Filled,-2727.7996221,Warning: No quote information available at 07/09/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-07-11T15:00:00Z,UTSL,23.960034567,370,Market,Filled,8865.21278979,Warning: No quote information available at 07/11/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-18T15:00:00Z,UTSL,23.5702194,-370,Market,Filled,-8720.981178,Warning: No quote information available at 07/18/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-19T14:00:00Z,UTSL,24.059754726,363,Market,Filled,8733.690965538,Warning: No quote information available at 07/19/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-20T15:00:00Z,UTSL,23.144142357,-363,Market,Filled,-8401.323675591,Warning: No quote information available at 07/20/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-25T14:00:00Z,UTSL,23.552088462,357,Market,Filled,8408.095580934,Warning: No quote information available at 07/25/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-07-30T15:00:00Z,UTSL,23.397975489,-245,Market,Filled,-5732.503994805,Warning: No quote information available at 07/30/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-07-31T14:00:00Z,UTSL,23.996296443,239,Market,Filled,5735.114849877,Warning: No quote information available at 07/31/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-01T14:00:00Z,UTSL,23.425171896,-351,Market,Filled,-8222.235335496,Warning: No quote information available at 08/01/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-02T14:00:00Z,UTSL,24.304522389,338,Market,Filled,8214.928567482,Warning: No quote information available at 08/02/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-07T15:00:00Z,UTSL,24.358915203,-232,Market,Filled,-5651.268327096,Warning: No quote information available at 08/07/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-07T17:00:00Z,UTSL,24.730599432,229,Market,Filled,5663.307269928,Warning: No quote information available at 08/07/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-08-08T14:00:00Z,UTSL,24.268260513,-230,Market,Filled,-5581.69991799,Warning: No quote information available at 08/08/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-10T14:00:00Z,UTSL,25.356116793,220,Market,Filled,5578.34569446,Warning: No quote information available at 08/10/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-10T20:00:00Z,UTSL,24.494897238,-103,Market On Open,Filled,-2522.974415514, 
+2018-08-13T16:00:00Z,UTSL,24.322653327,-222,Market,Filled,-5399.629038594,Warning: No quote information available at 08/13/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-14T16:00:00Z,UTSL,24.721533963,321,Market,Filled,7935.612402123,Warning: No quote information available at 08/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-21T15:00:00Z,UTSL,25.65527727,-220,Market,Filled,-5644.1609994,Warning: No quote information available at 08/21/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-22T16:00:00Z,UTSL,25.11134913,-101,Market,Filled,-2536.24626213,Warning: No quote information available at 08/22/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-08-24T20:00:00Z,UTSL,25.537426173,220,Market On Open,Filled,5618.23375806, 
+2018-08-27T15:00:00Z,UTSL,24.685272087,-220,Market,Filled,-5430.75985914,Warning: No quote information available at 08/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-08-29T14:00:00Z,UTSL,25.002563502,319,Market,Filled,7975.817757138,Warning: No quote information available at 08/29/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-08-31T18:00:00Z,UTSL,24.74873037,-219,Market,Filled,-5419.97195103,Warning: No quote information available at 08/31/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-09-04T14:00:00Z,UTSL,25.47396789,213,Market,Filled,5425.95516057,Warning: No quote information available at 09/04/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-11T18:00:00Z,UTSL,25.872848526,-215,Market,Filled,-5562.66243309,Warning: No quote information available at 09/11/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-09-12T14:00:00Z,UTSL,25.682473677,-98,Market,Filled,-2516.882420346,Warning: No quote information available at 09/12/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-12T16:00:00Z,UTSL,26.008830561,212,Market,Filled,5513.872078932,Warning: No quote information available at 09/12/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-09-12T17:00:00Z,UTSL,25.809390243,-212,Market,Filled,-5471.590731516,Warning: No quote information available at 09/12/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-13T14:00:00Z,UTSL,25.990699623,211,Market,Filled,5484.037620453,Warning: No quote information available at 09/13/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-09-13T16:00:00Z,UTSL,26.10855072,97,Market,Filled,2532.52941984,Warning: No quote information available at 09/13/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-09-14T15:00:00Z,UTSL,25.573688049,-308,Market,Filled,-7876.695919092,Warning: No quote information available at 09/14/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-09-14T20:00:00Z,UTSL,26.181074472,302,Market On Open,Filled,7906.684490544, 
+2018-09-19T15:00:00Z,UTSL,25.247331165,-302,Market,Filled,-7624.69401183,Warning: No quote information available at 09/19/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-09-27T17:00:00Z,UTSL,23.375134188,223,Market,Filled,5212.654923924,Warning: No quote information available at 09/27/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-09-27T20:00:00Z,UTSL,23.320434186,-223,Market On Open,Filled,-5200.456823478, 
+2018-09-28T14:00:00Z,UTSL,23.849200872,319,Market,Filled,7607.895078168,Warning: No quote information available at 09/28/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-03T19:00:00Z,UTSL,23.593934196,-219,Market,Filled,-5167.071588924,Warning: No quote information available at 10/03/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-10-04T20:00:00Z,UTSL,24.387084225,211,Market On Open,Filled,5145.674771475, 
+2018-10-11T14:00:00Z,UTSL,25.745467608,-213,Market,Filled,-5483.784600504,Warning: No quote information available at 10/11/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-11T18:00:00Z,UTSL,25.007017581,-98,Market,Filled,-2450.687722938,Warning: No quote information available at 10/11/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-10-15T15:00:00Z,UTSL,25.189350921,215,Market,Filled,5415.710448015,Warning: No quote information available at 10/15/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-16T15:00:00Z,UTSL,25.5266676,98,Market,Filled,2501.6134248,Warning: No quote information available at 10/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-23T16:00:00Z,UTSL,25.645184271,-214,Market,Filled,-5488.069433994,Warning: No quote information available at 10/23/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-24T16:00:00Z,UTSL,27.249717663,201,Market,Filled,5477.193250263,Warning: No quote information available at 10/24/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-10-26T15:00:00Z,UTSL,25.43550093,-300,Market,Filled,-7630.650279,Warning: No quote information available at 10/26/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-30T14:00:00Z,UTSL,26.565967638,288,Market,Filled,7650.998679744,Warning: No quote information available at 10/30/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-30T17:00:00Z,UTSL,25.471967598,-90,Market,Filled,-2292.47708382,Warning: No quote information available at 10/30/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-10-30T20:00:00Z,UTSL,25.572250935,88,Market On Open,Filled,2250.35808228, 
+2018-10-31T14:00:00Z,UTSL,25.225817589,-89,Market,Filled,-2245.097765421,Warning: No quote information available at 10/31/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-10-31T15:00:00Z,UTSL,25.016134248,-197,Market,Filled,-4928.178446856,Warning: No quote information available at 10/31/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-10-31T18:00:00Z,UTSL,25.772817609,192,Market,Filled,4948.380980928,Warning: No quote information available at 10/31/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-11-01T15:00:00Z,UTSL,24.997900914,-192,Market,Filled,-4799.596975488,Warning: No quote information available at 11/01/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-05T17:00:00Z,UTSL,25.736350941,276,Market,Filled,7103.232859716,Warning: No quote information available at 11/05/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-14T17:00:00Z,UTSL,26.319817629,-88,Market,Filled,-2316.143951352,Warning: No quote information available at 11/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-15T15:00:00Z,UTSL,25.499317599,-188,Market,Filled,-4793.871708612,Warning: No quote information available at 11/15/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-16T15:00:00Z,UTSL,26.538617637,183,Market,Filled,4856.567027571,Warning: No quote information available at 11/16/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-16T16:00:00Z,UTSL,26.89416765,83,Market,Filled,2232.21591495,Warning: No quote information available at 11/16/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-11-21T15:00:00Z,UTSL,26.4383343,-182,Market,Filled,-4811.7768426,Warning: No quote information available at 11/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-11-21T17:00:00Z,UTSL,26.119250955,-84,Market,Filled,-2194.01708022,Warning: No quote information available at 11/21/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-11-26T21:00:00Z,UTSL,26.091900954,183,Market On Open,Filled,4774.817874582, 
+2018-11-27T16:00:00Z,UTSL,26.374517631,85,Market,Filled,2241.833998635,Warning: No quote information available at 11/27/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-06T18:00:00Z,UTSL,27.350001,-184,Market,Filled,-5032.400184,Warning: No quote information available at 12/06/2018 13:00:00 America/New_York, order filled using TradeBar data 
+2018-12-06T21:00:00Z,UTSL,28.553401044,174,Market On Open,Filled,4968.291781656, 
+2018-12-10T16:00:00Z,UTSL,28.124917695,-176,Market,Filled,-4949.98551432,Warning: No quote information available at 12/10/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-10T19:00:00Z,UTSL,29.054817729,172,Market,Filled,4997.428649388,Warning: No quote information available at 12/10/2018 14:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T17:00:00Z,UTSL,29.191567734,-174,Market,Filled,-5079.332785716,Warning: No quote information available at 12/14/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-14T21:00:00Z,UTSL,31.078717803,171,Market On Open,Filled,5314.460744313, 
+2018-12-17T16:00:00Z,UTSL,28.817784387,-251,Market,Filled,-7233.263881137,Warning: No quote information available at 12/17/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-20T17:00:00Z,UTSL,27.094734324,177,Market,Filled,4795.767975348,Warning: No quote information available at 12/20/2018 12:00:00 America/New_York, order filled using TradeBar data 
+2018-12-21T15:00:00Z,UTSL,27.359117667,81,Market,Filled,2216.088531027,Warning: No quote information available at 12/21/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-21T20:00:00Z,UTSL,26.319817629,-81,Market,Filled,-2131.905227949,Warning: No quote information available at 12/21/2018 15:00:00 America/New_York, order filled using TradeBar data 
+2018-12-24T16:00:00Z,UTSL,23.356900854,-177,Market,Filled,-4134.171451158,Warning: No quote information available at 12/24/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2018-12-28T15:00:00Z,UTSL,24.368850891,177,Market,Filled,4313.286607707,Warning: No quote information available at 12/28/2018 10:00:00 America/New_York, order filled using TradeBar data 
+2018-12-31T16:00:00Z,UTSL,24.086234214,82,Market,Filled,1975.071205548,Warning: No quote information available at 12/31/2018 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-02T16:00:00Z,UTSL,22.955767506,-177,Market,Filled,-4063.170848562,Warning: No quote information available at 01/02/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-04T15:00:00Z,UTSL,22.7916675,-82,Market,Filled,-1868.916735,Warning: No quote information available at 01/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-04T16:00:00Z,UTSL,23.666867532,252,Market,Filled,5964.050618064,Warning: No quote information available at 01/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-14T15:00:00Z,UTSL,22.837250835,-252,Market,Filled,-5754.98721042,Warning: No quote information available at 01/14/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-01-16T16:00:00Z,UTSL,23.7033342,166,Market,Filled,3934.7534772,Warning: No quote information available at 01/16/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-17T16:00:00Z,UTSL,24.06800088,75,Market,Filled,1805.100066,Warning: No quote information available at 01/17/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-28T17:00:00Z,UTSL,24.131817549,-241,Market,Filled,-5815.768029309,Warning: No quote information available at 01/28/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T16:00:00Z,UTSL,24.687934236,161,Market,Filled,3974.757411996,Warning: No quote information available at 01/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-01-30T17:00:00Z,UTSL,24.751750905,75,Market,Filled,1856.381317875,Warning: No quote information available at 01/30/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-02-13T17:00:00Z,UTSL,27.459401004,-162,Market,Filled,-4448.422962648,Warning: No quote information available at 02/13/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-02-15T15:00:00Z,UTSL,27.942584355,158,Market,Filled,4414.92832809,Warning: No quote information available at 02/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-19T15:00:00Z,UTSL,27.568801008,-74,Market,Filled,-2040.091274592,Warning: No quote information available at 02/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-02-19T16:00:00Z,UTSL,28.088451027,72,Market,Filled,2022.368473944,Warning: No quote information available at 02/19/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-26T16:00:00Z,UTSL,28.71750105,-158,Market,Filled,-4537.3651659,Warning: No quote information available at 02/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-02-28T15:00:00Z,UTSL,29.337434406,154,Market,Filled,4517.964898524,Warning: No quote information available at 02/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-15T14:00:00Z,UTSL,31.580134488,-155,Market,Filled,-4894.92084564,Warning: No quote information available at 03/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-15T16:00:00Z,UTSL,32.300351181,151,Market,Filled,4877.353028331,Warning: No quote information available at 03/15/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-18T19:00:00Z,UTSL,31.662184491,-152,Market,Filled,-4812.652042632,Warning: No quote information available at 03/18/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-03-19T14:00:00Z,UTSL,31.324802165,-70,Market,Filled,-2192.73615155,Warning: No quote information available at 03/19/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-21T14:00:00Z,UTSL,31.4812881,152,Market,Filled,4785.1557912,Warning: No quote information available at 03/21/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-21T16:00:00Z,UTSL,31.81267008,70,Market,Filled,2226.8869056,Warning: No quote information available at 03/21/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-27T16:00:00Z,UTSL,32.4017936,-152,Market,Filled,-4925.0726272,Warning: No quote information available at 03/27/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-03-27T19:00:00Z,UTSL,32.9540969,149,Market,Filled,4910.1604381,Warning: No quote information available at 03/27/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-03-28T14:00:00Z,UTSL,32.27292283,-150,Market,Filled,-4840.9384245,Warning: No quote information available at 03/28/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-03-28T16:00:00Z,UTSL,31.453672935,-69,Market,Filled,-2170.303432515,Warning: No quote information available at 03/28/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-04-03T18:00:00Z,UTSL,31.711414475,151,Market,Filled,4788.423585725,Warning: No quote information available at 04/03/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-04-04T16:00:00Z,UTSL,30.65283315,-151,Market,Filled,-4628.57780565,Warning: No quote information available at 04/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-04-05T15:00:00Z,UTSL,31.38923755,149,Market,Filled,4676.99639495,Warning: No quote information available at 04/05/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-05T20:00:00Z,UTSL,31.693004365,68,Market On Open,Filled,2155.12429682, 
+2019-04-10T20:00:00Z,UTSL,31.195931395,-148,Market On Open,Filled,-4616.99784646, 
+2019-04-11T15:00:00Z,UTSL,31.416852715,148,Market,Filled,4649.69420182,Warning: No quote information available at 04/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-16T17:00:00Z,UTSL,31.16831623,-149,Market,Filled,-4644.07911827,Warning: No quote information available at 04/16/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-04-16T18:00:00Z,UTSL,30.882959525,-68,Market,Filled,-2100.0412477,Warning: No quote information available at 04/16/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T15:00:00Z,UTSL,30.7448837,150,Market,Filled,4611.732555,Warning: No quote information available at 04/23/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T17:00:00Z,UTSL,30.04529952,-150,Market,Filled,-4506.794928,Warning: No quote information available at 04/23/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-04-23T19:00:00Z,UTSL,30.61601293,148,Market,Filled,4531.16991364,Warning: No quote information available at 04/23/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-04-24T14:00:00Z,UTSL,30.83693425,68,Market,Filled,2096.911529,Warning: No quote information available at 04/24/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-04-29T15:00:00Z,UTSL,30.94739491,-148,Market,Filled,-4580.21444668,Warning: No quote information available at 04/29/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-04-30T15:00:00Z,UTSL,31.59174876,145,Market,Filled,4580.8035702,Warning: No quote information available at 04/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-06T18:00:00Z,UTSL,31.31559711,-146,Market,Filled,-4572.07717806,Warning: No quote information available at 05/06/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-05-07T15:00:00Z,UTSL,31.14990612,-67,Market,Filled,-2087.04371004,Warning: No quote information available at 05/07/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-05-10T17:00:00Z,UTSL,30.3766815,150,Market,Filled,4556.502225,Warning: No quote information available at 05/10/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-05-10T20:00:00Z,UTSL,30.98421513,67,Market On Open,Filled,2075.94241371, 
+2019-05-28T16:00:00Z,UTSL,33.386734485,-149,Market,Filled,-4974.623438265,Warning: No quote information available at 05/28/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-05-28T20:00:00Z,UTSL,32.503049205,-68,Market On Open,Filled,-2210.20734594, 
+2019-05-31T19:00:00Z,UTSL,31.693004365,155,Market,Filled,4912.415676575,Warning: No quote information available at 05/31/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-06-03T20:00:00Z,UTSL,32.78840591,69,Market On Open,Filled,2262.40000779, 
+2019-06-04T15:00:00Z,UTSL,31.1130859,-71,Market,Filled,-2209.0290989,Warning: No quote information available at 06/04/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-04T20:00:00Z,UTSL,32.908071625,68,Market On Open,Filled,2237.7488705, 
+2019-06-10T14:00:00Z,UTSL,33.72732152,-152,Market,Filled,-5126.55287104,Warning: No quote information available at 06/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-11T17:00:00Z,UTSL,32.9540969,-69,Market,Filled,-2273.8326861,Warning: No quote information available at 06/11/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T14:00:00Z,UTSL,33.96665295,148,Market,Filled,5027.0646366,Warning: No quote information available at 06/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-12T16:00:00Z,UTSL,34.50054614,68,Market,Filled,2346.03713752,Warning: No quote information available at 06/12/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-06-26T14:00:00Z,UTSL,35.27850291,-216,Market,Filled,-7620.15662856,Warning: No quote information available at 06/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-06-28T15:00:00Z,UTSL,34.714416756,150,Market,Filled,5207.1625134,Warning: No quote information available at 06/28/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-06-28T16:00:00Z,UTSL,34.113341346,-150,Market,Filled,-5117.0012019,Warning: No quote information available at 06/28/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-01T20:00:00Z,UTSL,34.159577916,150,Market On Open,Filled,5123.9366874, 
+2019-07-02T14:00:00Z,UTSL,34.621943616,69,Market,Filled,2388.914109504,Warning: No quote information available at 07/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-11T19:00:00Z,UTSL,35.962804146,-150,Market,Filled,-5394.4206219,Warning: No quote information available at 07/11/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-07-11T20:00:00Z,UTSL,36.813557034,146,Market On Open,Filled,5374.779326964, 
+2019-07-12T14:00:00Z,UTSL,35.898072948,-147,Market,Filled,-5277.016723356,Warning: No quote information available at 07/12/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-15T15:00:00Z,UTSL,36.462159102,145,Market,Filled,5287.01306979,Warning: No quote information available at 07/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-15T16:00:00Z,UTSL,35.870331006,-213,Market,Filled,-7640.380504278,Warning: No quote information available at 07/15/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-15T19:00:00Z,UTSL,36.38818059,66,Market,Filled,2401.61991894,Warning: No quote information available at 07/15/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-07-16T14:00:00Z,UTSL,35.814847122,-66,Market,Filled,-2363.779910052,Warning: No quote information available at 07/16/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-17T14:00:00Z,UTSL,36.415922532,209,Market,Filled,7610.927809188,Warning: No quote information available at 07/17/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-18T14:00:00Z,UTSL,35.676137412,-209,Market,Filled,-7456.312719108,Warning: No quote information available at 07/18/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-18T16:00:00Z,UTSL,36.11076117,141,Market,Filled,5091.61732497,Warning: No quote information available at 07/18/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-07-18T18:00:00Z,UTSL,36.5268903,64,Market,Filled,2337.7209792,Warning: No quote information available at 07/18/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-07-19T20:00:00Z,UTSL,35.999793402,-205,Market On Open,Filled,-7379.95764741, 
+2019-07-26T15:00:00Z,UTSL,34.927104978,212,Market,Filled,7404.546255336,Warning: No quote information available at 07/26/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-30T18:00:00Z,UTSL,33.928395066,-212,Market,Filled,-7192.819753992,Warning: No quote information available at 07/30/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-07-31T14:00:00Z,UTSL,34.705169442,65,Market,Filled,2255.83601373,Warning: No quote information available at 07/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-07-31T15:00:00Z,UTSL,34.76990064,142,Market,Filled,4937.32589088,Warning: No quote information available at 07/31/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-07-31T19:00:00Z,UTSL,33.678717588,-207,Market,Filled,-6971.494540716,Warning: No quote information available at 07/31/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-01T15:00:00Z,UTSL,34.6774275,201,Market,Filled,6970.1629275,Warning: No quote information available at 08/01/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-05T19:00:00Z,UTSL,33.724954158,-201,Market,Filled,-6778.715785758,Warning: No quote information available at 08/05/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-06T19:00:00Z,UTSL,34.566459732,197,Market,Filled,6809.592567204,Warning: No quote information available at 08/06/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-08-14T20:00:00Z,UTSL,35.028825432,-135,Market On Open,Filled,-4728.89143332, 
+2019-08-15T14:00:00Z,UTSL,35.028825432,-62,Market,Filled,-2171.787176784,Warning: No quote information available at 08/15/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-15T15:00:00Z,UTSL,35.999793402,191,Market,Filled,6875.960539782,Warning: No quote information available at 08/15/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-08-23T20:00:00Z,UTSL,37.54409484,-191,Market On Open,Filled,-7170.92211444, 
+2019-08-26T14:00:00Z,UTSL,37.692051864,60,Market,Filled,2261.52311184,Warning: No quote information available at 08/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-08-26T16:00:00Z,UTSL,37.766030376,130,Market,Filled,4909.58394888,Warning: No quote information available at 08/26/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-09-06T18:00:00Z,UTSL,39.402804954,-131,Market,Filled,-5161.767448974,Warning: No quote information available at 09/06/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-09-06T19:00:00Z,UTSL,39.20861136,-59,Market,Filled,-2313.30807024,Warning: No quote information available at 09/06/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T15:00:00Z,UTSL,39.143880162,130,Market,Filled,5088.70442106,Warning: No quote information available at 09/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-09-11T17:00:00Z,UTSL,39.80968677,59,Market,Filled,2348.77151943,Warning: No quote information available at 09/11/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-10-01T14:00:00Z,UTSL,43.1881213,-189,Market,Filled,-8162.5549257,Warning: No quote information available at 10/01/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-04T14:00:00Z,UTSL,42.9281756,129,Market,Filled,5537.7346524,Warning: No quote information available at 10/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-04T16:00:00Z,UTSL,43.104567325,60,Market,Filled,2586.2740395,Warning: No quote information available at 10/04/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-10-08T20:00:00Z,UTSL,42.324730225,-189,Market On Open,Filled,-7999.374012525, 
+2019-10-09T14:00:00Z,UTSL,42.807486525,59,Market,Filled,2525.641704975,Warning: No quote information available at 10/09/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-10T14:00:00Z,UTSL,41.916244125,-59,Market,Filled,-2473.058403375,Warning: No quote information available at 10/10/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-11T18:00:00Z,UTSL,42.770351425,127,Market,Filled,5431.834630975,Warning: No quote information available at 10/11/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-14T16:00:00Z,UTSL,41.5170418,-127,Market,Filled,-5272.6643086,Warning: No quote information available at 10/14/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-10-17T14:00:00Z,UTSL,41.1085557,130,Market,Filled,5344.112241,Warning: No quote information available at 10/17/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-10-18T17:00:00Z,UTSL,41.38706895,59,Market,Filled,2441.83706805,Warning: No quote information available at 10/18/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-10-25T15:00:00Z,UTSL,42.584675925,-130,Market,Filled,-5536.00787025,Warning: No quote information available at 10/25/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-25T18:00:00Z,UTSL,41.953379225,-59,Market,Filled,-2475.249374275,Warning: No quote information available at 10/25/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-10-30T15:00:00Z,UTSL,41.4056365,132,Market,Filled,5465.544018,Warning: No quote information available at 10/30/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-10-31T14:00:00Z,UTSL,42.2968789,60,Market,Filled,2537.812734,Warning: No quote information available at 10/31/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-04T15:00:00Z,UTSL,41.49847425,-132,Market,Filled,-5477.798601,Warning: No quote information available at 11/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-04T18:00:00Z,UTSL,41.043569275,-60,Market,Filled,-2462.6141565,Warning: No quote information available at 11/04/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-11-13T15:00:00Z,UTSL,37.831383125,144,Market,Filled,5447.71917,Warning: No quote information available at 11/13/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-13T16:00:00Z,UTSL,38.249153,65,Market,Filled,2486.194945,Warning: No quote information available at 11/13/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-22T15:00:00Z,UTSL,39.446759975,-143,Market,Filled,-5640.886676425,Warning: No quote information available at 11/22/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-25T15:00:00Z,UTSL,40.0316378,141,Market,Filled,5644.4609298,Warning: No quote information available at 11/25/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-11-25T16:00:00Z,UTSL,39.298219575,-207,Market,Filled,-8134.731452025,Warning: No quote information available at 11/25/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-11-26T15:00:00Z,UTSL,39.86452985,204,Market,Filled,8132.3640894,Warning: No quote information available at 11/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-02T15:00:00Z,UTSL,38.964003675,-204,Market,Filled,-7948.6567497,Warning: No quote information available at 12/02/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-04T15:00:00Z,UTSL,40.115191775,198,Market,Filled,7942.80797145,Warning: No quote information available at 12/04/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-09T19:00:00Z,UTSL,39.734557,-136,Market,Filled,-5403.899752,Warning: No quote information available at 12/09/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-12-10T16:00:00Z,UTSL,39.45604375,-62,Market,Filled,-2446.2747125,Warning: No quote information available at 12/10/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-11T16:00:00Z,UTSL,40.01307025,134,Market,Filled,5361.7514135,Warning: No quote information available at 12/11/2019 11:00:00 America/New_York, order filled using TradeBar data 
+2019-12-11T19:00:00Z,UTSL,39.5860166,-134,Market,Filled,-5304.5262244,Warning: No quote information available at 12/11/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-12-11T21:00:00Z,UTSL,40.030633798,133,Market On Open,Filled,5324.074295134, 
+2019-12-12T17:00:00Z,UTSL,40.078540253,62,Market,Filled,2484.869495686,Warning: No quote information available at 12/12/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-12T18:00:00Z,UTSL,39.609056994,-62,Market,Filled,-2455.761533628,Warning: No quote information available at 12/12/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-12-12T19:00:00Z,UTSL,39.302455682,-133,Market,Filled,-5227.226605706,Warning: No quote information available at 12/12/2019 14:00:00 America/New_York, order filled using TradeBar data 
+2019-12-13T17:00:00Z,UTSL,40.040215089,192,Market,Filled,7687.721297088,Warning: No quote information available at 12/13/2019 12:00:00 America/New_York, order filled using TradeBar data 
+2019-12-23T18:00:00Z,UTSL,42.243745842,-132,Market,Filled,-5576.174451144,Warning: No quote information available at 12/23/2019 13:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T15:00:00Z,UTSL,42.985371111,129,Market,Filled,5545.112873319,Warning: No quote information available at 12/26/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2019-12-26T20:00:00Z,UTSL,42.426744285,-130,Market,Filled,-5515.47675705,Warning: No quote information available at 12/26/2019 15:00:00 America/New_York, order filled using TradeBar data 
+2019-12-27T15:00:00Z,UTSL,42.869793147,129,Market,Filled,5530.203315963,Warning: No quote information available at 12/27/2019 10:00:00 America/New_York, order filled using TradeBar data 
+2020-01-02T17:00:00Z,UTSL,42.07480938462,-188,Market,Filled,-7910.0641643086,Warning: No quote information available at 01/02/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-06T19:00:00Z,UTSL,42.66762802497,127,Market,Filled,5418.7887591712,Warning: No quote information available at 01/06/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-01-07T16:00:00Z,UTSL,41.829591471,-127,Market,Filled,-5312.358116817,Warning: No quote information available at 01/07/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-01-08T17:00:00Z,UTSL,42.25983044199,126,Market,Filled,5324.7386356907,Warning: No quote information available at 01/08/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-01-09T15:00:00Z,UTSL,42.3448765605,58,Market,Filled,2456.002840509,Warning: No quote information available at 01/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-04T19:00:00Z,UTSL,52.212345237,-127,Market,Filled,-6630.967845099,Warning: No quote information available at 02/04/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-02-04T21:00:00Z,UTSL,51.547771944,-57,Market On Open,Filled,-2938.223000808, 
+2020-02-06T17:00:00Z,UTSL,52.742077572,123,Market,Filled,6487.275541356,Warning: No quote information available at 02/06/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-07T15:00:00Z,UTSL,52.58614363557,57,Market,Filled,2997.4101872275,Warning: No quote information available at 02/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-10T15:00:00Z,UTSL,51.49807341948,-180,Market,Filled,-9269.6532155064,Warning: No quote information available at 02/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-10T21:00:00Z,UTSL,52.520553141,121,Market On Open,Filled,6354.986930061, 
+2020-02-11T15:00:00Z,UTSL,53.17539862203,55,Market,Filled,2924.6469242117,Warning: No quote information available at 02/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-20T15:00:00Z,UTSL,55.57816817862,-121,Market,Filled,-6724.958349613,Warning: No quote information available at 02/20/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-02-21T17:00:00Z,UTSL,56.507992899,118,Market,Filled,6667.943162082,Warning: No quote information available at 02/21/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-02-24T15:00:00Z,UTSL,55.323318768,-173,Market,Filled,-9570.934146864,Warning: No quote information available at 02/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-02T21:00:00Z,UTSL,45.691821768,148,Market On Open,Filled,6762.389621664, 
+2020-03-03T16:00:00Z,UTSL,46.876495899,61,Market,Filled,2859.466249839,Warning: No quote information available at 03/03/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-03-06T15:00:00Z,UTSL,42.118536381,-143,Market,Filled,-6022.950702483,Warning: No quote information available at 03/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-09T14:00:00Z,UTSL,39.479506203,-66,Market,Filled,-2605.647409398,Warning: No quote information available at 03/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-03-17T16:00:00Z,UTSL,23.163750285,256,Market,Filled,5929.92007296,Warning: No quote information available at 03/17/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-03-19T20:00:00Z,UTSL,18.819945138,-256,Market On Open,Filled,-4817.905955328, 
+2020-03-24T17:00:00Z,UTSL,14.6265282207,356,Market,Filled,5207.0440465692,Warning: No quote information available at 03/24/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-03-25T17:00:00Z,UTSL,16.846391232,141,Market,Filled,2375.341163712,Warning: No quote information available at 03/25/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-04-01T14:00:00Z,UTSL,18.51708918653,-341,Market,Filled,-6314.3274126067,Warning: No quote information available at 04/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-01T15:00:00Z,UTSL,17.53867262169,-156,Market,Filled,-2736.0329289836,Warning: No quote information available at 04/01/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-04-06T14:00:00Z,UTSL,19.1091501469,471,Market,Filled,9000.4097191899,Warning: No quote information available at 04/06/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-15T15:00:00Z,UTSL,22.7533521391,-324,Market,Filled,-7372.0860930684,Warning: No quote information available at 04/15/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-04-16T14:00:00Z,UTSL,22.364364286,-147,Market,Filled,-3287.561550042,Warning: No quote information available at 04/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-17T14:00:00Z,UTSL,24.197189258,437,Market,Filled,10574.171705746,Warning: No quote information available at 04/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-20T19:00:00Z,UTSL,22.101139423,-437,Market,Filled,-9658.197927851,Warning: No quote information available at 04/20/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-04-22T16:00:00Z,UTSL,22.91031215,423,Market,Filled,9691.06203945,Warning: No quote information available at 04/22/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-04-23T16:00:00Z,UTSL,21.984150595,-133,Market,Filled,-2923.892029135,Warning: No quote information available at 04/23/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-04-27T14:00:00Z,UTSL,22.51069781169,131,Market,Filled,2948.9014133314,Warning: No quote information available at 04/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-04-30T14:00:00Z,UTSL,21.116483454,-421,Market,Filled,-8890.039534134,Warning: No quote information available at 04/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-05T14:00:00Z,UTSL,20.5461629175,297,Market,Filled,6102.2103864975,Warning: No quote information available at 05/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-06T16:00:00Z,UTSL,19.147171516,-297,Market,Filled,-5686.709940252,Warning: No quote information available at 05/06/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-05-08T14:00:00Z,UTSL,19.234913137,443,Market,Filled,8521.066519691,Warning: No quote information available at 05/08/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-11T14:00:00Z,UTSL,18.39590825886,-443,Market,Filled,-8149.387358675,Warning: No quote information available at 05/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-11T16:00:00Z,UTSL,18.80605159169,297,Market,Filled,5585.3973227319,Warning: No quote information available at 05/11/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-05-11T18:00:00Z,UTSL,19.351901965,132,Market,Filled,2554.45105938,Warning: No quote information available at 05/11/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-05-13T14:00:00Z,UTSL,18.14633209246,-429,Market,Filled,-7784.7764676653,Warning: No quote information available at 05/13/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-14T18:00:00Z,UTSL,18.9180683945,413,Market,Filled,7813.1622469285,Warning: No quote information available at 05/14/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-05-15T15:00:00Z,UTSL,17.792050925,-413,Market,Filled,-7348.117032025,Warning: No quote information available at 05/15/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-05-18T14:00:00Z,UTSL,19.907598898,370,Market,Filled,7365.81159226,Warning: No quote information available at 05/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-05-21T16:00:00Z,UTSL,19.283658482,-253,Market,Filled,-4878.765595946,Warning: No quote information available at 05/21/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-05-22T19:00:00Z,UTSL,19.449392655,251,Market,Filled,4881.797556405,Warning: No quote information available at 05/22/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-06-04T18:00:00Z,UTSL,23.670739532,-253,Market,Filled,-5988.697101596,Warning: No quote information available at 06/04/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-06-05T14:00:00Z,UTSL,25.172096158,235,Market,Filled,5915.44259713,Warning: No quote information available at 06/05/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-11T14:00:00Z,UTSL,23.29062333169,-350,Market,Filled,-8151.7181660915,Warning: No quote information available at 06/11/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-16T14:00:00Z,UTSL,23.65133888469,346,Market,Filled,8183.3632541027,Warning: No quote information available at 06/16/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-17T14:00:00Z,UTSL,21.83060275825,-109,Market,Filled,-2379.5357006492,Warning: No quote information available at 06/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-18T14:00:00Z,UTSL,22.247375458,108,Market,Filled,2402.716549464,Warning: No quote information available at 06/18/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-06-19T17:00:00Z,UTSL,21.769671077,-236,Market,Filled,-5137.642374172,Warning: No quote information available at 06/19/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-06-19T20:00:00Z,UTSL,20.492543038,-109,Market On Open,Filled,-2233.687191142, 
+2020-06-29T15:00:00Z,UTSL,19.058099651,265,Market,Filled,5050.396407515,Warning: No quote information available at 06/29/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-06-30T15:00:00Z,UTSL,19.8648175685,117,Market,Filled,2324.1836555145,Warning: No quote information available at 06/30/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-07T14:00:00Z,UTSL,19.6692495885,-262,Market,Filled,-5153.343392187,Warning: No quote information available at 07/07/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-08T19:00:00Z,UTSL,20.7487848381,248,Market,Filled,5145.6986398488,Warning: No quote information available at 07/08/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-07-09T14:00:00Z,UTSL,19.81093859001,-368,Market,Filled,-7290.4254011237,Warning: No quote information available at 07/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-10T14:00:00Z,UTSL,20.33906992,245,Market,Filled,4983.0721304,Warning: No quote information available at 07/10/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-10T15:00:00Z,UTSL,20.62919501833,112,Market,Filled,2310.469842053,Warning: No quote information available at 07/10/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-07-27T14:00:00Z,UTSL,22.9939052485,-357,Market,Filled,-8208.8241737145,Warning: No quote information available at 07/27/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-07-28T15:00:00Z,UTSL,24.1281995325,338,Market,Filled,8155.331441985,Warning: No quote information available at 07/28/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-03T14:00:00Z,UTSL,23.409487206,-231,Market,Filled,-5407.591544586,Warning: No quote information available at 08/03/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-04T15:00:00Z,UTSL,24.0626842592,225,Market,Filled,5414.10395832,Warning: No quote information available at 08/04/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-11T15:00:00Z,UTSL,24.211315924,-227,Market,Filled,-5495.968714748,Warning: No quote information available at 08/11/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-11T17:00:00Z,UTSL,23.7175067745,-105,Market,Filled,-2490.3382113225,Warning: No quote information available at 08/11/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-12T15:00:00Z,UTSL,24.553559889,325,Market,Filled,7979.906963925,Warning: No quote information available at 08/12/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-13T17:00:00Z,UTSL,23.98533712311,-222,Market,Filled,-5324.7448413304,Warning: No quote information available at 08/13/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-13T18:00:00Z,UTSL,24.38703375403,219,Market,Filled,5340.7603921326,Warning: No quote information available at 08/13/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-08-14T17:00:00Z,UTSL,23.614833585,-102,Market,Filled,-2408.71302567,Warning: No quote information available at 08/14/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-17T14:00:00Z,UTSL,23.63448816699,-220,Market,Filled,-5199.5873967378,Warning: No quote information available at 08/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T17:00:00Z,UTSL,22.7787804705,229,Market,Filled,5216.3407277445,Warning: No quote information available at 08/24/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-08-24T19:00:00Z,UTSL,23.09667622199,104,Market,Filled,2402.054327087,Warning: No quote information available at 08/24/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-08-25T15:00:00Z,UTSL,22.39253371,-105,Market,Filled,-2351.21603955,Warning: No quote information available at 08/25/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-08-26T14:00:00Z,UTSL,22.0942925405,-228,Market,Filled,-5037.498699234,Warning: No quote information available at 08/26/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-08-31T14:00:00Z,UTSL,22.451204104,329,Market,Filled,7386.446150216,Warning: No quote information available at 08/31/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-01T14:00:00Z,UTSL,21.75683999101,-104,Market,Filled,-2262.711359065,Warning: No quote information available at 09/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-01T15:00:00Z,UTSL,21.51560688768,-225,Market,Filled,-4841.011549728,Warning: No quote information available at 09/01/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-02T14:00:00Z,UTSL,22.5577886531,316,Market,Filled,7128.2612143796,Warning: No quote information available at 09/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-04T16:00:00Z,UTSL,21.649375386,-316,Market,Filled,-6841.202621976,Warning: No quote information available at 09/04/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-09-04T19:00:00Z,UTSL,22.773891271,301,Market,Filled,6854.941272571,Warning: No quote information available at 09/04/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-09-08T15:00:00Z,UTSL,21.4870539626,-301,Market,Filled,-6467.6032427426,Warning: No quote information available at 09/08/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-09-09T14:00:00Z,UTSL,23.360595211,277,Market,Filled,6470.884873447,Warning: No quote information available at 09/09/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-10T20:00:00Z,UTSL,21.766716174,-277,Market On Open,Filled,-6029.380380198, 
+2020-09-14T14:00:00Z,UTSL,22.519652897,269,Market,Filled,6057.786629293,Warning: No quote information available at 09/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-17T14:00:00Z,UTSL,22.284971321,-184,Market,Filled,-4100.434723064,Warning: No quote information available at 09/17/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-17T18:00:00Z,UTSL,22.1040709395,-85,Market,Filled,-1878.8460298575,Warning: No quote information available at 09/17/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-23T14:00:00Z,UTSL,21.281171697,192,Market,Filled,4085.984965824,Warning: No quote information available at 09/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-09-23T19:00:00Z,UTSL,20.57513522152,-192,Market,Filled,-3950.4259625318,Warning: No quote information available at 09/23/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-09-24T17:00:00Z,UTSL,21.0898471935,189,Market,Filled,3985.9811195715,Warning: No quote information available at 09/24/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-09-24T18:00:00Z,UTSL,21.4332501485,87,Market,Filled,1864.6927629195,Warning: No quote information available at 09/24/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-09-24T19:00:00Z,UTSL,20.8151248295,-87,Market,Filled,-1810.9158601665,Warning: No quote information available at 09/24/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-09-25T14:00:00Z,UTSL,21.398909853,84,Market,Filled,1797.508427652,Warning: No quote information available at 09/25/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-13T16:00:00Z,UTSL,27.20546136153,-188,Market,Filled,-5114.6267359676,Warning: No quote information available at 10/13/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-10-14T14:00:00Z,UTSL,28.00853370058,180,Market,Filled,5041.5360661044,Warning: No quote information available at 10/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-14T19:00:00Z,UTSL,27.22910710786,-182,Market,Filled,-4955.6974936305,Warning: No quote information available at 10/14/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-10-15T14:00:00Z,UTSL,26.96213583913,-83,Market,Filled,-2237.8572746478,Warning: No quote information available at 10/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-10-15T18:00:00Z,UTSL,27.992246589,257,Market,Filled,7194.007373373,Warning: No quote information available at 10/15/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-10-28T15:00:00Z,UTSL,27.96281205,-257,Market,Filled,-7186.44269685,Warning: No quote information available at 10/28/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T15:00:00Z,UTSL,26.8393938115,183,Market,Filled,4911.6090675045,Warning: No quote information available at 11/02/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-02T17:00:00Z,UTSL,27.903942972,81,Market,Filled,2260.219380732,Warning: No quote information available at 11/02/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T18:00:00Z,UTSL,30.1949312575,-181,Market,Filled,-5465.2825576075,Warning: No quote information available at 11/12/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T19:00:00Z,UTSL,29.69984231152,-83,Market,Filled,-2465.0869118562,Warning: No quote information available at 11/12/2020 14:00:00 America/New_York, order filled using TradeBar data 
+2020-11-12T21:00:00Z,UTSL,30.464747865,82,Market On Open,Filled,2498.10932493, 
+2020-11-13T21:00:00Z,UTSL,32.260254744,173,Market On Open,Filled,5581.024070712, 
+2020-11-17T21:00:00Z,UTSL,30.337198196,-255,Market On Open,Filled,-7735.98553998, 
+2020-11-24T15:00:00Z,UTSL,27.972623563,185,Market,Filled,5174.935359155,Warning: No quote information available at 11/24/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-11-24T17:00:00Z,UTSL,28.374895596,84,Market,Filled,2383.491230064,Warning: No quote information available at 11/24/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-27T17:00:00Z,UTSL,27.511482452,-184,Market,Filled,-5062.112771168,Warning: No quote information available at 11/27/2020 12:00:00 America/New_York, order filled using TradeBar data 
+2020-11-30T15:00:00Z,UTSL,27.25079055159,-85,Market,Filled,-2316.3171968852,Warning: No quote information available at 11/30/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-01T15:00:00Z,UTSL,27.62912249287,183,Market,Filled,5056.1294161952,Warning: No quote information available at 12/01/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-01T16:00:00Z,UTSL,28.06092718,83,Market,Filled,2329.05695594,Warning: No quote information available at 12/01/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-01T21:00:00Z,UTSL,26.863922594,-266,Market On Open,Filled,-7145.803410004, 
+2020-12-02T20:00:00Z,UTSL,27.128833445,181,Market,Filled,4910.318853545,Warning: No quote information available at 12/02/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-12-02T21:00:00Z,UTSL,27.746958764,81,Market On Open,Filled,2247.503659884, 
+2020-12-03T18:00:00Z,UTSL,26.9080744025,-83,Market,Filled,-2233.3701754075,Warning: No quote information available at 12/03/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-12-04T15:00:00Z,UTSL,26.579388717,-179,Market,Filled,-4757.710580343,Warning: No quote information available at 12/04/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-08T18:00:00Z,UTSL,26.5941059865,180,Market,Filled,4786.93907757,Warning: No quote information available at 12/08/2020 13:00:00 America/New_York, order filled using TradeBar data 
+2020-12-09T20:00:00Z,UTSL,25.637483469,-180,Market,Filled,-4614.74702442,Warning: No quote information available at 12/09/2020 15:00:00 America/New_York, order filled using TradeBar data 
+2020-12-14T15:00:00Z,UTSL,26.854111081,255,Market,Filled,6847.798325655,Warning: No quote information available at 12/14/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-14T21:00:00Z,UTSL,25.549179852,-255,Market On Open,Filled,-6515.04086226, 
+2020-12-15T15:00:00Z,UTSL,25.61501510423,174,Market,Filled,4457.012628136,Warning: No quote information available at 12/15/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-15T16:00:00Z,UTSL,26.128059119,79,Market,Filled,2064.116670401,Warning: No quote information available at 12/15/2020 11:00:00 America/New_York, order filled using TradeBar data 
+2020-12-21T15:00:00Z,UTSL,24.38268907143,-253,Market,Filled,-6168.8203350718,Warning: No quote information available at 12/21/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-23T15:00:00Z,UTSL,25.255035912,167,Market,Filled,4217.590997304,Warning: No quote information available at 12/23/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2020-12-23T21:00:00Z,UTSL,24.792092586,-167,Market On Open,Filled,-4140.279461862, 
+2020-12-24T18:00:00Z,UTSL,25.373234208,167,Market On Open,Filled,4237.330112736, 
+2020-12-28T15:00:00Z,UTSL,25.333834776,74,Market,Filled,1874.703773424,Warning: No quote information available at 12/28/2020 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-04T17:00:00Z,UTSL,25.126987758,-165,Market,Filled,-4145.95298007,Warning: No quote information available at 01/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-01-04T18:00:00Z,UTSL,24.77239287,-76,Market,Filled,-1882.70185812,Warning: No quote information available at 01/04/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-01-06T15:00:00Z,UTSL,26.121823416,231,Market,Filled,6034.141209096,Warning: No quote information available at 01/06/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-11T18:00:00Z,UTSL,25.2653782629,-158,Market,Filled,-3991.9297655382,Warning: No quote information available at 01/11/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-01-11T19:00:00Z,UTSL,24.90034252542,-73,Market,Filled,-1817.7250043557,Warning: No quote information available at 01/11/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-01-13T15:00:00Z,UTSL,25.65888009,155,Market,Filled,3977.12641395,Warning: No quote information available at 01/13/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-13T16:00:00Z,UTSL,26.097198771,70,Market,Filled,1826.80391397,Warning: No quote information available at 01/13/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-22T15:00:00Z,UTSL,26.308970718,-154,Market,Filled,-4051.581490572,Warning: No quote information available at 01/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-22T19:00:00Z,UTSL,26.95482590706,150,Market,Filled,4043.223886059,Warning: No quote information available at 01/22/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-01-27T17:00:00Z,UTSL,26.141523132,-221,Market,Filled,-5777.276612172,Warning: No quote information available at 01/27/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-01-28T17:00:00Z,UTSL,27.106809216,213,Market,Filled,5773.750363008,Warning: No quote information available at 01/28/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-01-28T21:00:00Z,UTSL,25.934676114,-67,Market On Open,Filled,-1737.623299638, 
+2021-01-29T15:00:00Z,UTSL,25.87744843902,-146,Market,Filled,-3778.1074720969,Warning: No quote information available at 01/29/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-01-29T16:00:00Z,UTSL,26.476418304,143,Market,Filled,3786.127817472,Warning: No quote information available at 01/29/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-01-29T18:00:00Z,UTSL,25.634255445,-143,Market,Filled,-3665.698528635,Warning: No quote information available at 01/29/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T16:00:00Z,UTSL,26.190772422,141,Market,Filled,3692.898911502,Warning: No quote information available at 02/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-01T17:00:00Z,UTSL,26.732514612,64,Market,Filled,1710.880935168,Warning: No quote information available at 02/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-02-09T16:00:00Z,UTSL,26.427169014,-205,Market,Filled,-5417.56964787,Warning: No quote information available at 02/09/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-02-09T20:00:00Z,UTSL,27.101884287,63,Market,Filled,1707.418710081,Warning: No quote information available at 02/09/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-02-10T15:00:00Z,UTSL,27.33335595,136,Market,Filled,3717.3364092,Warning: No quote information available at 02/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-12T15:00:00Z,UTSL,26.663565606,-199,Market,Filled,-5306.049555594,Warning: No quote information available at 02/12/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-18T15:00:00Z,UTSL,25.767228528,141,Market,Filled,3633.179222448,Warning: No quote information available at 02/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-02-19T19:00:00Z,UTSL,25.1457024882,-141,Market,Filled,-3545.5440508362,Warning: No quote information available at 02/19/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T15:00:00Z,UTSL,22.59793821792,158,Market,Filled,3570.4742384314,Warning: No quote information available at 03/01/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-01T16:00:00Z,UTSL,23.038817862,72,Market,Filled,1658.794886064,Warning: No quote information available at 03/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-02T15:00:00Z,UTSL,22.26067908,-73,Market,Filled,-1625.02957284,Warning: No quote information available at 03/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-02T19:00:00Z,UTSL,22.684222974,72,Market,Filled,1633.264054128,Warning: No quote information available at 03/02/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-03T15:00:00Z,UTSL,21.42344115,-229,Market,Filled,-4905.96802335,Warning: No quote information available at 03/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-03-05T19:00:00Z,UTSL,21.856834902,154,Market,Filled,3365.952574908,Warning: No quote information available at 03/05/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-03-05T20:00:00Z,UTSL,22.26067908,69,Market,Filled,1535.98685652,Warning: No quote information available at 03/05/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-17T20:00:00Z,UTSL,25.392933924,-153,Market On Open,Filled,-3885.118890372, 
+2021-03-18T15:00:00Z,UTSL,24.959540172,-70,Market,Filled,-1747.16781204,Warning: No quote information available at 03/18/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-19T19:00:00Z,UTSL,25.96688514966,147,Market,Filled,3817.132117,Warning: No quote information available at 03/19/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-03-19T20:00:00Z,UTSL,25.422483498,-147,Market On Open,Filled,-3737.105074206, 
+2021-03-22T15:00:00Z,UTSL,25.649030232,147,Market,Filled,3770.407444104,Warning: No quote information available at 03/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-03-23T15:00:00Z,UTSL,25.88648409,68,Market,Filled,1760.28091812,Warning: No quote information available at 03/23/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-04-22T19:00:00Z,UTSL,32.049226675,-148,Market,Filled,-4743.2855479,Warning: No quote information available at 04/22/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-04-23T14:00:00Z,UTSL,31.792239815,-67,Market,Filled,-2130.080067605,Warning: No quote information available at 04/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-29T14:00:00Z,UTSL,30.91749608,150,Market,Filled,4637.624412,Warning: No quote information available at 04/29/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-04-29T20:00:00Z,UTSL,31.21401938,69,Market On Open,Filled,2153.76733722, 
+2021-05-04T16:00:00Z,UTSL,31.06575773,-150,Market,Filled,-4659.8636595,Warning: No quote information available at 05/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-05-05T14:00:00Z,UTSL,30.5418999,-69,Market,Filled,-2107.3910931,Warning: No quote information available at 05/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-07T14:00:00Z,UTSL,30.9671143122,149,Market,Filled,4614.1000325178,Warning: No quote information available at 05/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-07T15:00:00Z,UTSL,31.3462687718,68,Market,Filled,2131.5462764824,Warning: No quote information available at 05/07/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-11T14:00:00Z,UTSL,30.2684065763,-217,Market,Filled,-6568.2442270571,Warning: No quote information available at 05/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-13T19:00:00Z,UTSL,30.4824963989,148,Market,Filled,4511.4094670372,Warning: No quote information available at 05/13/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-05-14T14:00:00Z,UTSL,30.7495650511,68,Market,Filled,2090.9704234748,Warning: No quote information available at 05/14/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-18T14:00:00Z,UTSL,29.5535877411,-148,Market,Filled,-4373.9309856828,Warning: No quote information available at 05/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-19T15:00:00Z,UTSL,28.8216693956,-68,Market,Filled,-1959.8735189008,Warning: No quote information available at 05/19/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-20T14:00:00Z,UTSL,30.26514482,209,Market,Filled,6325.41526738,Warning: No quote information available at 05/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T14:00:00Z,UTSL,29.99827385,-143,Market,Filled,-4289.75316055,Warning: No quote information available at 05/25/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-25T15:00:00Z,UTSL,29.785765485,-66,Market,Filled,-1965.86052201,Warning: No quote information available at 05/25/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-05-28T14:00:00Z,UTSL,29.597967395,145,Market,Filled,4291.705272275,Warning: No quote information available at 05/28/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-05-28T17:00:00Z,UTSL,29.3265497344,-145,Market,Filled,-4252.349711488,Warning: No quote information available at 05/28/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-05-28T19:00:00Z,UTSL,29.5239354111,144,Market,Filled,4251.4466991984,Warning: No quote information available at 05/28/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-01T15:00:00Z,UTSL,29.2573609644,-144,Market,Filled,-4213.0599788736,Warning: No quote information available at 06/01/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-02T16:00:00Z,UTSL,29.518894515,210,Market,Filled,6198.96784815,Warning: No quote information available at 06/02/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-06-08T14:00:00Z,UTSL,29.21742916,-144,Market,Filled,-4207.30979904,Warning: No quote information available at 06/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-08T15:00:00Z,UTSL,29.02963107,-66,Market,Filled,-1915.95565062,Warning: No quote information available at 06/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-09T15:00:00Z,UTSL,29.68198233,206,Market,Filled,6114.48835998,Warning: No quote information available at 06/09/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-06-16T19:00:00Z,UTSL,29.9094157011,-206,Market,Filled,-6161.3396344266,Warning: No quote information available at 06/16/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-06-22T14:00:00Z,UTSL,29.15039106,144,Market,Filled,4197.65631264,Warning: No quote information available at 06/22/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-23T14:00:00Z,UTSL,27.89127263799,-144,Market,Filled,-4016.3432598706,Warning: No quote information available at 06/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-06-25T17:00:00Z,UTSL,27.99022532601,146,Market,Filled,4086.5728975975,Warning: No quote information available at 06/25/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-06-25T20:00:00Z,UTSL,28.614975714,66,Market On Open,Filled,1888.588397124, 
+2021-06-29T18:00:00Z,UTSL,27.81165439302,-67,Market,Filled,-1863.3808443323,Warning: No quote information available at 06/29/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-06-29T19:00:00Z,UTSL,27.643296012,-145,Market,Filled,-4008.27792174,Warning: No quote information available at 06/29/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-07-01T16:00:00Z,UTSL,28.2927349965,208,Market,Filled,5884.888879272,Warning: No quote information available at 07/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-19T17:00:00Z,UTSL,29.2842448965,-143,Market,Filled,-4187.6470201995,Warning: No quote information available at 07/19/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-07-20T14:00:00Z,UTSL,30.776467296,135,Market,Filled,4154.82308496,Warning: No quote information available at 07/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-21T16:00:00Z,UTSL,29.715551703,-137,Market,Filled,-4071.030583311,Warning: No quote information available at 07/21/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-07-21T20:00:00Z,UTSL,29.269372248,-63,Market On Open,Filled,-1843.970451624, 
+2021-07-23T14:00:00Z,UTSL,29.864278188,136,Market,Filled,4061.541833568,Warning: No quote information available at 07/23/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-07-23T17:00:00Z,UTSL,30.24105195,62,Market,Filled,1874.9452209,Warning: No quote information available at 07/23/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-08-04T16:00:00Z,UTSL,31.044174969,-136,Market,Filled,-4222.007795784,Warning: No quote information available at 08/04/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-08-04T17:00:00Z,UTSL,31.00530778092,-62,Market,Filled,-1922.329082417,Warning: No quote information available at 08/04/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-08-04T19:00:00Z,UTSL,31.569675216,194,Market,Filled,6124.516991904,Warning: No quote information available at 08/04/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-08-24T14:00:00Z,UTSL,34.038534867,-194,Market,Filled,-6603.475764198,Warning: No quote information available at 08/24/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-27T14:00:00Z,UTSL,34.7028465,130,Market,Filled,4511.370045,Warning: No quote information available at 08/27/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-31T14:00:00Z,UTSL,34.811912589,59,Market,Filled,2053.902842751,Warning: No quote information available at 08/31/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-08-31T19:00:00Z,UTSL,34.187261352,-130,Market,Filled,-4444.34397576,Warning: No quote information available at 08/31/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-08-31T20:00:00Z,UTSL,34.692931401,129,Market On Open,Filled,4475.388150729, 
+2021-09-07T14:00:00Z,UTSL,34.821827688,-188,Market,Filled,-6546.503605344,Warning: No quote information available at 09/07/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-08T15:00:00Z,UTSL,36.259517043,180,Market,Filled,6526.71306774,Warning: No quote information available at 09/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-10T14:00:00Z,UTSL,34.6215426882,-180,Market,Filled,-6231.877683876,Warning: No quote information available at 09/10/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-21T14:00:00Z,UTSL,31.643727657,135,Market,Filled,4271.903233695,Warning: No quote information available at 09/21/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-09-21T18:00:00Z,UTSL,30.84711694473,-135,Market,Filled,-4164.3607875385,Warning: No quote information available at 09/21/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-09-22T15:00:00Z,UTSL,31.20640199579,135,Market,Filled,4212.8642694317,Warning: No quote information available at 09/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-23T20:00:00Z,UTSL,30.22209616,-135,Market On Open,Filled,-4079.9829816, 
+2021-09-27T15:00:00Z,UTSL,30.351335387,135,Market,Filled,4097.430277245,Warning: No quote information available at 09/27/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-09-27T17:00:00Z,UTSL,30.0819213061,-135,Market,Filled,-4061.0593763235,Warning: No quote information available at 09/27/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-09-29T16:00:00Z,UTSL,29.168299386,140,Market,Filled,4083.56191404,Warning: No quote information available at 09/29/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-04T14:00:00Z,UTSL,28.800464663,66,Market,Filled,1900.830667758,Warning: No quote information available at 10/04/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-11T14:00:00Z,UTSL,29.039060159,-141,Market,Filled,-4094.507482419,Warning: No quote information available at 10/11/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-11T16:00:00Z,UTSL,28.79062259879,-65,Market,Filled,-1871.3904689214,Warning: No quote information available at 10/11/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-13T16:00:00Z,UTSL,29.0639138565,140,Market,Filled,4068.94793991,Warning: No quote information available at 10/13/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-13T18:00:00Z,UTSL,29.635548899,64,Market,Filled,1896.675129536,Warning: No quote information available at 10/13/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-10-18T14:00:00Z,UTSL,29.516251151,-140,Market,Filled,-4132.27516114,Warning: No quote information available at 10/18/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-10-19T16:00:00Z,UTSL,30.42092574,135,Market,Filled,4106.8249749,Warning: No quote information available at 10/19/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-10-29T17:00:00Z,UTSL,32.419163019,-137,Market,Filled,-4441.425333603,Warning: No quote information available at 10/29/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-10-29T18:00:00Z,UTSL,32.081152733,-62,Market,Filled,-1989.031469446,Warning: No quote information available at 10/29/2021 14:00:00 America/New_York, order filled using TradeBar data 
+2021-11-01T17:00:00Z,UTSL,32.72724945321,196,Market,Filled,6414.5408928292,Warning: No quote information available at 11/01/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-11-02T15:00:00Z,UTSL,32.091094212,-62,Market,Filled,-1989.647841144,Warning: No quote information available at 11/02/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-03T14:00:00Z,UTSL,32.77715567779,61,Market,Filled,1999.4064963452,Warning: No quote information available at 11/03/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-03T16:00:00Z,UTSL,31.574137304,-195,Market,Filled,-6156.95677428,Warning: No quote information available at 11/03/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-05T14:00:00Z,UTSL,32.826763658,188,Market,Filled,6171.431567704,Warning: No quote information available at 11/05/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-08T15:00:00Z,UTSL,31.5830846351,-60,Market,Filled,-1894.985078106,Warning: No quote information available at 11/08/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-08T16:00:00Z,UTSL,31.057180396,-128,Market,Filled,-3975.319090688,Warning: No quote information available at 11/08/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-09T20:00:00Z,UTSL,31.941972027,126,Market,Filled,4024.688475402,Warning: No quote information available at 11/09/2021 15:00:00 America/New_York, order filled using TradeBar data 
+2021-11-10T17:00:00Z,UTSL,32.240216397,57,Market,Filled,1837.692334629,Warning: No quote information available at 11/10/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-18T16:00:00Z,UTSL,31.991679422,-125,Market,Filled,-3998.95992775,Warning: No quote information available at 11/18/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-19T16:00:00Z,UTSL,32.498694851,123,Market,Filled,3997.339466673,Warning: No quote information available at 11/19/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-11-26T15:00:00Z,UTSL,32.66064154391,-124,Market,Filled,-4049.9195514448,Warning: No quote information available at 11/26/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-11-26T17:00:00Z,UTSL,31.951913506,-57,Market,Filled,-1821.259069842,Warning: No quote information available at 11/26/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-11-29T18:00:00Z,UTSL,33.32095457909,176,Market,Filled,5864.4880059198,Warning: No quote information available at 11/29/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-11-30T16:00:00Z,UTSL,31.941972027,-176,Market,Filled,-5621.787076752,Warning: No quote information available at 11/30/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T17:00:00Z,UTSL,32.429104498,119,Market,Filled,3859.063435262,Warning: No quote information available at 12/01/2021 12:00:00 America/New_York, order filled using TradeBar data 
+2021-12-01T21:00:00Z,UTSL,30.689345673,-119,Market On Open,Filled,-3652.032135087, 
+2021-12-02T15:00:00Z,UTSL,31.5095176905,118,Market,Filled,3718.123087479,Warning: No quote information available at 12/02/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-02T18:00:00Z,UTSL,32.140801607,54,Market,Filled,1735.603286778,Warning: No quote information available at 12/02/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-12-20T15:00:00Z,UTSL,34.9179082754,-172,Market,Filled,-6005.8802233688,Warning: No quote information available at 12/20/2021 10:00:00 America/New_York, order filled using TradeBar data 
+2021-12-21T18:00:00Z,UTSL,37.05,50,Market,Filled,1852.5,Warning: No quote information available at 12/21/2021 13:00:00 America/New_York, order filled using TradeBar data 
+2021-12-22T16:00:00Z,UTSL,36.8026,112,Market,Filled,4121.8912,Warning: No quote information available at 12/22/2021 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-03T16:00:00Z,UTSL,37.97,-162,Market,Filled,-6151.14,Warning: No quote information available at 01/03/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-04T17:00:00Z,UTSL,39.37,156,Market,Filled,6141.72,Warning: No quote information available at 01/04/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-04T21:00:00Z,UTSL,38.17,-107,Market On Open,Filled,-4084.19, 
+2022-01-05T16:00:00Z,UTSL,39.25,104,Market,Filled,4082,Warning: No quote information available at 01/05/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-05T21:00:00Z,UTSL,38.15,-49,Market On Open,Filled,-1869.35, 
+2022-01-06T18:00:00Z,UTSL,37.84,-104,Market,Filled,-3935.36,Warning: No quote information available at 01/06/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-07T19:00:00Z,UTSL,37.865,105,Market,Filled,3975.825,Warning: No quote information available at 01/07/2022 14:00:00 America/New_York, order filled using TradeBar data 
+2022-01-10T17:00:00Z,UTSL,36.6788,-105,Market,Filled,-3851.274,Warning: No quote information available at 01/10/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-13T16:00:00Z,UTSL,37.2288,153,Market,Filled,5696.0064,Warning: No quote information available at 01/13/2022 11:00:00 America/New_York, order filled using TradeBar data 
+2022-01-14T18:00:00Z,UTSL,35.945,-49,Market,Filled,-1761.305,Warning: No quote information available at 01/14/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-14T19:00:00Z,UTSL,35.7812,-104,Market,Filled,-3721.2448,Warning: No quote information available at 01/14/2022 14:00:00 America/New_York, order filled using TradeBar data 
+2022-01-19T17:00:00Z,UTSL,36.24,151,Market,Filled,5472.24,Warning: No quote information available at 01/19/2022 12:00:00 America/New_York, order filled using TradeBar data 
+2022-01-19T21:00:00Z,UTSL,35.58,-48,Market On Open,Filled,-1707.84, 
+2022-01-20T15:00:00Z,UTSL,36.45,47,Market,Filled,1713.15,Warning: No quote information available at 01/20/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-24T15:00:00Z,UTSL,34.315,-150,Market,Filled,-5147.25,Warning: No quote information available at 01/24/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-27T15:00:00Z,UTSL,33.4387,105,Market,Filled,3511.0635,Warning: No quote information available at 01/27/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-28T15:00:00Z,UTSL,31.975,-105,Market,Filled,-3357.375,Warning: No quote information available at 01/28/2022 10:00:00 America/New_York, order filled using TradeBar data 
+2022-01-28T18:00:00Z,UTSL,32.71,105,Market,Filled,3434.55,Warning: No quote information available at 01/28/2022 13:00:00 America/New_York, order filled using TradeBar data 
+2022-01-28T21:00:00Z,UTSL,0,46,Market On Open,Submitted,0, 
